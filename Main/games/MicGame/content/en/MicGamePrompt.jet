@@ -1,0 +1,1131 @@
+{
+ "content": [
+  {
+   "appearance": "EARLY",
+   "id": "109434",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de morder algo que está muy caliente"
+    }
+   ],
+   "videoId": "109433",
+   "videoTitle": "Grave Dig - Hot Food"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109435",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "cómo suena una resaca"
+    }
+   ],
+   "videoId": "109433",
+   "videoTitle": "Grave Dig - Hangover",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109436",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un estornudo que nunca llega"
+    }
+   ],
+   "videoId": "109174",
+   "videoTitle": "Drone Attack - Sneeze"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "109605",
+   "soundsToRecord": [
+    {
+     "prompt": "¡grita una opinión impopular!"
+    }
+   ],
+   "videoId": "109601",
+   "videoTitle": "Megaphone On Cliff - Unpopular Opinion"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "109606",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "grita tu postre favorito"
+    }
+   ],
+   "videoId": "109602",
+   "videoTitle": "Unity Hands - Favorite Dessert"
+  },
+  {
+   "appearance": "LATE",
+   "id": "109608",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido que hace Mario cuando muere"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido que haces al bajar por un tobogán grande"
+    },
+    {
+     "direction": "",
+     "prompt": "alegremente dile a alguien que no puede atraparte"
+    }
+   ],
+   "videoId": "112722",
+   "videoTitle": "Cliff Jumping - Final Round"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109613",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "sonidos que harías durante un buen masaje"
+    }
+   ],
+   "videoId": "109609",
+   "videoTitle": "Corn On The Cob - Good Massage"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "109614",
+   "soundsToRecord": [
+    {
+     "prompt": "explicar una teoría de conspiración que crees muy silenciosamente"
+    }
+   ],
+   "videoId": "109610",
+   "videoTitle": "Christmas Wish - Conspiracy Theory"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109616",
+   "soundsToRecord": [
+    {
+     "prompt": "música que le encantaría a un robot"
+    }
+   ],
+   "videoId": "109612",
+   "videoTitle": "Elderly Radio - Robot Music"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109779",
+   "soundsToRecord": [
+    {
+     "prompt": "danos tu mejor impresión de techno"
+    }
+   ],
+   "videoId": "109612",
+   "videoTitle": "Elderly Radio - Techno"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "109800",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "exclama el nombre de un actor querido"
+    }
+   ],
+   "videoId": "109799",
+   "videoTitle": "Cheers - Actor",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109803",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "la canción de 20th century fox"
+    }
+   ],
+   "videoId": "109796",
+   "videoTitle": "Parade Band - 20th Century Fox"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109819",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido que haces cuando tocas una estufa caliente"
+    }
+   ],
+   "videoId": "112693",
+   "videoTitle": "Tennis Court - Hot Stove"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "109820",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "corea una condición desafortunada"
+    }
+   ],
+   "videoId": "109790",
+   "videoTitle": "Concert Crowd - Condition"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "109821",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "defiéndete de una acusación ridícula"
+    }
+   ],
+   "videoId": "109789",
+   "videoTitle": "No Comment - Defend"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109823",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "Miss Piggy haciendo calentamientos vocales"
+    }
+   ],
+   "videoId": "109787",
+   "videoTitle": "Woman Jamming - Miss Piggy"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "109827",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "algo que gritarías antes de saltar a una piscina"
+    }
+   ],
+   "videoId": "109785",
+   "videoTitle": "Sky Diving Man - Pool"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109926",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "el sonido de un monitor de ritmo cardíaco errático"
+    }
+   ],
+   "videoId": "109784",
+   "videoTitle": "Techno DJ - Heart Monitor"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "109927",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "el sonido de un ganso enfurecido"
+    }
+   ],
+   "videoId": "109784",
+   "videoTitle": "Techno DJ - Enraged Goose"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "110119",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "algo que un juguete de cuerda podría decir"
+    }
+   ],
+   "videoId": "110099",
+   "videoTitle": "Unboxing - Pull String Toy"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111233",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "rompe con alguien lo más rápido posible pero aún así sé amable"
+    }
+   ],
+   "videoId": "109788",
+   "videoTitle": "Voicemail Message - Break Up"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111236",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "un grito de batalla alocado"
+    }
+   ],
+   "videoId": "109790",
+   "videoTitle": "Concert Crowd - Battle Cry"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "111238",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "cómo suena cuando se te cae el teléfono en la cara"
+    }
+   ],
+   "videoId": "112693",
+   "videoTitle": "Tennis Court - Phone On Face"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "111250",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "tu impresión de una de las pequeñas sinfonías tontas de Mozart"
+    }
+   ],
+   "videoId": "109796",
+   "videoTitle": "Parade Band - Mozart"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111251",
+   "soundsToRecord": [
+    {
+     "prompt": "readapta una canción de rap como canción de cuna"
+    }
+   ],
+   "videoId": "111206",
+   "videoTitle": "Music Box - Rap Lullaby"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111252",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "cantando después de haber inhalado mucho helio"
+    }
+   ],
+   "videoId": "111206",
+   "videoTitle": "Music Box - Helium Song"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111258",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "canta el nombre de una tendencia de ropa que realmente odias"
+    }
+   ],
+   "videoId": "111213",
+   "videoTitle": "Big Protest - Clothing Trend"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111260",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "canta una canción que no se te permitía cantar en tu infancia"
+    }
+   ],
+   "videoId": "109795",
+   "videoTitle": "Carolers - Child Song"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111510",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "rememora una fiesta loca a la que fuiste"
+    }
+   ],
+   "videoId": "111324",
+   "videoTitle": "Witness - Party"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111513",
+   "soundsToRecord": [
+    {
+     "prompt": "anuncia una regla que todos tus invitados DEBEN seguir"
+    }
+   ],
+   "videoId": "111317",
+   "videoTitle": "Loudspeakers - House Rule"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "111571",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "carga un rayo láser que te saldrá por la boca"
+    }
+   ],
+   "videoId": "111326",
+   "videoTitle": "Tortoise Fight - Laser Beam"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "111597",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "algunas cosas que podrían aparecer en el historial de búsqueda de un niño de 8 años"
+    }
+   ],
+   "videoId": "111322",
+   "videoTitle": "Clown Typing - Google History"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "111645",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "un canto al estilo de Mariah Carey"
+    }
+   ],
+   "videoId": "111320",
+   "videoTitle": "Volume Down - Mariah Carey"
+  },
+  {
+   "appearance": "LATE",
+   "id": "111999",
+   "soundsToRecord": [
+    {
+     "prompt": "tu mejor impresión de una canción de R&B"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de morder un malvavisco grande"
+    },
+    {
+     "prompt": "algo que no querrías que dijera la persona que te gusta"
+    }
+   ],
+   "videoId": "111756",
+   "videoTitle": "Romantic Night - Final Round"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112033",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "una risa súper molesta"
+    }
+   ],
+   "videoId": "111810",
+   "videoTitle": "Elk Bugling - Annoying Laugh"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112035",
+   "soundsToRecord": [
+    {
+     "prompt": "abre grande para el dentista"
+    }
+   ],
+   "videoId": "111801",
+   "videoTitle": "Blow Drying Hair - Open Wide"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112036",
+   "soundsToRecord": [
+    {
+     "prompt": "el sonido del internet por línea telefónica"
+    }
+   ],
+   "videoId": "111803",
+   "videoTitle": "Digital Finger - Dial Up"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112037",
+   "soundsToRecord": [
+    {
+     "prompt": "el BWAMMM de [i]El origen[/i] ([i]Inception[/i])"
+    }
+   ],
+   "videoId": "111804",
+   "videoTitle": "Noisemaker Family - Inception"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112039",
+   "soundsToRecord": [
+    {
+     "prompt": "el sonido cuando te dan un puñetazo en el estómago"
+    }
+   ],
+   "videoId": "111814",
+   "videoTitle": "Honking Horn - Sucker Punch"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112043",
+   "soundsToRecord": [
+    {
+     "prompt": "un niño haciendo ruidos de rayo láser"
+    }
+   ],
+   "videoId": "111803",
+   "videoTitle": "Digital Finger - Kid Lasers"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112046",
+   "soundsToRecord": [
+    {
+     "prompt": "discúlpate profusamente tantas veces como sea posible"
+    }
+   ],
+   "videoId": "111812",
+   "videoTitle": "Two Fencers - Apology"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112050",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "cómo suenas cuando estás vomitando"
+    }
+   ],
+   "videoId": "111804",
+   "videoTitle": "Noisemaker Family - Vomiting"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112051",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "cómo sonarías si te hicieran cosquillas agresivamente"
+    }
+   ],
+   "videoId": "111814",
+   "videoTitle": "Honking Horn - Tickling"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112058",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un trombón de varas triste"
+    }
+   ],
+   "videoId": "111804",
+   "videoTitle": "Noisemaker Family - Slide Trombone"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112065",
+   "soundsToRecord": [
+    {
+     "prompt": "los sonidos que haces al estirarte por la mañana"
+    }
+   ],
+   "videoId": "111814",
+   "videoTitle": "Honking Horn - Morning Stretch"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112071",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "tu mejor imitación de un delfín"
+    }
+   ],
+   "videoId": "111810",
+   "videoTitle": "Elk Bugling - Dolphin"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112077",
+   "soundsToRecord": [
+    {
+     "prompt": "los gruñidos de un hombre muy viejo jugando al tenis"
+    }
+   ],
+   "videoId": "111811",
+   "videoTitle": "Eavesdropping - Tennis",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112107",
+   "soundsToRecord": [
+    {
+     "prompt": "un gato maullando"
+    }
+   ],
+   "videoId": "111814",
+   "videoTitle": "Honking Horn - Angry Cat"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112240",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "danos tu mejor impresión de una sirena antiaérea"
+    }
+   ],
+   "videoId": "111326",
+   "videoTitle": "Tortoise Fight - Air Raid Siren"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112504",
+   "soundsToRecord": [
+    {
+     "prompt": "nombra algo que los niños no deberían hacer"
+    }
+   ],
+   "videoId": "109293",
+   "videoTitle": "Alarm Clock Man - Kid Don’ts"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112506",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "da malas direcciones a un peatón"
+    },
+    {
+     "direction": "",
+     "prompt": "la canción que escuchas mientras asciendes al cielo"
+    },
+    {
+     "prompt": "gritar tu nombre masculino favorito"
+    }
+   ],
+   "videoId": "111755",
+   "videoTitle": "Football Game - Final Round"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112507",
+   "soundsToRecord": [
+    {
+     "prompt": "canta sin ganas las palabras equivocadas de una canción pop"
+    }
+   ],
+   "videoId": "109294",
+   "videoTitle": "Mystical Girl - Pop Song"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112553",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un auto con frenos muy malos"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "danos tu mejor grito de Tarzán"
+    },
+    {
+     "prompt": "algo que el capitán del Titanic podría haber dicho"
+    }
+   ],
+   "videoId": "112548",
+   "videoTitle": "Bad Flight - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112654",
+   "soundsToRecord": [
+    {
+     "prompt": "quéjate de tu desordenado compañero de habitación"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un juguete chillón"
+    },
+    {
+     "prompt": "algo que podrías decir durante un día realmente malo"
+    }
+   ],
+   "videoId": "112651",
+   "videoTitle": "Courtroom - Final Round"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112662",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "una bocina de barco que se desvanece en la distancia"
+    }
+   ],
+   "videoId": "112624",
+   "videoTitle": "Alien Abduction - Boat Horn"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112669",
+   "soundsToRecord": [
+    {
+     "prompt": "un jefe de la mafia con una voz muy aguda"
+    }
+   ],
+   "videoId": "112615",
+   "videoTitle": "Puppet Businessman - Mob Boss"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112676",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de una brisa que fluye suavemente entre los árboles"
+    },
+    {
+     "prompt": "el sonido de tus pensamientos intrusivos"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un globo desinflándose"
+    }
+   ],
+   "videoId": "112675",
+   "videoTitle": "Meditation - Final Round"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112691",
+   "soundsToRecord": [
+    {
+     "prompt": "cántate feliz cumpleaños como si fueras Frank Sinatra"
+    }
+   ],
+   "videoId": "112610",
+   "videoTitle": "Easter Bunny - Happy Birthday"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112719",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un niño quejándose"
+    },
+    {
+     "prompt": "el sonido del puro asombro"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido del enjuague bucal gorgoteando"
+    }
+   ],
+   "videoId": "112706",
+   "videoTitle": "Look Up - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112720",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "una pelea de amantes en un galimatías"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un golpe de karate"
+    },
+    {
+     "prompt": "algo que dirías después de ver la peor película de la historia"
+    }
+   ],
+   "videoId": "112708",
+   "videoTitle": "Soap Opera - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112721",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de una bocina de auto cursi"
+    },
+    {
+     "prompt": "aclama el nombre de una banda que te gustaba en la secundaria"
+    },
+    {
+     "prompt": "el sonido de la alegría histérica"
+    }
+   ],
+   "videoId": "112707",
+   "videoTitle": "Game Show - Final Round"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112735",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "diferentes bocinas de autos enojados en un atasco de tráfico"
+    }
+   ],
+   "videoId": "112618",
+   "videoTitle": "Bagpipe Player - Car Horns"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112736",
+   "soundsToRecord": [
+    {
+     "prompt": "el sonido de un niño tratando de encontrar a sus padres en un supermercado"
+    }
+   ],
+   "videoId": "112621",
+   "videoTitle": "Head in the Sand - Mom? Dad?"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112774",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "danos tu mejor beatboxing"
+    },
+    {
+     "direction": "",
+     "prompt": "rapea una canción infantil"
+    },
+    {
+     "prompt": "un nombre ridículo para un DJ"
+    }
+   ],
+   "videoId": "112773",
+   "videoTitle": "Rap Studio - Final Round"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112776",
+   "soundsToRecord": [
+    {
+     "prompt": "rechazar algo frenéticamente usando solo la palabra “no”"
+    }
+   ],
+   "videoId": "112624",
+   "videoTitle": "Alien Abduction - No"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "112783",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de alguien que tiene miedo a las alturas subiendo una escalera"
+    }
+   ],
+   "videoId": "112624",
+   "videoTitle": "Alien Abduction - Fear Of Heights"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112784",
+   "soundsToRecord": [
+    {
+     "prompt": "gritándole al amor de tu vida que se aleja"
+    }
+   ],
+   "videoId": "112625",
+   "videoTitle": "Dinosaur Beach - LOML"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112959",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un ringtone viejo"
+    },
+    {
+     "direction": "",
+     "prompt": "el sonido de ver algo que parece delicioso"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un perro mordisqueando un hueso"
+    }
+   ],
+   "videoId": "112958",
+   "videoTitle": "Wings - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112963",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un auto de carreras pasando a toda velocidad"
+    },
+    {
+     "prompt": "algo que un vampiro sediento podría decir"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el grito más diminuto de todos"
+    }
+   ],
+   "videoId": "112960",
+   "videoTitle": "Itch - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112964",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de una puerta chirriante"
+    },
+    {
+     "prompt": "una afirmación de amor propio"
+    },
+    {
+     "prompt": "el sonido de alguien tratando de levantar un autobús"
+    }
+   ],
+   "videoId": "112961",
+   "videoTitle": "Workout - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "112965",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el golpeteo de pies diminutos"
+    },
+    {
+     "prompt": "di tu pedido de comida rápida favorito en un susurro sexy"
+    },
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de una respuesta incorrecta en un programa de juegos"
+    }
+   ],
+   "videoId": "112962",
+   "videoTitle": "ASMR - Final Round"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113002",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "sollozos fuertes con la boca abierta"
+    }
+   ],
+   "videoId": "112625",
+   "videoTitle": "Dinosaur Beach - Sobbing"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113007",
+   "soundsToRecord": [
+    {
+     "prompt": "grita una palabra con la que llamarías a alguien cuando no recuerdas su nombre"
+    }
+   ],
+   "videoId": "112627",
+   "videoTitle": "Surprise Party - Name"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113014",
+   "soundsToRecord": [
+    {
+     "prompt": "di una onomatopeya con la voz más monótona de todas"
+    }
+   ],
+   "videoId": "111814",
+   "videoTitle": "Honking Horn - Onomatopoeia"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113015",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un pterodáctilo chillón"
+    }
+   ],
+   "videoId": "111815",
+   "videoTitle": "Movie Couple - Pterodactyl"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113016",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido de un lobo comiéndose a un tipo"
+    }
+   ],
+   "videoId": "111815",
+   "videoTitle": "Movie Couple - Werewolf"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113104",
+   "soundsToRecord": [
+    {
+     "prompt": "declara tu pedido de café como si fueras un héroe de acción"
+    }
+   ],
+   "videoId": "113047",
+   "videoTitle": "Medieval Knight - Coffee"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113219",
+   "soundsToRecord": [
+    {
+     "prompt": "ten pánico por estar en la oscuridad"
+    }
+   ],
+   "videoId": "113047",
+   "videoTitle": "Medieval Knight - Dark Panic"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113226",
+   "soundsToRecord": [
+    {
+     "prompt": "infórmale a alguien que te has hecho caca encima de la manera más profesional posible"
+    }
+   ],
+   "videoId": "113036",
+   "videoTitle": "Monkey Business - Professional Confession"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113240",
+   "soundsToRecord": [
+    {
+     "prompt": "grita alegremente tu palabrota favorita"
+    }
+   ],
+   "videoId": "109602",
+   "videoTitle": "Unity Hands - Swear Word",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "id": "113292",
+   "soundsToRecord": [
+    {
+     "prompt": "el goteo de una antigua fuente de agua"
+    },
+    {
+     "prompt": "decirle a alguien que espere"
+    },
+    {
+     "prompt": "corea una palabra relacionada con los negocios"
+    }
+   ],
+   "videoId": "113291",
+   "videoTitle": "Clone Lab - Final Round"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113453",
+   "soundsToRecord": [
+    {
+     "prompt": "varios uuuhs y ahhhhhs"
+    }
+   ],
+   "videoId": "113179",
+   "videoTitle": "Ghost Guy - Ooh Ahh"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113454",
+   "soundsToRecord": [
+    {
+     "prompt": "informa severamente a un teleoperador que tú estás en la lista de NO LLAMAR"
+    }
+   ],
+   "videoId": "113036",
+   "videoTitle": "Monkey Business - Telemarketer"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113457",
+   "soundsToRecord": [
+    {
+     "prompt": "el sonido de liberar la frustración acumulada"
+    }
+   ],
+   "videoId": "112621",
+   "videoTitle": "Head In The Sand - Frustration"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113901",
+   "soundsToRecord": [
+    {
+     "direction": "¡no uses palabras!",
+     "prompt": "el sonido que harías si alguien te tocara muy fuerte"
+    }
+   ],
+   "videoId": "113042",
+   "videoTitle": "Slime Fingers - Poke"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113921",
+   "soundsToRecord": [
+    {
+     "prompt": "canta tu bocadillo nocturno favorito"
+    }
+   ],
+   "videoId": "111207",
+   "videoTitle": "Gospel Choir - Late Night Snack"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113930",
+   "soundsToRecord": [
+    {
+     "prompt": "el \"yeah boy\" más largo de la historia"
+    }
+   ],
+   "videoId": "109601",
+   "videoTitle": "Megaphone On Cliff - YEA BOI"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "114364",
+   "soundsToRecord": [
+    {
+     "prompt": "suelta una serie de insultos"
+    }
+   ],
+   "videoId": "109797",
+   "videoTitle": "Musical Card - Insults"
+  }
+ ]
+}
