@@ -1,0 +1,652 @@
+{
+ "content": [
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112520",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que sea más sexy!",
+   "weights": "DEFAULT",
+   "x": true
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112522",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que sea más linda!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112524",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Que sea más triste.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112525",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Pónganle unos pantalones!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112527",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Qué sea más pescado!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "112529",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea demasiaaaado tierna!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114023",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que sea más peligrosa!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114024",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea patriota!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114026",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea más negociera!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114027",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea más espiritual!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114028",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que se sienta FIERA!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114030",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que se convierta en \"Arte Importante\"!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114031",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea súper minimalista!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114032",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Que sea más... boca-sa.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114033",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea mucho más obscena.",
+   "weights": "DEFAULT",
+   "x": true
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114034",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea más internacional!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114036",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea más ciencia ficción!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114037",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que verla sea MUCHO peor!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114039",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que sea más \"padre\"!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114040",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea más francesa!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114041",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que sea mucho más genial!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114042",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea una publicidad para algo!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114043",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡¡Que dé MÁS MIEDO!!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114044",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Haz que sea más vomitiva!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114045",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Vístela para Coachella!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114056",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea más \"anime\"!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114057",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más \"edgy\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114060",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más \"histórica\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114061",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más \"payasesca\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114062",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "QUE TENGA MÁS TRASEROS.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114063",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea mucho más \"irrespetuosa\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114064",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que cumpla con todas las reglas laborales!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114067",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más \"normal\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114068",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea mucho más británica!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114072",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Qué sea muchísimo más rara!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114073",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Que sea LO OPUESTO a lo que es ahora mismo.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114074",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Haz que sea súúúúúúúper alucinógena.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114075",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Que sea más \"hecho usando IA\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114077",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Que sea más festiva!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114262",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea un 50% más \"divertida\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114263",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Haz que tenga más actitud!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114266",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que transmita la vibra de que \"las cosas se nos fueron de las manos\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114268",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que tenga vibras de \"tío copado\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114274",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Prepárala para una opulente salida nocturna!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114276",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que sea más científica!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114296",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Hazla más \"romántica\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114300",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más \"para adolescentes\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114302",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Haz que esté muy, muy enferma.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114305",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "¡Haz que sea más MACHO!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114314",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea mucho más náutica.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114315",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más \"no apta para niños\".",
+   "weights": "DEFAULT",
+   "x": true
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114320",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más \"espacio exterior\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114331",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que sea más ELEGANTE!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114337",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Que sea más tropical!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114339",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Que sea más \"ejecutivo informal\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114353",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más atractiva para las chicas que le gustan los caballos.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114356",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Haz que le llegue la pubertad.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114357",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "¡Hazla más australiana!",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114362",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Hazla más atractiva para los nerds.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114366",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Hazla más trágica.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114387",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Hazla más... intimidante.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114388",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea más \"listo para conocer a tus padres\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114389",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que esté mejor preparada para un concurso de belleza.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114390",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Hazla su \"versión barata\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114391",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Hazla más \"inspiradora\".",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114392",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Que sea la versión de si misma de un universo paralelo.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114393",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "starterContent": false,
+   "text": "Que sea más acerca de enseñar una valiosa lección.",
+   "weights": "DEFAULT"
+  },
+  {
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114394",
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "text": "Que sea mucho más snob.",
+   "weights": "DEFAULT"
+  }
+ ]
+}
