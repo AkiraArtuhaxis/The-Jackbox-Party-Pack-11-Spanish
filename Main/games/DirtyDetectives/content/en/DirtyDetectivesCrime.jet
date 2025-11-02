@@ -1,0 +1,1155 @@
+{
+ "content": [
+  {
+   "choices": [
+    "Rodillo",
+    "Trofeo",
+    "Bloque de hielo",
+    "Hacha",
+    "Saxofón",
+    "Tijeras de inauguración"
+   ],
+   "crime": {
+    "description": "Golpeó con {{SELECTION}} a alguien",
+    "offense": "GOLPIZA",
+    "summary": "GOLPEÓ C/ {{SELECTION}}",
+    "title": [
+     "Toc toc, ¿quién murió?",
+     "Ba-da bing, ba-da bum, ba-da bye-bye",
+     "Cabeceando de lleno",
+     "Lluvia de hamburguesas (y cosas más pesadas)",
+     "Qué le depara al futuro de tu cabeza"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112196",
+   "question": "¿Qué tendría el porte más satisfactorio para golpear a alguien en la cabeza?",
+   "starterContent": false
+  },
+  {
+   "choices": [
+    "Pinturas",
+    "Esculturas",
+    "Huevos con joyas",
+    "Armas",
+    "Dinosaurios",
+    "Sarcófagos",
+    "Miniaturas"
+   ],
+   "crime": {
+    "description": "De {{SELECTION}} raros del museo",
+    "offense": "ROBO",
+    "summary": "ROBÓ DEL MUSEO: {{SELECTION}}",
+    "title": [
+     "Ahora museo, ahora no más eso",
+     "Salga por la tienda de robos",
+     "Crimen sin cargo el primer miércoles de cada mes",
+     "Tesoros atemporales, placeres robables",
+     "Por favor no se lleve lo exhibido"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112197",
+   "question": "Cuando vaya a robar – digo, visitar – un museo, iría directo a...",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Aplanadora",
+    "Camión de helados",
+    "Pulidora de hielo",
+    "Una Amarok",
+    "Carrito de golf",
+    "Salchicha-móvil",
+    "Camión de tacos"
+   ],
+   "crime": {
+    "description": "Siniestro vehicular con {{SELECTION}}",
+    "offense": "ASESINATO",
+    "summary": "GOLPEÓ A VÍCTIMA CON: {{SELECTION}}",
+    "title": [
+     "Mira a ambos lados antes de matar",
+     "Asesinato a más de 100 kilómetros por hora",
+     "Vamos de paseo... a Villa Asesinato",
+     "Rápidos y asesinos"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112198",
+   "question": "Si [i]fueras[/i] a atropellar a alguien, ¿qué vehículo usarías?",
+   "starterContent": true,
+   "x": false
+  },
+  {
+   "choices": [
+    "Pavo real",
+    "Lémur",
+    "Tarántula",
+    "Hipopótamo pigmeo",
+    "Koala",
+    "Monstruo de Gila"
+   ],
+   "crime": {
+    "description": "De {{SELECTION}} del zoológico",
+    "offense": "HURTO",
+    "summary": "SECUESTRO ANIMAL: {{SELECTION}}",
+    "title": [
+     "Por favor no alimente a los ladrones",
+     "Soy un ladronzuelo del zoológico, mas no pecezuelo",
+     "Si un jabalí te ve robando, reza para que no chille",
+     "El descuento de garra limpia"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112199",
+   "question": "Tienes lugar en tu abrigo para UN animal del zoológico. ¿Cuál te llevas?"
+  },
+  {
+   "choices": [
+    "Tubo de plomo",
+    "Bate de béisbol",
+    "Palo de golf",
+    "Remo",
+    "Piedra grande",
+    "Martillo",
+    "Pesa rusa"
+   ],
+   "crime": {
+    "description": "Golpeó a alguien con un(a) {{SELECTION}}",
+    "offense": "GOLPIZA",
+    "summary": "GOLPEADO CON: {{SELECTION}}",
+    "title": [
+     "Golpeando con lo que hay a mano",
+     "Piedra, paliza o taladro",
+     "Cuerpos y escaleras"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112200",
+   "question": "Solo por curiosidad, ¿cuál de los siguientes objetos contundentes tienes en tu casa?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "El Louvre",
+    "La Casa Blanca",
+    "El Área 51",
+    "La Torre de Londres",
+    "El Gran Colisionador de Hadrones",
+    "El Banco Mundial de Semillas de Svalbard",
+    "El Vaticano"
+   ],
+   "crime": {
+    "description": "Robó en el lugar objetivo, {{SELECTION}}",
+    "offense": "ROBO",
+    "summary": "ROBÓ EN: {{SELECTION}}",
+    "title": [
+     "Choreao y vaciao",
+     "Lo tuyo es mío... eventualmente",
+     "No puedo poner mi dedo, porque me lo quedo",
+     "Descuentos criminales"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112201",
+   "question": "¿Cuál de estos lugares contiene las cosas que quisieras robar MÁS?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Shrek",
+    "Shrek 2",
+    "Shrek tercero",
+    "Shrek para siempre",
+    "El Gato con Botas",
+    "Gato con Botas: el último deseo",
+    "Coyote Ugly"
+   ],
+   "crime": {
+    "description": "Descarga ilegal de {{SELECTION}}",
+    "offense": "PIRATERÍA DIGITAL",
+    "summary": "DESCARGÓ: {{SELECTION}}",
+    "title": [
+     "Los crímenes tienen capas",
+     "Si AMC me estuviera viendo",
+     "Guárdame el asiento... en la cárcel"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112202",
+   "question": "¿Cuál de las siguientes películas es más probable que descargues ilegalmente?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Los Corleone",
+    "El Clan del Pie",
+    "Los Pollos Hermanos",
+    "El Equipo Rocket",
+    "Los Soprano",
+    "Los once de Ocean"
+   ],
+   "crime": {
+    "description": "Junto a su familia criminal preferida, {{SELECTION}}",
+    "offense": "CRIMEN ORGANIZADO",
+    "summary": "ORGANIZACIÓN CRIMINAL: {{SELECTION}}",
+    "title": [
+     "De tal palo, tal pandilla",
+     "Esto no estaba en la descripción del saqueo",
+     "Si pudiera devolver el crimen organizado"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112203",
+   "question": "¿Cuál de las siguientes organizaciones criminales te sienta mejor?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Piano de cola",
+    "Tesla Cybertruck",
+    "Caja fuerte",
+    "Máquina de pinball",
+    "Bala de cañón",
+    "Yunque de ACME",
+    "Ataúd",
+    "Cama matrimonial"
+   ],
+   "crime": {
+    "description": "Aplastó a la víctima con un(a) {{SELECTION}} aéreo/a",
+    "offense": "APLASTAMIENTO",
+    "summary": "APLASTADO POR: {{SELECTION}}",
+    "title": [
+     "La gravedad del asunto",
+     "Un crimen de gran altura",
+     "Todo lo que sube tiene que bajar"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112204",
+   "question": "¿Cuál de estas cosas sería [i]la más[/i] satisfactoria para tirarle encima a alguien?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "La torre Eiffel",
+    "Un crucero",
+    "El monte Éverest",
+    "La Pirámide de Egipto",
+    "Una Nave Espacial",
+    "Presa Hoover",
+    "Escaleras del quinto piso"
+   ],
+   "crime": {
+    "description": "Medio que empujó a la víctima desde {{SELECTION}}",
+    "offense": "HOMICIDIO CON ALTURA",
+    "summary": "EMPUJADO DE: {{SELECTION}}",
+    "title": [
+     "Activa las notificaciones... de asesinatos",
+     "¡Puedo ver mi prematuro final desde aquí!",
+     "Leyendas De Caerse",
+     "Eres demasiado altanero",
+     "Empújalo bien muerto",
+     "Esta noche es para matar"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112205",
+   "question": "Termina esta frase: \"Me gustaría [i]más[/i] tirar a alguien de...\"",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Escorpión",
+    "Rana venenosa",
+    "Cobra",
+    "Viuda negra",
+    "Caballo armado",
+    "Medusa"
+   ],
+   "crime": {
+    "description": "Asesinato mediante irascible {{SELECTION}}",
+    "offense": "ATAQUE ANIMAL",
+    "summary": "ATAQUE ANIMAL: {{SELECTION}}",
+    "title": [
+     "El ciclo de la vida...y la muerte",
+     "Firulais traiciona a Michi",
+     "¿Quién está en peligro de extinción ahora?",
+     "Narra esto, vegano",
+     "Dile hola a mi pequeña fauna",
+     "Sss sss, bang bang"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112206",
+   "question": "Si fueras un asesino, ¿qué animal mortal usarías para acabar con tu enemigo?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Fábrica de fuegos artificiales",
+    "Parque acuático",
+    "Fábrica de brillantina",
+    "McDonald's",
+    "Mansión gótica",
+    "Tienda de lentes de sol"
+   ],
+   "crime": {
+    "description": "Decidió prender un(a) {{SELECTION}} en llamas",
+    "offense": "INCENDIO INTENCIONADO",
+    "summary": "INCENDIÓ: {{SELECTION}}",
+    "title": [
+     "Pequeños incendios por todas partes",
+     "Viendo una llama apagada, y muchas otras nuevas",
+     "Incendio alrededor, ojos feliz",
+     "No es el fuego, es la culpa la que quema",
+     "Conociste a tu fuego interior"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112207",
+   "question": "¿Cuál de estos espacios (desalojados) te gustaría más prender fuego?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Una frase",
+    "Un número de teléfono",
+    "Un chisme",
+    "Una imagen obscena",
+    "Una confesión",
+    "Una pregunta de encuesta"
+   ],
+   "crime": {
+    "description": "Eligió dibujar {{SELECTION}} en la pared del baño",
+    "offense": "VANDALISMO",
+    "summary": "GRAFITI: {{SELECTION}}",
+    "title": [
+     "Para Pasar el Rato, Llama al 911",
+     "El mensaje está en el baño",
+     "La justicia siempre tiene la última palabra",
+     "El crimen no se diseña en Canva",
+     "A mí me pinta si te pinta",
+     "Un crimen indeleble"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112208",
+   "question": "Oh mira, un marcador Sharpie y una pared de baño intacta. ¿Qué le vas a añadir?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "120 kph",
+    "140 kph",
+    "190 kph",
+    "240 kph",
+    "320 kph"
+   ],
+   "countrySpecific": true,
+   "crime": {
+    "description": "Con el récord del criminal, {{SELECTION}}",
+    "offense": "EXCESO DE VELOCIDAD",
+    "summary": "EXCESO DE VELOCIDAD: {{SELECTION}}",
+    "title": [
+     "La vida se pasa volando... en la cárcel",
+     "La policía en el retrovisor",
+     "Especial del día: Caparazón azul",
+     "Pero oficial, las apps ilimitadas se acaban a las 7",
+     "A la cárcel en tiempo récord",
+     "Escapando del depósito de autos"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112209",
+   "question": "Redondeando al KPH más cercano, ¿cuál es la velocidad no aérea más rápida que hayas alcanzado?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Malversación de fondos",
+    "Falsificación",
+    "Robo en propiedad",
+    "Traición a la patria",
+    "Fraude por correo",
+    "Cibercrimen"
+   ],
+   "crime": {
+    "description": "¡Como crimen preferido para proteger a su familia!",
+    "offense": "{{SELECTION}}",
+    "summary": "{{SELECTION}} PARA PROTEGER SU FAMILIA",
+    "title": [
+     "La sangre nos une, literalmente",
+     "En el árbol genealógico hay manzanas podridas",
+     "Por mi árbol familiar, rompo las ramas",
+     "De tal cuchillo tal astilla"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112210",
+   "question": "Si tuvieras que cometer un crimen para proteger a tu familia, ¿qué te sentirías más cómodo haciendo?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Operario de demoledora",
+    "Crianza de chinchillas",
+    "Pilotaje de helicóptero",
+    "Maquillaje funerario",
+    "Operario de grúa",
+    "Soldadura subacuática"
+   ],
+   "crime": {
+    "description": "¡Sin licencia!",
+    "offense": "{{SELECTION}}",
+    "summary": "{{SELECTION}} SIN LICENCIA",
+    "title": [
+     "Certificadamente criminal",
+     "Sin licencia ni registro, por favor",
+     "Pero oficial, me miré un tutorial de YouTube",
+     "Soy un criminal que “aprende sobre la marcha”",
+     "El Diablo No Tiene Tiempo Para Papeleo"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112211",
+   "question": "¿Cuál de estos estarías dispuesto a probar, aún sin contar con una licencia?"
+  },
+  {
+   "choices": [
+    "Traspaso de propiedad",
+    "Falsificación",
+    "Robo de identidad",
+    "Detonación",
+    "Robo de vehículo"
+   ],
+   "crime": {
+    "description": "Como rol preferido de alguien en un robo",
+    "offense": "{{SELECTION}}",
+    "summary": "ROL EN EL ROBO: {{SELECTION}}",
+    "title": [
+     "Un último Bajo Trabajo",
+     "Los (4-8 jugadores) de Ocean",
+     "Juntos, robaremos hasta la luna",
+     "Mamá, no me llames en pleno robo"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112212",
+   "question": "Hora de repartirse los papeles para el gran robo. ¿Qué quieres hacer?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Shakira",
+    "Lady Gaga",
+    "Paul McCartney",
+    "Jennifer Coolidge",
+    "Rihanna",
+    "La Roca",
+    "RuPaul",
+    "Beyoncé"
+   ],
+   "crime": {
+    "description": "Suplantación descarada de la identidad del objetivo, {{SELECTION}}",
+    "offense": "ROBO DE IDENTIDAD",
+    "summary": "SE HIZO PASAR DE: {{SELECTION}}",
+    "title": [
+     "Somos quienes robamos",
+     "¡Qué bello es vivir (la vida de otro)!",
+     "Misión impostor-ible",
+     "Me encanta tu nueva identidad, ¿dónde la conseguiste?"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112213",
+   "question": "¿De qué figura pública crees que puedes hacer una imitación medianamente decente?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Aguarrás",
+    "Lavandina",
+    "Removedor de esmalte",
+    "Repelente para insectos",
+    "Barniz",
+    "Anticongelante",
+    "Destapacaños"
+   ],
+   "crime": {
+    "description": "Intoxicó a la víctima con la opción más a su alcance, {{SELECTION}}",
+    "offense": "ENVENENAMIENTO",
+    "summary": "VENENO: {{SELECTION}}",
+    "title": [
+     "¿No te parece que esto tiene un gusto raro?",
+     "Fin de una relación tóxica",
+     "Para ti, de parte del asesino al final de la barra",
+     "Choque contra el cianuro",
+     "Parece que ya pasó tu fecha de vencimiento"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112214",
+   "question": "¿Qué líquido peligroso podrías obtener más fácilmente?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Carámbano de hielo",
+    "Aguja para tejer",
+    "Lima de uñas",
+    "Navaja suiza",
+    "Abrecartas",
+    "Afeitadora",
+    "Hoja de tijera"
+   ],
+   "crime": {
+    "description": "Usando {{SELECTION}} de filo poco realista",
+    "offense": "APUÑALAMIENTO",
+    "summary": "APUÑALADO CON: {{SELECTION}}",
+    "title": [
+     "Baja ante la navaja",
+     "Filo da Punta",
+     "Dando puntada sin hilo",
+     "Corta en ambos lados (mentira, solo en el tuyo)"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112215",
+   "question": "¿Cuál de estos objetos afilados usarías con fines diabólicos?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Auto de confianza",
+    "Jet privado",
+    "Globo de aire caliente",
+    "Auto deportivo",
+    "Motocicleta",
+    "Jet ski",
+    "Moto de nieve"
+   ],
+   "crime": {
+    "description": "El vehículo elegido por el criminal: {{SELECTION}}",
+    "offense": "ROBO",
+    "summary": "ROBÓ {{SELECTION}}",
+    "title": [
+     "Voy adelante, con la justicia",
+     "Bajo la influencia del volante",
+     "¿Para qué caminar si se puede robar?",
+     "Nada como el olor a “vehículo recien robado”"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112216",
+   "question": "¿Qué vehículo preferirías robar?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Tienda de elementos deportivos",
+    "Ferretería",
+    "Juguetería",
+    "Tienda de discos",
+    "Tienda de electrónica",
+    "Tienda de ropa",
+    "Tienda de utensilios de cocina"
+   ],
+   "crime": {
+    "description": "De su objetivo preferido, una {{SELECTION}}",
+    "offense": "HURTO MENOR",
+    "summary": "ROBÓ EN: {{SELECTION}}",
+    "title": [
+     "100% de descuento y ni la tienda lo sabe",
+     "Ladrón de corazones y sí, bueno, algo de dinero",
+     "2x0 en mi tienda preferida",
+     "Les gusta que les roben"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112217",
+   "question": "Si supieras que nunca te atraparían, ¿en qué tienda robarías?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Confites de chocolate",
+    "Mentitas de chocolate",
+    "Gomitas de pececitos",
+    "Caramelos ácidos",
+    "Barras de chocolate",
+    "Caramelos de canela"
+   ],
+   "crime": {
+    "description": "Whisky ilegalmente elaborado con gusto a {{SELECTION}}",
+    "offense": "PRODUCCIÓN ILEGAL",
+    "summary": "GUSTO ILEGAL: {{SELECTION}}",
+    "title": [
+     "Preparé esto en la bañera",
+     "Mi tequila te liquida",
+     "Ni ilegalmente se lo puede llamar bebida",
+     "Funciona como destapacaños"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112218",
+   "question": "¿Cuál de estos harían el mejor licor destilado?",
+   "starterContent": true,
+   "x": true
+  },
+  {
+   "choices": [
+    "Chester Cheetos",
+    "Tony el tigre",
+    "Bugs Bunny",
+    "Arenita Mejillas",
+    "El Gato con Botas",
+    "Brian Griffin"
+   ],
+   "crime": {
+    "description": "Molió a golpes a su objetivo, {{SELECTION}}",
+    "offense": "ABUSO ANIMAL",
+    "summary": "LE PATEÓ EL TRASERO A {{SELECTION}}",
+    "title": [
+     "Fanático del control animal",
+     "Reanimación en la granja",
+     "Combate en el reino animal",
+     "Peligro a treinta fotogramas por segundo",
+     "Manchas de tinta, conozcan a mis puños",
+     "Estirar, aplastar, golpear y gritar"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112219",
+   "question": "¿A qué animal animado crees que le puedes dar pelea?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Tigre",
+    "León",
+    "Leopardo",
+    "Jaguar",
+    "Chita",
+    "Leopardo de las nieves"
+   ],
+   "crime": {
+    "description": "Se robó un exótico {{SELECTION}}",
+    "offense": "ROBO DE GATO",
+    "summary": "GATO ROBADO: {{SELECTION}}",
+    "title": [
+     "A los arañazos",
+     "Entreguen lo que tengan, ya miau-smo",
+     "Mish mish mish, mata aquí"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112220",
+   "question": "¿Cuál de estos hermosos y enormes gatitos te gustaría tener de mascota?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Speedy el topo",
+    "Zippo el roedor",
+    "Don Cobayo Rayo",
+    "Carlitos Agilidad",
+    "Azul Pinchos",
+    "Allard Niekamp"
+   ],
+   "crime": {
+    "description": "Vendiendo camisetas de Sonic que dicen “{{SELECTION}}”",
+    "offense": "ROBO DE PROPIEDAD INTELECTUAL",
+    "summary": "SONIC ROBADO: {{SELECTION}}",
+    "title": [
+     "\"El coleccionista de aros plateados\""
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112221",
+   "question": "De estas opciones, ¿qué nombre alternativo para Sonic el erizo crees que evitaría que nos demanden?",
+   "starterContent": false
+  },
+  {
+   "choices": [
+    "[i]El secreto[/i]",
+    "[i]Todos hacemos caca[/i]",
+    "[i]Ana la de Tejas Verdes[/i]",
+    "[i]La oruga muy hambrienta[/i]",
+    "[i]Alas de sangre[/i]",
+    "[i]El alquimista[/i]",
+    "[i]Marley y yo[/i]"
+   ],
+   "crime": {
+    "description": "Se llevó el crédito de escribir {{SELECTION}}",
+    "offense": "PLAGIO",
+    "summary": "PLAGIÓ: {{SELECTION}}",
+    "title": [
+     "La escritora del crimen",
+     "Me sacó las palabras de la boca",
+     "Tus palabras, no las mías",
+     "No fue robo, es un pseudónimo",
+     "Robando libros y vidas",
+     "Falso autor del libro, verdadero autor del crimen"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112222",
+   "question": "Vas a tratar de convencer a alguien ingenuo de que escribiste un libro. ¿Cuál tiene más chances de funcionar?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Robarle a multimillonarios",
+    "Exponer la corrupción",
+    "Destruir las redes sociales",
+    "Detener a quienes contaminan",
+    "Obtener secretos de estado",
+    "Hacer cyberbullying a su némesis"
+   ],
+   "crime": {
+    "description": "Hackeó la web para {{SELECTION}}",
+    "offense": "CIBERCRIMEN",
+    "summary": "OBJETIVO DE HACKS: {{SELECTION}}",
+    "title": [
+     "No hay firewall para tu corazón",
+     "CAPTCHA-s mi atención",
+     "El código para la alegría",
+     "Sé lo que haces en tu computadora, niño",
+     "Teclado a la cabeza"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112223",
+   "question": "Imagina que eres el mejor hacker del mundo. ¿Qué haces con tu talento?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Un banco de alimentos",
+    "Un refugio animal",
+    "Escuelas públicas",
+    "La iglesia",
+    "Parientes",
+    "Museos privados",
+    "Investigaciones científicas",
+    "Nadie"
+   ],
+   "crime": {
+    "description": "Robó dinero de los ricos para darselo a {{SELECTION}}",
+    "offense": "ROBO",
+    "summary": "ROBÓ DINERO PARA: {{SELECTION}}",
+    "title": [
+     "Ladrones felices y finales terribles",
+     "Robo justiciero",
+     "Hombres de negligencia"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112224",
+   "question": "Estás en una situación estilo Robin Hood, ¡y le robaste un montón de dinero a los ricos! ¿A quién o quiénes se lo entregarás?",
+   "starterContent": false
+  },
+  {
+   "choices": [
+    "Un estadio",
+    "Una heladería",
+    "Una tienda de mascotas",
+    "Un banco",
+    "Un parque de diversiones",
+    "Un arcade",
+    "Un centro comercial abandonado"
+   ],
+   "crime": {
+    "description": "El criminal eligió escabullirse dentro de {{SELECTION}}",
+    "offense": "INVASIÓN DE PROPIEDAD PRIVADA",
+    "summary": "ENTRÓ SIN PERMISO A: {{SELECTION}}",
+    "title": [
+     "¿¡Que haces aquí Fred!?",
+     "Déjenme pasar",
+     "Estoy listo para mi primer plano, Sr. Cámara de Seguridad",
+     "La puerta giratoria de la justicia",
+     "“Lo sentimos, está cerrado” es mi chamuyo preferido"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112225",
+   "question": "¿Cuál sería el mejor edificio para escabullirse cuando está cerrado?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Concierto",
+    "Evento deportivo",
+    "Marcha política",
+    "Grabación de reality show",
+    "Cita romántica",
+    "Evento familiar",
+    "Salida de compras"
+   ],
+   "crime": {
+    "description": "Faltó a la escuela por un(a) {{SELECTION}}",
+    "offense": "AUSENTISMO",
+    "summary": "FALTÓ A LA ESCUELA POR: {{SELECTION}}",
+    "title": [
+     "El asesino, a dirección",
+     "Escapada hacia el más allá",
+     "La A es de ausencia",
+     "Nada más cómodo que una mini-falta",
+     "El faltazo es un planazo"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112226",
+   "question": "Cuando eras estudiante, ¿por cuál de los siguientes DEFINITIVAMENTE faltarías a clase?",
+   "starterContent": true,
+   "x": false
+  },
+  {
+   "choices": [
+    "Tuppers",
+    "Alquileres compartidos",
+    "Cuchillos de cocina",
+    "Clases de improvisación",
+    "Ropa deportiva",
+    "Productos de skincare"
+   ],
+   "crime": {
+    "description": "Manejado en base a su producto predilecto, {{SELECTION}}",
+    "offense": "ESQUEMA PIRAMIDAL",
+    "summary": "ESQUEMA PIRAMIDAL: {{SELECTION}}",
+    "title": [
+     "Fraude soñado y caviar robado",
+     "“¿Te gustaría ser tu propio jefe?”",
+     "El estofado del estafado",
+     "Las estafas piramidales vienen de los aliens",
+     "Tejiendo la estafa"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112227",
+   "question": "Si estuvieras manejando una estafa piramidal, ¿qué crees que serías mejor vendiendo?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Drag Race",
+    "Marvel",
+    "Harry Potter",
+    "Star Wars",
+    "Star Trek",
+    "Pokémon"
+   ],
+   "crime": {
+    "description": "Acabó con el universo de {{SELECTION}}, para siempre",
+    "offense": "ASESINATO DE FRANQUICIA",
+    "summary": "Mató la franquicia {{SELECTION}}",
+    "title": [
+     "Bienvenido al Universo Cinematográfico de Matar",
+     "Precuelas y secuelas que quedarán sin resolver",
+     "Próximamente fuera de los cines",
+     "¿Tu vida? Cancelada",
+     "Fandom letalmente tóxico"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112228",
+   "question": "¿Qué franquicia quisieras que termine para siempre, sin nunca más nada añadido?"
+  },
+  {
+   "choices": [
+    "Perrito",
+    "Pitufo",
+    "Perico",
+    "Porg",
+    "Cisne",
+    "Aspirador robot"
+   ],
+   "crime": {
+    "description": "¡Un pobre e indefenso {{SELECTION}}!",
+    "offense": "¡PATEAR!",
+    "summary": "PATEÓ UN: {{SELECTION}}",
+    "title": [
+     "Me tienen pataleando",
+     "Estos zapatos están que matan",
+     "Estoy (letalmente) hasta las patas por ti",
+     "Merecido por pata sucia",
+     "Pateando los pagos",
+     "Este cerdito hizo su casa A LAS PATADAS"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112229",
+   "question": "Si [i]tuvieras[/i] que patear a alguno de ellos, ¿a quién sería?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "[i]Casino Royale[/i]",
+    "[i]El juego del miedo[/i]",
+    "[i]Midsommar[/i]",
+    "[i]Clue[/i]",
+    "[i]Psicosis[/i]",
+    "[i]Hannibal[/i]",
+    "[i]El padrino[/i]"
+   ],
+   "crime": {
+    "description": "En el estilo de la película {{SELECTION}}",
+    "offense": "ASESINATO DE PELÍCULA",
+    "summary": "ASESINATO EN EL ESTILO DE: {{SELECTION}}",
+    "title": [
+     "Vayamos al candy bar... a matar",
+     "Luces, cámara, muerte",
+     "Ni un muerto en la sala",
+     "Nos hemos reunido aquí para matar",
+     "Clasificación ‘A’ por Asesinato"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112230",
+   "question": "Te gustaría rendir homenaje a una película en tu propio crimen. ¿Cuál será?",
+   "x": false
+  },
+  {
+   "choices": [
+    "Abejas",
+    "Una piedra",
+    "Caña",
+    "Aceites esenciales",
+    "Corales",
+    "Un carámbano de hielo",
+    "Arenas movedizas",
+    "Un oso"
+   ],
+   "crime": {
+    "description": "Homicidio sustentable, usando solo {{SELECTION}}",
+    "offense": "ECO-ASESINATO",
+    "summary": "ASESINATO NATURAL VÍA: {{SELECTION}}",
+    "title": [
+     "Madre Tierra... conoce al Padre Muerte",
+     "Sigan las huellas de carbono",
+     "El asesinato más biodegradable",
+     "De la granja a tu mesa a la tumba",
+     "Fruto de la venganza"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112231",
+   "question": "Supón que prometes [i]solo[/i] cometer asesinatos usando materiales naturales. ¿Cuál de estos utilizarías?"
+  },
+  {
+   "choices": [
+    "Espada",
+    "Halcón",
+    "Aguamiel envenenada",
+    "Lanza de justa",
+    "Pata de pollo",
+    "Maza",
+    "Herradura",
+    "Arco y flecha"
+   ],
+   "crime": {
+    "description": "Cometido con {{SELECTION}} de feria medieval",
+    "offense": "ASESINATO DE TIEMPOS AQUELLOS",
+    "summary": "ASESINATO MEDIEVAL: {{SELECTION}}",
+    "title": [
+     "Las orejas de elfo son falsas, pero el peligro verdadero",
+     "Medieval, es del mal",
+     "La espada en la pierna",
+     "Una muerte de medioevo-noche",
+     "Los mismos sospechosos de antaño",
+     "Te lanzo la lanza",
+     "MI ELemento es el sorpresa"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112232",
+   "question": "Has decidido asesinar a alguien en una feria medieval, como cualquiera lo haría. ¿Qué vas a utilizar?",
+   "starterContent": true
+  },
+  {
+   "choices": [
+    "Guerra y paz",
+    "Casa desolada",
+    "La Biblia",
+    "La broma infinita",
+    "El árbol generoso",
+    "Don Quijote de la Mancha",
+    "Eso (It)",
+    "Moby Dick"
+   ],
+   "crime": {
+    "description": "Con su arma de preferencia, {{SELECTION}}",
+    "offense": "GOLPIZA POR LIBRO",
+    "summary": "Golpeado con {{SELECTION}}",
+    "title": [
+     "Una última leída",
+     "El libro indica el lugar",
+     "Saquemos ideas de tu cabeza",
+     "El final está para matarse",
+     "Las palabras pueden matar"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112233",
+   "question": "Decidiste darle un buen tortazo en la cabeza a alguien con un libro. ¿Cuál utilizarías?"
+  },
+  {
+   "choices": [
+    "La hoja de un patín de hielo",
+    "Una bola de bolos",
+    "Una pala de pádel",
+    "La antorcha olímpica",
+    "Un bate de béisbol",
+    "Una jabalina",
+    "Una piedra de curlin",
+    "Un puesto de perros calientes"
+   ],
+   "crime": {
+    "description": "Usando el arma preferida del culpable, {{SELECTION}}",
+    "offense": "ASESINATO ATLÉTICO",
+    "summary": "ASESINATO DEPORTIVO CON {{SELECTION}}",
+    "title": [
+     "Muriendo de un pelotazo",
+     "Corre largo hasta el final de tu vida",
+     "Qué importa el caso, ¿sale partido?"
+    ]
+   },
+   "familiarity": "FRIENDS",
+   "id": "112270",
+   "question": "Has decidido sacarte a alguien de encima de la manera más deportiva posible. ¿Qué objeto crees que puedes manipular más habilidosamente?"
+  },
+  {
+   "choices": [
+    "Café hirviendo",
+    "Gatito rabioso",
+    "Chocolatada envenenada",
+    "Asfixiado por mantas",
+    "Tijeras de podar",
+    "Abrazo mortal",
+    "Aguja para tejer"
+   ],
+   "crime": {
+    "description": "Mediante el método favorito del sujeto: {{SELECTION}}",
+    "offense": "ASESINATO CÓMODO",
+    "summary": "ASESINATO CÓMODO: {{SELECTION}}",
+    "title": [
+     "Dedicado para ti, Jessica Fletcher",
+     "Un mimo antes de morir",
+     "Tan cómodo que quisiera ser la víctima",
+     "Un hermoso día para dormir",
+     "El asesino andaba en bata"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112599",
+   "question": "Has decidido asesinar a alguien de la manera más cómoda posible. ¿Cuál es el mejor método para el trabajo?",
+   "x": true
+  },
+  {
+   "choices": [
+    "Un conito de dulce de leche",
+    "Una orquídea",
+    "Un boleto de lotería",
+    "Un destornillador",
+    "Una tarjeta de béisbol",
+    "Una mascota de juguete",
+    "Una tarjeta de regalo de iTunes",
+    "Un dado de 20 lados",
+    "Un té para dormir",
+    "Una pluma de pavo real"
+   ],
+   "crime": {
+    "description": "Incluyendo la marca en los crímenes del criminal, {{SELECTION}}",
+    "offense": "ASESINATO",
+    "summary": "MARCA CRIMINAL: {{SELECTION}}",
+    "title": [
+     "No investigamos con esa marca",
+     "Quedó marcado de por vida",
+     "La marca de la parca",
+     "Un asesinato de marca"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "113168",
+   "question": "Quieres darle un toque especial a tus crímenes dejando una marca distintiva. De estas opciones, ¿cuál se siente mejor?"
+  },
+  {
+   "choices": [
+    "Hurón",
+    "Gato",
+    "Perico",
+    "Serpiente",
+    "Perro",
+    "Tortuga"
+   ],
+   "crime": {
+    "description": "Mediante la mascota letalmente entrenada del criminal, un(a) {{SELECTION}}",
+    "offense": "ASESINATO",
+    "summary": "ASESINADO POR HÁBIL {{SELECTION}}",
+    "title": [
+     "Sentado, quieto, mata",
+     "¿Para qué hacerse el muerto si puedes hacer un muerto?",
+     "El mejor amigo del hombre; el peor enemigo de la justicia",
+     "Crimen: el mayor premio de todos",
+     "No te cuentan de esto en la escuela de mascotas"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "113772",
+   "question": "Si pudieras entrenar una mascota para que cometa un crimen por ti, ¿qué mascota utilizarías?"
+  },
+  {
+   "choices": [
+    "Habla durante las películas",
+    "Se saltea la fila",
+    "Interrumpe",
+    "Dice “indubitablemente”",
+    "Siempre llega tarde",
+    "Mira mucho el teléfono",
+    "Cancela planes"
+   ],
+   "crime": {
+    "description": "Se sacó de quicio por alguien que {{SELECTION}}",
+    "offense": "ASESINATO MOLESTO",
+    "summary": "Mató a alguien que {{SELECTION}}",
+    "title": [
+     "Los muertos no molestan",
+     "Si no molestaba, ¿por qué murió?",
+     "Dales modales (y muerte)",
+     "Alguien tenía que enseñarle modales"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "113973",
+   "question": "¿Quién te molesta tanto que pensarías lo impensable? Alguien que…",
+   "x": true
+  },
+  {
+   "choices": [
+    "Caída de la cuerda floja",
+    "León hambriento",
+    "Disparo de cañón",
+    "Pisotón de elefante",
+    "Accidente de auto de payasos",
+    "Palomitas envenedadas"
+   ],
+   "crime": {
+    "description": "Por el método preferido del criminal, {{SELECTION}}: nunca falla",
+    "offense": "ASESINATO EN EL CIRCO",
+    "summary": "ASESINATO EN EL CIRCO: {{SELECTION}}",
+    "title": [
+     "Con la cuerda floja (excepto en el cuello)",
+     "El último showman",
+     "El maravilloso león que escupe cadáveres",
+     "El mejor show que ya no viaja por el mundo",
+     "Sin querer me caí por el aro en llamas",
+     "Necesito un voluntario para la víctima"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "114048",
+   "question": "Has elegido matar a alguien en el circo. ¿Qué método utilizarás?"
+  }
+ ]
+}

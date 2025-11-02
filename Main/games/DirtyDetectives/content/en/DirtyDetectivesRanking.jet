@@ -1,0 +1,475 @@
+{
+ "content": [
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Vampiros",
+    "Zombis",
+    "Hombres lobo",
+    "Momias"
+   ],
+   "evidence": "Al luchar con monstruos, el sospechoso preferiría luchar contra {{SELECTION-1}} primero y contra {{SELECTION-3}} último.",
+   "familiarity": "FRIENDS",
+   "id": "107564",
+   "interrogations": [
+    "¿Cuál es tu plan para luchar contra monstruos?",
+    "En tu opinión, ¿cuál es el monstruo más fuerte de todos?",
+    "¿Crees que sobrevivirías alguna de estas peleas?"
+   ],
+   "question": "Coloca estos monstruos en el orden que estarías dispuesto a pelearles:",
+   "reminder": "Pelea monstruosa",
+   "summary": "PELEA: {{SELECTION-1}} PRIMERO, {{SELECTION-4}} ÚLTIMO"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Ciclismo",
+    "Natación",
+    "Carrera a pie"
+   ],
+   "evidence": "El culpable cree que en un triatlón, le iría mejor en {{SELECTION-1}}, y peor en {{SELECTION-3}}.",
+   "familiarity": "FRIENDS",
+   "id": "107570",
+   "interrogations": [
+    "Explícanos paso a paso tu forma de encarar los eventos de triatlón.",
+    "¿Cuándo fue la última vez que nadaste? ¿Y que andaste en bicicleta?"
+   ],
+   "question": "Clasifica estos eventos de triatlón según qué tan bien crees que te iría en ellos, de mejor a peor.",
+   "reminder": "Triatlón",
+   "starterContent": true,
+   "summary": "TRI: MEJOR {{SELECTION-1}}, PEOR {{SELECTION-3}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 4,
+   "choices": [
+    "Las llaves",
+    "La billetera",
+    "Los auriculares",
+    "El teléfono"
+   ],
+   "evidence": "Al salir de casa, {{SELECTION-1}} del objetivo es/son más importante(s) que {{SELECTION-4}}.",
+   "familiarity": "STRANGERS",
+   "id": "107592",
+   "interrogations": [
+    "¿Cuál de estos objetos te has olvidado más recientemente?",
+    "¿Llevas una bolsa o bolso, o te manejas con los bolsillos en tu caso?"
+   ],
+   "question": "¿En qué orden miras que tengas estos objetos antes de salir de casa?",
+   "reminder": "Saliendo de casa",
+   "summary": "Saliendo de casa: {{SELECTION-1}} ANTES QUE {{SELECTION-4}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "choiceLimit": 4,
+   "choices": [
+    "Cocinar 10 comidas",
+    "Hablar por 5 horas",
+    "Limpiar canaletas mohosas",
+    "Manejar 90 minutos hacia el aeropuerto"
+   ],
+   "evidence": "El culpable preferiría {{SELECTION-1}} para su vecino antes que {{SELECTION-4}}.",
+   "familiarity": "FRIENDS",
+   "id": "107597",
+   "interrogations": [
+    "Así que... ¿tienes vecinos?",
+    "¿Te sientes energizado al tener conversaciones largas?"
+   ],
+   "question": "Tu vecino necesita ayuda en el hogar. Clasifica estos de \"más probable que haga\" a \"menos probable que haga\":",
+   "reminder": "Ayudando al vecino",
+   "summary": "{{SELECTION-1}} ANTES QUE {{SELECTION-4}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 5,
+   "choices": [
+    "Un auto nuevo",
+    "Una casa",
+    "Educación",
+    "Ayudar a otros",
+    "Reducir deudas"
+   ],
+   "evidence": "El culpable, ganador de la lotería, priorizaría {{SELECTION-1}} sobre {{SELECTION-4}}.",
+   "familiarity": "FRIENDS",
+   "id": "107598",
+   "interrogations": [
+    "¿Algo lindo que te interese últimamente?"
+   ],
+   "question": "Si ganaras la lotería, ¿qué harías con el dinero, y en qué orden?",
+   "reminder": "Elecciones de lotería",
+   "summary": "{{SELECTION-1}} POR SOBRE {{SELECTION-4}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Pies",
+    "Pedo",
+    "Pescado"
+   ],
+   "evidence": "El culpable prefiere el olor a {{SELECTION-1}} sobre el olor a {{SELECTION-3}}.",
+   "familiarity": "FRIENDS",
+   "id": "108165",
+   "interrogations": [
+    "¿Muy fanático del olor de los peditos, eh?",
+    "¿Hueles cuando te tiras pedos?",
+    "¿Te gusta el sushi?"
+   ],
+   "question": "¡Clasifica estos olores de mejor a peor!",
+   "reminder": "Olores asquerosos",
+   "starterContent": true,
+   "summary": "OLOR A {{SELECTION-1}} > OLOR A {{SELECTION-3}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Diseñador de moda",
+    "Chef de sushi",
+    "Higienista dental",
+    "Entrenador de básquet profesional",
+    "Profesor de Cálculo"
+   ],
+   "evidence": "El sospechoso cree que está más preparado para ser {{SELECTION-1}} antes que {{SELECTION-5}}.",
+   "familiarity": "FRIENDS",
+   "id": "108666",
+   "interrogations": [
+    "¿Tienes experiencia alguna en entrenamiento deportivo?",
+    "¿Cuál es tu relación con el mundo de la moda?",
+    "¿Qué notas te sacabas en Matemática en el colegio?"
+   ],
+   "question": "En una escala de “¡Buen trabajo!” a “¡Despedido!,” clasifica los siguientes trabajos en orden de qué tan bueno serías en ellos sin preparación alguna.",
+   "reminder": "Trabajos difíciles",
+   "starterContent": false,
+   "summary": "MEJOR COMO {{SELECTION-1}} QUE COMO {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Los 70",
+    "Los 80",
+    "Los 90",
+    "Los 2000",
+    "Los 2010"
+   ],
+   "evidence": "El culpable le gusta más la música de {{SELECTION-1}}, y la música de {{SELECTION-4}} menos.",
+   "familiarity": "FRIENDS",
+   "id": "108796",
+   "interrogations": [
+    "¿Qué era de boy bands es tu favorita?",
+    "¿Cuál fue la primera banda que te gustó mucho?",
+    "¿Cuál fue una de tus experiencias de concierto favorita?"
+   ],
+   "question": "Clasifica los siguientes periodos de tiempo según que tanto te gusta su música.",
+   "reminder": "Preferencias musicales",
+   "starterContent": false,
+   "summary": "AMA LA MÚSICA DE {{SELECTION-1}}, NO MUCHO LA DE {{SELECTION-5}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 6,
+   "choices": [
+    "Fuerza",
+    "Destreza",
+    "Constitución",
+    "Inteligencia",
+    "Sabiduría",
+    "Carisma"
+   ],
+   "evidence": "En D&D, el culpable tendría un personaje con {{SELECTION-1}} alto y {{SELECTION-6}} bajo.",
+   "familiarity": "FRIENDS",
+   "id": "108798",
+   "interrogations": [
+    "Tienes que eludir un guardia, ¿qué haces?",
+    "¿Qué tan bueno eres buscando trampas?"
+   ],
+   "question": "Si fueras un personaje de Dungeons & Dragons, clasifica tus habilidades de mejor a peor:",
+   "reminder": "Habilidades de D&D",
+   "starterContent": true,
+   "summary": "{{SELECTION-1}} ALTO, {{SELECTION-6}} BAJO"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Ryan Gosling",
+    "Stephen Curry",
+    "Ariana Grande",
+    "Greta Thunberg",
+    "{{PLAYER}}"
+   ],
+   "evidence": "El culpable aparentemente piensa que {{SELECTION-1}} es más genial que {{SELECTION-5}}.",
+   "familiarity": "FRIENDS",
+   "id": "109029",
+   "interrogations": [
+    "¿Quién es la celebridad más genial?",
+    "¿Qué es lo más genial sobre {{PLAYER}}?"
+   ],
+   "question": "Clasifica los siguientes individuos según que tan geniales te parezcan.",
+   "reminder": "Gente genial",
+   "starterContent": true,
+   "summary": "{{SELECTION-1}} > {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 6,
+   "choices": [
+    "[i]Jeopardy![/i]",
+    "[i]La Ruleta de la Fortuna[/i]",
+    "[i]Top Chef[/i]",
+    "[i]Survivor[/i]"
+   ],
+   "evidence": "El culpable cree que la rompería en {{SELECTION-1}}, pero perdería en {{SELECTION-4}}.",
+   "familiarity": "FRIENDS",
+   "id": "109030",
+   "interrogations": [
+    "¿Cuál sería tu estrategia para ganar programas de juego?",
+    "¿Cómo son tus habilidades de trivia con respecto a tus habilidades de cocina?"
+   ],
+   "question": "Clasifica los siguientes programas según qué tan bien te iría en cada uno.",
+   "reminder": "Ganadores de reality",
+   "starterContent": true,
+   "summary": "GANA {{SELECTION-1}}, PIERDE {{SELECTION-4}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 6,
+   "choices": [
+    "La Segunda Guerra Mundial",
+    "La Guerra del Infinito (Infinity War)",
+    "La guerra de Troya",
+    "La guerra de consolas",
+    "Guerra de Pasteles",
+    "La guerra de los clones"
+   ],
+   "evidence": "El objetivo sabe muuuuucho más sobre {{SELECTION-1}} que {{SELECTION-6}}.",
+   "familiarity": "FRIENDS",
+   "id": "109660",
+   "interrogations": [
+    "¿Te apasiona la historia?",
+    "¿Has visto todas las películas de los [i]Avengers[/i]?",
+    "¿Te gustan los programas de cocina?"
+   ],
+   "question": "Clasifica estas guerras por cuánto conoces de ellas (de más a menos).",
+   "reminder": "El arte de \"las guerras\"",
+   "starterContent": true,
+   "summary": "CONOCE {{SELECTION-1}}, Y NO {{SELECTION-6}}",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 3,
+   "choices": [
+    "El espacio",
+    "Orlando",
+    "[i]McDonald’s[/i]"
+   ],
+   "countrySpecific": true,
+   "evidence": "El sujeto preferiría irse para {{SELECTION-1}} antes que estar en {{SELECTION-3}}.",
+   "familiarity": "STRANGERS",
+   "id": "114000",
+   "interrogations": [
+    "Cuéntanos lo que piensas de Orlando.",
+    "¿Cuándo comiste por última vez en [i]McDonald's[/i]?",
+    "¿Qué piensas de los viajes espaciales?"
+   ],
+   "question": "Clasifica estos según a dónde te gustaría ir más:",
+   "reminder": "¿A dónde van?",
+   "summary": "IRÍA A {{SELECTION-1}} ANTES QUE A {{SELECTION-3}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Burning Man",
+    "La Antártida",
+    "Jersey Shore (la costa de Jersey)"
+   ],
+   "evidence": "El sospechoso iría a {{SELECTION-1}} antes que ir a {{SELECTION-3}}.",
+   "familiarity": "STRANGERS",
+   "id": "114005",
+   "interrogations": [
+    "¿Qué hace que un viaje sea bueno para ti?",
+    "¿Qué piensas de ir a tierras congeladas y sin nada?",
+    "¿Te gustan las multitudes? ¿Y las experiencias de arte desiertas?"
+   ],
+   "question": "Clasifica estas ubicaciones en orden de qué tanto te gustaría visitarlas:",
+   "reminder": "¿A dónde van?",
+   "summary": "VIAJE: {{SELECTION-1}} ANTES QUE {{SELECTION-3}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 5,
+   "choices": [
+    "Un mapa",
+    "Una motosierra",
+    "Medicamentos",
+    "Un caballo",
+    "Fósforos"
+   ],
+   "evidence": "Al prepararse para un apocalípsis zombi, el sospechoso quiere {{SELECTION-1}} más que nada, y lo que menos le importa es {{SELECTION-5}}.",
+   "familiarity": "STRANGERS",
+   "id": "114022",
+   "interrogations": [
+    "Explícanos cuál es tu forma de encarar la supervivencia.",
+    "¿Crees que podrías manejar una motosierra?",
+    ""
+   ],
+   "question": "Es el apocalipsis zombi. Clasifica según cuánto quieres tener estas cosas a mano:",
+   "reminder": "Suministros de guerra zombi",
+   "summary": "Guerra zombi: {{SELECTION-1}} Primero, {{SELECTION-5}} Último"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Una caminata",
+    "Una siesta",
+    "Películas-TV",
+    "Un baño",
+    "Leer"
+   ],
+   "evidence": "Cuando es hora de recargar energías, el sospechoso prefiere {{SELECTION-1}} pero solo elegiría {{SELECTION-5}} como su última opción.",
+   "familiarity": "STRANGERS",
+   "id": "114046",
+   "interrogations": [
+    "Describe qué significa “descanso” para ti.",
+    "¿Puedes dormirte con facilidad?",
+    "¿Dónde te gusta caminar?"
+   ],
+   "question": "Es hora de recargar energías. Clasifica estas actividades en el orden que las considerarías:",
+   "reminder": "Opciones de recarga",
+   "summary": "RECARGA: {{SELECTION-1}} primero, {{SELECTION-5}} último"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Limpio",
+    "Rápido",
+    "Amigable",
+    "Popular",
+    "Cercano"
+   ],
+   "evidence": "Al elegir un restaurante, el sospechoso quiere que sea {{SELECTION-1}}, no le importa si es {{SELECTION-5}}.",
+   "familiarity": "STRANGERS",
+   "id": "114079",
+   "interrogations": [
+    "Cuéntanos sobre tu restaurante favorito.",
+    "¿Qué tan importante es la limpieza para ti?",
+    "¿Qué tan lejos viajarías para probar un lugar nuevo?"
+   ],
+   "question": "Clasifica estas cualidades de restaurantes en el orden de importancia que le darías.",
+   "reminder": "Preferencias de restaurante",
+   "summary": "RESTAURANTE: QUIERE {{SELECTION-1}} POR SOBRE {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "El tráfico",
+    "Los mosquitos",
+    "Los impuestos",
+    "Las redes sociales"
+   ],
+   "evidence": "Dada la opción, el sospechoso eliminaría por completo {{SELECTION-1}} primero, y por último a {{SELECTION-4}}.",
+   "familiarity": "STRANGERS",
+   "id": "114118",
+   "interrogations": [
+    "¿Qué te molesta en tu día a día?",
+    "¿Qué tanto piensas en finanzas?",
+    "¿Te preocupa alterar el delicado balance de la vida?"
+   ],
+   "question": "Si pudieras remover cosas de la vida moderna por completo, clasifica estos en el orden que los harías desaparecer:",
+   "reminder": "Hazlo desaparecer",
+   "summary": "DESAPARECER: {{SELECTION-1}} PRIMERO, {{SELECTION-4}} ÚLTIMO"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 4,
+   "choices": [
+    "La playa",
+    "El sofá",
+    "El bosque",
+    "La librería"
+   ],
+   "evidence": "Al buscar su “lugar feliz”, el sospechoso iría hacia {{SELECTION-1}} primero y hacia {{SELECTION-4}} último.",
+   "familiarity": "STRANGERS",
+   "id": "114238",
+   "interrogations": [
+    "Cuéntanos más sobre tu lugar feliz.",
+    "¿Cómo es una típica visita a la playa para ti?",
+    "¿Qué estás buscando en un lugar feliz?"
+   ],
+   "question": "Clasifica estos lugares felices en orden de tu preferencia:",
+   "reminder": "Lugar feliz",
+   "summary": "L. FELIZ: {{SELECTION-1}} PRIMERO, {{SELECTION-4}} ÚLTIMO"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Teléfono",
+    "Pantalones",
+    "Snacks",
+    "Jabón"
+   ],
+   "evidence": "El sospechoso le parece más difícil vivir sin “{{SELECTION-1}}”, pero no le parece difícil vivir sin “{{SELECTION-4}}”",
+   "familiarity": "STRANGERS",
+   "id": "114373",
+   "interrogations": [
+    "¿Cuál es tu relación con los pantalones?",
+    "Oriéntanos respecto a cómo ordenaste las opciones sobre con qué podrías vivir sin tenerlo.",
+    "¿Tienes algún snack favorito?"
+   ],
+   "question": "Coloca estos en orden de qué tan difícil sería vivir sin ellos.",
+   "reminder": "No puedo sin ellos",
+   "summary": "NO PUEDE SIN: {{SELECTION-1}} PRIMERO, {{SELECTION-4}} ÚLTIMO"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Cachorro",
+    "Leña",
+    "Seda",
+    "Algodón de azúcar"
+   ],
+   "evidence": "El sospechoso fue escuchado diciendo que {{SELECTION-1}} se siente mejor que {{SELECTION-4}}.",
+   "familiarity": "STRANGERS",
+   "id": "114419",
+   "interrogations": [
+    "¿Qué hace que algo se sienta bien al tacto, en tu opinión?",
+    "Comparte lo que piensas del algodón de azúcar.",
+    "¿Cuándo fue la última vez que encontraste alguno de estos objetos?"
+   ],
+   "question": "Coloca estas cosas en el orden de qué tan bien se sienten al tacto.",
+   "reminder": "Buenas sensaciones",
+   "summary": "SENSACIONES: {{SELECTION-1}} MEJOR QUE {{SELECTION-4}}"
+  }
+ ]
+}
