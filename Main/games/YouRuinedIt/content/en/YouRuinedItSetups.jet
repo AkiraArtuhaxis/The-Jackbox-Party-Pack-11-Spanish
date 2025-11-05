@@ -1,0 +1,5449 @@
+{
+ "content": [
+  {
+   "id": "106621",
+   "punchlines": [
+    "en la competencia del mayor perdedor",
+    "y ahora tendrás que luchar para conservar tu trono",
+    "y te sacan para mostrar al verdadero ganador",
+    "para ser comida del poderoso Godzilla"
+   ],
+   "setup": "quedaste en primer lugar",
+   "type": "GOOD"
+  },
+  {
+   "id": "106622",
+   "punchlines": [
+    "con una medialuna",
+    "pero tienes pésimo gusto de personalidad",
+    "pero cuando escuchas que habla te quieres ir volando de ahí"
+   ],
+   "setup": "amor a primera vista",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "106623",
+   "punchlines": [
+    "que viene de esta casa embrujada",
+    "es bebé Drácula",
+    "saliendo de la boca de un burro",
+    "pero el bebé se ríe como el Pájaro Loco"
+   ],
+   "setup": "la risa de un bebé",
+   "type": "GOOD"
+  },
+  {
+   "id": "106624",
+   "punchlines": [
+    "después de limpiar lo que hizo el perro",
+    "para usar como toga",
+    "en tu cama para la pijamada en esta casa embrujada"
+   ],
+   "setup": "sábanas limpias",
+   "type": "GOOD"
+  },
+  {
+   "id": "106625",
+   "punchlines": [
+    "es lo único en la televisión",
+    "en una pandilla",
+    "pero son literalmente de oro",
+    "invadiendo un bus de fiesta"
+   ],
+   "setup": "las chicas de Los Años Dorados",
+   "type": "GOOD"
+  },
+  {
+   "id": "106626",
+   "punchlines": [
+    "pero te sientas sobre gaseosa",
+    "pero solo TÚ piensas que es una cita",
+    "con mi madrastra malvada"
+   ],
+   "setup": "una cita en el cine",
+   "type": "GOOD"
+  },
+  {
+   "id": "106627",
+   "punchlines": [
+    "del aliento de un cíclope",
+    "que viene de incendios de la ciudad",
+    "en el infierno",
+    "cascando la meseta de hielo antártica"
+   ],
+   "setup": "una brisa cálida",
+   "type": "GOOD"
+  },
+  {
+   "id": "106628",
+   "punchlines": [
+    "llena de arañas vivas",
+    "dentro de un pañal",
+    "te las tiran en la iglesia"
+   ],
+   "setup": "gyozas calientes recién hechas un domingo",
+   "type": "GOOD"
+  },
+  {
+   "id": "106629",
+   "punchlines": [
+    "y cambió irreversiblemente",
+    "de su trabajo horrible que drena su alma",
+    "con seis gallinas, un cerdo y un caballo",
+    "del doctor con treinta costillas más"
+   ],
+   "setup": "tu pareja vuelve a casa",
+   "type": "GOOD"
+  },
+  {
+   "id": "106630",
+   "punchlines": [
+    "con carne molida",
+    "pero está bajo cero y es por supervivencia",
+    "con el perro más feo"
+   ],
+   "setup": "acurrarse",
+   "type": "GOOD"
+  },
+  {
+   "id": "106632",
+   "punchlines": [
+    "de un demonio",
+    "antes de que el bebé se cague en el pañal",
+    "en una calabaza coqueta",
+    "con dientes amarillos y deformes",
+    "de un dragón"
+   ],
+   "setup": "una cálida sonrisa",
+   "type": "GOOD"
+  },
+  {
+   "id": "106634",
+   "punchlines": [
+    "Está meh",
+    "y por última vez",
+    "dentro de tu habitación en la noche",
+    "saliendo de tu nariz",
+    "perdón, una cascada de mantequilla. mantequilla hirviendo."
+   ],
+   "setup": "ves una cascada por primera vez",
+   "type": "GOOD"
+  },
+  {
+   "id": "106635",
+   "punchlines": [
+    "en un hogar de ancianos",
+    "pero es el fantasma de Napoleón",
+    "pero la temática es \"La cacería\""
+   ],
+   "setup": "te invitan al baile",
+   "type": "GOOD"
+  },
+  {
+   "id": "106636",
+   "punchlines": [
+    "pero están en su era Coldplay",
+    "sin ningún miembro original",
+    "las entradas cuestan 5.000 dólares",
+    "a tu mamá no le gusta esa banda, así que no vas"
+   ],
+   "setup": "tu banda favorita en un concierto",
+   "type": "GOOD"
+  },
+  {
+   "id": "106637",
+   "punchlines": [
+    "despidiéndote de tu abogado",
+    "con un ñoño hediondo",
+    "de un cactus",
+    "pero era tan reconfortante que lo absorbes en tu cuerpo"
+   ],
+   "setup": "un buen abrazo reconfortante",
+   "type": "GOOD"
+  },
+  {
+   "id": "106639",
+   "punchlines": [
+    "para un sándwich normal",
+    "para una tienda de celulares",
+    "para ayudar a pagar tu computadora gamer de 5.000 dólares"
+   ],
+   "setup": "una tarjeta de regalo de 20 dólares",
+   "type": "GOOD"
+  },
+  {
+   "id": "106640",
+   "punchlines": [
+    "dentro de tu camiseta",
+    "pero el café es diarrea y la tarta es caca",
+    "en la peor cena del mundo",
+    "que te sirven en el Triángulo de las Bermudas"
+   ],
+   "setup": "una tarta tibia y café caliente",
+   "type": "GOOD"
+  },
+  {
+   "id": "106641",
+   "punchlines": [
+    "pero tienes 1000 juanetes",
+    "es la boda de tu ex",
+    "te caes y todos te ven",
+    "por once horas seguidas"
+   ],
+   "setup": "bailas en una boda",
+   "type": "GOOD"
+  },
+  {
+   "id": "106642",
+   "punchlines": [
+    "pero su mano está empapada de sudor",
+    "contigo mismo, basura insignificante",
+    "con un pulpo",
+    "de un zombie que recién cortaste",
+    "porque estás viejo y tienes que cruzar la calle"
+   ],
+   "setup": "te toman de la mano",
+   "type": "GOOD"
+  },
+  {
+   "id": "106643",
+   "punchlines": [
+    "horneado en un trasero",
+    "que huele como a pescado",
+    "que te produce una quemadura de tercer grado"
+   ],
+   "setup": "pan caliente",
+   "type": "GOOD"
+  },
+  {
+   "id": "106644",
+   "punchlines": [
+    "que se llama Mordedora",
+    "y te infecta una enfermedad",
+    "¡¡¡LA CRÍA MÁS GRANDE DE LA VIDA!!!",
+    "pero estás usando mitones para horno",
+    "en un museo de taxidermia"
+   ],
+   "setup": "acaricias una cría de cabra",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "106645",
+   "punchlines": [
+    "es regaliz negro rígido",
+    "son jeringas",
+    "que se vuelven polvo en tu boca",
+    "con sabor a sazonador de carne"
+   ],
+   "setup": "dulces de Halloween",
+   "type": "GOOD"
+  },
+  {
+   "id": "106646",
+   "punchlines": [
+    "son pedos",
+    "en la oficina de tu psicólogo",
+    "¿¿¿que viene de adentro del buzón???",
+    "pero huele como... ¿un lobo?"
+   ],
+   "setup": "el olor de tu pareja",
+   "type": "GOOD"
+  },
+  {
+   "id": "106647",
+   "punchlines": [
+    "y se canceló",
+    "pero eres el Grinch",
+    "y acabas de gastar 110.000 dólares en regalos",
+    "y celebras con tus amigos imaginarios en el psiquiátrico"
+   ],
+   "setup": "es época navideña",
+   "type": "GOOD"
+  },
+  {
+   "id": "106648",
+   "punchlines": [
+    "que viene de tu tocino",
+    "que sopla de tu trasero",
+    "en una pescadería",
+    "colaboración de Honda Civic con Calvin Klein"
+   ],
+   "setup": "olor a auto nuevo",
+   "type": "GOOD"
+  },
+  {
+   "id": "106649",
+   "punchlines": [
+    "cubiertos en baba",
+    "por hacer cosas innombrables",
+    "es lo que te está pidiendo el mafioso",
+    "salen de tu cuenta bancaria sin razón aparente",
+    "al fondo de una fosa séptica"
+   ],
+   "setup": "1.000 dólares en efectivo",
+   "type": "GOOD"
+  },
+  {
+   "id": "106650",
+   "punchlines": [
+    "y lo funan inmediatamente",
+    "pero no consigues una foto con él",
+    "pero es un extraterrestre con piel de humano",
+    "cubierto en lechuga, carne y mayonesa, justo como lo pediste"
+   ],
+   "setup": "conoces a tu héroe",
+   "type": "GOOD"
+  },
+  {
+   "id": "106652",
+   "punchlines": [
+    "arruinado por un gran militar",
+    "que te deja sudando sangre",
+    "en una tienda de pasteles",
+    "al ser perseguido por una turba furiosa"
+   ],
+   "setup": "un gran entrenamiento",
+   "type": "GOOD"
+  },
+  {
+   "id": "106653",
+   "punchlines": [
+    "llena de carne molida cruda",
+    "para mantener vivas a las sanguijuelas",
+    "porque te acaban de robar tu riñón",
+    "con muchos mechones de pelo flotando"
+   ],
+   "setup": "te sumerges en la bañera",
+   "type": "GOOD"
+  },
+  {
+   "id": "106654",
+   "punchlines": [
+    "pero es su doble malvada",
+    "huele muy mal y es insoportable siempre",
+    "en el calabozo del dragón",
+    "en su juicio, le pides piedad al juez"
+   ],
+   "setup": "visitas a tu abuela",
+   "type": "GOOD"
+  },
+  {
+   "id": "106655",
+   "punchlines": [
+    "diez mil gatitos",
+    "que no saben hacer sus necesidades",
+    "y todos tienen ideologías políticas extremas",
+    "hamburguesas hechas de ellos"
+   ],
+   "setup": "gatitos",
+   "type": "GOOD"
+  },
+  {
+   "id": "106656",
+   "punchlines": [
+    "porque no pagaste la cuenta de la luz",
+    "vives en la época medieval",
+    "es una reunión de trabajo",
+    "pero incendias el mantel"
+   ],
+   "setup": "una cena para dos con velas",
+   "type": "GOOD"
+  },
+  {
+   "id": "106658",
+   "punchlines": [
+    "pero trabajas con heces",
+    "y te dan una tarjeta de regalo",
+    "te reconocen Y te odian",
+    "trabajas en Pateando Perros S.A."
+   ],
+   "setup": "te reconocen por tu trabajo duro",
+   "type": "GOOD"
+  },
+  {
+   "id": "106659",
+   "punchlines": [
+    "hechos polvo y servidos en pasta",
+    "pero solo es Yoko Ono tocando sus canciones",
+    "hechos estatuas de queso"
+   ],
+   "setup": "The Beatles",
+   "type": "GOOD"
+  },
+  {
+   "id": "106660",
+   "punchlines": [
+    "cubierta en gusanos",
+    "pero tú querías un sándwich de pollo",
+    "te la tiran al auto",
+    "pero está jugosa por el jugo de naranja",
+    "pero es alguien de Hamburgo, Alemania, cubierto en sudor"
+   ],
+   "setup": "una hamburguesa jugosa",
+   "type": "GOOD"
+  },
+  {
+   "id": "106664",
+   "punchlines": [
+    "solo eso",
+    "y solo cantan “Baby Shark”",
+    "de gente sin oído musical",
+    "golpeándose entre ellos por una pelea por la percusión"
+   ],
+   "setup": "un grupo a capela",
+   "type": "GOOD"
+  },
+  {
+   "id": "106666",
+   "punchlines": [
+    "sobre tu vida",
+    "pero no tienes a nadie para compartírselo",
+    "pero es del profesor y no quieres meterte en problemas",
+    "entre los cuervos... ¡SOBRE TI!"
+   ],
+   "setup": "un chisme jugoso y divertido",
+   "type": "GOOD"
+  },
+  {
+   "id": "106669",
+   "punchlines": [
+    "que me entran por la nariz y al cerebro",
+    "rociado encima de mi bebé",
+    "con sabor a Doritos",
+    "en mis cajones",
+    "lloviendo como un apocalipsis anaranjado"
+   ],
+   "setup": "especias de calabaza",
+   "type": "GOOD"
+  },
+  {
+   "id": "106670",
+   "punchlines": [
+    "pero sabe a queso",
+    "tiene orina de alguien",
+    "pero el sol va a explotar, perdón",
+    "te lo derrama en la cabeza una mesera enojada"
+   ],
+   "setup": "gaseosa fría en un día veraniego",
+   "type": "GOOD"
+  },
+  {
+   "id": "106671",
+   "punchlines": [
+    "y las tostadas están quemadas",
+    "se cae todo en el edredón",
+    "pero no tienes niños",
+    "es carne cruda a las 4:30 de la mañana"
+   ],
+   "setup": "los niños te traen desayuno a la cama",
+   "type": "GOOD"
+  },
+  {
+   "id": "106672",
+   "punchlines": [
+    "cubierto en salsa de tomate",
+    "que se arrastra a mi cara cuando duermo",
+    "pierde su tiempo en redes sociales",
+    "que crece más a medida que crece, como una serpiente"
+   ],
+   "setup": "un cachorro de perro",
+   "type": "GOOD"
+  },
+  {
+   "id": "106673",
+   "punchlines": [
+    "desde tu ventana",
+    "y ves todo tipo de extraterrestres malvados",
+    "después de lanzar un sándwich de carne",
+    "o al menos donde estaban las estrellas, pero el universo está muriendo"
+   ],
+   "setup": "miras las estrellas",
+   "type": "GOOD"
+  },
+  {
+   "id": "106674",
+   "punchlines": [
+    "que suena mientras empacas tus cosas, te despidieron",
+    "en tu cirugía de apéndice",
+    "suena cada vez que vomitas",
+    "es tu apodo"
+   ],
+   "setup": "piano suave y delicado",
+   "type": "GOOD"
+  },
+  {
+   "id": "106675",
+   "punchlines": [
+    "sube por tu pantalón",
+    "te muerde el cuello",
+    "pero es gigante y está en tu casa",
+    "o, en este caso, su cadáver"
+   ],
+   "setup": "un tierno y pequeño ajolote",
+   "type": "GOOD"
+  },
+  {
+   "id": "106676",
+   "punchlines": [
+    "la gente no deja de escupirte",
+    "pero es porque un camión te sacó el techo",
+    "pero todos los pájaros del lugar están enojados contigo"
+   ],
+   "setup": "conduces un descapotable",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "106680",
+   "punchlines": [
+    "los subtítulos no funcionan",
+    "no paran de decir “mogollón” y “coger”",
+    "¡El chef se está ahogando!",
+    "mucho pelo en todos los pasteles",
+    "esta semana están haciendo el pastel español, tetillas de novicia"
+   ],
+   "setup": "Gran concurso de repostería de España",
+   "type": "GOOD"
+  },
+  {
+   "id": "106681",
+   "punchlines": [
+    "quedaron atrapados en un ascensor contigo",
+    "y consigues otro",
+    "que se pelean sin parar",
+    "con once patas",
+    "uno dice la verdad, el otro solo miente, el tercero es normal"
+   ],
+   "setup": "tres pugs",
+   "type": "GOOD"
+  },
+  {
+   "id": "106682",
+   "punchlines": [
+    "es el peor ser humano que conoces",
+    "pero hay una posibilidad de que sean familiares",
+    "sus orejas son enormes",
+    "es Sister Hong",
+    "perdón, quería decir “le asustas”"
+   ],
+   "setup": "le gustas a alguien",
+   "type": "GOOD"
+  },
+  {
+   "id": "106683",
+   "punchlines": [
+    "cae por tus pantalones",
+    "con parmesano fresco rallado",
+    "en tu intravenosa",
+    "así describieron a tus pies después de la maratón",
+    "en un plato abierto en un autobús que salta mucho"
+   ],
+   "setup": "sopa de pollo caliente",
+   "type": "GOOD"
+  },
+  {
+   "id": "106684",
+   "punchlines": [
+    "¡y el último!",
+    "con un cocodrilo",
+    "con los labios más secos del mundo",
+    "pero es un beso de ombligo con ombligo"
+   ],
+   "setup": "das tu primer beso",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "106686",
+   "punchlines": [
+    "que no puedes pagar",
+    "para la nueva pareja de tu pareja",
+    "hecho de espinas de cactus",
+    "para un pastor alemán"
+   ],
+   "setup": "un buen traje para salir",
+   "type": "GOOD"
+  },
+  {
+   "id": "106688",
+   "punchlines": [
+    "y el asiento está baboso",
+    "justo te sientas atrás de alguien con un sombrero muy alto",
+    "y todos los niños del público del teatro no se callan nunca",
+    "el adolescente principal lo interpreta alguien de 50 años solo por nepotismo"
+   ],
+   "setup": "un musical de Broadway",
+   "type": "GOOD"
+  },
+  {
+   "id": "106689",
+   "punchlines": [
+    "protagonizada por un actor que habla mal",
+    "solo eso",
+    "se filmó en tu patio",
+    ": Hombre Lasaña, el hombre hecho de lasaña"
+   ],
+   "setup": "la última película de superhéroes",
+   "type": "GOOD"
+  },
+  {
+   "id": "106690",
+   "punchlines": [
+    "pero encarcelan a Kiko",
+    "pero los personajes los interpretan unos marcianos",
+    "pero don Ramón es millonario",
+    "no, no es"
+   ],
+   "setup": "El Chavo del 8",
+   "type": "GOOD"
+  },
+  {
+   "id": "106692",
+   "punchlines": [
+    "y el motín de los monos",
+    "el domador de leones pierde una mano",
+    "todos son payasos",
+    "así es la política actual, ¿cierto?"
+   ],
+   "setup": "el circo",
+   "type": "GOOD"
+  },
+  {
+   "id": "106693",
+   "punchlines": [
+    "de historia de ranas",
+    "con 20 bebés llorando",
+    "pero tus zapatos están llenos de arena",
+    "con la exhibición de “Pinturas de camarones” de Van Gogh"
+   ],
+   "setup": "una tarde en el museo",
+   "type": "GOOD"
+  },
+  {
+   "id": "106695",
+   "punchlines": [
+    "de una foto del desastre de Hindenberg",
+    "el mismo rompecabezas que has estado haciendo todos los días desde que quedaste atrapado en esta cabina",
+    "y no tienes con quien compartirlo"
+   ],
+   "setup": "terminas un rompecabezas",
+   "type": "GOOD"
+  },
+  {
+   "id": "106696",
+   "punchlines": [
+    "alguien les tira gas tóxico",
+    "porque vas a luchar con los extraterrestres",
+    "a través de besos con lengua sin tocarse",
+    "porque ambos van a regresar con sus PAREJAS confiadas"
+   ],
+   "setup": "una tierna despedida en el aeropuerto",
+   "type": "GOOD"
+  },
+  {
+   "id": "106697",
+   "punchlines": [
+    "y te responde “genial”",
+    "pero no es la persona que dice ser",
+    "pero en verdad “él” es un queso",
+    "después de 98 años"
+   ],
+   "setup": "por fin dices “Te amo”",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "106698",
+   "punchlines": [
+    "pelliza tu trasero",
+    "está suelta en algún lugar de tu casa",
+    "se roba a tu novia",
+    "¡¡¡se casó con tu papá y ahora es tu madrastra!!!",
+    "¡¿es tu abogada?!"
+   ],
+   "setup": "una langosta",
+   "type": "GOOD"
+  },
+  {
+   "id": "106699",
+   "punchlines": [
+    "pero es la planta de tratamiento de agua",
+    "pintaron a las orcas como delfines",
+    "el agua de peces se está filtrando por todas partes",
+    "donde la cría de beluga es un hombre pálido"
+   ],
+   "setup": "un viaje al acuario",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "106700",
+   "punchlines": [
+    "en el día de los enamorados",
+    "pero nadie nota la diferencia",
+    "pero extrañamente no hay nadie para repartir dulces",
+    "para tu juicio"
+   ],
+   "setup": "te vistes para Halloween",
+   "starterContent": false,
+   "type": "GOOD"
+  },
+  {
+   "id": "106701",
+   "punchlines": [
+    "de una persona",
+    "que tú suplicaste que hicieran",
+    "por cometer el crimen del siglo",
+    "pero son 1000 personas aplaudiéndote sarcásticamente"
+   ],
+   "setup": "una ovación de pie",
+   "type": "GOOD"
+  },
+  {
+   "id": "106703",
+   "punchlines": [
+    "a un millón de kilómetros de ti",
+    "está enamorado de un centauro",
+    "tiene diarrea constante",
+    "no siente lo mismo por ti y te cambia de a poco"
+   ],
+   "setup": "el amor de tu vida",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "106704",
+   "punchlines": [
+    "donde adquieres un acento islandés demasiado ofensivo",
+    "¡No es un parque de diversiones!",
+    "el volcán entra en erupción y todos gritan “¡nei!”"
+   ],
+   "setup": "unas vacaciones a Islandia",
+   "type": "GOOD"
+  },
+  {
+   "id": "106706",
+   "punchlines": [
+    "en un festival veraniego al aire libre",
+    "lleno de chinches",
+    "...en el asiento del inodoro",
+    "es del color de tu piel"
+   ],
+   "setup": "un cómodo edredón",
+   "type": "GOOD"
+  },
+  {
+   "id": "106707",
+   "punchlines": [
+    "porque acabas de despertar de la Matrix",
+    "porque se acabó el mundo",
+    "pero tienes nueve hijos",
+    "excepto para hacer otra marca en la pared de tu celda"
+   ],
+   "setup": "un día sin nada que hacer",
+   "type": "GOOD"
+  },
+  {
+   "id": "106709",
+   "punchlines": [
+    "pero sin pescado fresco",
+    "pero sin salsa de soya",
+    "te lo entregan por el trasero de un camello",
+    "te quema la boca y la barbilla, necesitarás una cirugía reconstructiva"
+   ],
+   "setup": "sushi de lujo caliente",
+   "type": "GOOD"
+  },
+  {
+   "id": "106710",
+   "punchlines": [
+    "protagonizada por Willem Dafoe",
+    "que termina en un desastroso matrimonio de 50 años",
+    "donde los protagonistas no tienen química",
+    "pero no empezará hasta que haya una horrible causa detonante"
+   ],
+   "setup": "tu vida es una comedia romántica",
+   "type": "GOOD"
+  },
+  {
+   "id": "106711",
+   "punchlines": [
+    "hecho hace seis semanas",
+    "licuado e inyectado en tus venas",
+    "todo vegano, sin gluten, hecho de aire",
+    "el salmón afuera, el pan por dentro",
+    "con escencia de jabón"
+   ],
+   "setup": "un bagel con salmón ahumado",
+   "type": "GOOD"
+  },
+  {
+   "id": "106712",
+   "punchlines": [
+    "que simplemente te compadecen o te odian",
+    "porque son todos patitos impresos",
+    "que viven en tu casa",
+    "oye, no está mal para una religión que inventaste"
+   ],
+   "setup": "tienes un millón de seguidores",
+   "type": "GOOD"
+  },
+  {
+   "id": "106713",
+   "punchlines": [
+    "que lo dijo cuando no había nadie",
+    "mencionó las playas de Normandía un numero incontable de veces",
+    "sobre rendirse con su equipo e irse a vivir como hermitaño",
+    "y en la segunda mitad tú matas al otro equipo de infantes"
+   ],
+   "setup": "el inspirador discurso de medio tiempo del entrenador",
+   "type": "GOOD"
+  },
+  {
+   "id": "106714",
+   "punchlines": [
+    "intacto en tu colon",
+    "en un batido",
+    "para usar como bate",
+    "es lo único que puedes pagar en una primera cita",
+    "atascado en la manguera del jardín de tu casa"
+   ],
+   "setup": "un perrito caliente de un metro",
+   "type": "GOOD"
+  },
+  {
+   "id": "106716",
+   "punchlines": [
+    "después de su pelea a puñetazos",
+    "mientras el doctor termina su examen de colonoscopía",
+    "mientras se acaba el mundo",
+    "pero tu amigo es una pelota de voleibol que se llama Wilson"
+   ],
+   "setup": "te sientas tranquilamente con un amigo de confianza",
+   "type": "GOOD"
+  },
+  {
+   "id": "106720",
+   "punchlines": [
+    "improvisados",
+    "citados como rap",
+    "para dos personas que se odian",
+    "dichos con la voz de Borat"
+   ],
+   "setup": "los votos matrimoniales",
+   "type": "GOOD"
+  },
+  {
+   "id": "106721",
+   "punchlines": [
+    "solo bromeo, no te amo",
+    "ahora debes el arriendo de 200.000 dólares",
+    "en un restaurante de comida rápida",
+    "donde quedaste humillado frente a un estadio lleno de gente"
+   ],
+   "setup": "una gran propuesta de matrimonio",
+   "type": "GOOD"
+  },
+  {
+   "id": "106724",
+   "punchlines": [
+    "se ve super infeliz",
+    "que ahora todos odian",
+    "pero tu dedo tapó el lente"
+   ],
+   "setup": "tomarte una foto con un famoso",
+   "type": "GOOD"
+  },
+  {
+   "id": "106725",
+   "punchlines": [
+    "para celebrar el Día internacional del jamón",
+    "pero tienes demasiadas cosas que hacer en casa",
+    "cuando estás cesante",
+    "después de trabajar 217 días sin parar"
+   ],
+   "setup": "un fin de semana de tres días",
+   "type": "GOOD"
+  },
+  {
+   "id": "106727",
+   "punchlines": [
+    "tan calientes que te queman las manos",
+    "pero son aperitivos humanos para un gigante",
+    "cubiertos de salsa de tomate"
+   ],
+   "setup": "aperitivos",
+   "type": "GOOD"
+  },
+  {
+   "id": "106729",
+   "punchlines": [
+    "donde te cagaste en el primer kilómetro",
+    "de Harry Potter, La guerra de las galaxias y El señor de los anillos, sin descanso",
+    "pero ahora mis pies básicamente son bolsas de sopa"
+   ],
+   "setup": "terminar una maratón",
+   "type": "GOOD"
+  },
+  {
+   "id": "106731",
+   "punchlines": [
+    "pero todos usan bolsas de perdigones",
+    "con zapatos de ballet rotos",
+    "en el lodo",
+    "con la canción “Chop Suey” de System of a Down"
+   ],
+   "setup": "un recital de ballet",
+   "type": "GOOD"
+  },
+  {
+   "id": "106732",
+   "punchlines": [
+    "en el Titanic",
+    "porque están viendo quién arrastra más al otro",
+    "para evitar caerse de la cuerda floja",
+    "no te deja entrar al juzgado"
+   ],
+   "setup": "una pareja de ancianos dándose la mano",
+   "type": "GOOD"
+  },
+  {
+   "id": "106735",
+   "punchlines": [
+    "en la mitad de una reunión de trabajo",
+    "y ahora el bebé ya no dormirá en la noche",
+    "estabas conduciendo un camión lleno de gallinas",
+    "en el fin del mundo"
+   ],
+   "setup": "una siesta de dos horas",
+   "type": "GOOD"
+  },
+  {
+   "id": "106798",
+   "punchlines": [
+    "tienes que pagar sus impuestos",
+    "los asientos están llenos de salsa boloñesa",
+    "es horrible",
+    "lanzándolo a tu casa con una catapulta"
+   ],
+   "setup": "alguien te regala un Ferrari",
+   "type": "GOOD"
+  },
+  {
+   "id": "106800",
+   "punchlines": [
+    "se muere en la primera canción",
+    "donde toca “Bohemian Rhapsody” por 3 horas",
+    "y derrepente explota",
+    "y de la nada se le va la voz"
+   ],
+   "setup": "un concierto de Freddie Mercury (está vivo)",
+   "type": "GOOD"
+  },
+  {
+   "id": "106955",
+   "punchlines": [
+    "en el basural de neumáticos",
+    "ahora tienes que trabajar de verdad",
+    "ahora estás a cargo de los alcohólicos anónimos",
+    "ahora tu título es Recolector de deshechos de riesgo biológico"
+   ],
+   "setup": "un gran ascenso",
+   "type": "GOOD"
+  },
+  {
+   "id": "106957",
+   "punchlines": [
+    "las “chicas” son siete murciélagos con rabia",
+    "solo hay comida vegana",
+    "el restaurante se especializa en huevos congelados"
+   ],
+   "setup": "almuerzo con las chicas",
+   "type": "GOOD"
+  },
+  {
+   "id": "106959",
+   "punchlines": [
+    "que le robó al piloto de este avión",
+    "atacando a la gente del zoológico",
+    "que vuelve a su jaula para pasar la noche",
+    "solo es un humano usando un gorro normal"
+   ],
+   "setup": "un animal con un sombrerito",
+   "type": "GOOD"
+  },
+  {
+   "id": "106960",
+   "punchlines": [
+    "solo son los agujeros",
+    "todas tienen un mordisco sacado",
+    "glaseadas con mocos",
+    "once de ellas tienen sabor a salmón"
+   ],
+   "setup": "una docena de rosquillas frescas",
+   "type": "GOOD"
+  },
+  {
+   "id": "106961",
+   "punchlines": [
+    "se vuelve una guerra de comida familiar",
+    "pero tu familia está ahí",
+    "que miras desde el otro lado de la calle",
+    "pero es una familia de lobeznos"
+   ],
+   "setup": "una reunión familiar",
+   "type": "GOOD"
+  },
+  {
+   "id": "106962",
+   "punchlines": [
+    "de tu mamá para Danny Trejo",
+    "detallando un amorío de años",
+    "que incluye dibujos raros del abuelo",
+    "escritas con caca de gallina"
+   ],
+   "setup": "cartas de amor antiguas",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "106964",
+   "punchlines": [
+    "porque él es la cena",
+    "y no puede dejar de lamentarse por su vida",
+    "son dieciséis variedades de jamón",
+    "se come 6000 ostras, ¿qué carajos?"
+   ],
+   "setup": "invitas a un amigo a cenar",
+   "type": "GOOD"
+  },
+  {
+   "id": "106965",
+   "punchlines": [
+    "que han estado juntos desde aquella carrera de tres piernas del primer año",
+    "que se odian en secreto",
+    "tienen una ruptura que divide a la ciudad",
+    "pero ahí viene Pedro Pascal a separarlos"
+   ],
+   "setup": "parejas de la secundaria",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "106968",
+   "punchlines": [
+    "de alguien que le dicen Manos de hamburguesa",
+    "pero sus manos son muuuy ásperas",
+    "es Thanos",
+    "que lleva a una relajante llave de cabeza"
+   ],
+   "setup": "un masaje relajante en el cuello",
+   "type": "GOOD"
+  },
+  {
+   "id": "106969",
+   "punchlines": [
+    "pero están llenos de vaselina",
+    "están hechos de algo que se llama “piel de zorrillo”",
+    "están llenos de migas de Cheetos",
+    "el perro los usa de manta"
+   ],
+   "setup": "pantalones que te quedan perfectos",
+   "type": "GOOD"
+  },
+  {
+   "id": "106970",
+   "punchlines": [
+    "oooh, tiene efectos secundarios",
+    "copos de nieve de ácido",
+    "es el primer sorbo de agua que has tomado en días",
+    "la gente de arriba son están tirando sal",
+    "no es época de nieve"
+   ],
+   "setup": "atrapas copos de nieve con la lengua",
+   "type": "GOOD"
+  },
+  {
+   "id": "106972",
+   "punchlines": [
+    "es tu jefe",
+    "pero tiene un cuchillo en tu espalda",
+    "pero eres un títere",
+    "solo eres un filete que está a punto de comerse"
+   ],
+   "setup": "alguien te presenta como su mejor amigo",
+   "type": "GOOD"
+  },
+  {
+   "id": "106973",
+   "punchlines": [
+    "está lleno de perritos calientes",
+    "porque lo estás llenando con diarrea",
+    "estás usando calcetines",
+    "eres un sapo y se calienta de a poco, pero no te das cuenta"
+   ],
+   "setup": "un jacuzzi solo para ti",
+   "type": "GOOD"
+  },
+  {
+   "id": "106974",
+   "punchlines": [
+    "ahora ya no te puedes levantar, perdedor",
+    "está muy húmeda",
+    "¡olvidaste tu libro!",
+    "porque tu pareja es hippie y no tiene una cama de verdad",
+    "pero la hamaca está en el suelo"
+   ],
+   "setup": "descansas en una hamaca",
+   "type": "GOOD"
+  },
+  {
+   "id": "106975",
+   "punchlines": [
+    "¡por salirte con la tuya con un asesinato!",
+    "pero el espumante es ácido",
+    "...pero la botella está vacía",
+    "en un avión que está experimentando turbulencias serias"
+   ],
+   "setup": "un brindis con espumante",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "106978",
+   "punchlines": [
+    "se lo entregas inmediatamente a un prestamista",
+    "para pagar tu inmensa deuda de la tarjeta de crédito",
+    "que te lo gastas inmediatamente en comida rápida",
+    "porque para empezar, ganas muy poco dinero",
+    "pero solo porque el gobierno se desmorona"
+   ],
+   "setup": "devolución de impuestos mejor de lo esperado",
+   "type": "GOOD"
+  },
+  {
+   "id": "106979",
+   "punchlines": [
+    "pero es un rottweiller rabioso",
+    "porque eres una garrapata chupasangre en este dálmata",
+    "para intentar quitarle su juguete",
+    "se llama Perrote Malote"
+   ],
+   "setup": "le rascas detrás de la oreja a un perro",
+   "type": "GOOD"
+  },
+  {
+   "id": "106980",
+   "punchlines": [
+    "en Matilda y tienes 50 años",
+    "¡pero no sabes leer!",
+    "en la peor película de todos los tiempos",
+    "en una obra de teatro sobre personas horribles"
+   ],
+   "setup": "te dan el papel protagónico",
+   "type": "GOOD"
+  },
+  {
+   "id": "107011",
+   "punchlines": [
+    "por 3 días enteros",
+    "pero el bebé pesa 10 kilos",
+    "en el suelo de Burger King",
+    "fue el único DVD que tuviste desde los 5 a los 19",
+    "por tu pecho"
+   ],
+   "setup": "el milagro del nacimiento",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107012",
+   "punchlines": [
+    "de emociones porque el novio sigue huyendo de la boda",
+    "pero todos están vomitando",
+    "de los 1900",
+    "el magnate te atrapó en una atracción interminable y aburrida"
+   ],
+   "setup": "una montaña rusa",
+   "type": "GOOD"
+  },
+  {
+   "id": "107013",
+   "punchlines": [
+    "uy, asamos a Papá Noel",
+    "está chispeante por todo el asbesto",
+    "a la mitad de este parque infantil",
+    "lleno de cabello quemado"
+   ],
+   "setup": "una chimenea chispeante",
+   "type": "GOOD"
+  },
+  {
+   "id": "107015",
+   "punchlines": [
+    "y solo es matar ratones",
+    "y ves cómo los niños la deshacen",
+    "1. cagar 2. comer caca",
+    "y ahora tu vida está vacía"
+   ],
+   "setup": "completas tu lista de cosas por hacer",
+   "type": "GOOD"
+  },
+  {
+   "id": "107185",
+   "punchlines": [
+    "en tu cara",
+    "pero te sentaste en ella",
+    "¡es orina!",
+    "con fresca me refiero a que te congela"
+   ],
+   "setup": "una limonada fresca en un día caluroso",
+   "type": "GOOD"
+  },
+  {
+   "id": "107186",
+   "punchlines": [
+    "pero los dueños no te pagan",
+    "para que te visiten tus suegros",
+    "después que te desalojaron",
+    "ahora es un lugar perfecto para que viva el hombre rata"
+   ],
+   "setup": "una casa recién limpiada",
+   "type": "GOOD"
+  },
+  {
+   "id": "107384",
+   "punchlines": [
+    "por accidente",
+    "y los dientes salen con ellos",
+    "tu odontólogo es un caballo",
+    "tus dientes no están rectos, solo te aburriste de esa mierda"
+   ],
+   "setup": "te sacan los frenillos",
+   "type": "GOOD"
+  },
+  {
+   "id": "107385",
+   "punchlines": [
+    "y perdiste el cartón",
+    "pero del barrio, el premio es una caja de leche",
+    "te lo gastas todo en tu adicción a la carne de canguro",
+    "lo apuestas todo en carreras de tortugas"
+   ],
+   "setup": "ganas la lotería",
+   "type": "GOOD"
+  },
+  {
+   "id": "107388",
+   "punchlines": [
+    "que consume por completo un jardín infantil",
+    "que gotea cera caliente en tu regazo",
+    "con aroma a “pies de hombre”",
+    "que llena tu habitación con parabenos y te ahogas"
+   ],
+   "setup": "una vela aromática",
+   "type": "GOOD"
+  },
+  {
+   "id": "107389",
+   "punchlines": [
+    "es lo mejor que te puede pasar en la vida",
+    "pero se te rompen los pantalones al medio",
+    "los pinos gimen de placer",
+    "pero los pinos son tus primos bebés y se ponen a llorar"
+   ],
+   "setup": "haces una chuza en los bolos",
+   "type": "GOOD"
+  },
+  {
+   "id": "107404",
+   "punchlines": [
+    "está embrujaaada",
+    "en el vecindario “asesinato adiario”",
+    "perdón, escribí mal. te compraste una taza",
+    "pero necesitas suscribirte a la cochera por 15,99 dólares al mes"
+   ],
+   "setup": "te compraste una casa",
+   "type": "GOOD"
+  },
+  {
+   "id": "107405",
+   "punchlines": [
+    "mezclada con arsénico",
+    "en una cervecería que admite niños",
+    "en un día congelado",
+    "una botella de la cerveza más barata"
+   ],
+   "setup": "una cerveza bien fría",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107408",
+   "punchlines": [
+    "que menciona muchas veces la “salmonela”",
+    "que detalla cómo y cuándo moriré",
+    "oh, no, es una de cosas raras con caballos."
+   ],
+   "setup": "una canción country",
+   "type": "GOOD"
+  },
+  {
+   "id": "107409",
+   "punchlines": [
+    "en una cama de clavos",
+    "con Charles Manson",
+    "desnudo, con todos tus vecinos viendo",
+    "con tus dos piernas rotas"
+   ],
+   "setup": "bailas tango",
+   "type": "GOOD"
+  },
+  {
+   "id": "107410",
+   "punchlines": [
+    "lo atacan de inmediato los extraterrestres",
+    "es uno para alimentar a un bebé",
+    "pero todos los astronautas son terraplanistas",
+    "se lo traga un agujero negro",
+    "¡adiós, imbéciles! ¡hasta nunca!"
+   ],
+   "setup": "un lanzamiento de cohetes exitoso",
+   "type": "GOOD"
+  },
+  {
+   "id": "107411",
+   "punchlines": [
+    "el sofá te traga",
+    "pero te ahogas con migas de galletas",
+    "al poco tiempo que el perro lo meó",
+    "tu sofá grita siempre"
+   ],
+   "setup": "te sientas en el sofá después de un largo día de trabajo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107412",
+   "punchlines": [
+    "en un avión que va a chocar",
+    "pero la única comida que tienen es brócoli saladísimo",
+    "pero separas a una madre de su hijo",
+    "en un tren que va a un campo de concentración"
+   ],
+   "setup": "te pasan a primera clase",
+   "type": "GOOD"
+  },
+  {
+   "id": "107413",
+   "punchlines": [
+    "en tus venas",
+    "pero es el único agregado que tienes para tu noche de tacos",
+    "te la pasas por las piernas para que te quepa el pantalón",
+    "así te decían en el colegio"
+   ],
+   "setup": "mantequilla",
+   "type": "GOOD"
+  },
+  {
+   "id": "107415",
+   "punchlines": [
+    "hay adolescentes... ¡demasiados adolescentes!...",
+    "pero la única tienda abierta es una de lentes de sol",
+    "pero te demoras 40 minutos en encontrar estacionamiento",
+    "no hay patio de comidas, solo un restaurante que se llama Burger Kong"
+   ],
+   "setup": "un día en el centro comercial",
+   "type": "GOOD"
+  },
+  {
+   "id": "107416",
+   "punchlines": [
+    "pero no sabes nadar ni un poco",
+    "pero un cangrejo te pellizca mientras lees",
+    "se te mete arena en el culo",
+    "uy, eres una ballena"
+   ],
+   "setup": "un día de playa",
+   "type": "GOOD"
+  },
+  {
+   "id": "107417",
+   "punchlines": [
+    "que tiene repollo quién sabe porqué",
+    "que cuesta 21 dólares",
+    "que hace que te cagues en los pantalones de inmediato",
+    "se derrama en tu esmoquin"
+   ],
+   "setup": "un batido de fruta",
+   "type": "GOOD"
+  },
+  {
+   "id": "107420",
+   "punchlines": [
+    "que está decidido en destruirte",
+    "que es tan débil que no puede abrir ninguna puerta",
+    "que a cada cena le da una temática tropical",
+    "¡y literalmente huele mal! ¡como a vómito y diarrea!"
+   ],
+   "setup": "contratas a un mayordomo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107422",
+   "punchlines": [
+    "pero estás en una película de los peligros de la codicia",
+    "pero ahora tienes que dividir el dinero con tus 10000 cómplices",
+    "pero no llegan con el dinero porque se les cayó todo"
+   ],
+   "setup": "un asalto exitoso a un casino",
+   "type": "GOOD"
+  },
+  {
+   "id": "107423",
+   "punchlines": [
+    "con el sol tan fuerte que te quema todo",
+    "“¡TÉMPANO DE HIELO ADELANTE!”",
+    "los niños siguen cagándose en los toboganes acuáticos",
+    "el último atardecer de todos"
+   ],
+   "setup": "un crucero al atardecer",
+   "type": "GOOD"
+  },
+  {
+   "id": "107425",
+   "punchlines": [
+    "que cuesta 3.500 dólares",
+    "y será muy gracioso en 10 años más",
+    "que dura solo un día"
+   ],
+   "setup": "un corte de pelo increíble",
+   "type": "GOOD"
+  },
+  {
+   "id": "107426",
+   "punchlines": [
+    "o sea que son DOS paquetes de Doritos vencidos",
+    "y te acusan de hurto menor y vandalismo",
+    "antes que se vuelque y te aplaste",
+    "el producto está lleno de mordiscos de ratones"
+   ],
+   "setup": "la máquina expendedora suelta un producto más",
+   "type": "GOOD"
+  },
+  {
+   "id": "107436",
+   "punchlines": [
+    "justo antes de ser atropellados",
+    "que solo está guardada en un celular robado",
+    "pero ya no hablas con ninguno de ellos",
+    "con sus máscaras de gases"
+   ],
+   "setup": "una foto donde todos se ven bien",
+   "type": "GOOD"
+  },
+  {
+   "id": "107437",
+   "punchlines": [
+    "...que inicia 50 años de lluvias",
+    "el día que pusiste a secar toda tu ropa recién lavada",
+    "que ahoga y mata tus suculentas",
+    "pero es lluvia ácida"
+   ],
+   "setup": "una lluvia que pone fin a una sequía",
+   "type": "GOOD"
+  },
+  {
+   "id": "107461",
+   "punchlines": [
+    "sacrificando a tus compañeros inútiles",
+    "y el mundo exterior tal y como lo conoces cambió para siempre",
+    "solo. nadie te va a creer que lo lograste.",
+    "tras nueve años de estar atrapado"
+   ],
+   "setup": "por fin te vas de la sala de escape",
+   "type": "GOOD"
+  },
+  {
+   "id": "107462",
+   "punchlines": [
+    "que acaba de ser aplastado al fondo de una cartera",
+    "debajo de tu pie",
+    "que no permite el cierre del refrigerador",
+    "que lo tiras como búmeran para atrapar koalas"
+   ],
+   "setup": "un plátano perfectamente maduro",
+   "type": "GOOD"
+  },
+  {
+   "id": "107464",
+   "punchlines": [
+    "con “Master of Puppets” de fondo",
+    "pero odia que le digas pareja",
+    "en el Titanic",
+    "en la boda de tu amigo mujeriego",
+    "pero sigue susurrando una plegaria para que vuelvas a convertirte en una bestia"
+   ],
+   "setup": "bailas lento con tu pareja",
+   "type": "GOOD"
+  },
+  {
+   "id": "107468",
+   "punchlines": [
+    "saca una guitarra acústica",
+    "coquetea con tu cita",
+    "y eres alérgico",
+    "perdón, perro caliente en una fiesta. un solo perro caliente triste es todo lo que hay"
+   ],
+   "setup": "un perro en una fiesta",
+   "type": "GOOD"
+  },
+  {
+   "id": "107469",
+   "punchlines": [
+    "para el año 2020",
+    "pero no sabes contar aaah",
+    "en febrero",
+    "completamente solo jugando solitario"
+   ],
+   "setup": "Cuenta atrás de Nochevieja",
+   "type": "GOOD"
+  },
+  {
+   "id": "107485",
+   "punchlines": [
+    "pero tu cabello es de espagueti",
+    "y te caes a un lago",
+    "atraes a pájaros buscando un nido",
+    "pero eres Pie grande"
+   ],
+   "setup": "un buen día peinado",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "107489",
+   "punchlines": [
+    "todos los demás son exiliados",
+    "porque su caballo estaba dopado",
+    "y le arruinó el cumpleaños a un niño de 10 años",
+    "resulta que es el matón de tu colegio"
+   ],
+   "setup": "tu caballero gana en la Edad Media",
+   "type": "GOOD"
+  },
+  {
+   "id": "107491",
+   "punchlines": [
+    "pero estás lleno de veneno para mariposas",
+    "justo como lo predijo la profecía del fin del mundo",
+    "y no hay nada más para comer",
+    "y te llena con hermosos parásitos de mariposa"
+   ],
+   "setup": "una mariposa se posa en ti",
+   "type": "GOOD"
+  },
+  {
+   "id": "107518",
+   "punchlines": [
+    "que en secreto roba tu identidad",
+    "que no le ha hablado a su hijo en ocho años",
+    "que es “tranquila” pero está enojada en secreto"
+   ],
+   "setup": "una tortuga mascota tranquila",
+   "type": "GOOD"
+  },
+  {
+   "id": "107519",
+   "punchlines": [
+    "sobre todas las teorías conspirativas",
+    "y nunca se calla",
+    "pero si sabe lo que le conviene... no lo haría",
+    "sobre cienciología"
+   ],
+   "setup": "un loro que habla",
+   "type": "GOOD"
+  },
+  {
+   "id": "107521",
+   "punchlines": [
+    "donde te pidieron tu número de tarjeta de crédito",
+    "pero todos los empleados están vomitando",
+    "pero tocan la vuvuzela durante tu masaje"
+   ],
+   "setup": "un spa relajante",
+   "type": "GOOD"
+  },
+  {
+   "id": "107522",
+   "punchlines": [
+    "pero se avecina un levantamiento contra la humanidad",
+    "está lleno de arenas movedizas",
+    "pero tu perro se burla de ti con sus amigos perrunos",
+    "todos los perros se atascan en los arbustos espinosos",
+    "de hecho, es un parque de perros calientes"
+   ],
+   "setup": "el parque para perros de tu comunidad",
+   "type": "GOOD"
+  },
+  {
+   "id": "107523",
+   "punchlines": [
+    "llena de pañales sucios",
+    "pero toda la cabaña está hecha de fósforos",
+    "pero el lago no tiene agua, solo yogur griego",
+    "que te arrienda Amazon",
+    "en el bello Lago de la muerte"
+   ],
+   "setup": "una cabaña de verano junto al lago",
+   "type": "GOOD"
+  },
+  {
+   "id": "107524",
+   "punchlines": [
+    "pero te está recomendando para arrojarte por una catapulta",
+    "pero te está cobrando caro, solo en efectivo",
+    "pero la carta te describe como “impresionantemente mediocre”",
+    "para conseguir ese trabajo en las minas de sal"
+   ],
+   "setup": "carta de recomendación del profesor genial",
+   "type": "GOOD"
+  },
+  {
+   "id": "107526",
+   "punchlines": [
+    "que rebosa de pan mohoso",
+    "que se niega a ser donado a organizaciones benéficas",
+    "por el que pagarás un enorme impuesto de aventurero"
+   ],
+   "setup": "un cofre del tesoro rebosante",
+   "type": "GOOD"
+  },
+  {
+   "id": "107528",
+   "punchlines": [
+    "pero se llama Simulador de perdedor",
+    "se llama Pierde a todos tus amigos",
+    "se llama Gran premio de colonoscopia",
+    "que tardaste 60 años en completarlo"
+   ],
+   "setup": "ganas en un juego de mesa",
+   "type": "GOOD"
+  },
+  {
+   "id": "107529",
+   "punchlines": [
+    "pero aún así chocaron, solo que suavemente",
+    "pero todos están tocando el triángulo",
+    "pero el piloto te hace contribuir al combustible del avión",
+    "el avión navega suavemente sobre el agua"
+   ],
+   "setup": "un vuelo sin turbulencias",
+   "type": "GOOD"
+  },
+  {
+   "id": "107530",
+   "punchlines": [
+    "era de autoayuda para aprender a hacer amigos",
+    "pero es un libro sobre tus fracasos",
+    "pero la reunión del club fue hace dos años",
+    "era Crepúsculo, a nadie le interesa",
+    "que nadie más leyó, esos flojos"
+   ],
+   "setup": "terminas el libro para el club de lectura",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "107531",
+   "punchlines": [
+    "pero estás bastante seguro que los tuyos eran poliestireno expandido",
+    "en un voraz incendio forestal",
+    "en la cocina de la oficina, así que te despiden",
+    "pero ya no saben a tu juventud"
+   ],
+   "setup": "asas malvaviscos",
+   "type": "GOOD"
+  },
+  {
+   "id": "107534",
+   "punchlines": [
+    "pero todas las pistolas disparan colonia",
+    "que determina la soberanía de tu nación",
+    "durante la peor sequía en un siglo",
+    "dentro de un laboratorio de investigación de enfermedades"
+   ],
+   "setup": "una guerra de pistolas de agua en verano",
+   "type": "GOOD"
+  },
+  {
+   "id": "107535",
+   "punchlines": [
+    "solo porque te dejaron plantado en el altar",
+    "mientras te escondes del monstruo asesino",
+    "ahí te enfermaste del estómago",
+    "mientras te sacan el bastón de esquí del ojo"
+   ],
+   "setup": "agradables conversaciones en el refugio de esquí",
+   "type": "GOOD"
+  },
+  {
+   "id": "107536",
+   "punchlines": [
+    "con unas gafas de realidad virtual que te hacen vomitar",
+    "todos los lugares de la ciudad en los que han terminado contigo",
+    "y lo único que ves son restaurantes de comida rápida",
+    "olvidaste tus esquís",
+    "la destrucción que causaste en los pueblos de abajo"
+   ],
+   "setup": "miras desde la cima de una montaña",
+   "type": "GOOD"
+  },
+  {
+   "id": "107537",
+   "punchlines": [
+    "así que puedes escuchar a tus padres discutir por dinero",
+    "solo dan infomerciales en la tele",
+    "pero tu tarea es disecar algo en tu casa",
+    "perdón, en realidad es un invierno nuclear",
+    "raro, porque aquí nunca nieva"
+   ],
+   "setup": "un día sin colegio por la nieve",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "107538",
+   "punchlines": [
+    "y te asaltan cuando vuelves a tu casa",
+    "en una moneda que se llama “Dólares Brayanescos”",
+    "y el 50 % de una cuenta de 4 dólares es 2 dólares",
+    "que un caballero se sacó de la nariz"
+   ],
+   "setup": "recibes una propina generosa",
+   "type": "GOOD"
+  },
+  {
+   "id": "107539",
+   "punchlines": [
+    "que representan una pelea entre dos caracoles",
+    "pero el pastor tedioso sigue divagando sin parar",
+    "hermosas vidrieras que se rompen al menor contacto",
+    "que representan a San Tulio Triviño y San Juan Carlos Bodoque"
+   ],
+   "setup": "hermosas vidrieras",
+   "type": "GOOD"
+  },
+  {
+   "id": "107541",
+   "punchlines": [
+    "si es que no cuentas todos los divorcios",
+    "que marca 50 años de odio mutuo",
+    "oh... ¡¿es hoy?!"
+   ],
+   "setup": "50 aniversario de boda",
+   "type": "GOOD"
+  },
+  {
+   "id": "107543",
+   "punchlines": [
+    "justo como el gato lo planeó...",
+    "y aún así el tontito te rasguña",
+    "que era de un ladrón que te asalta mientras estás distraído",
+    "pero ahora te cuenta todo tipo de secretos felinos extraños"
+   ],
+   "setup": "te ganas la confianza de un gato callejero",
+   "type": "GOOD"
+  },
+  {
+   "id": "107544",
+   "punchlines": [
+    "que te hace desaparecer para siempre",
+    "y no saber cómo se hace te vuelve loco",
+    "pero a los matones del colegio no le interesa",
+    "pero ahora me llevan preso por la desaparición de mi hermanita"
+   ],
+   "setup": "un truco de magia muy bueno",
+   "type": "GOOD"
+  },
+  {
+   "id": "107545",
+   "punchlines": [
+    "cuando no hay nadie cerca para asombrarse",
+    "justo arriba de un bebé recién nacido",
+    "...te despiertas y te das cuenta que todo fue un sueño",
+    "en la isla desierta que será tu hogar durante los próximos 70 años"
+   ],
+   "setup": "aterrizas una voltereta hacia atrás",
+   "type": "GOOD"
+  },
+  {
+   "id": "107546",
+   "punchlines": [
+    "que grita cuando se mueve",
+    "dentro de un baño público",
+    "que no puede columpiarse a menos de 90 km/h o explota",
+    "que los cuervos reclamaron como suyo"
+   ],
+   "setup": "te relajas en un columpio",
+   "type": "GOOD"
+  },
+  {
+   "id": "107547",
+   "punchlines": [
+    "que no pudo resistir la explosión",
+    "hecho de dibujos de almohadas",
+    "pero huele mucho a orina"
+   ],
+   "setup": "un castillo de almohadas",
+   "type": "GOOD"
+  },
+  {
+   "id": "107548",
+   "punchlines": [
+    "en Chernóbil",
+    "que da frutos malignos",
+    "luego lo abandonas, como un moroso",
+    "en tu ombligo"
+   ],
+   "setup": "plantas un árbol",
+   "type": "GOOD"
+  },
+  {
+   "id": "107553",
+   "punchlines": [
+    "para que pueda vivir el resto de su vida en un zoológico pequeñísimo",
+    "luego le cobras 200.000 dólares por el tratamiento médico",
+    "pero ya no va a poder jugar fútbol",
+    "al convertirla en un cyborg y ahora es un peligro para sí misma y para todo el océano"
+   ],
+   "setup": "rehabilitas a una foca herida",
+   "type": "GOOD"
+  },
+  {
+   "id": "107554",
+   "punchlines": [
+    "que se derriten lentamente en un lago tóxico",
+    "en una persecución acuática a alta velocidad",
+    "moviéndose a través del hormigón"
+   ],
+   "setup": "botes de remos",
+   "type": "GOOD"
+  },
+  {
+   "id": "107555",
+   "punchlines": [
+    "antes de una caída de globo aerostático",
+    "por un huracán, un tornado y una tormenta",
+    "y aún así ella rechaza tu propuesta de matrimonio",
+    "durante la migración de miles de golondrinas asustadas"
+   ],
+   "setup": "un viaje en globo aerostático",
+   "type": "GOOD"
+  },
+  {
+   "id": "107556",
+   "punchlines": [
+    "30 años tarde",
+    "al cambiar “3” por un “8” con un lápiz",
+    "pero tu papá nunca estará orgulloso de ti",
+    "haciendo favores delictivos a tu profesor de matemáticas de la universidad"
+   ],
+   "setup": "te va excelente en una prueba de matemáticas",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": false,
+   "id": "107557",
+   "punchlines": [
+    "está en su “era triángulo eléctrico”",
+    "está inspirado por todas los fraudes de Donald Trump",
+    "en el que estrena su faceta hip hop",
+    "que contiene versiones jazz de canciones populares de sus álbumes anteriores"
+   ],
+   "setup": "el más reciente álbum de Taylor Swift",
+   "type": "GOOD"
+  },
+  {
+   "id": "107558",
+   "punchlines": [
+    "el envase de la crema para hemorroides no es discreto",
+    "oye, la caja está llena de langostas.",
+    "el repartidor lo dejó a salvo en el techo de tu casa"
+   ],
+   "setup": "llegó tu paquete",
+   "type": "GOOD"
+  },
+  {
+   "id": "107559",
+   "punchlines": [
+    "que son hojaldres de piel humana",
+    "triturados y espolvoreados sobre tus sábanas",
+    "que se llevan cientos de hormigas",
+    "de Panadería de Microplásticos"
+   ],
+   "setup": "pasteles hojaldrados y mantecosos",
+   "type": "GOOD"
+  },
+  {
+   "id": "107561",
+   "punchlines": [
+    "se la lanzas a un intruso en tu casa",
+    "llena de orina caliente y espumosa",
+    "la traqueteas contra los barrotes de tu celda",
+    "en manos del nuevo amor de tu ex"
+   ],
+   "setup": "tu taza de café favorita",
+   "type": "GOOD"
+  },
+  {
+   "id": "107562",
+   "punchlines": [
+    "se te quedan pegadas en los dientes por un mes",
+    "sazonadas con sal de mar",
+    "pero es un musical de 6 horas",
+    "te cuestan 100 dólares",
+    "pero estás viendo el Festival de documentales aburridos"
+   ],
+   "setup": "palomitas de maíz del cine",
+   "type": "GOOD"
+  },
+  {
+   "id": "107563",
+   "punchlines": [
+    "que contiene una maldición antigua",
+    "repleto de chinches",
+    "que te da tétanos",
+    "que te susurra malicia y odio en las horas oscuras"
+   ],
+   "setup": "un hallazgo genial en una venta de garaje",
+   "type": "GOOD"
+  },
+  {
+   "id": "107576",
+   "punchlines": [
+    "en la exposición de cocodrilos",
+    "que se acercan a ti en formación de ataque",
+    "el día de apertura de la temporada de caza",
+    "pero les das de comer pan al que son alérgicos"
+   ],
+   "setup": "patos en un estanque",
+   "type": "GOOD"
+  },
+  {
+   "id": "107577",
+   "punchlines": [
+    "en una situación de rehenes en el banco",
+    "en la secta",
+    "es un perro rabioso",
+    "pero te olvida de inmediato"
+   ],
+   "setup": "haces un nuevo amigo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107579",
+   "punchlines": [
+    "besando tu propia mano",
+    "en la “Cámara de los feos”",
+    "todos abuchean",
+    "¡¡¡pero se supone que tenías que estar en el colegio!!!"
+   ],
+   "setup": "apareces en la pantalla gigante del evento deportivo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107580",
+   "punchlines": [
+    "con el nombre mal escrito “Bard Pitt”",
+    "para un asesino en serie famoso",
+    "tapada por un vendedor ambulante de comida",
+    "que tú mismo dibujaste"
+   ],
+   "setup": "una estrella en el Paseo de la fama de Hollywood",
+   "type": "GOOD"
+  },
+  {
+   "id": "107581",
+   "punchlines": [
+    "para el cuarto matrimonio de una amiga",
+    "que para participar te cuesta el alquiler de un mes",
+    "para celebrar que se casa con Brayatan"
+   ],
+   "setup": "una despedida de soltera",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107582",
+   "punchlines": [
+    "les prenden fuego y los dejan en tu puerta",
+    "bueno, esta cuerda sirve como hilo dental",
+    "está lleno de cremas que envió tu tía rara",
+    "con una amenaza de muerte adentro"
+   ],
+   "setup": "paquetes de papel atados con cuerda",
+   "type": "GOOD"
+  },
+  {
+   "id": "107739",
+   "punchlines": [
+    "pero te rompes todos los dientes",
+    "donde trabaja el empleado raro de las camas elásticas",
+    "todas las camas elásticas están mojadas",
+    "y tienes dos tazas de chocolate caliente",
+    "pero acabas de operarte de una hernia"
+   ],
+   "setup": "un parque de camas elásticas",
+   "type": "GOOD"
+  },
+  {
+   "id": "107772",
+   "punchlines": [
+    "que robó de tu cosecha",
+    "con “lechuga” me refiero a tus billetes",
+    "de una barra de ensaladas de tu boda",
+    "¡¡¡que era lo último que quedaba para comer en esta isla desierta!!!"
+   ],
+   "setup": "un conejito comiendo lechuga",
+   "type": "GOOD"
+  },
+  {
+   "id": "107773",
+   "punchlines": [
+    "y poco a poco te asfixia",
+    "en verdad quiere robar tu billetera",
+    "todos pueden menos tú",
+    "en verdad es tu ex con un disfraz de perro"
+   ],
+   "setup": "un perro enorme que le encanta que lo acaricien",
+   "type": "GOOD"
+  },
+  {
+   "id": "107774",
+   "punchlines": [
+    "porque es adicto a la cafeína",
+    "en un funeral sombrío",
+    "porque está sobre brasas ardientes"
+   ],
+   "setup": "un panda rojo saltando por ahí",
+   "type": "GOOD"
+  },
+  {
+   "id": "107775",
+   "punchlines": [
+    "con una hipoteca al 20 % de interés",
+    "donde tu papá está viviendo últimamente",
+    "que con sus raíces está rompiendo la casa real",
+    "donde vive el nuevo amigo invisible del niño, el Sr. Hambre"
+   ],
+   "setup": "una bonita casa en un árbol",
+   "type": "GOOD"
+  },
+  {
+   "id": "107777",
+   "punchlines": [
+    "ahora son dos florerías que compiten entre sí",
+    "tiene un juego: cajero automático",
+    "solo tiene un premio: antiácidos",
+    "donde hubo un tiroteo y fallecieron 20 personas"
+   ],
+   "setup": "los juegos arcade de tu infancia",
+   "type": "GOOD"
+  },
+  {
+   "id": "107778",
+   "punchlines": [
+    "donde las piscinas están llenas de curitas",
+    "sin agua, solo vinagre",
+    "clasificado #1 en infracciones de seguridad",
+    "80 % orina"
+   ],
+   "setup": "un parque acuático",
+   "type": "GOOD"
+  },
+  {
+   "id": "107779",
+   "punchlines": [
+    "lleno de sus salivas porque tosió mucho",
+    "que solo tiene los bordes",
+    "pero tiene caca de perro"
+   ],
+   "setup": "un sándwich que hizo tu mamá",
+   "type": "GOOD"
+  },
+  {
+   "id": "107780",
+   "punchlines": [
+    "completamente cubierto de jarabe para la tos",
+    "del restaurante donde no se lavan las manos",
+    "sin mantequilla, solo mostaza"
+   ],
+   "setup": "un montón de panqueques",
+   "type": "GOOD"
+  },
+  {
+   "id": "107781",
+   "punchlines": [
+    "que te agradece sarcásticamente por ser tan genial",
+    "escrita sin duda con sangre",
+    "tu amigo usó IA para escribirla",
+    "el papel está hecho de finas lonjas de jamón"
+   ],
+   "setup": "una tarjeta de agradecimiento sincera",
+   "type": "GOOD"
+  },
+  {
+   "id": "107782",
+   "punchlines": [
+    "que te llegó un año tarde",
+    "para la Universidad de títulos financieramente decepcionantes",
+    "que falsifiqué y me envié a mí mismo"
+   ],
+   "setup": "una carta de aceptación universitaria",
+   "type": "GOOD"
+  },
+  {
+   "id": "107783",
+   "punchlines": [
+    "después de fallar el tiro del millón de dólares",
+    "en el aro de tu propio equipo",
+    "por error durante un concurso de clavadas",
+    "pero era un sueño y destrozaste tu televisor con una almohada"
+   ],
+   "setup": "anotar un triple en baloncesto",
+   "type": "GOOD"
+  },
+  {
+   "id": "107784",
+   "punchlines": [
+    "…después de mil intentos",
+    "pero lo conseguiste haciendo trampa",
+    "que nadie vio ni cree"
+   ],
+   "setup": "haces un hoyo en uno en el golf",
+   "type": "GOOD"
+  },
+  {
+   "id": "107785",
+   "punchlines": [
+    "usando un brazo humano",
+    "mientras el perro te vende seguros",
+    "solo para darle celos a tu gato",
+    "pero tu novio no es muy bueno haciéndolo",
+    "con intestinos humanos crudos"
+   ],
+   "setup": "jugar a tirar algo y traerlo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107787",
+   "punchlines": [
+    "te interrumpe una banda de música",
+    "al pagar una suscripción mensual",
+    "pero, ¿y ahora qué?"
+   ],
+   "setup": "alcanzas el nirvana",
+   "type": "GOOD"
+  },
+  {
+   "id": "107789",
+   "punchlines": [
+    "que te asusta tanto que vomitas",
+    "que tu pareja no pudo conseguir invitados",
+    "que todos asumieron que tú pagarías",
+    "es una sorpresa porque te llevaron al basural"
+   ],
+   "setup": "una fiesta sorpresa de cumpleaños",
+   "type": "GOOD"
+  },
+  {
+   "id": "107791",
+   "punchlines": [
+    "pero todos son intolerantes a la lactosa",
+    "e inmediatamente se te caen",
+    "pero son tres pizzas para cien personas"
+   ],
+   "setup": "llegas con pizzas a una fiesta",
+   "type": "GOOD"
+  },
+  {
+   "id": "107794",
+   "punchlines": [
+    "es la última comida que pediste antes de tu ejecución",
+    "y no deja de estornudar",
+    "y a alguien se le cayeron canicas por todo el restaurante",
+    "pediste un plato llamado El mimado y descuidado"
+   ],
+   "setup": "la mesera viene con tu comida",
+   "type": "GOOD"
+  },
+  {
+   "id": "107796",
+   "punchlines": [
+    "que dice que se lo pases a alguien más popular",
+    "un mensaje de amor explícito dirigida a papá",
+    "tienes 45 años",
+    "m.a.m.á. = malvada ama mortal ácida"
+   ],
+   "setup": "un mensaje de tu mamá en tu almuerzo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107797",
+   "punchlines": [
+    "avisándote que va a volver con su ex",
+    "es una estafa para que le des los datos de tu tarjeta de crédito",
+    "una foto suya con su nueva pareja",
+    "avisándote que se va a vivir a un país lejísimos"
+   ],
+   "setup": "recibes un mensaje de texto de la persona que te gusta",
+   "type": "GOOD"
+  },
+  {
+   "id": "107798",
+   "punchlines": [
+    "para ponerte los zapatos de payaso del trabajo",
+    "y muestras tus horribles dedos",
+    "por primera vez en 10 años",
+    "y muestras tus PIES DE POLLO"
+   ],
+   "setup": "te sacas los calcetines",
+   "type": "GOOD"
+  },
+  {
+   "id": "107799",
+   "punchlines": [
+    "para ellos, “genial” significa algo diferente",
+    "irónicamente",
+    "por las sustancias ilícitas que les diste",
+    "pero esos adolescentes no son geniales"
+   ],
+   "setup": "adolescentes piensan que eres genial",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107800",
+   "punchlines": [
+    "que la rompe inmediatamente",
+    "y la tiras a un basural, para siempre",
+    "y le pegas una pegatina de Calvin meando",
+    "tan satisfactorio que inmediatamente te sientes en armonía con el universo"
+   ],
+   "setup": "le sacas la cubierta plástica a una pantalla",
+   "type": "GOOD"
+  },
+  {
+   "id": "107801",
+   "punchlines": [
+    "que emana de tu boca",
+    "en la isla desierta en la que estás varado",
+    "que lo disfrutas en la cubierta del Titanic",
+    "era tu apodo futbolístico, por todo el sudor"
+   ],
+   "setup": "el olor salado del mar",
+   "type": "GOOD"
+  },
+  {
+   "id": "107809",
+   "punchlines": [
+    "que lo tiran a tu parabrisas",
+    "que lo tiraron a un ventilador industrial cercano",
+    "con queso parmesano a base de caspa",
+    "ese es el nombre que usas para fingir ser italiano",
+    "lo usas como trapero"
+   ],
+   "setup": "fetuchini alfredo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107810",
+   "punchlines": [
+    "que lleva directo al infierno",
+    "en un autolavado funcionando",
+    "que va al tráfico en sentido contrario",
+    "en este acantilado, como Homero en patineta"
+   ],
+   "setup": "una fila de conga",
+   "type": "GOOD"
+  },
+  {
+   "id": "107819",
+   "punchlines": [
+    "y te sacas un pedazo de piel",
+    "¡¡¡PERO TODAVÍA TE PICA!!!",
+    "con un rallador de queso",
+    "hasta el fondo de tus fosas nasales"
+   ],
+   "setup": "por fin te rascas donde te pica",
+   "type": "GOOD"
+  },
+  {
+   "id": "107820",
+   "punchlines": [
+    "donde las chinces crecen",
+    "que nunca lavan",
+    "que hicieron niños pequeños",
+    "que tienen los bolsillos llenos de mermelada de naranja"
+   ],
+   "setup": "descansas en con las cómodas batas de hotel",
+   "type": "GOOD"
+  },
+  {
+   "id": "107821",
+   "punchlines": [
+    "que no tiene los permisos necesarios",
+    "que usa jugo en polvo de limón",
+    "¡que bloquea la vereda!",
+    "sin nada de azúcar ni agua, solo jugo de limón"
+   ],
+   "setup": "un puesto de limonada de un niño",
+   "type": "GOOD"
+  },
+  {
+   "id": "107822",
+   "punchlines": [
+    "quedó traumado con lo que vió en el camino",
+    "para terminar lo que comenzó",
+    "su familia consiguió un gato para reemplazarlo y sabe andar en patineta",
+    "el perro está anciano y solo se había perdido en el patio"
+   ],
+   "setup": "un perro encuentra cómo volver a su casa",
+   "type": "GOOD"
+  },
+  {
+   "id": "107824",
+   "punchlines": [
+    "en una habitación dentro de una tienda de sándwiches",
+    "dentro de un reactor nuclear",
+    "en un cuarto de limpieza"
+   ],
+   "setup": "un mes gratis de arriendo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107825",
+   "punchlines": [
+    "les das tus propios dedos",
+    "son buitres que se comen tu cadáver",
+    "semillas para pájaron envenenadas",
+    "pero es una película de Hitchcock"
+   ],
+   "setup": "alimentas aves en el parque",
+   "type": "GOOD"
+  },
+  {
+   "id": "107826",
+   "punchlines": [
+    "luego te mantiene como rehén",
+    "sin pantalones",
+    "tiene maquillaje de payaso malvado",
+    "pero ahora piensa que estás obligado a tener una cena rara con él y su pareja aún más rara"
+   ],
+   "setup": "un extraño sostiene el ascensor",
+   "type": "GOOD"
+  },
+  {
+   "id": "107827",
+   "punchlines": [
+    "de fotos policiales",
+    "de muestras de heces",
+    "de tu pareja engañándote"
+   ],
+   "setup": "hojeas un viejo álbum familiar",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107830",
+   "punchlines": [
+    "con un hoyo de temática Chernóbil",
+    "pero una de cada diez pelotas es consciente y siente dolor",
+    "pero no llegó nadie a tu cumpleaños",
+    "donde todos los hoyos es una representación del dilema del tranvía"
+   ],
+   "setup": "un elaborado campo de minigolf",
+   "type": "GOOD"
+  },
+  {
+   "id": "107831",
+   "punchlines": [
+    "perdón, quise decir “pedo con caca”",
+    "en tu cara",
+    "en una entrevista de trabajo",
+    "cuando te arrodillas para proponerle matrimonio a tu pareja"
+   ],
+   "setup": "un pedo muy necesario",
+   "type": "GOOD"
+  },
+  {
+   "id": "107832",
+   "punchlines": [
+    "no verás venir al tiburón",
+    "vas a tener quintillizos",
+    "tu alma gemela acaba de casarse",
+    "...vas a tener un nuevo trabajo porque mañana te van a despedir"
+   ],
+   "setup": "una adivina te da novedades",
+   "type": "GOOD"
+  },
+  {
+   "id": "107833",
+   "punchlines": [
+    "ahora recuerdas lo mal que huele tu departamento",
+    "espera, ya no, estás congestionado de nuevo",
+    "¡Te mejoraste! Genial, vuelve al trabajo.",
+    "pero el bloqueo estaba evitando que tu cerebro se congele"
+   ],
+   "setup": "fosas nasales limpias después de un largo resfriado",
+   "type": "GOOD"
+  },
+  {
+   "id": "107834",
+   "punchlines": [
+    "de tu auto recién comprado",
+    "que destruye todas las tejas",
+    "caga por todas partes y se niega a irse",
+    "tuyo, o sea tu cabeza"
+   ],
+   "setup": "un reno de Papá Noel en el techo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107835",
+   "punchlines": [
+    "en el Hotel Salmonela",
+    "y la extraña mezcla de huevos lleva un rato fuera del refrigerador",
+    "y el chef que dirige la cocina no deja de relamerse los labios",
+    "¿hay restos de huesos en la mezcla de huevos?"
+   ],
+   "setup": "omelets a la carta",
+   "type": "GOOD"
+  },
+  {
+   "id": "107837",
+   "punchlines": [
+    "así que técnicamente te ganó",
+    "en la Carrera de la independencia personal",
+    "al día siguiente que la carrera terminó",
+    "¿quién era? Wario."
+   ],
+   "setup": "le ayudas a otro corredor a cruzar la línea de meta",
+   "type": "GOOD"
+  },
+  {
+   "id": "107839",
+   "punchlines": [
+    "que incumple el código de vestimenta del colegio",
+    "que no se le sale la mancha de grasa",
+    "sobre unos pantalones horribles",
+    "con dos agujeros enormes en las axilas"
+   ],
+   "setup": "una camisa que te favorece para una primera cita",
+   "type": "GOOD"
+  },
+  {
+   "id": "107840",
+   "punchlines": [
+    "de veneno para ratas",
+    "si te quedas en una presentación de estafa piramidal de 6 horas",
+    "de carnada viva para pescar",
+    "NUEVAS galletas de uñas"
+   ],
+   "setup": "una bandeja con muestras gratis",
+   "type": "GOOD"
+  },
+  {
+   "id": "107842",
+   "punchlines": [
+    "pero no es suficiente para pagar el préstamo usurero que pediste",
+    "en teoría",
+    "te pagaron en monedas",
+    "y te pagan en monedas de chocolate"
+   ],
+   "setup": "el día de pago",
+   "type": "GOOD"
+  },
+  {
+   "id": "107843",
+   "punchlines": [
+    "en tus formularios de impuestos",
+    "en todos los pomos de la casa",
+    "que lo usas como peluquín",
+    "pero lo único que tienes para remojar son trozos de salmón crudo"
+   ],
+   "setup": "fondue de chocolate derretido",
+   "type": "GOOD"
+  },
+  {
+   "id": "107863",
+   "punchlines": [
+    "que nadie quiso y lo reregalaron por quinta vez",
+    "de la marca Vomitoso",
+    "derramados en el suelo de una iglesia",
+    "que huelen a culo"
+   ],
+   "setup": "una cesta de regalo llena de productos de baño",
+   "type": "GOOD"
+  },
+  {
+   "id": "107864",
+   "punchlines": [
+    "¡que se cayó al suelo! ¡madre mía!",
+    "recubierta de resina",
+    "pero eres intolerante a la lactosa",
+    "en el regazo de papá"
+   ],
+   "setup": "lasaña de mamá",
+   "type": "GOOD"
+  },
+  {
+   "id": "107865",
+   "punchlines": [
+    "que solo vende libros de autoayuda",
+    "con dinero de Monopoly",
+    "que se incendia a más no poder"
+   ],
+   "setup": "una librería local",
+   "type": "GOOD"
+  },
+  {
+   "id": "107866",
+   "punchlines": [
+    "en la puerta de tu casa, está jugando a tocar el timbre y salir corriendo",
+    "tiene COVID de nuevo",
+    "con disfraz de gatita",
+    "que resulta ser un extraterrestre juntando dinero para irse de la Tierra"
+   ],
+   "setup": "Tom Hanks",
+   "type": "GOOD"
+  },
+  {
+   "id": "107869",
+   "punchlines": [
+    "pero rellenan los osos con camarón",
+    "pero solo si pasas geometría (no lo pasas)",
+    "con el Dr. Frankenstein, que arma literalmente osos vivos"
+   ],
+   "setup": "visitas un taller de armado de ositos",
+   "type": "GOOD"
+  },
+  {
+   "id": "107870",
+   "punchlines": [
+    "sobre tu abuelito",
+    "al estilo de Winnie the Pooh",
+    "que lo graba la policía",
+    "pero ahora estás en la lista negra de Tony Hawk"
+   ],
+   "setup": "haces un truco genial con una patineta",
+   "type": "GOOD"
+  },
+  {
+   "id": "107871",
+   "punchlines": [
+    "ya no está disponible por un \"gran accidente de alcantarillado\"",
+    "estás a solas",
+    "bajo una luz negra"
+   ],
+   "setup": "la suite nupcial",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107874",
+   "punchlines": [
+    "que siguen puestos en julio",
+    "que causan el 15 % de los incendios domésticos",
+    "que eran hogar de una familia de mapaches que ahora están muertos",
+    "solo con decoraciones de Jack Skellington"
+   ],
+   "setup": "árboles navideños",
+   "type": "GOOD"
+  },
+  {
+   "id": "107876",
+   "punchlines": [
+    "según Donald Trump",
+    "que suena en bucle en la consulta del dentista",
+    "o, de lo que queda de Estados Unidos",
+    "(pero es una versión de Taylor Swift)"
+   ],
+   "setup": "la canción número 1 en Estados Unidos",
+   "type": "GOOD"
+  },
+  {
+   "id": "107897",
+   "punchlines": [
+    "corriendo y cagando por todas partes",
+    "en el basurero comiéndose mi basura",
+    "mordiendo a la gente",
+    "haciendo tonterías y ahora Sauron tiene el Anillo único"
+   ],
+   "setup": "hobbits",
+   "type": "GOOD"
+  },
+  {
+   "id": "107900",
+   "punchlines": [
+    "masacrando siervos",
+    "porque se está quemando",
+    "pero trabaja al aire libre con 50° C",
+    "está atascado en un imán",
+    "lo vencen rápidamente cinco adolescentes de tiempos modernos"
+   ],
+   "setup": "un caballero con armadura brillante",
+   "type": "GOOD"
+  },
+  {
+   "id": "107901",
+   "punchlines": [
+    "que estuvo sin refrigerar por dos semanas",
+    "en tu colon",
+    "era tu apodo en el colegio",
+    "o sea, rodajas de jamón que le tiran a los autos"
+   ],
+   "setup": "jamón",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "107902",
+   "punchlines": [
+    "pero... todavía está Trump",
+    "pero... impuestos",
+    "eh, no en verdad, perdón",
+    "solo para un par de personas, perdón"
+   ],
+   "setup": "el sueño estadounidense",
+   "type": "GOOD"
+  },
+  {
+   "id": "107903",
+   "punchlines": [
+    "de molotov",
+    "que necesitas desesperadamente a las 7 de la mañana",
+    "con una pajita muy ancha",
+    "servidos en un sombrero de vaquero"
+   ],
+   "setup": "cócteles",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107904",
+   "punchlines": [
+    "que odia TODO lo nuevo",
+    "pero tienen rituales",
+    "que tienes que pagar para participar en él",
+    "oh no, te uniste a un movimiento contra el gobierno"
+   ],
+   "setup": "te unes a un club de fanáticos de internet",
+   "type": "GOOD"
+  },
+  {
+   "id": "107907",
+   "punchlines": [
+    "pero con Jamón Solo",
+    "pero Jar Jar aparece más",
+    "sin John Williams, tiene música de circo"
+   ],
+   "setup": "las películas de La guerra de las galaxias originales",
+   "type": "GOOD"
+  },
+  {
+   "id": "107908",
+   "punchlines": [
+    "que es un francotirador preciso",
+    "pero vive en tu sostén",
+    "que se llama Mussolini",
+    "que tiene una buena cantidad de sangre en sus púas"
+   ],
+   "setup": "un erizo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107935",
+   "punchlines": [
+    "pero nadie está de cumpleaños, ¿quién lo hizo?",
+    "pero eres el conserje y NUNCA te invitan",
+    "para un perro anciano que no puede consumir azúcar",
+    "perdón, un pastel roto en la sala de partos"
+   ],
+   "setup": "pastel de cumpleaños en la sala de descanso",
+   "type": "GOOD"
+  },
+  {
+   "id": "107936",
+   "punchlines": [
+    "que alguna vez tuviste",
+    "terminó abruptamente con un meteorito",
+    "es lo único que tengo porque estoy en bancarrota y sucio"
+   ],
+   "setup": "salud óptima",
+   "type": "GOOD"
+  },
+  {
+   "id": "107937",
+   "punchlines": [
+    "que implican que te regalen sopa fría",
+    "en las que masajeamos al gato el día de los enamorados",
+    "para boxear entre todos por el dominio",
+    "pero tu familia fue a la nieve y se perdió"
+   ],
+   "setup": "tradiciones familiares",
+   "type": "GOOD"
+  },
+  {
+   "id": "107938",
+   "punchlines": [
+    "¡hora de la guillotina!",
+    "pero solo para Brayatan",
+    "en el restaurante porque “justicia” es una comida",
+    "pero se necesita una reforma social, así que mejor compartamos memes"
+   ],
+   "setup": "se hace justicia",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107941",
+   "punchlines": [
+    "son el código de vestimenta de la boda",
+    "son todo tu ropero, sin excepción",
+    "se anuncian en un bucle de 24 horas en tu televisor",
+    "llenando kilómetros de basural durante siglos"
+   ],
+   "setup": "los productos de Walmart",
+   "type": "GOOD"
+  },
+  {
+   "id": "107943",
+   "punchlines": [
+    "que desemboca en las cataratas del Niágara",
+    "en el que miles de niños han meado",
+    "pero recuerdas que el aburrimiento es mental",
+    "se atasca"
+   ],
+   "setup": "un aburrido paseo por el río",
+   "type": "GOOD"
+  },
+  {
+   "id": "107944",
+   "punchlines": [
+    "en la que los acompaña la estricta madre de Pedro",
+    "a la fábrica de lápices",
+    "el profesor te emparejó con el niño con piojos"
+   ],
+   "setup": "una excursión",
+   "type": "GOOD"
+  },
+  {
+   "id": "107954",
+   "punchlines": [
+    "de versiones en flauta de Crepúsculo",
+    "es solo un álbum de efectos de sonido",
+    "que sale de tus uñas",
+    "que te incomoda porque ya estás viejo"
+   ],
+   "setup": "música nueva",
+   "type": "GOOD"
+  },
+  {
+   "id": "107958",
+   "punchlines": [
+    "donde se cultivan híbridos entre humanos y plantas",
+    "donde mataron a Mr. Músculo con un revólver",
+    "invadido por las avispas",
+    "pero es el año 2125 y ahí viven las últimas plantas"
+   ],
+   "setup": "un invernadero soleado",
+   "type": "GOOD"
+  },
+  {
+   "id": "107968",
+   "punchlines": [
+    "seguido de pudrición de manzanas",
+    "están llenas de gusanos",
+    "de esos malvados árboles del Mago de Oz",
+    "le dices “manzana” a los mocos de tu nariz"
+   ],
+   "setup": "recolección de manzanas",
+   "type": "GOOD"
+  },
+  {
+   "id": "107970",
+   "punchlines": [
+    "una y otra y otra y otra y otra y otra vez",
+    "para eh... eh... ¿para qué era?",
+    "sobre unirse a una secta",
+    "que tu bebé aprende y no deja de cantar"
+   ],
+   "setup": "una melodía pegajosa",
+   "type": "GOOD"
+  },
+  {
+   "id": "107971",
+   "punchlines": [
+    "del hijo de otra persona",
+    "de tu colonoscopia",
+    "de un accidente de montaña rusa",
+    "de tu viaje al tanque de privación sensorial"
+   ],
+   "setup": "un recuerdo fotográfico",
+   "type": "GOOD"
+  },
+  {
+   "id": "107974",
+   "punchlines": [
+    "de las que tienes una alergia mortal",
+    "que está siendo pavimentado para construir condominios",
+    "burlándose de tu ropa",
+    "todas las flores son carnívoras"
+   ],
+   "setup": "un campo de flores silvestres",
+   "type": "GOOD"
+  },
+  {
+   "id": "107975",
+   "punchlines": [
+    "a una dirección incorrecta a 150 kilómetros de distancia",
+    "del corazón que te necesitan transplantar y resulta que no es compatible",
+    "DESPUÉS de que te registres y suscribas mensualmente",
+    "a todos lados menos a tu ciudad",
+    "pero pediste una pizza, hace ocho horas"
+   ],
+   "setup": "entrega gratis el mismo día",
+   "type": "GOOD"
+  },
+  {
+   "id": "107976",
+   "punchlines": [
+    "lleno de mosquitos",
+    "que empeora aún más tu ansiedad",
+    "un buzo acosador te saca una foto",
+    "unos pecesitos se comen la piel de tus pies"
+   ],
+   "setup": "tus pies en un arroyo cristalino",
+   "type": "GOOD"
+  },
+  {
+   "id": "107978",
+   "punchlines": [
+    "con vestimenta de oficina obligatoria",
+    "pero te echan por sudar",
+    "embrujado con fantasmas sudorosos",
+    "todos nos convertimos en gyozas"
+   ],
+   "setup": "un sauna",
+   "type": "GOOD"
+  },
+  {
+   "id": "107980",
+   "punchlines": [
+    "que dice ”Pareja que menos apoya”",
+    "que ganaste por derribar a un montón de niños en la maratón de niños",
+    "con una figurita de un tipo vomitando"
+   ],
+   "setup": "un trofeo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107981",
+   "punchlines": [
+    "que por cierto ni siquiera se da cuenta que te hiciste",
+    "pero te pintan “T-O-N-T-O” en tus uñas",
+    "pero las uñas te quedaron demasiado góticas",
+    "con uñas acrílicas tan largas que unen las uñas de las manos con las de los pies"
+   ],
+   "setup": "una manicura y pedicura antes de una cita importante",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107983",
+   "punchlines": [
+    "con tus ex que te odian",
+    "para ver todos los estacionamientos de los parques nacionales",
+    "con tu amigo que nunca se baña",
+    "uy, solo hay desiertos"
+   ],
+   "setup": "un viaje por carretera a través del país",
+   "type": "GOOD"
+  },
+  {
+   "id": "107984",
+   "punchlines": [
+    "para dedicarte a tu pasión: comer hamburguesas profesionalmente",
+    "para pasar más tiempo con tu familia que te trata mal",
+    "justo cuando se desploma el mercado bursátil",
+    "porque te exilian a Gibraltar"
+   ],
+   "setup": "jubilación anticipada",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107992",
+   "punchlines": [
+    "pero te esguinzas el tobillo apenas tocas la alfombra",
+    "nadie sabe quién eres",
+    "no te invitaron",
+    "roja porque la película es tan mala que el público se arrancó los ojos"
+   ],
+   "setup": "estreno de tu película con alfombra roja",
+   "type": "GOOD"
+  },
+  {
+   "id": "107993",
+   "punchlines": [
+    "pero tu casa es un desastre",
+    "porque estás castigado",
+    "pero tu casa está hecha de paja, cerdito",
+    "tu vecino no deja de cantar gritando “Despacito”"
+   ],
+   "setup": "trabajas desde casa",
+   "type": "GOOD"
+  },
+  {
+   "id": "107997",
+   "punchlines": [
+    "al tanque de erizos de mar",
+    "y todos los jueces olímpicos te dan un “0”",
+    "pierdes tu traje de baño en el intento",
+    "no hay agua en la piscina"
+   ],
+   "setup": "haces una bomba desde el trampolín",
+   "type": "GOOD"
+  },
+  {
+   "id": "107998",
+   "punchlines": [
+    "investiga asesinatos espantosos",
+    "que perpetúa el complejo industrial penitenciario",
+    "que interroga brutalmente a sus amigos estudiantes"
+   ],
+   "setup": "un intrépido niño detective",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "107999",
+   "punchlines": [
+    "descubres que todos piensan que eres detestable",
+    "descubres que en verdad no eres el favorito de tu mamá",
+    "descubres las fantasías más profundas de tu papá",
+    "todos tienen pensamientos bastante profundos"
+   ],
+   "setup": "el poder de leer la mente",
+   "type": "GOOD"
+  },
+  {
+   "id": "108000",
+   "punchlines": [
+    "pero es el día de la marmota, así que pasas 10000 años ahí",
+    "serían 5.000 dólares, por favor",
+    "quedas atrapado en la atracción del mundo diminuto",
+    "con un caso grave de varicela",
+    "o sea, en el calabozo que tienen"
+   ],
+   "setup": "un día en Disney World",
+   "type": "GOOD"
+  },
+  {
+   "id": "108020",
+   "punchlines": [
+    "donde el amor de tu vida se casa con otra persona",
+    "incendiado por un villano de Batman",
+    "donde pondremos la guillotina",
+    "donde hay un dragón que quema a cualquiera que entre"
+   ],
+   "setup": "un elegante salón de baile",
+   "type": "GOOD"
+  },
+  {
+   "id": "108029",
+   "punchlines": [
+    "que ya está extinta",
+    "justo antes de que te coma",
+    "y ni siquiera le ponen tu nombre",
+    "que básicamente es de petróleo crudo",
+    "es un Pokémon"
+   ],
+   "setup": "descubres una nueva especie",
+   "type": "GOOD"
+  },
+  {
+   "id": "108030",
+   "punchlines": [
+    "del doble de tamaño de tu cama",
+    "que la están usando unos motoqueros",
+    "y no tiene bolas de billar",
+    "solo es una enorme mesa de caoba en una piscina"
+   ],
+   "setup": "una mesa de billar",
+   "type": "GOOD"
+  },
+  {
+   "id": "108032",
+   "punchlines": [
+    "un amigo para ti",
+    "con alambre de púas",
+    "una bufanda hecha de pelo de reno",
+    "una cuerda humana para salir de este foso"
+   ],
+   "setup": "tejes",
+   "type": "GOOD"
+  },
+  {
+   "id": "108060",
+   "punchlines": [
+    "pero las chicas son asesinas seriales",
+    "en el basural",
+    "y María ya está llorando, otra vez",
+    "dedicadas a impartir justicia por su cuenta a los corruptos y malvados"
+   ],
+   "setup": "noche de salida de chicas",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108062",
+   "punchlines": [
+    "siempre",
+    "porque estás encadenado a ella",
+    "¡¡¡en la mañana de tu juicio!!!",
+    "llena de salsa boloñesa"
+   ],
+   "setup": "te quedas hasta tarde en la cama",
+   "type": "GOOD"
+  },
+  {
+   "id": "108063",
+   "punchlines": [
+    "en la escuela de adiestramiento canino",
+    "eres el único en tu clase",
+    "porque sobornas a todos tus profesores"
+   ],
+   "setup": "eres el mejor de tu clase",
+   "type": "GOOD"
+  },
+  {
+   "id": "108066",
+   "punchlines": [
+    "pero intentabas hacerlos llorar",
+    "porque hay una fuga de gas",
+    "¡con un chiste clásico de gallegos!"
+   ],
+   "setup": "haces reír a todos",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "108067",
+   "punchlines": [
+    "hecho con superpegamento",
+    "huele como a gingivitis",
+    "pero tu cuerpo está lleno de lodo",
+    "en tus pantalones en la secadora"
+   ],
+   "setup": "brillo de labios jugoso",
+   "type": "GOOD"
+  },
+  {
+   "id": "108069",
+   "punchlines": [
+    "cuando el sacerdote reza por ti",
+    "con un niño con las manos llenas de kétchup",
+    "con tu suegro, pero te mira decepcionado",
+    "pero intentas chocar los cinco con la pezuña del centauro"
+   ],
+   "setup": "vas a chocar los cinco",
+   "type": "GOOD"
+  },
+  {
+   "id": "108072",
+   "punchlines": [
+    "en la revolución bolchevique",
+    "de una pequeña y pobre nación",
+    "pero no eres la heredera al trono",
+    "¡pero querías ser un duque!"
+   ],
+   "setup": "descubres que eres una princesa",
+   "type": "GOOD"
+  },
+  {
+   "id": "108073",
+   "punchlines": [
+    "sale de tus orejas, ojos y nariz",
+    "calentándose a todo el sol",
+    "recién exprimida de este pájaro",
+    "que llena lentamente esta piscina"
+   ],
+   "setup": "leche con chocolate",
+   "type": "GOOD"
+  },
+  {
+   "id": "108081",
+   "punchlines": [
+    "con tragos fuertes y sin barandillas de seguridad",
+    "tu vómito cae sobre una familia que pasaba por allí",
+    "lleno de gente de tu misma secundaria",
+    "no hay bajada, solo una barra de bomberos"
+   ],
+   "setup": "un bar de moda en la azotea",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108082",
+   "punchlines": [
+    "un toro que escapó derriba todos los baños químicos",
+    "donde los vaqueros montan gente en vez de caballos",
+    "donde arrestan a un payaso"
+   ],
+   "setup": "el rodeo",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "108167",
+   "punchlines": [
+    "se la come el repartidor",
+    "en el piso",
+    "en tu cabello",
+    "la lanzan a las ventanas del congreso"
+   ],
+   "setup": "comida griega",
+   "type": "GOOD"
+  },
+  {
+   "id": "108168",
+   "punchlines": [
+    "y le cae a tu cita",
+    "mientras haces una presentación TED",
+    "pero ahora tus pectorales están desinflados",
+    "en tu sopa sin que te des cuenta"
+   ],
+   "setup": "por fin revientas ese grano",
+   "type": "GOOD"
+  },
+  {
+   "id": "108169",
+   "punchlines": [
+    "envía matones de la mafia para cobrar tus cuotas atrasadas",
+    "que solo tiene copias de “El libro de las dietas”",
+    "que la dirige una empresa tecnológica emergente llamada “Libroso”",
+    "hogar del excéntrico local, Señor Mirada"
+   ],
+   "setup": "la biblioteca local",
+   "type": "GOOD"
+  },
+  {
+   "id": "108171",
+   "punchlines": [
+    "el cantante del himno nacional mantiene la última nota por 45 minutos",
+    "la salsa que preparaste parece que respira",
+    "solo vino el que te cae menos bien",
+    "la comida que ofrecen incluye: pan blanco, pan integral, pan de masa madre y tostadas"
+   ],
+   "setup": "una fiesta para ver la final del campeonato",
+   "type": "GOOD"
+  },
+  {
+   "id": "108172",
+   "punchlines": [
+    "los adolescentes se ríen de ti, todos se ríen de ti",
+    "te rompes el fémur solo por intentar subirte a la patineta",
+    "nadie cree que tu traje de burbujas de cuerpo completo es genial",
+    "tu casco es demasiado grande para tu cabeza"
+   ],
+   "setup": "el parque de patinetas",
+   "type": "GOOD"
+  },
+  {
+   "id": "108173",
+   "punchlines": [
+    "impartiendo una clase básica de educación cívica",
+    "recreando tu última ruptura sentimental",
+    "es la única entretención a bordo de tu vuelo de 27 horas",
+    "pero hechos con la carne del animal que representa su personaje"
+   ],
+   "setup": "los Muppets",
+   "type": "GOOD"
+  },
+  {
+   "id": "108174",
+   "punchlines": [
+    "son solo de papá",
+    "lleno de tus fotos más vergonzosas",
+    "con documentos fiscales decorados y llenos de purpurina",
+    "solo son unas rodajas de fiambre en las páginas de un cuaderno"
+   ],
+   "setup": "el álbum de recortes más nuevo de mamá",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "108175",
+   "punchlines": [
+    "te empalan con una lanza de justas",
+    "pero el “rey” obviamente está pidiendo comida en su celular",
+    "donde contraes la peste",
+    "donde un mago te abofetea por un pedazo de pollo"
+   ],
+   "setup": "La feria renacentista",
+   "type": "GOOD"
+  },
+  {
+   "id": "108179",
+   "punchlines": [
+    "en plena Segunda guerra mundial",
+    "pero alguien derritió la torre Eiffel",
+    "pero te están obligando a comer queso con gusanos",
+    "te obligan a pagar por cada esquina que pasas",
+    "pero no hablas francés y ni siquiera quieres intentarlo"
+   ],
+   "setup": "París",
+   "type": "GOOD"
+  },
+  {
+   "id": "108189",
+   "punchlines": [
+    "lo atraviesan con autos en una película de Rápido y furioso",
+    "auspiciado por el trabajo infantil",
+    "que vende algo llamado “fruta de imitación”"
+   ],
+   "setup": "un mercado de agricultores",
+   "type": "GOOD"
+  },
+  {
+   "id": "108201",
+   "punchlines": [
+    "realizado en una taza de inodoro llena",
+    "que representa tu muerte",
+    "que representa cómo te despiden de tu trabajo",
+    "para mi perro hipster"
+   ],
+   "setup": "complejo arte en café con leche",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": false,
+   "id": "108202",
+   "punchlines": [
+    "donde solo conducen triciclos",
+    "donde reemplazan a Vin Diesel con Rob Schneider",
+    "es una película muda experimental de cine independiente",
+    "con un Paul Walker creado por IA",
+    "Vin Diesel no deja de decir “Cuando estás aquí, eres parte de la familia”"
+   ],
+   "setup": "una película nueva de Rápido y furioso",
+   "type": "GOOD"
+  },
+  {
+   "id": "108203",
+   "punchlines": [
+    "accidentalmente",
+    "a un hombre extraño detrás de un basurero",
+    "hasta la última gota",
+    "a Drácula"
+   ],
+   "setup": "donas sangre",
+   "type": "GOOD"
+  },
+  {
+   "id": "108204",
+   "punchlines": [
+    "que de alguna manera incendia el océano",
+    "TODOS los chicos trajeron una guitarra acústica",
+    "¡vamos a rostizar gaviotas!",
+    "por la que debes caminar para unirte a la Secta de la Playa"
+   ],
+   "setup": "una hoguera de playa",
+   "type": "GOOD"
+  },
+  {
+   "id": "108206",
+   "punchlines": [
+    "para los Hunos",
+    "de galletas elaboradas exclusivamente con pasas",
+    "las galletas se convierten en ceniza en la boca",
+    "para financiar el viaje de la orquesta a Estados Unidos"
+   ],
+   "setup": "una venta de repostería",
+   "type": "GOOD"
+  },
+  {
+   "id": "108207",
+   "punchlines": [
+    "que se precipita hacia ti, directamente",
+    "entras en pánico y deseas una tarjeta de regalo de iTunes",
+    "que en realidad es solo un avión que está por estrellarse"
+   ],
+   "setup": "ves una estrella fugaz",
+   "type": "GOOD"
+  },
+  {
+   "id": "108208",
+   "punchlines": [
+    "le envía correos irrespetuosos a tu jefe",
+    "que está siendo digerido por una serpiente",
+    "entregándote su renuncia",
+    "debajo de tu gorra, ayudándote a jugar baloncesto, al estilo Ratatouille"
+   ],
+   "setup": "un conejillo de indias",
+   "type": "GOOD"
+  },
+  {
+   "id": "108209",
+   "punchlines": [
+    "para evitar toda la basura plástica",
+    "en medio de un derrame de petróleo",
+    "mientras se burlan de tu técnica de natación"
+   ],
+   "setup": "delfines saltando en el océano",
+   "type": "GOOD"
+  },
+  {
+   "id": "108211",
+   "punchlines": [
+    "y soñando con formas de asesinarte",
+    "que araña salvajemente mientras sueña",
+    "que no es un gato, es un tipo gordo"
+   ],
+   "setup": "un gato durmiendo en tu regazo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108214",
+   "punchlines": [
+    "cerró por infracciones sanitarias",
+    "del que estás vetado para siempre",
+    "con probabilidades muy altas de intoxicación alimentaria",
+    "tuvo un accidente con papas fritas",
+    "cerró por servir hamburguesas de chimpancé"
+   ],
+   "setup": "tu restaurante favorito",
+   "type": "GOOD"
+  },
+  {
+   "id": "108216",
+   "punchlines": [
+    "con manchas imposibles de identificar en todas partes",
+    "diseñada para provocar el síndrome del túnel carpiano",
+    "que la gente critica mientras transmites en vivo"
+   ],
+   "setup": "una sala de juegos",
+   "type": "GOOD"
+  },
+  {
+   "id": "108217",
+   "punchlines": [
+    "pero el chef es tan mala onda que nadie quiere ir",
+    "donde los aperitivos cuestan más que el alquiler",
+    "que se especializa en tus alergias alimentarias",
+    "llamado Diárrhella"
+   ],
+   "setup": "un restaurante con estrellas Michelin",
+   "type": "GOOD"
+  },
+  {
+   "id": "108219",
+   "punchlines": [
+    "al vender tus caballos",
+    "al invertir en el mercado de muñecas de porcelana",
+    "¡mediante la explotación!"
+   ],
+   "setup": "logras la estabilidad financiera",
+   "type": "GOOD"
+  },
+  {
+   "id": "108220",
+   "punchlines": [
+    "¡pero la fiesta va a tu casa!",
+    "pero era un ascenso laboral sorpresa para ti",
+    "pero tu casa está en un departamento entre dos clubes nocturnos",
+    "ahora todos te desprecian"
+   ],
+   "setup": "faltas a una fiesta para relajarte en casa",
+   "type": "GOOD"
+  },
+  {
+   "id": "108222",
+   "punchlines": [
+    "para que las cosas no pudieran empeorar",
+    "es el título del horrible libro de autoayuda que leíste",
+    "porque últimamente el universo ha estado siendo pasivo-agresivo",
+    "justo cuando el universo implosiona"
+   ],
+   "setup": "expresas gratitud al universo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108228",
+   "punchlines": [
+    "para comer por desesperación",
+    "en el basural",
+    "para tu terrible negocio de joyería sin futuro"
+   ],
+   "setup": "recoges conchas marinas",
+   "type": "GOOD"
+  },
+  {
+   "id": "108230",
+   "punchlines": [
+    "la naturaleza solo es pasto",
+    "están preservando las garrapatas",
+    "frente a un centro de destrucción de la naturaleza",
+    "pero los osos de ahí se volvieron adictos a la comida chatarra"
+   ],
+   "setup": "visitas una reserva natural",
+   "type": "GOOD"
+  },
+  {
+   "id": "108235",
+   "punchlines": [
+    "bloqueada por una valla publicitaria de un supermercado",
+    "con una fila para tomar una foto delante de ella",
+    "en la fotografía del “antes”"
+   ],
+   "setup": "contemplas unas vistas impresionantes",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108236",
+   "punchlines": [
+    "escrito con IA",
+    "por parte de un tipo que no será tu amigo dentro de un año",
+    "la tuya como constructor y quemas todos los puentes que construiste",
+    "un discurso bastante ofensivo para todos en realidad"
+   ],
+   "setup": "un discurso conmovedor en una fiesta de jubilación",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108238",
+   "punchlines": [
+    "de hojas a cenizas",
+    "en los árboles LED que colocaron para sustituir a los árboles reales",
+    "y está de mal humor porque está en la pubertad de las hojas"
+   ],
+   "setup": "se caen las hojas de los árboles",
+   "type": "GOOD"
+  },
+  {
+   "id": "108239",
+   "punchlines": [
+    "solo hay puré de papas",
+    "y eres un camarón rebozado",
+    "el chef no se ha lavado las manos desde 1996",
+    "con muchos manjares hechos con el material de colchoneta de yoga"
+   ],
+   "setup": "un restaurante de tenedor libre",
+   "type": "GOOD"
+  },
+  {
+   "id": "108240",
+   "punchlines": [
+    "robando dientes de una boca con un cincel",
+    "es un camionero llamado Pasamel Diente",
+    "pero fue expulsado de la comunidad de las hadas",
+    "también se lleva cualquier otro hueso suelto que puedas tener debajo de la almohada"
+   ],
+   "setup": "el hada de los dientes",
+   "type": "GOOD"
+  },
+  {
+   "id": "108241",
+   "punchlines": [
+    "representando el fin del mundo",
+    "con sangre de vaca",
+    "pero no vale la pena ponerla en el refrigerador",
+    "de su amiga invisible, Sra. Desesperación"
+   ],
+   "setup": "una pintura hecha con los dedos de un niño",
+   "type": "GOOD"
+  },
+  {
+   "id": "108242",
+   "punchlines": [
+    "y son un montón de idiotas",
+    "pero el ovni aterriza en tu culo",
+    "se parece como a un... ¿danés?",
+    "oh, no, ¿estoy a punto de volver a enamorarme?"
+   ],
+   "setup": "un encuentro con un ovni",
+   "type": "GOOD"
+  },
+  {
+   "id": "108243",
+   "punchlines": [
+    "con máscaras terroríficas de TU CARA",
+    "sin trajes de mocosos",
+    "huele a culos de teatro comunitario",
+    "está lleno de ropa con estampas animales"
+   ],
+   "setup": "un armario de vestuario de teatro comunitario",
+   "type": "GOOD"
+  },
+  {
+   "id": "108244",
+   "punchlines": [
+    "y todas las migas se caen",
+    "pero se te queda el yeso en todo el cuerpo",
+    "pero todavía estás en el trabajo",
+    "el sostén está hecho de seis mil escarabajos"
+   ],
+   "setup": "te quitas el sostén después de un largo día",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108250",
+   "punchlines": [
+    "¡en el tercer piso!",
+    "embrujada por el fantasma de una heredera traicionada",
+    "en el Hotel Chinches"
+   ],
+   "setup": "la suite del penthouse",
+   "type": "GOOD"
+  },
+  {
+   "id": "108253",
+   "punchlines": [
+    "que no conoce a nadie en el rubro",
+    "con una personalidad terrible",
+    "recibió un puñetazo en la garganta antes del gran espectáculo"
+   ],
+   "setup": "un cantante talentoso",
+   "type": "GOOD"
+  },
+  {
+   "id": "108254",
+   "punchlines": [
+    "arruinado por los influenciadores",
+    "que conduce directamente al núcleo fundido",
+    "que son solo escaleeeeeras"
+   ],
+   "setup": "un pasadizo secreto",
+   "type": "GOOD"
+  },
+  {
+   "id": "108255",
+   "punchlines": [
+    "muy pegajosa",
+    "en un evento patrocinado por una iglesia",
+    "el DJ solo reproduce cantos gregorianos",
+    "que parpadea a un ritmo irregular de 13/16"
+   ],
+   "setup": "una pista de baile iluminada",
+   "type": "GOOD"
+  },
+  {
+   "id": "108256",
+   "punchlines": [
+    "trabajas 80 horas a la semana",
+    "como payaso",
+    "pero te aterran los ancianos",
+    "pero todas las ancianas se pelean por ti"
+   ],
+   "setup": "voluntariado en una residencia de ancianos",
+   "type": "GOOD"
+  },
+  {
+   "id": "108275",
+   "punchlines": [
+    "unidos a un hombre espantoso",
+    "¿en el refrigerador de tu novio?",
+    "en este ornitorrinco",
+    "pero parecen... ¡¿patas de alce?!"
+   ],
+   "setup": "pies hermosos",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108288",
+   "punchlines": [
+    "en la alcantarilla",
+    "dentro del estómago de una ballena",
+    "como Gollum"
+   ],
+   "setup": "pescas un pez",
+   "type": "GOOD"
+  },
+  {
+   "id": "108289",
+   "punchlines": [
+    "en una isla que se hunde",
+    "reducida a cenizas",
+    "que compraste con un marido espantoso",
+    "en medio de la calle"
+   ],
+   "setup": "la casa de nuestros sueños",
+   "type": "GOOD"
+  },
+  {
+   "id": "108290",
+   "punchlines": [
+    "que envía fotos a tu jefe",
+    "descarga demasiado pronto",
+    "está vivo",
+    "que siempre está feliz de verte"
+   ],
+   "setup": "el inodoro del futuro",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108293",
+   "punchlines": [
+    "del supermercado que ya cerró",
+    "pero atropellaste a alguien para conseguirlo",
+    "para tu Pinto destartalado",
+    "para tu triciclo"
+   ],
+   "setup": "encuentras estacionamiento justo enfrente",
+   "type": "GOOD"
+  },
+  {
+   "id": "108294",
+   "punchlines": [
+    "pero tu nombre es Asqui Cacánwich",
+    "es de hígado con cebolla",
+    "nadie lo compra",
+    "es solo un trozo de mortadela entre dos insípidas rebanadas de pan"
+   ],
+   "setup": "un sándwich que lleva tu nombre",
+   "type": "GOOD"
+  },
+  {
+   "id": "108295",
+   "punchlines": [
+    "en los pozos de lodo",
+    "cuidando a tres niños enfermos",
+    "en Villa Mosquito",
+    "y tú eres un hastiado productor de MTV de 50 años"
+   ],
+   "setup": "vacaciones de verano",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108301",
+   "punchlines": [
+    "que se derrite lentamente",
+    "con una gran nariz de payaso que distrae",
+    "y su nariz se vuelve cada vez más larga"
+   ],
+   "setup": "un presentador de noticias de confianza",
+   "type": "GOOD"
+  },
+  {
+   "id": "108304",
+   "punchlines": [
+    "quien también es tu camarero esta tarde",
+    "cuesta 500.000 dólares la visita",
+    "pierde sus manos",
+    "no puede dejar de llamar a tu cuerpo “la bolsa de carne”"
+   ],
+   "setup": "un médico de atención primaria considerado",
+   "type": "GOOD"
+  },
+  {
+   "id": "108305",
+   "punchlines": [
+    "con setenta personas",
+    "pero es con alguien que detestas",
+    "el poste se llama “basure a la mode”",
+    "perdón, póster. cortaste un hermoso póster a la mitad con tu novia"
+   ],
+   "setup": "compartes un postre",
+   "type": "GOOD"
+  },
+  {
+   "id": "108307",
+   "punchlines": [
+    "pero uno de ellos necesita una operación de riñón",
+    "el perrito solo está fingiendo",
+    "no tienen un concepto real de amistad, son animales",
+    "hasta que sus padres racistas intervienen"
+   ],
+   "setup": "un perrito y un gatito son amigos",
+   "type": "GOOD"
+  },
+  {
+   "id": "108308",
+   "punchlines": [
+    "a solas",
+    "con tus amigos demonios",
+    "a costa de tu pijama, gorro y candelabro de la época victoriana",
+    "por el gas de la risa"
+   ],
+   "setup": "una sesión de risas nocturnas",
+   "type": "GOOD"
+  },
+  {
+   "id": "108309",
+   "punchlines": [
+    "pero todas las quemaduras de tercer grado....",
+    "pero es pequeño, débil y tonto",
+    "que destruye tu ciudad natal",
+    "que come demasiado carbón"
+   ],
+   "setup": "un dragón mascota",
+   "type": "GOOD"
+  },
+  {
+   "id": "108310",
+   "punchlines": [
+    "pero accidentalmente le corté la mano a un maniquí de la tienda",
+    "cuesta 200.000 dólares",
+    "pero apesta a salmón"
+   ],
+   "setup": "un sable de luz que se ve muy realista",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "108312",
+   "punchlines": [
+    "arrancándote un pedazo de pantorrilla",
+    "reproduciéndose sin parar en tu boda",
+    "convertido en sopa"
+   ],
+   "setup": "tiburón bebé",
+   "type": "GOOD"
+  },
+  {
+   "id": "108313",
+   "punchlines": [
+    "es lo último que ves",
+    "cayendo del cielo",
+    "dentro de tu gran intestino",
+    "que me cayó encima desde un helicóptero"
+   ],
+   "setup": "un viejo Ford Modelo T",
+   "type": "GOOD"
+  },
+  {
+   "id": "108316",
+   "punchlines": [
+    "que no te dejará comer a deshora",
+    "que se enamoró de mi marido",
+    "que me informa todos los días sobre el estado de las espinacas",
+    "que consume 10 mil millones de galones de agua para funcionar"
+   ],
+   "setup": "un refrigerador inteligente",
+   "type": "GOOD"
+  },
+  {
+   "id": "108335",
+   "punchlines": [
+    "que se convierte en un disturbio",
+    "pero es triste",
+    "que ha durado 148 horas",
+    "que te aleja de tus seres queridos"
+   ],
+   "setup": "una multitud que baila sincronizada",
+   "type": "GOOD"
+  },
+  {
+   "id": "108336",
+   "punchlines": [
+    "montado por tu hermano cabeza hueca",
+    "que te cae del cielo desde el piso 11",
+    "dentro de la segunda casa de tu marido poco confiable",
+    "as instruções estão em português"
+   ],
+   "setup": "un mueble para la sala de estar",
+   "type": "GOOD"
+  },
+  {
+   "id": "108338",
+   "punchlines": [
+    "en 10.000 años",
+    "al entregar a tu hijo primogénito a la mafia",
+    "mientras agonizas en tu lecho de muerte",
+    "con dinero de Monopoly",
+    "con sacrificios rituales cada mes a Citibank"
+   ],
+   "setup": "pagas todos tus préstamos",
+   "type": "GOOD"
+  },
+  {
+   "id": "108339",
+   "punchlines": [
+    "de frijoles bajo la carretera",
+    "a solas con tu mogwai",
+    "que termina en una gran ruptura",
+    "con otros dieciséis hombres que compiten por su amor en este programa de televisión"
+   ],
+   "setup": "una cena del día de los enamorados",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108340",
+   "punchlines": [
+    "que no se calla",
+    "que odia su trabajo",
+    "al lado de la carretera",
+    "hecho pedazos mágicos",
+    "al que le caes mal personalmente"
+   ],
+   "setup": "un unicornio mágico que habla",
+   "type": "GOOD"
+  },
+  {
+   "id": "108341",
+   "punchlines": [
+    "bebiendo tu sangre",
+    "que solo ve la televisión y usa su telequinesis para conseguir refrescos",
+    "cortado en pedazos en mi congelador",
+    "solo es un contador"
+   ],
+   "setup": "un pequeño extraterrestre gris",
+   "type": "GOOD"
+  },
+  {
+   "id": "108342",
+   "punchlines": [
+    "en una vía intravenosa",
+    "ahora vende ataúdes y los puedes agrandar",
+    "para el almuerzo, el desayuno y la cena por el resto de tu vida",
+    "te sirvió la cena en la Casa Blanca"
+   ],
+   "setup": "McDonald’s",
+   "type": "GOOD"
+  },
+  {
+   "id": "108344",
+   "punchlines": [
+    "al casarte con Lana del Rey",
+    "de esta habitación, seis de tus amigos lo decidieron",
+    "¡la reina de las pulgas!"
+   ],
+   "setup": "te coronan reina",
+   "type": "GOOD"
+  },
+  {
+   "id": "108356",
+   "punchlines": [
+    "y ganándole a los niños de cinco años de este equipo de liga infantil",
+    "de la liga de los desagradables",
+    ": Más Vómitos Podridos",
+    ": Mente Vaga Perdida"
+   ],
+   "setup": "te nombran MVP",
+   "type": "GOOD"
+  },
+  {
+   "id": "108357",
+   "punchlines": [
+    "con migraña",
+    "y se te revientan los tímpanos",
+    "pero tú solo eres un bebé",
+    "llamado Lollapaliza",
+    "pero llevas puesto un atrayente para mosquitos"
+   ],
+   "setup": "asistes a un festival de música al aire libre",
+   "type": "GOOD"
+  },
+  {
+   "id": "108364",
+   "punchlines": [
+    "y se ríen de ti",
+    "a la mesada que te da tu mamá",
+    "¡y te lo dan! pero sigues siendo un perro",
+    "así que te pasan una escala"
+   ],
+   "setup": "por fin pides ese aumento",
+   "type": "GOOD"
+  },
+  {
+   "id": "108366",
+   "punchlines": [
+    "un pez gota disecado",
+    "que vale menos de lo que pagaste por él",
+    "¡solo es una bolsa, Luisa!"
+   ],
+   "setup": "un hallazgo épico en una tienda de caridad",
+   "type": "GOOD"
+  },
+  {
+   "id": "108373",
+   "punchlines": [
+    "oh, oh, fue demasiado cruel, vas a ir a la cárcel",
+    "que requiere maquinaria pesada",
+    "en la que inculpas a tu papá por fraude fiscal",
+    "que termina contigo casándote con tu peor enemigo"
+   ],
+   "setup": "una broma elaborada",
+   "type": "GOOD"
+  },
+  {
+   "id": "108377",
+   "punchlines": [
+    "¡ay! es sonámbulo",
+    "y sus diez hurones",
+    "la casa está hecha de paja",
+    "pero tu mejor amigo es Burro y tú eres Shrek"
+   ],
+   "setup": "te mudas con tu mejor amigo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108378",
+   "punchlines": [
+    "en arenas movedizas",
+    "mentira, no existe tal cosa",
+    "hace transmisiones en los que solo come cactus",
+    "en serios problemas por infringir las leyes locales"
+   ],
+   "setup": "mi influenciador favorito",
+   "type": "GOOD"
+  },
+  {
+   "id": "108379",
+   "punchlines": [
+    "al lucrar con el aire",
+    "y perderlo todo rápidamente con inversiones fallidas",
+    "y gastarlo todo en criptomonedas",
+    "en AMISTAD"
+   ],
+   "setup": "te vuelves increíblemente rico",
+   "type": "GOOD"
+  },
+  {
+   "id": "108380",
+   "punchlines": [
+    "en una taza de café",
+    "en tu abuela",
+    "en un niño de ocho años",
+    "solo son tres cerditos apretujados"
+   ],
+   "setup": "clavas una pelota de baloncesto",
+   "type": "GOOD"
+  },
+  {
+   "id": "108381",
+   "punchlines": [
+    "antes eran blancos",
+    "es lo mejor que encontraste para usar en esta boda",
+    "tiene muchos agujeros"
+   ],
+   "setup": "un bonito par de pantalones deportivos grises",
+   "type": "GOOD"
+  },
+  {
+   "id": "108395",
+   "punchlines": [
+    "pero dentro de tu sala de estar",
+    "saliendo de tu boca cada vez que hablas",
+    "pero eres un perrito asustado",
+    "algunos martes"
+   ],
+   "setup": "fuegos artificiales",
+   "type": "GOOD"
+  },
+  {
+   "id": "108416",
+   "punchlines": [
+    "que están haciendo... ¿sobre mí? ¿en este momento?",
+    "de perritos contra perritos",
+    "sobre la persona que sacó mi almuerzo de la cocina de mi trabajo, ¡¿CARLA?!",
+    "¡es sobre Papá Noel!... oh, ¿qué pasó?"
+   ],
+   "setup": "un documental sobre crímenes reales",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108417",
+   "punchlines": [
+    "pero tienes 50 años y estás cesante",
+    "sin leche",
+    "cereal de madera, dibujos animados de madera",
+    "la única cuchara que tienes está muy, muy, muy sucia"
+   ],
+   "setup": "un gran tazón de cereales y unos dibujos animados",
+   "type": "GOOD"
+  },
+  {
+   "id": "108418",
+   "punchlines": [
+    "antes de conseguir un nuevo trabajo",
+    "y tropiezas al salir",
+    "pero eres cirujano y estás en plena operación",
+    "porque eres padre, ¡¡¡adiós, niños!!!"
+   ],
+   "setup": "renuncias a un mal trabajo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108419",
+   "punchlines": [
+    "en un centro comercial de Albuquerque",
+    "donde todos los días es día de San Patricio",
+    "con auténticas papas podridas",
+    "donde todos los camareros van vestidos de duendes"
+   ],
+   "setup": "un auténtico pub irlandés",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108420",
+   "punchlines": [
+    "uy, me enamoré otra vez",
+    "que se asusta al hablar de la oscuridad",
+    "pero no son más que seis mapaches en un chaleco",
+    "le envía mensajes de texto a tu mamá con todo lo que dices"
+   ],
+   "setup": "tu psicólogo",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108421",
+   "punchlines": [
+    "para abejas y otras especies de insectos",
+    "la antorcha no se prende",
+    "¿todos los atletas se están convirtiendo en monstruos de Cronenberg?"
+   ],
+   "setup": "los Juegos Olímpicos",
+   "type": "GOOD"
+  },
+  {
+   "id": "108423",
+   "punchlines": [
+    "en verdad es un robot",
+    "solo escenas de burocracia gubernamental",
+    "resulta ser un idiota",
+    "que según mi tío no tiene alma y no puede hacer arte como la gente"
+   ],
+   "setup": "un elefante que pinta",
+   "type": "GOOD"
+  },
+  {
+   "id": "108424",
+   "punchlines": [
+    "en tu go-kart",
+    "y resulta que ha ganado un billón de dólares",
+    "mientras repartes muestras",
+    "y pareces un trozo de tocino arrugado"
+   ],
+   "setup": "te encuentras con alguien del colegio",
+   "type": "GOOD"
+  },
+  {
+   "id": "108426",
+   "punchlines": [
+    "que un tipo escondió en su colon",
+    "es un reloj de sol",
+    "está hecho completamente de algún tipo de metal tóxico",
+    "que perteneció a Robespierre"
+   ],
+   "setup": "heredas un reloj antiguo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108427",
+   "punchlines": [
+    "y respondes “igualmente”",
+    "pero le dice a la persona que está detrás de ti",
+    "pero era totalmente sarcástico"
+   ],
+   "setup": "alguien te desea “felicidades”",
+   "type": "GOOD"
+  },
+  {
+   "id": "108428",
+   "punchlines": [
+    "así le digo a un vaso de orina",
+    "que cruzas seis fronteras para conseguir",
+    "para una afección conocida como “Fascia Glútea”",
+    "¡es lo que hay para cenar!"
+   ],
+   "setup": "medicina eficaz y asequible",
+   "type": "GOOD"
+  },
+  {
+   "id": "108506",
+   "punchlines": [
+    "pierdes tu casa",
+    "si tu caballo pierde, ahora es tuyo",
+    "lo apuestas todo al caballo de una sola pata",
+    "perdón, quise decir panes",
+    "no es una carrera, solo estás en la llanura abierta, apostando por ellos"
+   ],
+   "setup": "apuestas a los ponis",
+   "type": "GOOD"
+  },
+  {
+   "id": "108507",
+   "punchlines": [
+    "que por alguna razón tiene forma de bebé",
+    "le das a tu papá en la entrepierna",
+    "llena de langostas",
+    "pero liberas al demonio que tenía dentro"
+   ],
+   "setup": "golpeas una piñata",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "108508",
+   "punchlines": [
+    "siempre pides la “Q”",
+    "todo el público te abuchea",
+    "te pones nervioso y vomitas en la ruleta",
+    "oh, no, ¡¡¡se te olvidó cómo leer!!!"
+   ],
+   "setup": "estar en el programa La ruleta de la fortuna",
+   "type": "GOOD"
+  },
+  {
+   "id": "108528",
+   "punchlines": [
+    "es decepcionante",
+    "alguien lo llenó con neumáticos",
+    "se te caen todas tus cosas",
+    "solo es un gigante en el desierto con su boca abierta"
+   ],
+   "setup": "visitas el Gran Cañón",
+   "type": "GOOD"
+  },
+  {
+   "id": "108530",
+   "punchlines": [
+    "al robar la de otra persona",
+    "porque destruiste a tus enemigos",
+    "porque tu esqueleto ya no te persigue",
+    "pero ahora que tienes más confianza, te convertiste en un grandísimo idiota"
+   ],
+   "setup": "te sientes cómodo con tu propia piel",
+   "type": "GOOD"
+  },
+  {
+   "id": "108539",
+   "punchlines": [
+    "en la que llegan al consenso de que el niño es un poco tonto",
+    "descubres que todos le dicen “Alfombra” a tu hijo",
+    "tu hijo tiene una pésima nota en ciencias",
+    "donde explican las notas con danza interpretativa"
+   ],
+   "setup": "una reunión entre padres y profesores",
+   "type": "GOOD"
+  },
+  {
+   "id": "108540",
+   "punchlines": [
+    "era día del huevo crudo en la cafetería",
+    "la mamá de alguien le mandó un erizo de mar",
+    "eres el único conserje trabajando hoy",
+    "...¿con esta economía?"
+   ],
+   "setup": "una guerra de comida",
+   "type": "GOOD"
+  },
+  {
+   "id": "108551",
+   "punchlines": [
+    "por los pies más feos",
+    "y luego lo derrites por el oro",
+    "por un guion escrito por ChatGPT",
+    "lloraste demasiado en tu discurso y ahora eres un meme"
+   ],
+   "setup": "ganas el Óscar",
+   "type": "GOOD"
+  },
+  {
+   "id": "108578",
+   "punchlines": [
+    "te atascas en el desierto por alguna razón",
+    "con las ratas",
+    "es el día 344 perdido en el mar",
+    "el yate está hecho de guano de murciélago"
+   ],
+   "setup": "un día maravilloso en tu yate",
+   "type": "GOOD"
+  },
+  {
+   "id": "108579",
+   "punchlines": [
+    "en vez de tu champú",
+    "en tus pompis",
+    "y las abejas están enfadadas",
+    "que lleva al oso hambriento directamente a tu campamento"
+   ],
+   "setup": "un chorrito de miel dulce",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "108580",
+   "punchlines": [
+    "con tus amigos imaginarios",
+    "todos son veganos",
+    "es abril",
+    "alguien dice algo político inmediatamente"
+   ],
+   "setup": "una celebración de acción de gracias",
+   "starterContent": false,
+   "type": "GOOD"
+  },
+  {
+   "id": "108590",
+   "punchlines": [
+    "son una manada de hienas hambrientas",
+    "no recuerdas si los perros necesitan comida o no",
+    "la jaula de la tarántula está vacía",
+    "es la espeluznante colección de muñecas de tu amigo"
+   ],
+   "setup": "un día cuidando mascotas",
+   "type": "GOOD"
+  },
+  {
+   "id": "108591",
+   "punchlines": [
+    "en una isla desierta",
+    "5 minutos antes de la marea alta",
+    "los cangrejos se apoderan del lugar, dando inicio a una sociedad feudal",
+    "en la caja de arena de mi gato"
+   ],
+   "setup": "haces un castillo de arena",
+   "type": "GOOD"
+  },
+  {
+   "id": "108594",
+   "punchlines": [
+    "sin una clara señalización",
+    "todos los lobos se odian entre sí",
+    "de 15 cm x 15 cm",
+    "justo al lado del refugio de los cerditos"
+   ],
+   "setup": "un santuario de lobos",
+   "type": "GOOD"
+  },
+  {
+   "id": "108595",
+   "punchlines": [
+    "con 360 fechas restringidas",
+    "para el peor equipo que existe",
+    "para el parque temático Tierra Tétanos",
+    "pero siempre te sientas al lado de un tipo gritón"
+   ],
+   "setup": "abonos de temporada",
+   "type": "GOOD"
+  },
+  {
+   "id": "108608",
+   "punchlines": [
+    "de un familiar fallecido hace mucho tiempo",
+    "de tu director de universidad",
+    "de un bot que intenta estafarte",
+    "¡que te lleva al lucrativo negocio del contrabando de fauna!"
+   ],
+   "setup": "una solicitud de amistad",
+   "type": "GOOD"
+  },
+  {
+   "id": "108609",
+   "punchlines": [
+    "en el que usan exclusivamente gusanos como ingredientes",
+    "en el que accidentalmente le prendiste fuego a Gordon Ramsay",
+    "en el que tu comida está viva y se come a los demás concursantes"
+   ],
+   "setup": "un programa de competición culinaria",
+   "type": "GOOD"
+  },
+  {
+   "id": "108621",
+   "punchlines": [
+    "en tus bolsillos",
+    "con eso te pagan",
+    "en vez de nieve",
+    "llenando tu casa por completo"
+   ],
+   "setup": "queso parmesano fresco rallado",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "108623",
+   "punchlines": [
+    "¡¡¡no hay pollos asados!!!",
+    "eres un pollo vivo al que están asando",
+    "en un día tranquilo",
+    "pero ahora tienes que encontrar un lugar para 50000 rollos de papel higiénico"
+   ],
+   "setup": "un viaje al supermercado mayorista",
+   "starterContent": false,
+   "type": "GOOD"
+  },
+  {
+   "id": "108624",
+   "punchlines": [
+    "con un presupuesto de 40 dólares",
+    "arruinado por una secuencia de persecución de espías",
+    "para dar inicio al festival de agorafobia",
+    "es el Desfile del Orgullo de los Amantes de la Basura"
+   ],
+   "setup": "un desfile festivo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108627",
+   "punchlines": [
+    "baba, lengua y tímpano",
+    "el pan está hecho de aguas residuales y algas marinas",
+    "sale volando de tu plato a la boca de un tipo gordo",
+    "mezclado en un batido"
+   ],
+   "setup": "un sándwich BLT",
+   "type": "GOOD"
+  },
+  {
+   "id": "108631",
+   "punchlines": [
+    "pero no limpia nada, deja toda la cocina sucia",
+    "ajusta la velocidad de su batidora de huevos a “Matar”",
+    "este omelet está lleno de pernos y tuercas",
+    "perdón, te prepara A TI como desayuno",
+    "pero ahora tienes que conseguir otro gato, de nuevo"
+   ],
+   "setup": "un robot que te prepara el desayuno",
+   "type": "GOOD"
+  },
+  {
+   "id": "108632",
+   "punchlines": [
+    "versión cosplay que solo requiere pintura verde y tu ropa normal",
+    "finalmente colapsa y estrangula a Burro",
+    "Parte 10"
+   ],
+   "setup": "Shrek",
+   "type": "GOOD"
+  },
+  {
+   "id": "108637",
+   "punchlines": [
+    "fue falso",
+    "los extraterrestres ahí son mala onda",
+    "¡esa no es una luna! ¡es la Estrella de la Muerte!",
+    "por desgracia solo es un queso enorme",
+    "y el verdadero Neil Armstrong sigue allí"
+   ],
+   "setup": "el alunizaje",
+   "type": "GOOD"
+  },
+  {
+   "id": "108638",
+   "punchlines": [
+    "pero está viejo y húmedo",
+    "y lo pronuncias \"croi-sant\" y todos te odian",
+    "lo arrojan a la boca de un hipopótamo",
+    "metido en la suela de tus zapatos"
+   ],
+   "setup": "un croissant parisino",
+   "type": "GOOD"
+  },
+  {
+   "id": "108640",
+   "punchlines": [
+    "escrita por un cantante de country",
+    "estás vestido como vaquero",
+    "el estacionamiento es un auténtico caos",
+    "pero te quedas atascado detrás de la Señora Pelo Grande"
+   ],
+   "setup": "una tarde en la ópera",
+   "type": "GOOD"
+  },
+  {
+   "id": "108641",
+   "punchlines": [
+    "sin traje espacial",
+    "pero el mundo explotó y ahora estás atrapado",
+    "tras 40 años de práctica, así que ahora tienes que aprender otro paso de baile"
+   ],
+   "setup": "haces bien la caminata lunar",
+   "type": "GOOD"
+  },
+  {
+   "id": "108643",
+   "punchlines": [
+    "llueve todo el tiempo",
+    "oh, no, pero si no tienes dinero",
+    "tu mochila es una bolsa de basura",
+    "solo comes en McDonald’s",
+    "con tu amigo más molesto, Dante Pepinillo"
+   ],
+   "setup": "mochileas por Europa",
+   "type": "GOOD"
+  },
+  {
+   "id": "108645",
+   "punchlines": [
+    "pero te tira y te rompes ambos fémures",
+    "fuiste tú quien le rompió la espalda al caballo",
+    "porque vas a la cárcel de vaqueros",
+    "pero estás bastante seguro de que el caballo te está mirando con desdén"
+   ],
+   "setup": "la oportunidad de montar a caballo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108669",
+   "punchlines": [
+    "te da una tarea terrible",
+    "te pide que hagas horas extras",
+    "se comió todos los bocadillos de la sala de descanso",
+    "te ha puesto el cariñoso apodo de “Hedorcito”"
+   ],
+   "setup": "la persona que te gusta en tu trabajo",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108670",
+   "punchlines": [
+    "durante la semana de “sin apuestas”",
+    "para asistir a una convención de contabilidad",
+    "será sede de los Juegos Olímpicos de Invierno"
+   ],
+   "setup": "Las Vegas",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108671",
+   "punchlines": [
+    "pero Roberto todavía te quita el sombrero de un manotazo",
+    "con el grabado “se rompe fácilmente”",
+    "pero accidentalmente te cortaste todos tus dedos del pie",
+    "pero repruebas álgebra de séptimo grado"
+   ],
+   "setup": "dominas la katana",
+   "type": "GOOD"
+  },
+  {
+   "id": "108672",
+   "punchlines": [
+    "perdón, quise decir un OJO NEGRO",
+    "en el que derramaste salsa",
+    "que se volvió blanco por un accidente de lavado"
+   ],
+   "setup": "obtienes un cinturón negro en karate",
+   "type": "GOOD"
+  },
+  {
+   "id": "108673",
+   "punchlines": [
+    "para poner a prueba los límites del SII",
+    "para terminar una cita antes",
+    "de una heladería"
+   ],
+   "setup": "comida tailandesa extra picante que pediste",
+   "type": "GOOD"
+  },
+  {
+   "id": "108674",
+   "punchlines": [
+    "porque ambos se quedaron sin opciones",
+    "por duodécima vez",
+    "para ir a ver un documental deprimente",
+    "y dice que no y ahora cada interacción es extraña"
+   ],
+   "setup": "invitar a salir a una persona que conoces de toda la vida",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108677",
+   "punchlines": [
+    "pero el hotel te multa con migas",
+    "que llega tarde y a otra habitación",
+    "y se te cae por toda la cama",
+    "en este país, “servicio a la habitación” significa “destruye mi habitación, por favor”"
+   ],
+   "setup": "pides un montón de servicio a la habitación",
+   "type": "GOOD"
+  },
+  {
+   "id": "108678",
+   "punchlines": [
+    "“todas las aplicaciones están el doble de caras”",
+    "con todos tus ex",
+    "con tus colegas de trabajo más aburridos",
+    "seguida de “mes triste”"
+   ],
+   "setup": "hora feliz",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108681",
+   "punchlines": [
+    "mientras sostienes tu yunque",
+    "desde cuatro metros de altura",
+    "pero tu paracaídas dice “gatito miedoso”"
+   ],
+   "setup": "saltas en paracaídas",
+   "type": "GOOD"
+  },
+  {
+   "id": "108682",
+   "punchlines": [
+    "con tus insoportables amigos del teatro musical",
+    "para hacer tu imitación de Yoko Ono",
+    "sin haber bebido nada"
+   ],
+   "setup": "te acercas al micrófono del karaoke",
+   "type": "GOOD"
+  },
+  {
+   "id": "108685",
+   "punchlines": [
+    "en las Montañas de los Monstruos Devoradores de Carne",
+    "como lugar para un baby shower",
+    "sin linterna"
+   ],
+   "setup": "exploras una cueva",
+   "type": "GOOD"
+  },
+  {
+   "id": "108686",
+   "punchlines": [
+    "cuya combinación de candado de 4 dígitos nadie recuerda",
+    "no valía la pena, ni siquiera con la inflación",
+    "que solo contiene pares de zapatos de los años 70"
+   ],
+   "setup": "desentierras una cápsula del tiempo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108696",
+   "punchlines": [
+    "demolido fácilmente",
+    "dedicado a un hombre que hizo cosas horribles",
+    "con estacionamiento de 25 dólares, sin validación",
+    "conocido como el Palo de Falo"
+   ],
+   "setup": "un monumento histórico local",
+   "type": "GOOD"
+  },
+  {
+   "id": "108822",
+   "punchlines": [
+    "perdón, en el amigo de un donante de órganos para recibir su riñón",
+    "por accidente",
+    "cuando el maestro de kung fu te arranca el corazón",
+    "pero es solo uno de esos pianos con tuberías"
+   ],
+   "setup": "te vuelves donante de órganos",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108823",
+   "punchlines": [
+    "con hamburguesas de 25 dólares, sin papas fritas",
+    "que te produce cacas de hamburguesas artesanales",
+    "la camarera es desagradable",
+    "las hamburguesas están hechas de pepino y tofu"
+   ],
+   "setup": "una hamburguesería artesanal",
+   "type": "GOOD"
+  },
+  {
+   "id": "108825",
+   "punchlines": [
+    "espaguetis por todas partes, metiéndose en las ruedas",
+    "todos los italianos están enojados con tu estereotipo",
+    "pero tu motoneta está hecha de palitos de pan"
+   ],
+   "setup": "conduces motonetas en Italia",
+   "type": "GOOD"
+  },
+  {
+   "id": "108847",
+   "punchlines": [
+    "recreando la destrucción de Pompeya",
+    "pero en realidad quiere ser actor de teatro musical",
+    "se lo toma demasiado en serio"
+   ],
+   "setup": "un actor de recreación histórica",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "108907",
+   "punchlines": [
+    "con los dientes",
+    "con tu jarra de cerveza",
+    "con la entrepierna",
+    "qué asco, es una pelota hecha de salmón"
+   ],
+   "setup": "atrapas una pelota al vuelo",
+   "starterContent": false,
+   "type": "GOOD"
+  },
+  {
+   "id": "108908",
+   "punchlines": [
+    "para la planta procesadora de carne",
+    "a una producción escolar de “Cats”",
+    "descubres a tu artista favorito haciendo playback"
+   ],
+   "setup": "pases entre bastidores",
+   "type": "GOOD"
+  },
+  {
+   "id": "108911",
+   "punchlines": [
+    "sobre aguas infestadas de pirañas",
+    "en medio de un huracán de categoría 5",
+    "y pierdes el traje de baño inmediatamente"
+   ],
+   "setup": "esquí acuático",
+   "type": "GOOD"
+  },
+  {
+   "id": "108919",
+   "punchlines": [
+    "dentro de tu páncreas",
+    "acompañado del fantasma de un tiranosaurio",
+    "uy, me lo tragué",
+    "pero lo regalas antes de ganar dinero con él"
+   ],
+   "setup": "encuentras un fósil de tiranosaurio",
+   "type": "GOOD"
+  },
+  {
+   "id": "108942",
+   "punchlines": [
+    "son leones hambrientos",
+    "este pastel está cubierto de pelo de gato",
+    "tu camarero es alérgico a los gatos, se nota"
+   ],
+   "setup": "un café de gatos",
+   "type": "GOOD"
+  },
+  {
+   "id": "108943",
+   "punchlines": [
+    "tras ver un documental sobre cómo se hacen",
+    "que te la disparan por tu esófago con un cañón",
+    "que lo dejaron al sol por 72 horas"
+   ],
+   "setup": "una salchicha bratwurst bien rellena",
+   "type": "GOOD"
+  },
+  {
+   "id": "108944",
+   "punchlines": [
+    "uy, tu celebración ahora es un meme",
+    "donde tienes que deletrear todo con voz de bebé",
+    "con bebés de contrincantes"
+   ],
+   "setup": "ganas el concurso de deletreo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108945",
+   "punchlines": [
+    "en una tormenta de granizo",
+    "una bandada de halcones se lleva tu ropa",
+    "y te muerde el trasero una anguila"
+   ],
+   "setup": "vas a nadar sin ropa",
+   "starterContent": false,
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108946",
+   "punchlines": [
+    "presentado por todos tus ex",
+    "que solo son anuncios de colchones",
+    "de bebés balbuceando"
+   ],
+   "setup": "un pódcast popular",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": false,
+   "id": "108965",
+   "punchlines": [
+    "protagonizado por una clase de tercer grado aprendiendo a tocar la flauta dulce",
+    "cuatro actos con su propio intermedio",
+    "cargando..."
+   ],
+   "setup": "el espectáculo de entretiempo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108966",
+   "punchlines": [
+    "que deja su piel vieja por todas partes",
+    "que le gusta jugar a “morder la mano”",
+    "que sisea con todos tus chistes"
+   ],
+   "setup": "una serpiente mascota juguetona",
+   "type": "GOOD"
+  },
+  {
+   "id": "108968",
+   "punchlines": [
+    "que irónicamente se incendió",
+    "que te salpica con colonia masculina",
+    "solo puedes subirte con la gente que te terminó"
+   ],
+   "setup": "una gran y emocionante atracción acuática",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "108970",
+   "punchlines": [
+    "solo con premios de suplementos alimenticios",
+    "pero el peluche se ve triste",
+    "que para llegar, empujaste a varios niños",
+    "pero los premios son solamente jamón"
+   ],
+   "setup": "el mostrador de premios de Chuck E. Cheese",
+   "type": "GOOD"
+  },
+  {
+   "id": "108973",
+   "punchlines": [
+    "golpeándote en la cara",
+    "con el grabado “peligrosamente inexperto”",
+    "tu mamá te castigó por comprarlos",
+    "ocultos en tu equipaje de mano y estás en el control de seguridad"
+   ],
+   "setup": "nunchakus completamente nuevos",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "108975",
+   "punchlines": [
+    "contra algunos estafadores de bingo reales",
+    "pero nunca aprendiste a contar más allá del seis",
+    "pero accidentalmente gritaste “¡ginbo!”"
+   ],
+   "setup": "jugar al bingo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108978",
+   "punchlines": [
+    "pero ahora tu casa es una papa",
+    "pero quedó aún peor que antes",
+    "pero olvidaste que tu casa necesita baños",
+    "tu búnker nuclear es basura"
+   ],
+   "setup": "remodelas tu casa tú mismo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108985",
+   "punchlines": [
+    "solo tienen puercoespines",
+    "los “animales” son todos ancianos disfrazados de caballos",
+    "las ovejas gimen cuando las acarician",
+    "todos los animales tienen huellas de manos con kétchup"
+   ],
+   "setup": "un zoológico interactivo",
+   "type": "GOOD"
+  },
+  {
+   "id": "108986",
+   "punchlines": [
+    "que se voltea cuando estás en el baño",
+    "todos se marean",
+    "el conductor también está recogiendo niños para la escuela",
+    "las únicas bebidas son refrescos marca pirulí"
+   ],
+   "setup": "un autobús de fiesta",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108991",
+   "punchlines": [
+    "alguien rellenó su almohada con Legos",
+    "a muerte",
+    "que se convierte en una guerra de almohadas que dura 5 años"
+   ],
+   "setup": "pelea de almohadas en una fiesta de pijamas",
+   "type": "GOOD"
+  },
+  {
+   "id": "108992",
+   "punchlines": [
+    "te subiste con tu compañero de trabajo menos favorito",
+    "girando a 3700 km/h",
+    "desprendiéndose de su base y rodando hacia el océano"
+   ],
+   "setup": "una rueda de la fortuna",
+   "type": "GOOD"
+  },
+  {
+   "id": "109002",
+   "punchlines": [
+    "en la estafa en la que caíste",
+    "pero perdiste el cheque gigante que te dieron",
+    "para hacer un cortometraje sobre figuritas de cerditos",
+    "para el programa de tu escuela “eliminar los avispones”"
+   ],
+   "setup": "alcanzas tu objetivo de recaudación de fondos",
+   "type": "GOOD"
+  },
+  {
+   "id": "109003",
+   "punchlines": [
+    "así que nunca te darán el descuento para personas mayores",
+    "es el nombre de una tienda de agua alcalina",
+    "que está cubierta de algas tóxicas"
+   ],
+   "setup": "encuentras la Fuente de la Juventud",
+   "type": "GOOD"
+  },
+  {
+   "id": "109004",
+   "punchlines": [
+    "para uno",
+    "¡¡¡y NO HAY VOLCÁN DE CEBOLLA!!!",
+    "con el cocinero suplente",
+    "el chef se desmaya sobre la parrilla",
+    "todo sabe a salmonela"
+   ],
+   "setup": "una cena con espectáculo de fuego",
+   "type": "GOOD"
+  },
+  {
+   "id": "109006",
+   "punchlines": [
+    "pero solo sabes hacer “gusanos”",
+    "pero descubres que eres alérgico al látex",
+    "es más que solo su trabajo, ¿bueno?",
+    "oh, no, ahí va el séptimo niño que se va flotando"
+   ],
+   "setup": "un trabajo como artista de globos",
+   "type": "GOOD"
+  },
+  {
+   "id": "109008",
+   "punchlines": [
+    "bueno, amables entre ellos al menos",
+    "oh, oh, son caníbales",
+    "que quieren que te quedes... para siempre...",
+    "están tratando de robarte"
+   ],
+   "setup": "conoces residentes amables",
+   "type": "GOOD"
+  },
+  {
+   "id": "109009",
+   "punchlines": [
+    "relleno de contrabando de prisión",
+    "desechado debido a una infestación de chinches",
+    "que el perro pensaba que era de él"
+   ],
+   "setup": "un conejito de peluche suave",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "109014",
+   "punchlines": [
+    "es la bola de pelo más grande del mundo",
+    "la señal de tráfico más fea de la Ruta 66",
+    "sin estacionamiento"
+   ],
+   "setup": "paras en una atracción de carretera",
+   "type": "GOOD"
+  },
+  {
+   "id": "109019",
+   "punchlines": [
+    "fácilmente identificable en las cámaras de seguridad",
+    "hasta que el gato orinó sobre ella",
+    "pero está muy mohosa"
+   ],
+   "setup": "una chaqueta de invierno resistente",
+   "type": "GOOD"
+  },
+  {
+   "id": "109020",
+   "punchlines": [
+    "con un fondo amarillo neón",
+    "uy... la tapa de la lente estaba puesta",
+    "que se usará para chantajearte dentro de 15 años"
+   ],
+   "setup": "un retrato formal",
+   "type": "GOOD"
+  },
+  {
+   "id": "109213",
+   "punchlines": [
+    "que susurra cosas espeluznantes por la noche",
+    "que constantemente pide dinero",
+    "se convirtió en un influencer odioso de las redes sociales"
+   ],
+   "setup": "tu animal de peluche de la infancia",
+   "type": "GOOD"
+  },
+  {
+   "id": "109214",
+   "punchlines": [
+    "con vistas a un lago de fuego",
+    "que es conocido por sus quemaduras de cuerda",
+    "te atascas ahí durante toda la fiesta"
+   ],
+   "setup": "un columpio de neumático",
+   "type": "GOOD"
+  },
+  {
+   "id": "109215",
+   "punchlines": [
+    "que no te han pagado el alquiler del barco",
+    "que no se han duchado en una semana",
+    "y cada uno quiere venderte un seguro"
+   ],
+   "setup": "una barcaza llena de amigos",
+   "type": "GOOD"
+  },
+  {
+   "id": "109216",
+   "punchlines": [
+    "pero todas las antigüedades están malditas",
+    "derribas varios jarrones",
+    "pero consigues regatear para que te suban los precios",
+    "y eres un toro"
+   ],
+   "setup": "una tienda de antigüedades",
+   "type": "GOOD"
+  },
+  {
+   "id": "109217",
+   "punchlines": [
+    "pero el trago es enjuague bucal",
+    "pero solo es tu ex con un disfraz sensual",
+    "pero solo para ganar puntos de la tarjeta de crédito"
+   ],
+   "setup": "un desconocido atractivo te invita a un trago",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "109218",
+   "punchlines": [
+    "en la cara de tu abuela",
+    "contra niños de 5 años",
+    "pero nunca más vuelves a hacer nada significativo",
+    "en el Metaverso"
+   ],
+   "setup": "bateas un jonrón",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "109219",
+   "punchlines": [
+    "que celebras con una danza interpretativa surreal",
+    "pero es un autogol",
+    "pero la pelota se convierte en una bandada de palomas"
+   ],
+   "setup": "haces un gol",
+   "type": "GOOD"
+  },
+  {
+   "id": "109220",
+   "punchlines": [
+    "por hacer cosas indescriptibles",
+    "para vender tus piernas",
+    "para invertir en una multipropiedad"
+   ],
+   "setup": "un cheque de 1.000.000 de dólares",
+   "type": "GOOD"
+  },
+  {
+   "id": "109225",
+   "punchlines": [
+    "de la Universidad de Payasos",
+    "los ánimos en verdad son gritos",
+    "nunca pensaron que lo lograrías"
+   ],
+   "setup": "tu familia te anima en la graduación",
+   "type": "GOOD"
+  },
+  {
+   "id": "109226",
+   "punchlines": [
+    "y tienes que pagar los impuestos",
+    "es un Cybertruck",
+    "un suministro de mortadela para toda la vida"
+   ],
+   "setup": "ganas el gran premio en un concurso televisivo",
+   "type": "GOOD"
+  },
+  {
+   "id": "109228",
+   "punchlines": [
+    "pasando por encima de tu torso",
+    "para tu vehículo Mad Max arreglado",
+    "hechos de cabello humano"
+   ],
+   "setup": "neumáticos completamente nuevos",
+   "type": "GOOD"
+  },
+  {
+   "id": "109230",
+   "punchlines": [
+    "con un horno robot que te odia",
+    "pero el refrigerador es feo",
+    "pero sigues sin saber cocinar",
+    "con un cubo de basura para tu piel escamosa"
+   ],
+   "setup": "una cocina completamente moderna",
+   "type": "GOOD"
+  },
+  {
+   "id": "109231",
+   "punchlines": [
+    "¡y ahora puedes contaminar el río!",
+    "ganas un dólar",
+    "no culpable de ser un tontito"
+   ],
+   "setup": "ganas tu caso judicial",
+   "type": "GOOD"
+  },
+  {
+   "id": "109232",
+   "punchlines": [
+    "en un sándwich",
+    "pero su tesoro está lleno de periódicos viejos",
+    "pero es de tamaño normal"
+   ],
+   "setup": "un duende",
+   "type": "GOOD"
+  },
+  {
+   "id": "109233",
+   "punchlines": [
+    "en un guiso",
+    "que se arrastra dentro de tu cuerpo, bajo tu piel",
+    "cuyo poder es tirarse pedos",
+    "es un Burritle"
+   ],
+   "setup": "un Pokémon",
+   "type": "GOOD"
+  },
+  {
+   "id": "109234",
+   "punchlines": [
+    "pero te olvidaste de los baños",
+    "con heno",
+    "atrapaste a tu gato en la pared de yeso"
+   ],
+   "setup": "arreglas una casa antigua",
+   "type": "GOOD"
+  },
+  {
+   "id": "109235",
+   "punchlines": [
+    "después de jubilarte",
+    "pero es de máscaras antigás para perros",
+    "y ahora nunca lograrás tu VERDADERO sueño"
+   ],
+   "setup": "tu negocio despega",
+   "type": "GOOD"
+  },
+  {
+   "id": "109236",
+   "punchlines": [
+    "justo antes del impacto del asteroide",
+    "pero es un pollo asado",
+    "en su boda"
+   ],
+   "setup": "por fin conoces a tu alma gemela",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "109238",
+   "punchlines": [
+    "de tu perro que está muy estresado",
+    "de tu mamá que dice “llámame”",
+    "es de la tienda de los idiotas"
+   ],
+   "setup": "un mensaje de texto sorpresa",
+   "type": "GOOD"
+  },
+  {
+   "id": "109239",
+   "punchlines": [
+    "de mortadela y queso marca pirulí",
+    "en la oficina del doctor",
+    "lanzada contra la ventana de un auto",
+    "hecha champú para tu pelo",
+    "que te golpeó la cabeza en una pelea de bar"
+   ],
+   "setup": "una tabla de charcutería",
+   "type": "GOOD"
+  },
+  {
+   "id": "109243",
+   "punchlines": [
+    "de una gasolinera",
+    "servido sobre el cuerpo desnudo de un gato sin pelo",
+    "con chocolate",
+    "es el olor de este perfume"
+   ],
+   "setup": "sushi",
+   "type": "GOOD"
+  },
+  {
+   "id": "109244",
+   "punchlines": [
+    "pero traes ensalada de papas con pasas",
+    "oh, no, espera, se referían a otra persona",
+    "pero tú llevas a tu hipopótamo de apoyo emocional, Elliot",
+    "pero primero tienes que responder una encuesta de 25 páginas"
+   ],
+   "setup": "te invitan al asado",
+   "type": "GOOD"
+  },
+  {
+   "id": "109246",
+   "punchlines": [
+    "literalmente, un dragón literal y un calabozo literal",
+    "pero eres aburrido y poco creativo",
+    "y eso es todo, esa es tu vida",
+    "pero la habitación de juego contiene niveles peligrosos de olor corporal"
+   ],
+   "setup": "Calabozos y Dragones",
+   "type": "GOOD"
+  },
+  {
+   "id": "109247",
+   "punchlines": [
+    "no se puede conectar a internet",
+    "repleto de spyware",
+    "es broma, es un ladrillo",
+    "la batería dura media hora"
+   ],
+   "setup": "un celular nuevo",
+   "type": "GOOD"
+  },
+  {
+   "id": "109249",
+   "punchlines": [
+    "pero sin sentido moral para hacer lo correcto",
+    "poderes basados ​​en la flatulencia",
+    "solo cuando nadie te ve"
+   ],
+   "setup": "descubres que tienes superpoderes",
+   "type": "GOOD"
+  },
+  {
+   "id": "109251",
+   "punchlines": [
+    "es Sr. Basurín",
+    "pero solo es tu nombre dicho con voz chillona",
+    "y no puedes detenerlos"
+   ],
+   "setup": "tus compañeros de trabajo te ponen un apodo",
+   "type": "GOOD"
+  },
+  {
+   "id": "109252",
+   "punchlines": [
+    "porque pides la peor bebida del mundo",
+    "porque la semana pasada chocaste tu auto contra su cafetería",
+    "porque tu cara es “única”",
+    "y escupe en tu café"
+   ],
+   "setup": "el barista se acuerda de ti",
+   "type": "GOOD"
+  },
+  {
+   "id": "109253",
+   "punchlines": [
+    "que significa Kiwi pop",
+    "pero los miembros de la banda no tienen personalidad",
+    "ahora es ilegal",
+    "pero las fanáticas están loquísimas"
+   ],
+   "setup": "K-pop",
+   "type": "GOOD"
+  },
+  {
+   "id": "109274",
+   "punchlines": [
+    "en la capilla del aeropuerto más ruidoso",
+    "administrado por Shakira",
+    "donde debes estar a solas con tus propios pensamientos"
+   ],
+   "setup": "un retiro para meditar",
+   "type": "GOOD"
+  },
+  {
+   "id": "109279",
+   "punchlines": [
+    "visto en Omegle",
+    "del Reino de las Hamburguesas",
+    "deslizando furiosamente hacia la derecha en Tinder"
+   ],
+   "setup": "El príncipe azul",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "109280",
+   "punchlines": [
+    "corriendo hacia ti",
+    "que increpa sin piedad a los transeúntes",
+    "mostrándotelo todo",
+    "con una sonrisa espeluznante en su cara"
+   ],
+   "setup": "un gnomo de jardín",
+   "type": "GOOD"
+  },
+  {
+   "id": "109281",
+   "punchlines": [
+    "lubricado con grasa de tocino",
+    "y estás jugando a los bolos humanos",
+    "hacia una autopista interestatal",
+    "hacia la boca de un volcán activo, upsi"
+   ],
+   "setup": "un tobogán acuático",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "109284",
+   "punchlines": [
+    "presentándonos a su cuarto hermano maldito",
+    "demoliendo tu cocina mientras duermes",
+    "se multiplican y ahora son los Cuatrillizos a la obra"
+   ],
+   "setup": "Hermanos a la obra",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "109290",
+   "punchlines": [
+    "con una pasarela de 15 centímetros",
+    "la temática es “Basura”",
+    "y ninguna de las modelos tropezó de forma graciosa :(",
+    "todos están vestidos con ropa hecha de mantequilla"
+   ],
+   "setup": "un desfile de moda",
+   "type": "GOOD"
+  },
+  {
+   "id": "109292",
+   "punchlines": [
+    "para que nunca se haga tu corte de cabello",
+    "a intentar imitar en casa acrobacias peligrosas realizadas por profesionales",
+    "a perseguir sus sueños estúpidos"
+   ],
+   "setup": "inspiras a alguien",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "109334",
+   "punchlines": [
+    "se te cae la comida y no quieren reponértela",
+    "solo tienen salsa de queso",
+    "el bebestible sabe a agua salada"
+   ],
+   "setup": "el restaurante de Karens",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "109337",
+   "punchlines": [
+    "eh, están bien",
+    "esto apenas es un juego",
+    "Jackbox Games me hizo darme cuenta de que mis amigos son asquerosos"
+   ],
+   "setup": "juego videojuegos con mis mejores amigos",
+   "type": "GOOD"
+  },
+  {
+   "id": "109345",
+   "punchlines": [
+    "soy una gata bajo la lluvia, sin hogar",
+    "una lluvia intensa con gotas del tamaño de rocas",
+    "¡quema!",
+    "no es lluvia es saliva, ¡nos están escupiendo!"
+   ],
+   "setup": "sientes la lluvia en tu piel",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "109352",
+   "punchlines": [
+    "pero solo es una masa frita sin forma",
+    "cubiertos en sal en vez de azúcar",
+    "pero no hay café ni chocolate para acompañarlos, solo sopa"
+   ],
+   "setup": "churros",
+   "type": "GOOD"
+  },
+  {
+   "id": "109353",
+   "punchlines": [
+    "Rata York",
+    "cubierta en grasa",
+    "se te sube una rata al hombro en el metro"
+   ],
+   "setup": "la ciudad de Nueva York",
+   "type": "GOOD"
+  },
+  {
+   "id": "109354",
+   "punchlines": [
+    "en la piscina",
+    "que sale de mi nariz",
+    "en mi café en vez de crema"
+   ],
+   "setup": "mostaza",
+   "type": "GOOD"
+  },
+  {
+   "id": "109416",
+   "punchlines": [
+    "vestido con un pequeño esmoquin",
+    "comido a escondidas en el baño",
+    "hecho principalmente de microplásticos"
+   ],
+   "setup": "un pollo asado",
+   "type": "GOOD"
+  },
+  {
+   "id": "109710",
+   "punchlines": [
+    "santo cielo, ¡¡¡¿¿¿acaso mi familia y mi vida eran solo una simulación???!!!",
+    "y lo único que puedes hacer con él es tu aburrido trabajo diario",
+    "en un bebé"
+   ],
+   "setup": "un casco de realidad virtual",
+   "type": "GOOD"
+  },
+  {
+   "id": "109711",
+   "punchlines": [
+    "solo son bolitas de poliestireno",
+    "pero es un ratón muerto que te trajo tu gato",
+    "en el Día de los No Enamorados"
+   ],
+   "setup": "abres regalos",
+   "type": "GOOD"
+  },
+  {
+   "id": "109712",
+   "punchlines": [
+    "que estuvieron afuera toda la noche",
+    "saliendo por tus fosas nasales",
+    "destruyeron a todas los restaurantes de comida rápida"
+   ],
+   "setup": "camarones ilimitados",
+   "type": "GOOD"
+  },
+  {
+   "id": "110103",
+   "punchlines": [
+    "sonando sin parar en tu cabeza",
+    "así le dice tu tío a los ciudadanos mayores",
+    "técnicamente ahora incluye a Pearl Jam, perdón",
+    "son lo único que se reproduce en el baile de graduación"
+   ],
+   "setup": "los clásicos",
+   "type": "GOOD"
+  },
+  {
+   "id": "110108",
+   "punchlines": [
+    "para escapar del desastre provocado por el hombre que azotó tu ciudad",
+    "donde tu cabello se enreda en los rotores",
+    "oh, no, ¡¿ALF es el piloto?!"
+   ],
+   "setup": "un paseo en helicóptero",
+   "type": "GOOD"
+  },
+  {
+   "id": "110109",
+   "punchlines": [
+    "nop ese es GODZILLA",
+    "eso es un submarino ruso",
+    "las ballenas presentan una orden de restricción",
+    "en realidad son 700 salmones en un disfraz de ballena"
+   ],
+   "setup": "avistamiento de ballenas",
+   "type": "GOOD"
+  },
+  {
+   "id": "110130",
+   "punchlines": [
+    "es el Loto Blanco",
+    "lleno de arañas venenosas enormes",
+    "las margaritas están HIRVIENDO"
+   ],
+   "setup": "un complejo turístico tropical",
+   "type": "GOOD"
+  },
+  {
+   "id": "111261",
+   "punchlines": [
+    "Juan ya está llorando, de nuevo",
+    "se animan y se deprimen unos a otros",
+    "en el club de recreación de la vida cavernícola",
+    "estos \"amigos\" son mis títeres de calcetín"
+   ],
+   "setup": "te juntas con amigos",
+   "type": "GOOD"
+  },
+  {
+   "id": "111313",
+   "punchlines": [
+    "con ocho hermosas piernas",
+    "pero es muy mala gente por dentro",
+    "son solo tres modelos muy pequeñas dentro de un traje de piel"
+   ],
+   "setup": "una supermodelo",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "111330",
+   "punchlines": [
+    "pero todas las cabezas son las Tortugas Ninja",
+    "agregan diecisiete presidentes más",
+    "y todos los presidentes están cantando a capela"
+   ],
+   "setup": "el Monte Rushmore",
+   "type": "GOOD"
+  }
+ ]
+}
