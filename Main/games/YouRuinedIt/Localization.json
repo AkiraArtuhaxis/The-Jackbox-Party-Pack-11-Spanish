@@ -62,7 +62,7 @@
       "CHOOSE_WINNER_PROMPT": "Vota por tu favorito",
       "FINAL_ROUND_MAKE_GOOD_PROMPT": "Hagan que esto sea bueno:<br/>",
       "FINAL_ROUND_RUIN_THIS_PROMPT": "Arruinen esto:",
-      "CHOOSE_PROMPT_PLAYER_FOCUSED": "Elige un enunciado para hacer quedar [ruinBold]MAL[/ruinBold] para [playerName]%s[/playerName]",
+      "CHOOSE_PROMPT_PLAYER_FOCUSED": "Elige un enunciado para hacer quedar [ruinBold]MAL[/ruinBold] a [playerName]%s[/playerName]",
       "FINAL_ROUND_CHOOSE_MAKE_GOOD_PROMPT": "Elige un par para [promptBold]Des-Arruinar[/promptBold]",
       "RUIN_IT_PROMPT": "Arruina esto:",
       "RUIN_IT_FOR_PROMPT": "Arruina esto para %s:",

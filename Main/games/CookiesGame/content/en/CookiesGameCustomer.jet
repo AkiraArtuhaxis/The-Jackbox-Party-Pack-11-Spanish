@@ -299,7 +299,7 @@
     "Este es el dinero que peor he gastado en... áculo."
    ],
    "redrawBarksNeutral": [
-    "Mmm. Me gustaría hablar de esto más tarde. Estaré en el callejon, en un hueco que parece demasiado pequeño para mi cuerpo."
+    "Mmm. Me gustaría hablar de esto más tarde. Estaré en el callejón, en un hueco que parece demasiado pequeño para mi cuerpo."
    ],
    "redrawBarksPositive": [
     "Es tan buena, que planeo convertirme en su OCG - ¡Orificio Central de Galletas!"
@@ -470,7 +470,7 @@
    "barksIntro": [
     "¡Los veo apreciando mi atuendo! Si les gusto esto, esperen a ver como revoleo las patas.",
     "¡Yo te recuerdo! ¿No estabas en el catering de la fiesta de Coral Chanel para la semana de la marea?",
-    "¡Qué pintoresco! No suelo comprar en outlets de comida, pero quizá sólo un pellizco...",
+    "¡Qué pintoresco! No suelo comprar en outlets de comida, pero quizá solo un pellizco...",
     "¡Tip de moda! Me gustan mis pantalones como me gustan las olas... bien bajitos."
    ],
    "barksNegative": [
@@ -991,7 +991,7 @@
   },
   {
    "barksIntro": [
-    "Sí, ya sabemos que no engañamos a nadie así. ¡Sólo lo hacemos por amor al arte!",
+    "Sí, ya sabemos que no engañamos a nadie así. ¡Solo lo hacemos por amor al arte!",
     "Una pregunta rápida: si tres personas intentaran pasar como una sola, ¿se enojarían con TODOS o solo con el que va arriba?",
     "¡Buenos días, mis compañeros altos! ¿¿¿¿No es un gran día para ser adulto????"
    ],
@@ -1098,7 +1098,7 @@
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "Como me dice mi terapeuta luego de cada sesión: “Al menos lo intentaste.”",
+    "Como me dice mi terapeuta luego de cada sesión: “Al menos lo intentaste”.",
     "No me gusta el conflicto, pero esto fue decepcionante. ¡¡¡Perdón!!!",
     "No...no sentí nada con esto. Y no en el buen sentido, como en una meditación."
    ],
@@ -1111,7 +1111,7 @@
    "barksSetup": [
     "He pensado demasiado tiempo en esto, y quiero una galleta que tenga ESTO en mente:",
     "¡Ahhhhhhhhh! Bien. ¡Ahhhhh! ¡Bien! Solo háganme este tipo de galleta:",
-    "Yo... eh... pues... em... um... sólo... ¡prepárenme esto!"
+    "Yo... eh... pues... em... um... solo... ¡prepárenme esto!"
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",

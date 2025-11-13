@@ -1928,7 +1928,7 @@
    "id": "114096",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“¡Con cuidado! Es {{BLANK}} edición limitada.”",
+   "text": "“¡Con cuidado! Es {{BLANK}} edición limitada”.",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1969,7 +1969,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“No te olvidaremos aunque no sigas con nosotros. QEPD {{BLANK}}.”",
+   "text": "“No te olvidaremos aunque no sigas con nosotros. QEPD {{BLANK}}”.",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1982,7 +1982,7 @@
    "id": "114106",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Siempre la dama de honor y nunca {{BLANK}}.”",
+   "text": "“Siempre la dama de honor y nunca {{BLANK}}”.",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1995,7 +1995,7 @@
    "id": "114107",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Ahh, nada como refrescarse con {{BLANK}}.”",
+   "text": "“Ahh, nada como refrescarse con {{BLANK}}”.",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2087,7 +2087,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“Por favor no le digan a nadie de mi terrible {{BLANK}}.”",
+   "text": "“Por favor no le digan a nadie de mi terrible {{BLANK}}”.",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2114,7 +2114,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“Guau. Ojalá fuera tan genial como {{BLANK}}.”",
+   "text": "“Guau. Ojalá fuera tan genial como {{BLANK}}”.",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2181,7 +2181,7 @@
    "id": "114148",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Cuando veo {{BLANK}} me hace emocionar.”",
+   "text": "“Cuando veo {{BLANK}} me hace emocionar”.",
    "type": "UGC",
    "weights": "DEFAULT"
   },
