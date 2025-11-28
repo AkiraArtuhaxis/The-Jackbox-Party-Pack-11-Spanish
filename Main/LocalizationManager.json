@@ -85,8 +85,8 @@
       "AUDIO_MIX_STEREO": "Estéreo",
       "AUDIO_MIX_MONO": "Mono",
       "AUDIO_MIX_DESCRIPTION": "La configuración de mezcla de audio le permite reducir el muestreo del audio a estéreo o mono.",
-      "TO_START": "PARA EMPEZAR",
-      "TO_CANCEL": "PARA CANCELAR"
+      "TO_START": "Iniciar partida",
+      "TO_CANCEL": "Cancelar"
     },
     "de": {
       "en": "English",

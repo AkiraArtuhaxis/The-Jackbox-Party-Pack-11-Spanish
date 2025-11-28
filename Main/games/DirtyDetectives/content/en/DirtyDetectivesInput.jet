@@ -144,6 +144,21 @@
    "summary": "EN BOCA: {{SELECTION}}"
   },
   {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": "El sospechoso cree que las personas solo usan la palabra “{{SELECTION}}” para parecer inteligentes.",
+   "familiarity": "STRANGERS",
+   "id": "107612",
+   "interrogations": [
+    "¿Eres una de las personas que usan esta palabra?",
+    "¿Cómo describirías tu vocabulario?",
+    "Dame tres sinónimos para “bueno” ya mismo."
+   ],
+   "question": "¿Cuál es una palabra que las personas usan para parecer inteligentes?",
+   "reminder": "Sonando inteligente",
+   "summary": "PALABRA INTELIGENTE: “{{SELECTION}}”"
+  },
+  {
    "appearance": "LATE",
    "category": "PROFILE",
    "evidence": "El autor se sabe “{{SELECTION}}” de principio a fin.",
@@ -261,6 +276,21 @@
    "question": "¿Qué Muppet es tu favorito?",
    "reminder": "Muppet favorito",
    "summary": "MUPPET: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "¡Puaj! El sospechoso no soporta la idea de comer esto: {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "107743",
+   "interrogations": [
+    "¿Eres alérgico a algo?",
+    "¿Cuál es la peor comida que has comido?"
+   ],
+   "question": "¿Cuál es una comida que directamente no aguantas?",
+   "reminder": "Comidas asquerosas",
+   "starterContent": false,
+   "summary": "“¡PUAJ! ¡{{SELECTION}}!”"
   },
   {
    "appearance": "EARLY",
@@ -400,6 +430,22 @@
   {
    "appearance": "EARLY",
    "category": "PROFILE",
+   "evidence": "El objetivo cree que la mejor aplicación si fuera hecha una persona sería: {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "108142",
+   "interrogations": [
+    "¿Qué tipo de trabajo haces?",
+    "¿Cuál es una herramienta que utilizas todos los días?"
+   ],
+   "question": "Si todas tus aplicaciones de repente cobraran vida/se hicieran humanas, ¿con cuál crees que lo pasarías mejor pasando el rato?",
+   "reminder": "Apps, pero PERSONAS",
+   "starterContent": false,
+   "summary": "PERSONA APP: {{SELECTION}}",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
    "evidence": "El nombre del primer puesto de trabajo del objetivo: {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "108145",
@@ -471,6 +517,20 @@
    "reminder": "Última foto tomada",
    "starterContent": true,
    "summary": "ÚLTIMA FOTO: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": "El nuevo nombre del culpable, si lo quisiera: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "108488",
+   "interrogations": [
+    "¿Es un apodo?",
+    "¿Quieres un nombre más genial, o solo uno diferente?"
+   ],
+   "question": "Si no tuvieras tu nombre actual, ¿qué nombre te gustaría tener?",
+   "reminder": "¡Nuevo nombre!",
+   "summary": "NUEVO NOMBRE: {{SELECTION}}"
   },
   {
    "appearance": "LATE",
@@ -550,7 +610,7 @@
   {
    "appearance": "LATE",
    "category": "PROFILE",
-   "evidence": "El sospechoso dice no saber nada acerca de la serie de televisión [i]{{SELECTION}}[/i].",
+   "evidence": "El sospechoso dice no saber nada acerca de la serie de televisión {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "108837",
    "interrogations": [
@@ -559,7 +619,7 @@
    ],
    "question": "¿Cuál es una serie de televisión popular de la que no sabes nada?",
    "reminder": "Conocimiento de televisión",
-   "summary": "NO SABE DE: [i]{{SELECTION}}[/i]"
+   "summary": "NO SABE DE: {{SELECTION}}"
   },
   {
    "appearance": "LATE",
@@ -591,6 +651,20 @@
   },
   {
    "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "Cómo gastaría el sospechoso una hora extra de su día: {{SELECTION}}",
+   "familiarity": "FRIENDS",
+   "id": "108993",
+   "interrogations": [
+    "¿De verdad es lo qué harías, o es solo lo que te gustaría pensar que harías?"
+   ],
+   "question": "Si hubieran 25 horas en un día en lugar de 24, ¿cómo usarías tu hora extra?",
+   "reminder": "Hora extra",
+   "starterContent": false,
+   "summary": "HORA EXTRA: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
    "category": "PROFILE",
    "evidence": "Si el autor fuera un jefe de videojuego, su punto débil sería: {{SELECTION}}.",
    "familiarity": "FRIENDS",
@@ -619,6 +693,22 @@
    "reminder": "¿Santo patrón?",
    "starterContent": false,
    "summary": "Santo patrón: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "La persona que el objetivo cree que sería buena en una crisis: {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "109043",
+   "interrogations": [
+    "¿Por qué serías capaz de manejar bien una situación caótica?",
+    "¿Alguna vez has estado en una verdadera situación de crisis?",
+    "¿Lucha, huida o parálisis?"
+   ],
+   "question": "De todos los que están jugando, ¿quién crees que sería bueno tener en una crisis?",
+   "reminder": "Mejor en una crisis",
+   "starterContent": false,
+   "summary": "MEJOR EN UNA CRISIS: {{SELECTION}}"
   },
   {
    "appearance": "LATE",
@@ -686,6 +776,20 @@
   },
   {
    "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": "El último libro que el culpable afirma haber leído: {{SELECTION}}",
+   "familiarity": "STRANGERS",
+   "id": "109443",
+   "interrogations": [
+    "¿Eres una chica de la ficción o la no ficción?",
+    "¿Hace cuánto tiempo terminaste este libro?"
+   ],
+   "question": "¿Cuál es el título del último libro que has leído?",
+   "reminder": "Último libro leído",
+   "summary": "ÚLTIMO LIBRO: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
    "category": "TESTIMONY",
    "evidence": "La cantidad de efectivo que el autor tiene a mano en este minuto: {{SELECTION}}",
    "familiarity": "FRIENDS",
@@ -702,7 +806,7 @@
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "El autor ya no hace ESTO tanto como antes:  {{SELECTION}}",
+   "evidence": "El autor ya no hace ESTO tanto como antes: {{SELECTION}}",
    "familiarity": "STRANGERS",
    "id": "109476",
    "interrogations": [
@@ -716,7 +820,7 @@
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "El autor conoce lo suficiente sobre sí mismo para saber que está [i]demasiado[/i] interesado en: {{SELECTION}}.",
+   "evidence": "El autor conoce lo suficiente sobre sí mismo para saber que está demasiado interesado en: {{SELECTION}}.",
    "familiarity": "STRANGERS",
    "id": "109521",
    "interrogations": [
@@ -835,10 +939,23 @@
    "summary": "CONSPIRACIÓN: {{SELECTION}}"
   },
   {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": "Un juguete con el que el culpable recuerda haber jugado de pequeño: {{SELECTION}}.",
+   "familiarity": "FRIENDS",
+   "id": "110104",
+   "interrogations": [
+    "¿Qué se te viene a la cabeza al oir la palabra “jugar”?"
+   ],
+   "question": "En una o dos palabras, describe un juguete favorito que tenías cuando eras más pequeño.",
+   "reminder": "Juguete favorito de la infancia",
+   "summary": "JUGUETE FAVORITO: {{SELECTION}}"
+  },
+  {
    "appearance": "LATE",
    "category": "TESTIMONY",
    "countrySpecific": false,
-   "evidence": "Una palabra que describe la opinión del autor sobre la nación: {{SELECTION}}",
+   "evidence": "Una palabra que describe la opinión del culpable acerca de su vida: {{SELECTION}}",
    "familiarity": "FRIENDS",
    "id": "112433",
    "interrogations": [
@@ -846,8 +963,8 @@
     "¿Crees que tu futuro será más feliz o más triste?"
    ],
    "question": "Dinos una palabra que describa cómo te sientes con tu vida ahora mismo.",
-   "reminder": "Sensación del país",
-   "summary": "EL PAÍS: {{SELECTION}}"
+   "reminder": "Sensaciones de vida",
+   "summary": "MI VIDA: {{SELECTION}}"
   },
   {
    "appearance": "LATE",
@@ -1014,7 +1131,7 @@
     "Esa primera película que viste -- ¿alguna vez la volviste a ver?",
     "¿Cómo te fue con tu primera película? ¿Tenías miedo?"
    ],
-   "question": "¿Recuerdas la primera película que viste en el teatro? ¿De qué trataba?",
+   "question": "¿Recuerdas la primera película que viste en el teatro? En una o dos palabras, ¿de qué trataba?",
    "reminder": "Primera película",
    "summary": "PRIMERA PELÍCULA: SOBRE {{SELECTION}}"
   },
@@ -1032,6 +1149,21 @@
    "question": "En una palabra o dos, ¿cuál es un placer sencillo que siempre te pone de buen humor?",
    "reminder": "Placer simple",
    "summary": "PLACER SIMPLE: {{SELECTION}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": "El sospechoso estaría dispuesto a beber un vaso de agua de una montaña rusa acuática por: {{SELECTION}}.",
+   "familiarity": "STRANGERS",
+   "id": "114452",
+   "interrogations": [
+    "¿Qué piensas de esas atracciones acuáticas en general?",
+    "Es solo un vasito chiquito, ¿verdad? ¿Qué tan malo puede ser?",
+    "¿Qué tan seguido piensas que cambian el agua en esas atracciones?"
+   ],
+   "question": "¿Cuánto dinero se necesitaría para que bebas un vaso de agua de una montaña rusa sobre el agua?",
+   "reminder": "Agua de montaña rusa",
+   "summary": "Agua de atracción: {{SELECTION}}"
   }
  ]
 }

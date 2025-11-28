@@ -235,7 +235,7 @@
    "barksSetup": [
     "Prepárenme un nugget de pollo así:",
     "¡Ustedes! Tomen un nugget de pollo, y luego hagan esto:",
-    "Deben conseguir un nugget - nugget de pollo, para ser exactos - y hacer esto:"
+    "Deben conseguir un nugget (nugget de pollo, para ser exactos) y hacer esto:"
    ],
    "colors": "NUGGETS",
    "cookieTypes": "NUGGETS",
@@ -302,7 +302,7 @@
     "Mmm. Me gustaría hablar de esto más tarde. Estaré en el callejón, en un hueco que parece demasiado pequeño para mi cuerpo."
    ],
    "redrawBarksPositive": [
-    "Es tan buena, que planeo convertirme en su OCG - ¡Orificio Central de Galletas!"
+    "Es tan buena, que planeo convertirme en su OCG: ¡Orificio Central de Galletas!"
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
@@ -389,14 +389,14 @@
    "cookieTypes": "DEFAULT",
    "id": "113361",
    "key": "KangarooFam",
-   "name": "No Joey, sino Joe",
+   "name": "José el bebé (¡no Joey!)",
    "redrawBarksIntro": [
     "¡Volvimos! Papá está enganchado con la temporada 2, así que aquí estoy con la ronda 2. ¡Chop chop!",
     "Volvimos. ¿Puedes decir \"Hola\", papá? ¿No? Disculpen. Es tímido."
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "¡Sí! Aquí tienen una propina de cuatro dólares. ¡Es el número más alto que conozco!"
+    "¡Sí! Aquí tienen una propina de 4 dólares. ¡Es el número más alto que conozco!"
    ],
    "redrawBarksPositive": [
     "¡ESTO es una galleta! Por favor dejen caer todo lo de la bandeja directamente en mi bolsa."
@@ -604,7 +604,7 @@
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "Creo que estuvieron más en “Depeche Mode” que \"Chef Mode\"."
+    ".."
    ],
    "redrawBarksPositive": [
     "¿Esta galleta es Evanescance? Porque me dezpierta algo dentro."
@@ -643,7 +643,7 @@
    "cookieTypes": "DEFAULT",
    "id": "113654",
    "key": "KoalaKaren",
-   "name": "Karen Koala",
+   "name": "Mari Supial",
    "redrawBarksIntro": [
     "¡Volví! ¡¿Y CÓMO que no me recuerdan!? ¡¡Más les vale que no me cobren este pedido!!",
     "¡He vuelto! ¡Yo no tendría que hacer la fila! ¡¡Soy una cliente recurrente!! ¡Y ADEMÁS soy adorable!"
@@ -691,7 +691,7 @@
    "cookieTypes": "DEFAULT",
    "id": "113655",
    "key": "AlienKid",
-   "name": "Niño Alienígena",
+   "name": "Blogorf el alienígena (alias Jayson)",
    "redrawBarksIntro": [
     "¡Me teletransporté aquí de nuevo! ¡Debo continuar con mi investigación hasta que la madre nodriza termine con su llamada importante!",
     "¡Saludos, de nuevo! ¡Recibí un adelanto en mi mesada espacial y quiero continuar mi investigación de galletas!"
@@ -740,7 +740,7 @@
    "cookieTypes": "GINGERBREAD",
    "id": "113657",
    "key": "Gingerbread",
-   "name": "Persona de jengibre",
+   "name": "Mujercita de jengibre",
    "redrawBarksIntro": [
     "¡Hola de nuevo! Ando corto de amigos para un torneo de bolos, ¡así que vengo para que me preparen algunos más!",
     "¡Veamos qué, y QUIÉNES más pueden preparar!"
@@ -806,7 +806,7 @@
    "cookieTypes": "DEFAULT",
    "id": "113830",
    "key": "UGCFriend",
-   "name": "Teléfono de Chaz, Transportista de Galletas",
+   "name": "Teléfono de Chaz",
    "redrawBarksIntro": [
     "..."
    ],
@@ -856,7 +856,7 @@
    "cookieTypes": "DEFAULT",
    "id": "113988",
    "key": "Sheriff",
-   "name": "Alguacil Cocinas",
+   "name": "Alguacil Rubén Cocinas",
    "redrawBarksIntro": [
     "¡He vuelto, mercaderes de galletas! ¡Si serán una alegría para la vista!",
     "¡Saludos de nuevo! Los rufianes siempre vuelven a la escena del crimen. ¡Me declaro culpable de lo mismo!",
@@ -964,7 +964,7 @@
    "cookieTypes": "DEFAULT",
    "id": "113990",
    "key": "Doctor",
-   "name": "Doctor Xtremidadz",
+   "name": "Dr. Cortés Tremidades",
    "redrawBarksIntro": [
     "¡VOLVÍ! ¿Sabían que la mayoría de las personas tienen DOS riñones? ¡Guau! ¿Quién lo diría?",
     "¡Hooola otra vez! Esta vez estoy SEGURO de que el paciente está dormido. ¡Yupi!"
@@ -1002,7 +1002,7 @@
    ],
    "barksPositive": [
     "¡Nos gustaron tanto, que casi nos caemos de los hombros del de abajo! ¡Tres pulgares arriba!",
-    "¡Guau! ¡Tendré que decirle a mi hermano - qué TAMBIÉN es un único hombre alto - sobre estas galletas!",
+    "¡Guau! ¡Tendré que decirle a mi hermano (qué TAMBIÉN es un único hombre alto) sobre estas galletas!",
     "¡Son asombrosas! Para el pago, ¿qué les parece una chaqueta de gabardina casi sin uso?"
    ],
    "barksReceived": [],
@@ -1135,6 +1135,264 @@
     "Em... por favor tomen esta galleta que hicieron, y actualícenla de la siguiente manera:",
     "¡Por favor, denle mucho cariño a esta galleta! Reháganla así:",
     "Yo haré mis ejercicios de respiración, ¡ustedes trabajen en esta galleta! Prueben algo así:"
+   ],
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "type": "SECOND",
+   "weights": "DEFAULT"
+  },
+  {
+   "barksIntro": [
+    "¡Me dijeron que desde los 90 que no reemplazan su harina! Eso es TAN genial.",
+    "¡Hagamos magia en galletas! Y galopando, que tengo unos VHS que devolver.",
+    "¡Al fin llegué! ¡El arcoíris que tome para llegar aquí estaba MUY atrasado!",
+    "¿Podrían dejarme en el centro comercial después de esto? Me voy a hacer mi primer piercing de cuerno."
+   ],
+   "barksNegative": [
+    "Oh. No gracias. ¿Que tal si labubu-ran mejor y tiran esto a la basura?"
+   ],
+   "barksNeutral": [
+    "OMG, son como la sexta Spice Girl: la SPICE ABURRIDA.",
+    "Voy a probarla, pero no creo que vibre mucho con esta. ¡Gracias igual!"
+   ],
+   "barksPositive": [
+    "Mmmmmmmm... ¡slay! ¡Es una mantequita! ¡Gracias, y besis!",
+    "¡Oh Dios mío! ¡Ni en mis mejores TikTok veo cosas tan geniales! ¡Un billón de gracias!",
+    "Esta galleta es como Red Bull: ¡me da alaaaaaaas!"
+   ],
+   "barksReceived": [],
+   "barksSetup": [
+    "Bien, entonces, les paso la data. Necesito una galleta así:",
+    "Mi Tamagotchi tiene hambre, así que háganme este tipo de galleta, ¿chi?:",
+    "Mientras mi internet dial-up está cargando, necesito que me hagan unas galletas así:"
+   ],
+   "colors": "COLORFUL",
+   "cookieTypes": "COLORFUL",
+   "id": "114518",
+   "key": "Unicorn",
+   "name": "Margo Iris Flores",
+   "redrawBarksIntro": [
+    "¡Necesito más galletas! ¡Y si las hacen bien PUEDE que se ganen una pulsera mágica para ustedes!",
+    "“Oops, I did it again!” Y con \"it\", me refiero a accidentalmente pisar mi orden.",
+    "He tenido un largo viaje de casa al bosque y para hacerla corta, bla bla bla, necesito más galletas."
+   ],
+   "redrawBarksNegative": [
+    "Yuck. Relincho por completo de ellas. ¡Vomitivas!",
+    "¡Mal trabajo! No sé si tenían Crueles Intenciones o solo no tenían Ni Idea, pero ¡no le digan a mis padres que vi una película para grandes!"
+   ],
+   "redrawBarksNeutral": [
+    "No es exactamente una galleta mágica, ¡pero le veo un pequeño brillo interior! ¡Gracias!",
+    "Son bastante meh, ¡pero no es nada que un rizador y unos ganchos mariposa no puedan arreglar!"
+   ],
+   "redrawBarksPositive": [
+    "¡Estas son toda una Fantasy! Me refiero al hit de Mariah Carey, claro.",
+    "Muuuy buenas. Algún día valdrán más que un labubu japonés."
+   ],
+   "redrawBarksReceived": [],
+   "redrawBarksSetup": [
+    "No las quiero “THIS way”, las quiero “THAT way”. Tomen estas Backstreet Cookies y prueben esto:",
+    "¡Ummm, estas galletas tienen que modernizarse! Denle a estas galletas obsoletas una ACTUALIZACIÓN:"
+   ],
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "COLORFUL",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "barksIntro": [
+    "¡Saludos! Acaban de burlarse sin piedad de mí en línea y necesito comerme mis sentimientos.",
+    "¡Buenas! La gente suele fastidiarse cuando me ven, ¡pero ustedes no! Qué maravilloso.",
+    "¡Aló! ¡¿Pensaban que no me verían?! Piensen otra vez. Estoy en todas partes. Acecho sus sueños."
+   ],
+   "barksNegative": [],
+   "barksNeutral": [
+    "Mmm. A esta necesito acompañarla con mi leche descremada.",
+    "No está al nivel de mamá, pero me sirve. ¡Adiós!",
+    "Esta es la Gene de las galletas. Sirve."
+   ],
+   "barksPositive": [
+    "Puede que sea un dentista, pero ¡qué importan mis dientes! ¡Esto es delicioso!",
+    "¡A mi amigo Todd le encantaría!",
+    "¡Está tan buena que le hice un doblez más a mis pantalones!"
+   ],
+   "barksReceived": [],
+   "barksSetup": [
+    "No tienen de casualidad algo de esta variedad, ¿o sí?",
+    "Uhhh, voy a ser un sabandija y pedir algo así:",
+    "No es que me lo merezca, pero ¿puedo pedir algo así?"
+   ],
+   "colors": "GENE",
+   "cookieTypes": "GENE",
+   "id": "114519",
+   "key": "Gene",
+   "name": "Gene",
+   "redrawBarksIntro": [
+    ".."
+   ],
+   "redrawBarksNegative": [],
+   "redrawBarksNeutral": [
+    ".."
+   ],
+   "redrawBarksPositive": [
+    ".."
+   ],
+   "redrawBarksReceived": [],
+   "redrawBarksSetup": [
+    ".."
+   ],
+   "shapes": "GENE",
+   "sprinkleTypes": "GENE",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "barksIntro": [
+    "No muevas ni un múshculo. ¡Tienes una hormiga colorada amazónica encima! ¡Y se ve BELLISHIMA!",
+    "Este eshpécimen se llama “Hydrapincera venomaxima”. ¡Pero yo le llamo “amigo”!",
+    "¡Otras ocho horas de obshervación de capullos completadas! ¡Eshte es el mejor día DE TODOSH!"
+   ],
+   "barksNegative": [
+    "……………………..........Dishculpas. Esos sonidos de grillo vienen de mi grillo."
+   ],
+   "barksNeutral": [
+    "Mm. ¡Parece que este eshpécimen requiere un análishis más profundo! ¡Al laboratorio!",
+    "Tengo que sheguir eshtudiando eshta galleta másh… ¿pero mi hipoteshis? ¡Delishiosha!",
+    "Eshperaba algo másh a mi ritmo… ¡pero shupongo que eshto me alcansha!"
+   ],
+   "barksPositive": [
+    "Color magnífico. Morfología ASHOMBROSHA. ¡Eshta galleta esh el eshpécimen perfecto!",
+    "¡Fantáshtico! ¡Cuando deshcubra una nueva eshpecie de bicho, la nombraré en tu honor!",
+    "Saltamontes saltarines, eshta galleta es más fashinante que la taxonomía de las moshcas de la fruta! ¡Gracias!"
+   ],
+   "barksReceived": [],
+   "barksSetup": [
+    "Eshtoy en bushca de la elushiva gran mariposha cornuda, que sholo come galletas ashí:",
+    "Eshtoy cuidando una rara araña golpeadora del noreshte. Su dieta conshiste de galletas como eshta:",
+    "Mientras preparo agujeros de ventilación para esta polilla gritona cubierta de eshpinas, ¿pueden hacerme una galleta como eshta?"
+   ],
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114520",
+   "key": "Frog",
+   "name": "Arturo Podo",
+   "redrawBarksIntro": [
+    "¡Como la humilde larva emergiendo renovada de su crisálida, he regresado!",
+    "¡Como la poderosa shigarra que emerge cada 13 años, vengo por MI docena del panadero!",
+    "Creo que se me perdieron mis eshcarabajos escorpión saltarines por aquí. Pero no she preocupen, ¡she reproducen rápido!"
+   ],
+   "redrawBarksNegative": [],
+   "redrawBarksNeutral": [
+    "¡Hurra! ¡Voy a tirar eshto en la vereda y ver cómo lash hormiguash atacan!",
+    "¡Llámenme si neceshitan control de plagas! ¡Mi método es hacerme shu amigo!"
+   ],
+   "redrawBarksPositive": [
+    "Shelebro esta galleta con la llamada de apareamiento del moshquito peludo antártico: ¡buzz buzz!",
+    "Les moshtraré esto a los del club ‘Los Bichos Son Lo Más’. ¡Soy el preshidente, y todos son un miembro!"
+   ],
+   "redrawBarksReceived": [],
+   "redrawBarksSetup": [
+    "Quishiera otra mueshtra de eshtas galletas, pero eshta vez más ashí:",
+    "¡¡Eshtas galletas pasharán por una METAMORFOSHIS!! Háganlas más ashí:",
+    "¡Como inshectos que mudan su piel, eshtas galletas evolucionarán! Háganlas más ashí:"
+   ],
+   "shapes": "DEFAULT",
+   "sprinkleTypes": "DEFAULT",
+   "type": "FIRST",
+   "weights": "DEFAULT"
+  },
+  {
+   "barksIntro": [
+    "¡Buenas, suflés colapsados! ¡El maestro de lo horneado ha llegado!",
+    "Múnica y yo tenemos un acuerdo para que ustedes me donen. ¡Con donas, claro está!",
+    "¿Cómo les está yendo? ¡Este lugar se veía tan triste desde afuera que tenía que ver si también era triste desde adentro!"
+   ],
+   "barksNegative": [],
+   "barksNeutral": [
+    "Eh, no son nada de lo que sentirse orgulloso. ¡Pero valió la pena interrumpir su día! ¡Chau chau!",
+    "¡Un trabajo insultante! Los llamaría mis némesis, pero tendrían que ser buenos en lo que hacen primero.",
+    "No me asombraron mucho, ¡pero igual me las llevo! ¡Bye bye!"
+   ],
+   "barksPositive": [
+    "¡Que me parta un rayo! ¡Son geniales! ¡Puede que puedan salvarse de la bancarrota después de todo!",
+    "¡Eso es! ¡Son unas donas deslumbrantes! ¡Y no es por tirarles chispitas!",
+    "Buen trabajo, muchacho. ¡Quédate conmigo, y puede que consigamos en ti a un gran emprendedor!"
+   ],
+   "barksReceived": [],
+   "barksSetup": [
+    "Estamos sobrepasados en la tienda de donas, así que ¿pueden hacer una tanda para mí? Algo así:",
+    "Necesito que decoren una tanda de mis productos, si pueden. Algo siguiendo esta línea:",
+    "Voy a tercerizar algunas de mis donas a ustedes, ¿okey? Háganlas con esto en mente:"
+   ],
+   "colors": "DONUT",
+   "cookieTypes": "DONUT",
+   "id": "114521",
+   "key": "DonutMan",
+   "name": "D.D. Dona",
+   "redrawBarksIntro": [
+    ".."
+   ],
+   "redrawBarksNegative": [],
+   "redrawBarksNeutral": [
+    ".."
+   ],
+   "redrawBarksPositive": [
+    ".."
+   ],
+   "redrawBarksReceived": [],
+   "redrawBarksSetup": [
+    ".."
+   ],
+   "shapes": "DONUT",
+   "sprinkleTypes": "DONUT",
+   "type": "SPECIAL",
+   "weights": "DEFAULT"
+  },
+  {
+   "barksIntro": [
+    "¡Saludos! Pregunta: ¿hacen para cumpleaños? ¡Genial, tengo 37 que organizar!",
+    "¡Qué tierna panadería! ¿Podría mudarme aquí junto a mi esposa y mis docenas de hijos? Estoy bromeando... quizá.",
+    "Laaarga noche. ¡Dos de mis pequeños perdieron sus alas de bebé! ¿Qué tal si me dan algo azucarado para mí y mi señora?"
+   ],
+   "barksNegative": [
+    "Sin ofender, pero esta es el babero de los productos horneados."
+   ],
+   "barksNeutral": [
+    "Les voy a decir lo que les digo a mis niños: ¡por lo menos lo intentaron!",
+    "¡Esto está tan bueno como los dibujos de mis niños! No fue un cumplido."
+   ],
+   "barksPositive": [
+    "¡Guau! Esta galleta es como mi luna de miel junto a mi esposa: ¡muy dulce!",
+    "¡Estas son geniales! ¿Podrían hacerme unas miles para los muchos picnics de mis muchos hijos?",
+    "¡Podría comerlas todo el día! ¿Se imaginan? ¿¿Yo, con un día para mí?? ¡Ja!"
+   ],
+   "barksReceived": [],
+   "barksSetup": [
+    "Compa, eres potencial puro. Tengo fe de que puedes prepararme una galleta así:",
+    "De acuerdo chiqui, está es tu tarea. Por favor, prepárame algo así:",
+    "Yo no tengo favoritos, pero me encantaría si me hicieran una galleta así:"
+   ],
+   "colors": "DEFAULT",
+   "cookieTypes": "DEFAULT",
+   "id": "114522",
+   "key": "Pixi",
+   "name": "Sra. Pixi",
+   "redrawBarksIntro": [
+    "¿Podrían darme otra galleta? Necesito energía antes de mirar cinco horas de películas animadas.",
+    "Me vendrían bien unos minutos más hablando con adultos. ¿Me dan otra galleta?"
+   ],
+   "redrawBarksNegative": [],
+   "redrawBarksNeutral": [
+    "Funciona. ¿Pero saben? ¡Hasta las galletas funcionales ameritan un “gracias”!"
+   ],
+   "redrawBarksPositive": [
+    "¡Esa galleta se merece un trofeo! Avísenme si quieren uno, ¡estoy suscrita a la membresía de Trophy Hut!",
+    "¡Esta galleta está tan buena que me hizo olvidar mis obligaciones! ¡¡Oh, no!! ¡¡¡Mis obligaciones!!!"
+   ],
+   "redrawBarksReceived": [],
+   "redrawBarksSetup": [
+    "De acuerdo compa, ¡enorgullece a tu madre! Toma una galleta anterior y mézclala con esto:",
+    "Hora de pensar soluciones fuera de lo habitual y DENTRO de las líneas. Tomen una galleta y mézclenla con esto:",
+    "¡Hora de heredar una galletita! Tomen una galleta existente y háganla así:"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",

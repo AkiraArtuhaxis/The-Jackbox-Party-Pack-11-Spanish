@@ -130,6 +130,28 @@
   },
   {
    "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 5,
+   "choices": [
+    "Rompecabezas",
+    "Crucigrama",
+    "Sudoku",
+    "Problema de lógica",
+    "Sopa de letras"
+   ],
+   "evidence": "El culpable disfruta de un buen puzzle de {{SELECTION-1}}, pero no siente nada por un(a) {{SELECTION-5}}.",
+   "familiarity": "FRIENDS",
+   "id": "108183",
+   "interrogations": [
+    "¿Eres más de las matemáticas o de las letras?",
+    "¿Alguna vez hiciste el crucigrama del periódico?"
+   ],
+   "question": "¡Es día de puzzles! Clasifica estos puzzles del más divertido al menos divertido.",
+   "reminder": "Puzzles preferidos",
+   "summary": "PUZZLE: SÍ A {{SELECTION-1}}, {{SELECTION-5}} ES UN MEH"
+  },
+  {
+   "appearance": "LATE",
    "category": "PROFILE",
    "choiceLimit": 5,
    "choices": [
@@ -163,7 +185,7 @@
     "Los 2000",
     "Los 2010"
    ],
-   "evidence": "El culpable le gusta más la música de {{SELECTION-1}}, y la música de {{SELECTION-4}} menos.",
+   "evidence": "El culpable le gusta más la música de {{SELECTION-1}}, y la música de {{SELECTION-5}} menos.",
    "familiarity": "FRIENDS",
    "id": "108796",
    "interrogations": [
@@ -174,7 +196,7 @@
    "question": "Clasifica los siguientes periodos de tiempo según que tanto te gusta su música.",
    "reminder": "Preferencias musicales",
    "starterContent": false,
-   "summary": "AMA LA MÚSICA DE {{SELECTION-1}}, NO MUCHO LA DE {{SELECTION-5}}"
+   "summary": "AMA LA MÚSICA DE {{SELECTION-1}}, NO LA DE {{SELECTION-5}}"
   },
   {
    "appearance": "EARLY",
@@ -226,12 +248,12 @@
   {
    "appearance": "LATE",
    "category": "TESTIMONY",
-   "choiceLimit": 6,
+   "choiceLimit": 4,
    "choices": [
-    "[i]Jeopardy![/i]",
-    "[i]La Ruleta de la Fortuna[/i]",
-    "[i]Top Chef[/i]",
-    "[i]Survivor[/i]"
+    "Jeopardy!",
+    "La Rueda de la Fortuna",
+    "MasterChef",
+    "Survivor"
    ],
    "evidence": "El culpable cree que la rompería en {{SELECTION-1}}, pero perdería en {{SELECTION-4}}.",
    "familiarity": "FRIENDS",
@@ -262,7 +284,7 @@
    "id": "109660",
    "interrogations": [
     "¿Te apasiona la historia?",
-    "¿Has visto todas las películas de los [i]Avengers[/i]?",
+    "¿Has visto todas las películas de los Avengers?",
     "¿Te gustan los programas de cocina?"
    ],
    "question": "Clasifica estas guerras por cuánto conoces de ellas (de más a menos).",
@@ -278,7 +300,7 @@
    "choices": [
     "El espacio",
     "Orlando",
-    "[i]McDonald’s[/i]"
+    "McDonald's"
    ],
    "countrySpecific": true,
    "evidence": "El sujeto preferiría irse para {{SELECTION-1}} antes que estar en {{SELECTION-3}}.",
@@ -286,7 +308,7 @@
    "id": "114000",
    "interrogations": [
     "Cuéntanos lo que piensas de Orlando.",
-    "¿Cuándo comiste por última vez en [i]McDonald's[/i]?",
+    "¿Cuándo comiste por última vez en McDonald's?",
     "¿Qué piensas de los viajes espaciales?"
    ],
    "question": "Clasifica estos según a dónde te gustaría ir más:",
@@ -344,7 +366,7 @@
    "choices": [
     "Una caminata",
     "Una siesta",
-    "Películas-TV",
+    "Películas/TV",
     "Un baño",
     "Leer"
    ],
@@ -432,7 +454,7 @@
    "category": "PROFILE",
    "choiceLimit": 4,
    "choices": [
-    "Teléfono",
+    "El teléfono",
     "Pantalones",
     "Snacks",
     "Jabón"
@@ -470,6 +492,28 @@
    "question": "Coloca estas cosas en el orden de qué tan bien se sienten al tacto.",
    "reminder": "Buenas sensaciones",
    "summary": "SENSACIONES: {{SELECTION-1}} MEJOR QUE {{SELECTION-4}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Asado",
+    "Rosas",
+    "Campo",
+    "Gasolina"
+   ],
+   "evidence": "El sospechoso disfruta del olor a {{SELECTION-1}} mucho más que del olor a {{SELECTION-4}}.",
+   "familiarity": "STRANGERS",
+   "id": "114562",
+   "interrogations": [
+    "¿Qué cosas huelen bien para ti, en general?",
+    "¿Eres una persona que usa mucha colonia o perfume?",
+    "Pretende que estás oliendo gasolina ahora mismo. Hazlo."
+   ],
+   "question": "Colócalos en el orden que huele mejor al que huele peor para ti.",
+   "reminder": "Clasificando olores",
+   "summary": "OLORES: {{SELECTION-1}} PRIMERO, {{SELECTION-4}} ÚLTIMO"
   }
  ]
 }

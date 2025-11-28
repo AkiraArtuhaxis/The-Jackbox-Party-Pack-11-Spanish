@@ -76,7 +76,7 @@
    },
    "familiarity": "STRANGERS",
    "id": "112198",
-   "question": "Si [i]fueras[/i] a atropellar a alguien, ¿qué vehículo usarías?",
+   "question": "Si fueras a atropellar a alguien, ¿qué vehículo usarías?",
    "starterContent": true,
    "x": false
   },
@@ -91,7 +91,7 @@
    ],
    "crime": {
     "description": "De {{SELECTION}} del zoológico",
-    "offense": "HURTO",
+    "offense": "ROBO",
     "summary": "SECUESTRO ANIMAL: {{SELECTION}}",
     "title": [
      "Por favor no alimente a los ladrones",
@@ -255,7 +255,7 @@
    },
    "familiarity": "FRIENDS",
    "id": "112205",
-   "question": "Termina esta frase: \"Me gustaría [i]más[/i] tirar a alguien de...\"",
+   "question": "Termina esta frase: \"Me gustaría MÁS tirar a alguien de...\"",
    "starterContent": true
   },
   {
@@ -437,7 +437,7 @@
    "familiarity": "FRIENDS",
    "id": "112212",
    "question": "Hora de repartirse los papeles para el gran robo. ¿Qué quieres hacer?",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "choices": [
@@ -672,13 +672,13 @@
   },
   {
    "choices": [
-    "[i]El secreto[/i]",
-    "[i]Todos hacemos caca[/i]",
-    "[i]Ana la de Tejas Verdes[/i]",
-    "[i]La oruga muy hambrienta[/i]",
-    "[i]Alas de sangre[/i]",
-    "[i]El alquimista[/i]",
-    "[i]Marley y yo[/i]"
+    "El secreto",
+    "Todos hacemos caca",
+    "Ana la de Tejas Verdes",
+    "La oruga muy hambrienta",
+    "Alas de sangre",
+    "El alquimista",
+    "Marley y yo"
    ],
    "crime": {
     "description": "Se llevó el crédito de escribir {{SELECTION}}",
@@ -885,13 +885,13 @@
   },
   {
    "choices": [
-    "[i]Casino Royale[/i]",
-    "[i]El juego del miedo[/i]",
-    "[i]Midsommar[/i]",
-    "[i]Clue[/i]",
-    "[i]Psicosis[/i]",
-    "[i]Hannibal[/i]",
-    "[i]El padrino[/i]"
+    "Casino Royale",
+    "El juego del miedo",
+    "Midsommar",
+    "Clue",
+    "Psicosis",
+    "Hannibal",
+    "El padrino"
    ],
    "crime": {
     "description": "En el estilo de la película {{SELECTION}}",
@@ -1018,6 +1018,32 @@
    "familiarity": "FRIENDS",
    "id": "112270",
    "question": "Has decidido sacarte a alguien de encima de la manera más deportiva posible. ¿Qué objeto crees que puedes manipular más habilidosamente?"
+  },
+  {
+   "choices": [
+    "“¡PAN FRESCO!”",
+    "“¡BUENAS NOCHES, LUNA!”",
+    "“¡POR FRODO!”",
+    "“¡TAXI!”",
+    "“¡DESUSCRÍBETE!”",
+    "\"¡DORITOS PICANTES!\"",
+    "\"¡BALDES!\""
+   ],
+   "crime": {
+    "description": "Mientras gritaba su frase pegadiza, {{SELECTION}}",
+    "offense": "ASESINATO",
+    "summary": "Frase matadora: {{SELECTION}}",
+    "title": [
+     "Parafraseame si puedes",
+     "Estos asesinatos me dan sed",
+     "Un eslogan pegadizo antes de morir",
+     "¿Algo que decir en tu ofensa?",
+     "Las frases del duelo"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "112350",
+   "question": "Sientes la necesidad de tener una muletilla para gritar durante tus crímenes. ¿Cuál te sienta mejor?"
   },
   {
    "choices": [
@@ -1150,6 +1176,113 @@
    "familiarity": "STRANGERS",
    "id": "114048",
    "question": "Has elegido matar a alguien en el circo. ¿Qué método utilizarás?"
+  },
+  {
+   "choices": [
+    "Oppenheimer",
+    "Frozen II",
+    "Duro de matar",
+    "La princesa prometida",
+    "¡Huye!",
+    "Avatar",
+    "Barbie"
+   ],
+   "crime": {
+    "description": "Descarga ilegal de su película preferida, {{SELECTION}}",
+    "offense": "PIRATERÍA DIGITAL",
+    "summary": "DESCARGÓ: {{SELECTION}}",
+    "title": [
+     "Quiero un crimen mediano caramelizado",
+     "Maldad a la velocidad de la banda ancha",
+     "Muerte por mil cortes del director",
+     "El P2Pecado original",
+     "No descargarías un crimen",
+     "Un Torrent-e de mentiras"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "114432",
+   "question": "¡Estás planeando descargar ilegalmente una película! ¿Cuál de las siguientes será?"
+  },
+  {
+   "choices": [
+    "Una casa",
+    "Auto",
+    "PC gamer",
+    "Mascota",
+    "Vibra",
+    "Sistema de cine en casa",
+    "Ropa"
+   ],
+   "crime": {
+    "description": "Directamente le robo a un amigo o familiar su {{SELECTION}}",
+    "offense": "HURTO SEMI-PERSONAL",
+    "summary": "ROBÓ A AMIGO/FAMILIAR {{SELECTION}}",
+    "title": [
+     "¿Qué son “bienes personales”, de todos modos?",
+     "Compartimos todo... lo sepas o no",
+     "¿No significan nada los brazaletes de la amistad para ti?",
+     "La amistad es nunca tener que decir “¿Cómo entraste?”",
+     "Olvídate de venir a la próxima juntada",
+     "¿Qué es un pequeño delito entre amigos?",
+     "Creo que me van a sacar del chat grupal"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "114462",
+   "question": "Vas a robar algo que te ha interesado de un amigo o familiar. ¿Qué será?"
+  },
+  {
+   "choices": [
+    "Tirar una mesa",
+    "Gritar canciones",
+    "Lanzar pasteles",
+    "Gaitas",
+    "Robar dulces a un niño",
+    "Choques de manos indeseados",
+    "Hacer la macarena por 12 horas"
+   ],
+   "crime": {
+    "description": "Mediante el método favorito del criminal: {{SELECTION}}",
+    "offense": "ALTERACIÓN DEL ORDEN PÚBLICO",
+    "summary": "ESCENA CAUSADA: {{SELECTION}}",
+    "title": [
+     "Volverse el centro de detención",
+     "¿Por qué parar? Si es el crimen de mi vida",
+     "Por qué no te vas.... O mejor dicho, ANDATE",
+     "Una cosa menos de mi lista de deseos",
+     "Todas las miradas en mí"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "114596",
+   "question": "¡Decides causar una escena! ¿Cuál de estas acciones más te llama?"
+  },
+  {
+   "choices": [
+    "Baby Shark",
+    "Libre soy",
+    "Bohemian Rhapsody",
+    "Shake It Off",
+    "El burrito sabanero",
+    "Barbie Girl"
+   ],
+   "crime": {
+    "description": "Reproduciendo “{{SELECTION}}” en bucle",
+    "offense": "ASALTO AUDITIVO",
+    "summary": "ATAQUE DE CANCIÓN: {{SELECTION}}",
+    "title": [
+     "Estás en graves, barítonos problemas",
+     "Suena ilegal",
+     "Tarareo de los reos",
+     "Un tono criminal",
+     "Mis crímenes dan la nota",
+     "El ritmo me hizo hacerlo"
+    ]
+   },
+   "familiarity": "STRANGERS",
+   "id": "114808",
+   "question": "Vas a molestar a alguien poniendo una canción en bucle. ¿Cuál será?"
   }
  ]
 }

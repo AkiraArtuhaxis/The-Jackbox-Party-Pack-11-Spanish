@@ -3,6 +3,49 @@
   {
    "appearance": "LATE",
    "category": "PROFILE",
+   "countrySpecific": false,
+   "evidence": [
+    {
+     "choices": [
+      "Aries",
+      "Tauro",
+      "Géminis",
+      "Cáncer",
+      "Leo",
+      "Virgo",
+      "Libra",
+      "Escorpio",
+      "Sagitario",
+      "Capricornio",
+      "Acuario",
+      "Piscis"
+     ],
+     "finding": "El sospechoso es TODO UN {{SELECTION}}.",
+     "summary": "SIGNO ZODIACAL: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No sé cuál es mi signo del zodiaco."
+     ],
+     "finding": "El objetivo no sabe cuál es su signo del zodiaco.",
+     "summary": "SIGNO ZODIACAL: {{RED}}QSY"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "106802",
+   "interrogations": [
+    "Así queeeee, ¿cuándo naciste?",
+    "¿Cómo es el clima en la época de tu cumpleaños?",
+    "¿Qué rasgos de la personalidad se asocian con tu signo?"
+   ],
+   "isTrivia": false,
+   "question": "¡Oye, cari! ¿Cuál es tu signo?",
+   "reminder": "Signo astrológico",
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
    "evidence": [
     {
      "choices": [
@@ -39,6 +82,7 @@
     "¡Nombra a tus hermanos!",
     "¿Cuál es tu rol en la dinámica familiar?"
    ],
+   "isTrivia": false,
    "question": "¿Cuándo naciste?",
    "reminder": "Orden de nacimiento",
    "starterContent": false
@@ -52,28 +96,31 @@
       "Sí"
      ],
      "finding": "El sospechoso {{RED}}ha sido acosado por una experiencia paranormal.",
-     "summary": "PARA-NORMAL: {{RED}}SÍ"
+     "summary": "PARA- NORMAL: {{RED}}SÍ"
     },
     {
      "choices": [
       "No"
      ],
      "finding": "El sospechoso {{RED}}nunca ha sido acosado por una experiencia paranormal.",
-     "summary": "PARA-NORMAL: {{RED}}NO"
+     "summary": "PARA- NORMAL: {{RED}}NO"
     },
     {
      "choices": [
       "No estoy seguro"
      ],
      "finding": "El sospechoso {{RED}}no está seguro de si ha tenido una experiencia paranormal.",
-     "summary": "PARA-NORMAL: {{RED}}QUIZÁ"
+     "summary": "PARA- NORMAL: {{RED}}QUIZÁ?"
     }
    ],
    "familiarity": "FRIENDS",
    "id": "106808",
    "interrogations": [
-    "¿Crees en los fantasmas?"
+    "¿Crees en los fantasmas?",
+    "¿Qué hace a una experiencia “paranormal”?",
+    "¿Te considerarías alguien abierto a las cosas paranormales?"
    ],
+   "isTrivia": false,
    "question": "¿Has tenido alguna vez una \"experiencia paranormal\"?",
    "reminder": "Experiencia paranormal",
    "starterContent": true
@@ -104,8 +151,74 @@
     "¿Con qué mano te atajas cuando te tropiezas?",
     "¡Escribe algo! ¡Ahora mismo!"
    ],
+   "isTrivia": false,
    "question": "¿Cuál es tu mano dominante?",
    "reminder": "Mano dominante"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Granate",
+      "Amatista",
+      "Aguamarina",
+      "Diamante",
+      "Esmeralda",
+      "Perla",
+      "Rubí",
+      "Peridoto",
+      "Zafiro",
+      "Ópalo",
+      "Topacio",
+      "Turquesa"
+     ],
+     "finding": "¡La piedra de nacimiento del culpable es {{SELECTION}}!",
+     "summary": "PIEDRA DE NACIMIENTO: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No sé cuál es mi piedra de nacimiento."
+     ],
+     "finding": "El poco deslumbrante del culpable {{RED}}no conoce su piedra de nacimiento.",
+     "summary": "PIEDRA DE NACIMIENTO: {{RED}}????"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "106831",
+   "interrogations": [
+    "¿En qué mes naciste?",
+    "¿Te gusta cómo se ve tu piedra de nacimiento, o te marece medio \"meh\"?"
+   ],
+   "isTrivia": false,
+   "question": "¿Cuál es tu piedra de nacimiento?",
+   "reminder": "Piedra de nacimiento"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Escuela primaria",
+      "Jardín de infantes",
+      "Escuela secundaria",
+      "Universidad"
+     ],
+     "finding": "El sospechoso disfrutó más de su juventud en {{SELECTION}}.",
+     "summary": "ETAPA DE JUVENTUD: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "106834",
+   "interrogations": [
+    "¿Cómo fue la escuela secundaria para ti?",
+    "¿Qué piensas de tu yo más joven?"
+   ],
+   "isTrivia": false,
+   "question": "¿Cuál fue tu etapa favorita en tu juventud? O, si todavía eres JOVEN, ¿en qué etapa estás ahora?",
+   "reminder": "Etapas de la juventud"
   },
   {
    "appearance": "EARLY",
@@ -134,6 +247,7 @@
     "¿Alguna vez tuviste que aprenderte las capitales del mundo?",
     "¿Te sabes la capital de Malasia?"
    ],
+   "isTrivia": false,
    "question": "¡Rápido! ¿Cuál es la capital de Indonesia?",
    "reminder": "Indonesia"
   },
@@ -168,6 +282,7 @@
    "interrogations": [
     "¿Cuál es un buen nombre para un auto?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez le has dado un nombre a un objeto inanimado tuyo?",
    "reminder": "Nombrando objetos"
   },
@@ -217,6 +332,7 @@
     "¿Qué te hace llorar?",
     "Descríbenos un típico momento de llanto."
    ],
+   "isTrivia": false,
    "question": "¿Cuándo fue la última vez que lloraste?",
    "reminder": "Frecuencia de llanto",
    "starterContent": false
@@ -245,6 +361,7 @@
     "¿Ahora mismo tienes tu cara habitual?",
     "¿Cómo describen tu cara otras personas?"
    ],
+   "isTrivia": false,
    "question": "La expresión habitual en tu cara es:",
    "reminder": "Expresión relajada"
   },
@@ -274,6 +391,7 @@
     "¿Cuál es tu situación actual, en cuanto a sombreros se refiere?",
     "¿Tienes algún gorro o sombrero favorito?"
    ],
+   "isTrivia": false,
    "question": "¿Eres una persona que usa gorros o sombreros?",
    "reminder": "Gorros",
    "starterContent": true
@@ -317,6 +435,7 @@
     "¿Cuánto dirías que has hablado durante este juego?",
     "¿Cuál es tu opinión sobre el sonido de tu voz?"
    ],
+   "isTrivia": false,
    "question": "¿Cuánto tiendes a hablar?",
    "reminder": "Charla"
   },
@@ -353,9 +472,37 @@
    "interrogations": [
     "¿Te consideras una persona nerviosa?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál de estas cosas atemorizantes te aterra más?",
    "reminder": "Miedo a...",
    "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Bicicleta eléctrica",
+      "Scooter",
+      "Taxi acuático",
+      "Segway",
+      "Monorriel",
+      "Monociclo motorizado"
+     ],
+     "finding": "El método de transporte no automovilístico preferido del objetivo: {{SELECTION}}",
+     "summary": "VIAJA EN: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "106937",
+   "interrogations": [
+    "¿Cómo es el transporte acuático donde vives?",
+    "¿Es alguna de las opciones directamente demasiado vergonzosa como para que la consideres?"
+   ],
+   "isTrivia": false,
+   "question": "Si tuvieras toooooodo el tiempo del mundo, ¿cuál de estos sería tu medio de transporte no automovilístico preferido?",
+   "reminder": "Opciones de transporte"
   },
   {
    "appearance": "EARLY",
@@ -397,6 +544,7 @@
     "¿Cuál es tu horario de sueño?",
     "¿Cuándo eres más eficiente durante el día?"
    ],
+   "isTrivia": false,
    "question": "¿A qué hora del día crees que funcionas mejor?",
    "reminder": "¿En tu mejor hora?"
   },
@@ -433,6 +581,7 @@
     "¿Has acampado mucho en el pasado?",
     "Cuéntanos que te viene a la mente cuando piensas en acampar."
    ],
+   "isTrivia": false,
    "question": "¿Cómo te sentirías si alguien de la nada te llevara de campamento?",
    "reminder": "Campamento"
   },
@@ -472,6 +621,7 @@
     "¿Cuál es tu destino soñado?",
     "¿Alguna vez has tomado un crucero?"
    ],
+   "isTrivia": false,
    "question": "¿En cuántos continentes has estado en tu vida?",
    "reminder": "VIAJE CONTINENTAL"
   },
@@ -508,8 +658,39 @@
     "¿Otras personas te llenan de alegría, o te chupan la energía?",
     "¿Cuál es tu nivel de energía ahora mismo?"
    ],
+   "isTrivia": false,
    "question": "En lo que respecta a estar alrededor de otras personas, ¿cómo te identificas?",
    "reminder": "¿Introvertido o extrovertido?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Ajedrez",
+      "Scrabble",
+      "Catán",
+      "Risk / T.E.G.",
+      "Trivial Pursuit",
+      "Tabú",
+      "Twister"
+     ],
+     "finding": "El sospechoso siente que es más probable que domine cuando juega {{SELECTION}}.",
+     "summary": "MEJOR EN: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107030",
+   "interrogations": [
+    "¿Cuál fue el último juego que has ganado?",
+    "¿Cuál es tu estrategia cuando juegas a juegos de mesa?",
+    "¿Eres más de los números o de las palabras?"
+   ],
+   "isTrivia": false,
+   "question": "¿Con cuál de los siguientes juegos te sientes más confiado de poder ganar?",
+   "reminder": "Confianza en juegos de mesa",
    "starterContent": false
   },
   {
@@ -571,6 +752,7 @@
    "interrogations": [
     "¿Eres una persona pecadora?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál de los pecados capitales es el que más cometes?",
    "reminder": "Pecados capitales",
    "x": true
@@ -615,6 +797,7 @@
     "¿Qué hace que una persona sea buena o mala? ¿Y qué piensas que eres tú?",
     "¿Crees ser mejor que todos los demás de aquí?"
    ],
+   "isTrivia": false,
    "question": "¿Crees ser una buena persona?",
    "reminder": "¿Buena persona?"
   },
@@ -651,6 +834,7 @@
     "Explícanos paso a paso cómo encaras la cocina.",
     "¿Qué preparaste para cenar últimamente?"
    ],
+   "isTrivia": false,
    "question": "¿Cómo te ves cocinando?",
    "reminder": "¿Cocinas?",
    "starterContent": true
@@ -681,6 +865,7 @@
     "¿Cómo te llevas con la elegancia en estos momentos?",
     "¿A quién de este grupo considerarías “elegante”?"
    ],
+   "isTrivia": false,
    "question": "¿Te consideras alguien “elegante”?",
    "reminder": "Elegancia"
   },
@@ -710,6 +895,7 @@
     "¿Qué piensas de las películas de terror?",
     "¿Cuándo fue la última vez que algo te asustó?"
    ],
+   "isTrivia": false,
    "question": "¿Te asustas con facilidad?",
    "reminder": "¿Tenés miedo?",
    "starterContent": false
@@ -720,26 +906,57 @@
    "evidence": [
     {
      "choices": [
+      "Pelícano",
+      "Caballo",
+      "Estrella de Broadway",
+      "Dragón",
+      "Árbol",
+      "Delfín"
+     ],
+     "finding": "El sujeto quiere reencarnar en un(a) {{SELECTION}}.",
+     "summary": "RENACE: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107129",
+   "interrogations": [
+    "Cuéntanos los objetivos de tu reencarnación.",
+    "¿Qué harías con una segunda vida?",
+    "¿Qué opción de la lista parecía la peor opción?"
+   ],
+   "isTrivia": false,
+   "question": "De poder elegir, ¿cómo te gustaría reencarnar?",
+   "reminder": "Reencarnar como..."
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
       "Estar solo"
      ],
-     "finding": "El culpable cree que {{RED}}estar solo es la opción más aterradora.",
-     "summary": "TEME: {{RED}}ESTAR SOLO"
+     "finding": "Al culpable lo asusta más estar {{RED}}al borde de un precipicio.",
+     "summary": "MÁS MIEDO: {{RED}}PRECIPICIO"
     },
     {
      "choices": [
       "Estar en una enorme multitud"
      ],
-     "finding": "El culpable cree que {{RED}}estar en una multitud es la opción más aterradora.",
-     "summary": "TEME: {{RED}}MULTITUDES"
+     "finding": "Al culpable lo asusta más estar {{RED}}en una gran multitud.",
+     "summary": "MÁS MIEDO: {{RED}}MULTITUD"
     }
    ],
    "familiarity": "FRIENDS",
    "id": "107207",
    "interrogations": [
-    "¿Cuán seguido te sientes rodeado?"
+    "¿Cuán seguido te sientes rodeado?",
+    "¿Cuándo fue la última vez que estuviste en una gran multitud?",
+    "¿Cómo te llevas con las alturas?"
    ],
-   "question": "En tu opinión, ¿cuál de estas opciones es la más aterradora?",
-   "reminder": "Miedo a..."
+   "isTrivia": false,
+   "question": "Entre un precipicio y una multitud, ¿cuál te da más miedo?",
+   "reminder": "Precipicio o multitud"
   },
   {
    "appearance": "EARLY",
@@ -758,14 +975,14 @@
       "Merry",
       "Sauron"
      ],
-     "finding": "De la Comunidad del Anillo, el sospechoso se identifica más con {{SELECTION}}.",
+     "finding": "El personaje del Señor de los Anillos con el que más se identifica el sospechoso es {{SELECTION}}.",
      "summary": "PERSONAJE DEL S. DE LOS ANILLOS: {{SELECTION}}"
     },
     {
      "choices": [
       "¿Quiénes son esos?"
      ],
-     "finding": "El sospechoso no se ha familiarizado de ningún modo con el Señor de los Anillos, y {{RED}}no se identifica con nadie.",
+     "finding": "El sospechoso no se ha familiarizado de ningún modo con el Señor de los Anillos, y por lo tanto {{RED}}no se identifica con nadie.",
      "summary": "S. DE LOS ANILLOS: {{RED}}NADIE"
     }
    ],
@@ -776,8 +993,37 @@
     "¿Alguna vez te has puesto a pensar en por qué nunca usaron las águilas para volar hacia Mordor?",
     "¿Crees que hubieras podido destruir el Anillo Único?"
    ],
-   "question": "¿Con qué miembro de [i]La Comunidad del Anillo[/i] te identificas más?",
-   "reminder": "La Comunidad del Anillo"
+   "isTrivia": false,
+   "question": "¿Con qué miembro de la Comunidad del Anillo te identificas más?",
+   "reminder": "Miembros de la Comunidad"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Dinero suelto",
+      "Un mensaje de texto",
+      "Un \"cupón\" escrito a mano",
+      "Una tarjeta de regalo que te habían regalado",
+      "Una juntada"
+     ],
+     "finding": "El culpable es culpable de haber entregado {{SELECTION}} como “regalo” a último momento.",
+     "summary": "MAL REGALO: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107212",
+   "interrogations": [
+    "¿Alguna vez te has olvidado de un aniversario?",
+    "¿Te heriría tus sentimientos el recibir un mal regalo?",
+    "¿Cuál fue el último mal regalo que le has dado a alguien?"
+   ],
+   "isTrivia": false,
+   "question": "¿Cuál de los siguientes \"regalos\" a último momento eres culpable de haber entregado?",
+   "reminder": "Regalos a último momento",
+   "x": false
   },
   {
    "appearance": "LATE",
@@ -810,9 +1056,10 @@
     "¿En qué año naciste?",
     "Tirame la posta, ¿qué tan viejardo sos, skibidi rizz?"
    ],
+   "isTrivia": false,
    "question": "¿De qué generación consideras que formas parte?",
    "reminder": "¿Qué generación eres?",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "appearance": "LATE",
@@ -845,6 +1092,7 @@
     "¿En qué sueles darte un permitido?",
     "¿Qué hay en tu carrito de compras en línea en estos momentos?"
    ],
+   "isTrivia": false,
    "question": "¿En qué sueles gastar el dinero que te queda de sobra?",
    "reminder": "Gu$$$tos personales"
   },
@@ -887,6 +1135,7 @@
     "Sé honesto, ¿no hay una parte de ti que se pregunta si todo esto será una gran broma?",
     "¿Te gusta bromear, o que TE HAGAN una broma?"
    ],
+   "isTrivia": false,
    "question": "¿Qué es lo que piensas de las bromas?",
    "reminder": "¿Te gustan las bromas?"
   },
@@ -923,6 +1172,7 @@
     "Describe cómo reacciona el resto cuando haces karaoke.",
     "¿Qué tan bueno eres cantando en público en general?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tan bueno crees ser en karaoke?",
    "reminder": "Dotes de karaoke",
    "starterContent": true
@@ -966,6 +1216,7 @@
     "¿De qué organizaciones locales formas parte?",
     "¿Qué tan ocupados tienes los fines de semana?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tan seguido realizas voluntariado social en tu comunidad?",
    "reminder": "Voluntariado"
   },
@@ -1008,6 +1259,7 @@
     "Entonces, ¿cuándo fuiste adolescente?",
     "¿Quién considerarías que es el “chico malo” definitivo?"
    ],
+   "isTrivia": false,
    "question": "¿Qué boyband ilumina TU mundo, tu adolescente interior?",
    "reminder": "¡Boybands!"
   },
@@ -1037,6 +1289,7 @@
     "¿Qué tan cómodo estás con los fluidos corporales?",
     "¿Odias cuando la gente inventa palabras?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál es la PEOR palabra en la siguiente lista?",
    "reminder": "Peores palabras",
    "x": true
@@ -1067,9 +1320,47 @@
     "¿Cuál es la comida más deliciosa del mundo, en tu opinión?",
     "¿Eres una persona que le gusta el asado?"
    ],
+   "isTrivia": false,
    "question": "¿Comes carne?",
    "reminder": "Alimentación carnívora",
    "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Orgullo y prejuicio",
+      "Rebelión en la granja",
+      "El señor de las moscas",
+      "El gran Gatsby",
+      "Amada",
+      "Matar un ruiseñor",
+      "Crimen y castigo",
+      "Oliver Twist"
+     ],
+     "finding": "El culpable que puede resumir mejor a {{SELECTION}}.",
+     "summary": "RECUERDA: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "No conozco ninguno de estos libros."
+     ],
+     "finding": "Al ser mostrado una lista de literatura clásica, el sospechoso {{RED}}no fue capaz de resumir ninguno de ellos.",
+     "summary": "LIBROS CLÁSICOS: {{RED}}QSY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107313",
+   "interrogations": [
+    "¿Qué libros clásicos has leído?",
+    "¿Te gusta leer cosas con lenguaje antiguo?",
+    "¿Cuál es una metáfora literaria que has disfrutado?"
+   ],
+   "isTrivia": false,
+   "question": "¿Cuál de las siguientes obras clásicas crees que puedes resumir con mayor precisión?",
+   "reminder": "Clásicos de la literatura"
   },
   {
    "appearance": "EARLY",
@@ -1106,6 +1397,7 @@
     "¿Cómo te despiertas por la mañana?",
     "¿Tienes algún pedido habitual en Starbucks?"
    ],
+   "isTrivia": false,
    "question": "¿Cómo tomas tu café?",
    "reminder": "Café"
   },
@@ -1142,6 +1434,7 @@
     "¿Do you speak English?",
     "¿Estudiaste en el extranjero?"
    ],
+   "isTrivia": false,
    "question": "¿Sabes hablar un segundo idioma?",
    "reminder": "Segundo idioma",
    "starterContent": true
@@ -1185,6 +1478,7 @@
     "¡Qué bella piel que tienes! ¿Cuál es tu secreto?",
     "¿Cuál es tu rutina antes de dormir?"
    ],
+   "isTrivia": false,
    "question": "¿Cuántos productos conforman tu rutina de skincare?",
    "reminder": "Productos de skincare",
    "starterContent": false
@@ -1222,9 +1516,46 @@
     "¿Es ético llevarse algo sin pagar?",
     "Si vieras a alguien robar algo de una tienda, ¿lo denunciarías?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez has robado algo de una tienda o vendedor?",
    "reminder": "Robo de tienda",
    "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Sí, siempre."
+     ],
+     "finding": "El sospechoso mira televisión {{RED}}con los subtítulos cerrados activados.",
+     "summary": "CC: {{RED}}ACTIVADO"
+    },
+    {
+     "choices": [
+      "No, jamás."
+     ],
+     "finding": "El sospechoso mira televisión {{RED}}con los subtítulos cerrados desactivados.",
+     "summary": "CC: {{RED}}DESACTIVADO"
+    },
+    {
+     "choices": [
+      "No miro mucha tele."
+     ],
+     "finding": "No le pidan al culpable su opinión acerca de los subtítulos cerrados, porque es {{RED}}demasiado superior para siquiera mirar la televisión.",
+     "summary": "CC: {{RED}}NO MIRA TELE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107321",
+   "interrogations": [
+    "¿Eres rápido leyendo?",
+    "¿Sabes cómo activar los subtítulos cerrados en tu televisor?"
+   ],
+   "isTrivia": false,
+   "question": "¿Miras televisión con los subtítulos cerrados?",
+   "reminder": "Subtítulos de televisión"
   },
   {
    "appearance": "LATE",
@@ -1253,6 +1584,7 @@
     "¿Cómo estuvo tu último vuelo?",
     "¿Prefieres tener lugar para las patas o una buena vista?"
    ],
+   "isTrivia": false,
    "question": "¿Qué asiento prefieres en un avión?",
    "reminder": "Asientos de avión",
    "starterContent": false
@@ -1263,35 +1595,94 @@
    "evidence": [
     {
      "choices": [
-      "No, prefiero meterme en mis asuntos."
+      "La verdad que no."
      ],
      "finding": "El sospechoso es respetuoso, y {{RED}}no le interesan los chismes ajenos.",
-     "summary": "CHISMES: {{RED}}NO"
+     "summary": "¿CHISMES? {{RED}}NO"
     },
     {
      "choices": [
-      "¡Un poco! Me gusta enterarme de una historia jugosa o dos."
-     ],
-     "finding": "Al sospechoso le interesa {{RED}}algún chisme cada tanto.",
-     "summary": "CHISMES: {{RED}}A VECES"
-    },
-    {
-     "choices": [
-      "SÍ. ME ENCANTA CHUSMETEAR."
+      "¡Sí!"
      ],
      "finding": "¿¿Se enteraron?? Al sospechoso {{RED}}LE ENCANTA el chisme.",
-     "summary": "CHISMES: {{RED}}CUÉNTAMELO TODO"
+     "summary": "¿CHISMES? {{RED}}SÍ"
     }
    ],
    "familiarity": "STRANGERS",
    "id": "107340",
    "interrogations": [
     "¿Cuál es el chisme más jugoso que te hayas enterado recientemente?",
-    "¿Qué es lo más escandaloso que un amigo tuyo haya hecho?"
+    "¿Qué es lo más escandaloso que un amigo tuyo haya hecho?",
+    "¿En cuántos chats grupales estás ahora mismo?"
    ],
+   "isTrivia": false,
    "question": "¿Te gusta el chusmerío?",
    "reminder": "¿Adicto al chisme?",
    "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "¡Déjalo tranquilo!"
+     ],
+     "finding": "Cuando encuentra un bicho enorme en su casa, el sospechoso elige {{RED}}dejarlo tranquilo.",
+     "summary": "BICHO GRANDE: {{RED}}DEJARLO"
+    },
+    {
+     "choices": [
+      "Atraparlo y llevarlo afuera."
+     ],
+     "finding": "Cuando encuentra un bicho enorme en su casa, el sospechoso decide {{RED}}atraparlo y soltarlo afuera.",
+     "summary": "BICHO ENORME: {{RED}}¡¡AFUERA!!"
+    },
+    {
+     "choices": [
+      "¡Aplástalo!"
+     ],
+     "finding": "Cuando encuentra un bicho enorme en su casa, el sospechoso {{RED}}lo aplasta.",
+     "summary": "BICHO ENORME: {{RED}}APLASTAR"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107343",
+   "interrogations": [
+    "¿Te aterran los insectos?",
+    "Habla acerca del último insecto que encontraste en tu casa.",
+    "¿Crees que matar una araña da mala suerte?"
+   ],
+   "isTrivia": false,
+   "question": "Encuentras un bicho enorme en tu casa. ¡¿Qué haces?!",
+   "reminder": "Bicho en casa"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Malabares",
+      "Memoria fotográfica",
+      "Lectura veloz",
+      "Llorar cuando quieras",
+      "Abrir cerraduras",
+      "Conteo de cartas"
+     ],
+     "finding": "El sospechoso cree que el talento oculto al que le encontraría mayor utilidad es: {{SELECTION}}.",
+     "summary": "TALENTO: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "107348",
+   "interrogations": [
+    "¿Qué es algo que puedes hacer que podría sorprender a la gente?",
+    "¿Alguno de estos talentos cambiaría activamente tus actividades de la vida diaria?"
+   ],
+   "isTrivia": false,
+   "question": "¿Cuál de los siguientes talentos ocultos crees que sería más útil para tu vida?",
+   "reminder": "Talentos ocultos"
   },
   {
    "appearance": "EARLY",
@@ -1332,6 +1723,7 @@
     "¿Dónde compras piyamas?",
     "¿Qué es más cómodo: algodón, satén, o la desnudez?"
    ],
+   "isTrivia": false,
    "question": "¿Con qué tipo de ropa te gusta ir a dormir?",
    "reminder": "Ropa para dormir",
    "x": true
@@ -1368,6 +1760,7 @@
     "¿Alguna vez hiciste gimnasia artística?",
     "¿Tienes buen sentido del equilibrio?"
    ],
+   "isTrivia": false,
    "question": "¿Puedes hacer una medialuna (voltereta lateral)?",
    "reminder": "¿Volteretas?",
    "starterContent": true
@@ -1398,6 +1791,7 @@
     "Describe el interior de un gimnasio, de ser posible.",
     "¿Qué se te viene a la mente cuando piensas en “fitness”?"
    ],
+   "isTrivia": false,
    "question": "¿Levantas pesas, bro?",
    "reminder": "¿Estás fuerte?",
    "starterContent": true
@@ -1435,6 +1829,7 @@
     "¿Estás apurado cuando haces las compras?",
     "¿Eres el tipo de persona que no le importa caminar un poco?"
    ],
+   "isTrivia": false,
    "question": "¿Qué haces con el carrito cuando terminas de hacer las compras de la semana?",
    "reminder": "Carrito de compras"
   },
@@ -1462,6 +1857,7 @@
     "Dime, ¿quién TE ARRUINA la vibra?",
     "¿Lo que molesta son sus actividades, o las personas en sí?"
    ],
+   "isTrivia": false,
    "question": "De estos individuos molestos, ¿cuál es el PEOR?",
    "reminder": "Los peores"
   },
@@ -1505,8 +1901,52 @@
     "Cuéntanos acerca de cómo realizar tu mejor habilidad.",
     "¿Qué juega un papel en dominar una habilidad?"
    ],
+   "isTrivia": false,
    "question": "Si tuvieras que realizar una de las siguientes tareas YA MISMO, ¿cuál crees que podrías hacer mejor?",
    "reminder": "Confianza en sus habilidades"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "¡Todo el mes, papá!"
+     ],
+     "finding": "El culpable celebra {{RED}}todo el mes de su cumpleaños.",
+     "summary": "CUMPLEAÑOS: {{RED}}MES"
+    },
+    {
+     "choices": [
+      "¡Toda la semana/fin de semana!"
+     ],
+     "finding": "El culpable celebra {{RED}}la semana/el fin de semana de su cumpleaños.",
+     "summary": "CUMPLEAÑOS: {{RED}}FIN DE SEMANA"
+    },
+    {
+     "choices": [
+      "Solo en el día en cuestión."
+     ],
+     "finding": "El culpable solo celebra su cumpleaños en {{RED}}el día que cae.",
+     "summary": "CUMPLEAÑOS: {{RED}}EN EL DÍA"
+    },
+    {
+     "choices": [
+      "¡Nunca! ¡Odio mi tonto cumpleaños!"
+     ],
+     "finding": "El culpable {{RED}}no celebra su tonto cumpleaños.",
+     "summary": "CUMPLEAÑOS: {{RED}}NO GRACIAS"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107585",
+   "interrogations": [
+    "¿Qué haces para tu cumpleaños?",
+    "¿Te gustan las fiestas sorpresa o planearlo tú mismo?"
+   ],
+   "isTrivia": false,
+   "question": "¿Por cuánto tiempo sueles celebrar tu cumpleaños?",
+   "reminder": "Longitud de cumpleaños"
   },
   {
    "appearance": "LATE",
@@ -1536,6 +1976,7 @@
     "¿Te iba bien en Lengua en la escuela?",
     "¿Puedes deletrearnos “consenso”, en voz alta, ahora mismo?"
    ],
+   "isTrivia": true,
    "question": "¿Sabes cuál de los siguientes está escrito correctamente?",
    "reminder": "La pregunta de ortografía",
    "starterContent": true
@@ -1563,9 +2004,47 @@
     "Cuéntanos sobre tu última visita a un parque de diversiones.",
     "Te quedas atrapado en un parque de diversiones. ¿Cómo te sientes?"
    ],
+   "isTrivia": false,
    "question": "Los parques de diversiones son:",
    "reminder": "Parques de diversiones",
    "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Sufren."
+     ],
+     "finding": "El sospechoso dice que las plantas {{RED}}sufren bajo su cuidado.",
+     "summary": "PLANTAS: {{RED}}SUFREN"
+    },
+    {
+     "choices": [
+      "Crecen."
+     ],
+     "finding": "El sujeto dice que las plantas {{RED}}crecen bajo su cuidado.",
+     "summary": "PLANTAS: {{RED}}CRECEN"
+    },
+    {
+     "choices": [
+      "No me ocupo de las plantas."
+     ],
+     "finding": "El sujeto afirma {{RED}}no ser dueño de ninguna planta.",
+     "summary": "PLANTAS: {{RED}}NINGUNA"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "107854",
+   "interrogations": [
+    "Cuéntanos sobre tu relación con las plantas.",
+    "¿Hay plantas alrededor tuyo en este momento? ¿Cómo están?",
+    "¿Merecen amor las plantas?"
+   ],
+   "isTrivia": false,
+   "question": "¿Qué ocurre cuando cuidas de las plantas?",
+   "reminder": "Cuidado de plantas"
   },
   {
    "appearance": "LATE",
@@ -1593,6 +2072,7 @@
     "Entre Wile E. Coyote y el Correcaminos, ¿quién es el villano?",
     "Entre el Correcaminos y Wile E. Coyote, ¿con quién te identificas más?"
    ],
+   "isTrivia": false,
    "question": "Entre el coyote y el correcaminos, ¿a quién alientas?",
    "reminder": "Coyote contra el Correcaminos",
    "starterContent": false,
@@ -1622,6 +2102,7 @@
    "interrogations": [
     "Demuestra que no es broma. Silba para nosotros."
    ],
+   "isTrivia": false,
    "question": "Sabes silbar, ¿cierto?",
    "reminder": "¿Silba?",
    "starterContent": true
@@ -1649,7 +2130,7 @@
       "Mandarles un “???”"
      ],
      "finding": "Cuando no le responden el mensaje, el culpable {{RED}}manda “???”",
-     "summary": "¿SIN RESPUESTA? {{RED}}”???”"
+     "summary": "¿SIN RESPUESTA? {{RED}}“???”"
     },
     {
      "choices": [
@@ -1672,6 +2153,7 @@
     "¿Qué es lo que más te molesta a la hora de mensajearse?",
     "¿Cuántos mensajes sin leer tienes ahora mismo?"
    ],
+   "isTrivia": false,
    "question": "Le mensajeas una pregunta a alguien y aún no recibes respuesta. ¿Qué sigue?",
    "reminder": "Qué hacer si no hay respuesta",
    "starterContent": false
@@ -1703,9 +2185,10 @@
     "Defina defenestrar.",
     "¿Qué sientes cuando alguien utiliza palabras demasiado precisas?"
    ],
+   "isTrivia": true,
    "question": "¿Qué significa la palabra “defenestrar”?",
    "reminder": "Defina defenestrar",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "appearance": "LATE",
@@ -1722,14 +2205,14 @@
      "choices": [
       "Desastre natural"
      ],
-     "finding": "El culpable piensa que un {{SELECTION}} causará el fin del mundo.",
+     "finding": "El culpable piensa que la {{SELECTION}} causará el fin del mundo.",
      "summary": "APOCALIPSIS: {{RED}}NATURAL"
     },
     {
      "choices": [
       "Guerras"
      ],
-     "finding": "El culpable piensa que las {{SELECTION}} causarán el fin del mundo.",
+     "finding": "El culpable piensa que la {{SELECTION}} causará el fin del mundo.",
      "summary": "APOCALIPSIS: {{RED}}GUERRA"
     },
     {
@@ -1768,6 +2251,7 @@
     "¿Crees que existen alienígenas allá afuera?",
     "¿Eres consciente del medio ambiente?"
    ],
+   "isTrivia": false,
    "question": "¿Cómo crees que va a terminar la raza humana?",
    "reminder": "Causa del apocalipsis",
    "starterContent": false,
@@ -1819,6 +2303,7 @@
     "¿Viajas mucho?",
     "¿Cómo sueles ir hacia el aeropuerto?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tan temprano llegas al aeropuerto antes de un vuelo?",
    "reminder": "LLEGADA AL AEROPUERTO",
    "starterContent": false
@@ -1863,9 +2348,49 @@
     "¿Miras muchos partidos de la NBA?",
     "¿Cuándo fue la última vez que fuiste a California?"
    ],
+   "isTrivia": true,
    "question": "¿Qué ciudad de California representan los Golden State Warriors de la NBA?",
    "reminder": "GOLDEN STATE WARRIORS",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Destiny",
+      "Borderlands",
+      "Dead Space"
+     ],
+     "finding": "El sospechoso lo intentó, pero {{RED}}se equivocó sobre los Zerg.",
+     "summary": "ZERG: {{RED}}INCORRECTO"
+    },
+    {
+     "choices": [
+      "StarCraft"
+     ],
+     "finding": "El MUY GENIAL sospechoso {{RED}}sabe de qué videojuego son los Zerg.",
+     "summary": "ZERG: {{RED}}CORRECTO"
+    },
+    {
+     "choices": [
+      "No sé. ¿Por qué debería saber esto?"
+     ],
+     "finding": "El culpable extrañamente a la defensiva {{RED}}no sabe de dónde vienen los Zerg.",
+     "summary": "ZERG: {{RED}}QSY"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108058",
+   "interrogations": [
+    "¿Eres un gamer de la ciencia ficción?",
+    "¿Tienes conocimiento enciclopédico acerca de razas alienígenas ficticias?"
+   ],
+   "isTrivia": true,
+   "question": "¿Los Zerg son una raza alienígena de cuál de las siguientes sagas de videojuegos?",
+   "reminder": "¡Los Zerg!",
+   "starterContent": false
   },
   {
    "appearance": "LATE",
@@ -1893,9 +2418,74 @@
     "¿Puedes tocarte los dedos del pie para mí?",
     "¿Hiciste gimnasia artística de más pequeño?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tan flexible eres?",
    "reminder": "¿Cuán flexible?",
    "starterContent": true
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Sabe bien."
+     ],
+     "finding": "Según el culpable, el cilantro {{RED}}sabe bien.",
+     "summary": "GUSTO DEL CILANTRO: {{RED}}BUENO"
+    },
+    {
+     "choices": [
+      "Sabe a jabón."
+     ],
+     "finding": "Según el culpable, el cilantro {{RED}}sabe a jabón.",
+     "summary": "GUSTO DEL CILANTRO: {{RED}}JABÓN"
+    },
+    {
+     "choices": [
+      "Nunca probé el cilantro."
+     ],
+     "finding": "El culpable afirma {{RED}}nunca haber probado el cilantro.",
+     "summary": "CILANTRO: {{RED}}NUNCA LO PROBÓ"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108099",
+   "interrogations": [
+    "¿Qué ingredientes usas para tu guacamole?",
+    "¿Alguna vez has comido cilantro frente alguno de los presentes?",
+    "Si te dieramos un gran tazón de cilantro, ¿qué pasaría?"
+   ],
+   "isTrivia": false,
+   "question": "¿Qué te parece el gusto del cilantro?",
+   "reminder": "CILANTRO"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Bádminton",
+      "Golf",
+      "Hándbol",
+      "Fútbol bandera",
+      "Tenis de mesa",
+      "Breakdancing"
+     ],
+     "finding": "El culpable cree que quizá podría ser decente a nivel olímpico en {{SELECTION}}.",
+     "summary": "DEPORTE OLÍMPICO: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108138",
+   "interrogations": [
+    "¿Qué tan habilidoso eres con las manos?",
+    "¿Qué te atraía más en gimnasia?"
+   ],
+   "isTrivia": false,
+   "question": "¿En cuál de los siguientes deportes olímpicos crees que quizá, QUIZÁ desempeñarte bien?",
+   "reminder": "DEPORTE OLÍMPICO"
   },
   {
    "appearance": "LATE",
@@ -1929,6 +2519,7 @@
     "¿Alguien o algo que te moleste recientemente?",
     "¿Sientes felicidad al odiar cosas?"
    ],
+   "isTrivia": false,
    "question": "¿Eres un hater?",
    "reminder": "¿Hater?",
    "starterContent": true
@@ -1966,6 +2557,7 @@
     "¿Alguna vez has impuesto una tendencia?",
     "¿Qué significa “cool” para ti?"
    ],
+   "isTrivia": false,
    "question": "¿Dirías que eres \"cool\"?",
    "reminder": "Qué \"cool\"",
    "starterContent": true
@@ -1978,22 +2570,22 @@
      "choices": [
       "Sí, a la perfección."
      ],
-     "finding": "El culpable puede decir \"Pablito clavó un clavito\" {{RED}}perfectamente.",
-     "summary": "TRABALENGUAS: {{RED}}¡SÍ!"
+     "finding": "El culpable puede decir “Pablito clavó un clavito” {{RED}}perfectamente.",
+     "summary": "TRABALENGUAS: {{RED}}PERFECTO"
     },
     {
      "choices": [
-      "Sí, pero no [i]todas[/i] las veces."
+      "Probablemente, no estoy seguro."
      ],
-     "finding": "Al culpable le sale decir \"Pablito clavó un clavito\" algunas veces, {{RED}}pero no consistentemente.",
-     "summary": "TRABALENGUAS: {{RED}}MÁS O MENOS"
+     "finding": "Cuando se le pidió que dijera “Pablito clavó un clavito” 3 veces perfectamente, el sospechoso afirmo {{RED}}no estar seguro de poder hacerlo.",
+     "summary": "TRABALENGUAS: {{RED}}NO ESTÁ SEGURO"
     },
     {
      "choices": [
       "No, para nada."
      ],
-     "finding": "El culpable para decir \"Pablito clavó un clavito\" {{RED}}....no le sale. Directamente no puede.",
-     "summary": "TRABALENGUAS: {{RED}}NOP"
+     "finding": "Cuando se le pidió que dijera “Pablito clavó un clavito” 3 veces perfectamente, el sospechoso afirmo {{RED}}no poder hacerlo.",
+     "summary": "TRABALENGUAS: {{RED}}NO"
     }
    ],
    "familiarity": "FRIENDS",
@@ -2002,6 +2594,7 @@
     "Quiero oírlo. “Pablito clavó un clavito...”",
     "¿Cómo era esa frase de los tres tigres que estaban tristes...?"
    ],
+   "isTrivia": false,
    "question": "¿Puedes decir “Pablito clavó un clavito” 3 veces sin confundirte?",
    "reminder": "El trabalenguas",
    "starterContent": false
@@ -2014,7 +2607,7 @@
      "choices": [
       "...Todo el tiempo."
      ],
-     "finding": "Es sabido que el sujeto discute con otros en línea {{RED}}“todo el tiempo”.",
+     "finding": "Es sabido que el sujeto discute con otros en línea {{RED}} “todo el tiempo”.",
      "summary": "PELEAS EN LÍNEA: {{RED}}SÍ"
     },
     {
@@ -2026,7 +2619,7 @@
     },
     {
      "choices": [
-      "Raramente... pero no [i]nunca[/i]."
+      "Raramente... pero no nunca."
      ],
      "finding": "El sujeto discute con personas en línea en {{RED}}muy raras ocasiones.",
      "summary": "PELEAS EN LÍNEA: {{RED}}RARAMENTE"
@@ -2045,6 +2638,7 @@
     "Cuéntanos sobre tus actividades en línea.",
     "Cuándo te encuentras en una discusión en línea, ¿puedes dejarla pasar?"
    ],
+   "isTrivia": false,
    "question": "¿Discutes con otras personas en las redes?",
    "reminder": "Peleas en línea"
   },
@@ -2081,6 +2675,7 @@
     "¿Cuáles son tus supersticiones?",
     "¿Eres más o menos supersticioso ahora que en otros momentos de tu vida?"
    ],
+   "isTrivia": false,
    "question": "¿Eres supersticioso?",
    "reminder": "¿Supersticioso?",
    "starterContent": false
@@ -2098,10 +2693,10 @@
     },
     {
      "choices": [
-      "<10",
+      "Menos de 10",
       "10-100",
       "100-1.000",
-      ">1.000"
+      "1.000+"
      ],
      "finding": "El culpable actualmente tiene {{SELECTION}} correos no leídos.",
      "summary": "CORREOS NO LEÍDOS: {{SELECTION}}"
@@ -2114,6 +2709,7 @@
     "¿Qué tan seguido borras emails?",
     "¿Te estresa hablar sobre esto?"
    ],
+   "isTrivia": false,
    "question": "¿Cuántos correos sin leer tienes en tu bandeja de entrada ahora mismo?",
    "reminder": "Emails sin leer",
    "starterContent": true
@@ -2164,6 +2760,7 @@
     "¿Eres buena niñera?",
     "¿Qué piensas del Ahora me ves, ahora no me ves?"
    ],
+   "isTrivia": false,
    "question": "¿Te llevas bien con los bebés?",
    "reminder": "Popularidad bebé",
    "starterContent": true
@@ -2200,6 +2797,7 @@
     "¿Te describirías como alguien maduro?",
     "¿Te gustaría jubilarte?"
    ],
+   "isTrivia": false,
    "question": "¿Dirías que te comportas acorde a tu edad?",
    "reminder": "Acorde a tu edad",
    "starterContent": false
@@ -2210,7 +2808,7 @@
    "evidence": [
     {
      "choices": [
-      "Cero"
+      "0"
      ],
      "finding": "El culpable afirma {{RED}}no tener mejores amigos, ¿pero esperemos que tenga una vida satisfactoria?",
      "summary": "MEJORES AMIGOS: {{SELECTION}}"
@@ -2251,9 +2849,35 @@
     "¿Estás en búsqueda de un nuevo mejor amigo?",
     "¿Te invitan a muchas recepciones de boda?"
    ],
+   "isTrivia": false,
    "question": "¿Cuántos mejores amigos dirías que tienes?",
    "reminder": "¡Amiguis!",
    "starterContent": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "0",
+      "Uno",
+      "Algunos",
+      "Demasiadas"
+     ],
+     "finding": "La cantidad de cosas vergonzosas que le han ocurrido al culpable en esta semana: {{SELECTION}}",
+     "summary": "COSAS VERGONZOSAS: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108437",
+   "interrogations": [
+    "¿Te has sentido avergonzado durante este juego?",
+    "Si pudieras volver atrás en el tiempo y cambiar algo, ¿lo harías?"
+   ],
+   "isTrivia": false,
+   "question": "¿Cuántas cosas vergonzosas te han ocurrido esta semana?",
+   "reminder": "¿Avergonzado esta semana?"
   },
   {
    "appearance": "EARLY",
@@ -2288,8 +2912,47 @@
     "¿Qué tanto conoces sobre tus tatarabuelos?",
     "¿Eres más de FamilySearch o Geneanet?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez te has hecho una prueba de ADN?",
    "reminder": "Prueba de ADN",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "¡Tiernos!"
+     ],
+     "finding": "¡El culpable cree que los pugs son {{RED}}tiernos!",
+     "summary": "PUGS: {{RED}}TIERNOS"
+    },
+    {
+     "choices": [
+      "¡Feos!"
+     ],
+     "finding": "El culpable cree que los pugs son {{RED}}feos.",
+     "summary": "PUGS: {{RED}}FEOS"
+    },
+    {
+     "choices": [
+      "¡No siento nada!"
+     ],
+     "finding": "Al pensar en pugs, el sospechoso {{RED}}no siente nada.",
+     "summary": "PUGS: {{RED}}NO OPINA"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "108441",
+   "interrogations": [
+    "¿Perros de raza o “adopta, no compres”?",
+    "¿Qué opinas de los perros con carita aplastada?",
+    "¿Tienes un perro?"
+   ],
+   "isTrivia": false,
+   "question": "¿Qué piensas sobre los pugs?",
+   "reminder": "¿Opiniones de pug?",
    "starterContent": false
   },
   {
@@ -2325,6 +2988,7 @@
     "¿Estarías cómodo con que tu esposo o esposa fuera a comer con un ex?",
     "¿Alguna de tus relaciones ha terminado de manera amistosa?"
    ],
+   "isTrivia": false,
    "question": "¿Crees que las exparejas pueden ser amigos?",
    "reminder": "Ex como amigo",
    "starterContent": true,
@@ -2369,6 +3033,7 @@
     "¿Puedes mostrar los ajustes de sonido de tu teléfono?",
     "¿Me dices rápido tu número? Voy a hacerte una llamada."
    ],
+   "isTrivia": false,
    "question": "¿En qué opción de sonido sueles tener puesto tu celular?",
    "reminder": "Ajustes del teléfono",
    "starterContent": false
@@ -2410,6 +3075,7 @@
     "¿Podrías dormirte con la tele prendida?",
     "¿Alguna vez te ha dicho alguien que es difícil compartir cama contigo?"
    ],
+   "isTrivia": false,
    "question": "¿Qué clase de sueño tienes?",
    "reminder": "Estilo de sueño",
    "starterContent": false
@@ -2442,6 +3108,7 @@
     "¿Has seguido los trabajos solistas de alguno de ellos?",
     "¿Tienes alguna canción favorita de los Beatles?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál Beatle es el mejor?",
    "reminder": "Mejor Beatle",
    "starterContent": false
@@ -2478,6 +3145,7 @@
     "Si no sientes envidia, ¿QUÉ sientes al respecto?",
     "¿Sabías que puedes ser deseoso de algo que ya tienes? ¡Explícate!"
    ],
+   "isTrivia": false,
    "question": "¿Qué es algo que otros tienen y que sueles admirar o de lo que tienes celos?",
    "reminder": "Celoso de..."
   },
@@ -2513,6 +3181,7 @@
     "Hablemos acerca de tu preferencia de gaseosa.",
     "¿Es una cuestión de gusto? ¿O solo una preferencia?"
    ],
+   "isTrivia": false,
    "question": "¿Pepsi está bien?",
    "reminder": "¿Pepsi está bien?"
   },
@@ -2549,6 +3218,7 @@
     "En general, ¿cómo encaras la enseñanza del griddy?",
     "¿Cuál es el secreto para un robusto Griddy?"
    ],
+   "isTrivia": false,
    "question": "¿Puedes enseñarme cómo hacer el griddy?",
    "reminder": "¿Me enseñas el griddy?",
    "starterContent": false
@@ -2577,6 +3247,7 @@
     "¿Te sorprendiste al aprender cuánto salen algunas de estas cosas?",
     "¿Cuál es la mejor decisión a largo plazo?"
    ],
+   "isTrivia": false,
    "question": "Si pudieras conseguir alguno de estos a mitad de precio, para siempre, ¿cuál sería?",
    "reminder": "Cosas a mitad de precio",
    "starterContent": false
@@ -2605,6 +3276,7 @@
     "Entonces, ¿a quién tiendes a respetar?",
     "¿Te parece que los políticos son buena compañía?"
    ],
+   "isTrivia": false,
    "question": "¿Con cuál de las siguientes figuras públicas crees que te llevarías mejor?",
    "reminder": "Figuras públicas",
    "starterContent": false
@@ -2643,6 +3315,7 @@
     "¿Cómo te vengarías de una enorme institución?",
     "¿Cuál es la última institución grande de la que no tuviste nada bueno que decir?"
    ],
+   "isTrivia": false,
    "question": "¿Con cuál de las siguientes instituciones tienes un conflicto personal?",
    "reminder": "Estoy peleado con...",
    "starterContent": true
@@ -2670,6 +3343,7 @@
     "¿Cuánta televisión miras en el hotel durante las vacaciones?",
     "¿Planificas tus vacaciones según los restaurantes que haya?"
    ],
+   "isTrivia": false,
    "question": "¿Por qué vas de vacaciones?",
    "reminder": "Razón de vacación",
    "starterContent": false
@@ -2700,6 +3374,7 @@
     "¿Qué tiene este lugar que necesita desecharse cada noche?",
     "¿Su basura sería particularmente viscosa?"
    ],
+   "isTrivia": false,
    "question": "¿Qué establecimiento de comida crees que tiene la basura de mayor calidad por la noche?",
    "reminder": "Mejor basura",
    "starterContent": true
@@ -2718,14 +3393,14 @@
       "Steve",
       "La ciudad de Nueva York"
      ],
-     "finding": "Y así, en lo que a \"Sex and the City\" se refiere, el culpable piensa que es IGUAL A {{SELECTION}}.",
+     "finding": "Y así, en lo que a [i]Sex and the City[/i] se refiere, el culpable piensa que es IGUAL A {{SELECTION}}.",
      "summary": "SEX AND CITY: {{SELECTION}}"
     },
     {
      "choices": [
       "No sé nada de Sexo en la ciudad."
      ],
-     "finding": "El culpable no se identifica con ninguno de los coloridos personajes metropolitanos de Sex and the City porque {{RED}}nunca ha visto \"Sexo en la ciudad\".",
+     "finding": "El culpable no se identifica con ninguno de los coloridos personajes metropolitanos de [i]Sex and the City[/i] porque {{RED}}nunca ha visto [i]Sexo en la ciudad[/i].",
      "summary": "SEX AND CITY: {{RED}}QSY XD"
     }
    ],
@@ -2735,7 +3410,8 @@
     "¿Eres alguien más despreocupado? ¿O más organizado?",
     "¿Cuántas cosas con doble sentido dices en un día normal?"
    ],
-   "question": "¿Qué personaje de “Sexo en la ciudad” (Sex and the City) eres?",
+   "isTrivia": false,
+   "question": "¿Qué personaje de [i]Sexo en la Ciudad (Sex and the City)[/i] eres?",
    "reminder": "Personaje de Sex and the City",
    "starterContent": true,
    "x": true
@@ -2748,21 +3424,21 @@
      "choices": [
       "Película de navidad"
      ],
-     "finding": "El culpable dice que [i]El extraño mundo de Jack[/i] es una película sobre {{RED}}la navidad.",
+     "finding": "El culpable dice que El extraño mundo de Jack es una película sobre {{RED}}la navidad.",
      "summary": "MUNDO DE JACK: {{RED}}NAVIDAD"
     },
     {
      "choices": [
       "Película de Halloween"
      ],
-     "finding": "El culpable dice que [i]El extraño mundo de Jack[/i] es una película sobre {{RED}}Halloween.",
+     "finding": "El culpable dice que El extraño mundo de Jack es una película sobre {{RED}}Halloween.",
      "summary": "MUNDO DE JACK: {{RED}}HALLOWEEN"
     },
     {
      "choices": [
       "No conozco nada acerca de esta película."
      ],
-     "finding": "El culpable absolutamente normal {{RED}}no sabe nada sobre [i]El extraño mundo de Jack[/i].",
+     "finding": "El culpable absolutamente normal {{RED}}no sabe nada sobre El extraño mundo de Jack.",
      "summary": "MUNDO DE JACK: {{RED}}QSY"
     }
    ],
@@ -2771,9 +3447,10 @@
    "interrogations": [
     "¿No es una película sobre HACER LA NAVIDAD?",
     "¿No es una película sobre Ciudad HALLOWEEN?",
-    "¿Cuál época del año es la correcta para mirar [i]El extraño mundo de Jack[/i]?"
+    "¿Cuál época del año es la correcta para mirar El extraño mundo de Jack?"
    ],
-   "question": "¿[i]El extraño mundo de Jack[/i] es una película de navidad o de Halloween?",
+   "isTrivia": false,
+   "question": "¿El extraño mundo de Jack es una película de navidad o de Halloween?",
    "reminder": "El extraño mundo de Jack",
    "starterContent": false
   },
@@ -2801,6 +3478,7 @@
     "Describe el edificio que más odias.",
     "¿Qué hace que un edificio te parezca hermoso?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tipo de edificio o estilo arquitectónico es más feo?",
    "reminder": "Estructuras feas",
    "starterContent": true
@@ -2844,6 +3522,7 @@
     "¿Hablar con extraños te parece interesante, o molesto?",
     "Cuando tienes una conversación con tu conductor, ¿quién suele iniciarla?"
    ],
+   "isTrivia": false,
    "question": "¿Te molesta que te toque un taxista charlatán?",
    "reminder": "Taxista charlatán",
    "starterContent": false
@@ -2870,6 +3549,7 @@
     "Te miras en el espejo y, ¿qué ves?",
     "¿La introspección te incomoda?"
    ],
+   "isTrivia": false,
    "question": "De las siguientes, ¿qué característica tuya te gusta más?",
    "reminder": "MEJOR CARACTERÍSTICA",
    "starterContent": false
@@ -2902,6 +3582,7 @@
     "Explícanos tu proceso de llegada a restaurantes.",
     "¿Qué le dices a las personas que llegan tarde a un restaurante?"
    ],
+   "isTrivia": false,
    "question": "A la hora de ir a una cena con amigos, llego...",
    "reminder": "Llegada a cenas",
    "starterContent": true
@@ -2938,10 +3619,48 @@
    "interrogations": [
     "¿Qué es el Scandoval, o qué piensas que es?"
    ],
+   "isTrivia": true,
    "question": "¿La palabra “Scandoval” significa algo para ti?",
    "reminder": "¿Scandoval?",
    "starterContent": false,
    "x": false
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Solo llaves."
+     ],
+     "finding": "El eficiente llavero del sujeto tiene {{RED}}llaves y nada más.",
+     "summary": "LLAVERO: {{RED}}SOLO LLAVES"
+    },
+    {
+     "choices": [
+      "Llaves y unas cosas más."
+     ],
+     "finding": "El llavero del sujeto tiene {{RED}}llaves y un par de cosas útiles más.",
+     "summary": "LLAVERO: {{RED}}LLAVES Y EXTRAS"
+    },
+    {
+     "choices": [
+      "¡Un MONTÓN de cosas!"
+     ],
+     "finding": "El tintineante sujeto tiene {{RED}}demasiadas cosas en su llavero.",
+     "summary": "LLAVERO: {{RED}}UN DESASTRE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "108846",
+   "interrogations": [
+    "¿Te molestaría mostrarnos tus llaves?",
+    "Cuéntanos tu proceso de decisión para elegir lo que va en un llavero.",
+    "¿Cómo se vería “demasiado para un llavero” para ti?"
+   ],
+   "isTrivia": false,
+   "question": "¿Qué hay en tu llavero?",
+   "reminder": "Llavero"
   },
   {
    "appearance": "EARLY",
@@ -2983,6 +3702,7 @@
     "¿Cuál es tu trago predilecto?",
     "¿Te consideras una persona divertida?"
    ],
+   "isTrivia": false,
    "question": "En cuanto a los tragos extraños con sombrillas y decorados y todo eso:",
    "reminder": "Tragos extraños",
    "starterContent": false
@@ -3040,6 +3760,7 @@
     "¿Qué es algo que puedas decir con confianza que es lo mejor de ti?",
     "¿Serías honesto de entrada con una primera cita?"
    ],
+   "isTrivia": false,
    "question": "Si solo pudieras elegir una palabra, ¿cómo quisieras que te describan para una cita a ciegas?",
    "reminder": "Descripción de cita a ciegas",
    "starterContent": false,
@@ -3061,7 +3782,7 @@
       "Un sencillo “gracias”."
      ],
      "finding": "El sospechoso acepta los halagos como una persona normal, {{RED}}con un simple “gracias”.",
-     "summary": "HALAGO: {{RED}}”GRACIAS”"
+     "summary": "HALAGO: {{RED}}“GRACIAS”"
     },
     {
      "choices": [
@@ -3092,6 +3813,7 @@
     "¿Cómo calificarías tu confianza en ti mismo?",
     "Tienes unos ojos muy bonitos, por cierto...."
    ],
+   "isTrivia": false,
    "question": "Alguien halaga tu trabajo. ¿Cómo respondes?",
    "reminder": "Recibiendo halagos",
    "starterContent": false
@@ -3121,6 +3843,7 @@
     "¿Miras tus notificaciones durante las películas?",
     "¿Hablas con tus amigos la mayor parte del tiempo a través de sitios o aplicaciones?"
    ],
+   "isTrivia": false,
    "question": "Verdadero o Falso: “Las redes sociales han mejorado mi vida.”",
    "reminder": "Vida en las redes",
    "starterContent": true
@@ -3158,6 +3881,7 @@
     "¿Cuál es el truco para sacarle una buena foto a alguien?",
     "Tómame una foto ahora mismo."
    ],
+   "isTrivia": false,
    "question": "Un extraño se acerca y pide si puedes tomarles una foto. ¿Cómo respondes?",
    "reminder": "Foto de un extraño"
   },
@@ -3201,8 +3925,54 @@
     "¿Has hecho viajes de acampada o escalada?",
     "¿Conoces algún rarito rico con animales exóticos?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez has visto un oso fuera de un zoológico o circo?",
    "reminder": "¿Avistamiento de osos?",
+   "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Jamás."
+     ],
+     "finding": "El sujeto {{RED}}jamás ha intentado algo con su pelo que haya sido un error.",
+     "summary": "ERRORES DE PELO: {{RED}}NINGUNO"
+    },
+    {
+     "choices": [
+      "Una vez."
+     ],
+     "finding": "El sujeto intentó algo con su pelo que fue un error {{RED}}solamente una vez.",
+     "summary": "ERRORES DE PELO: {{RED}}UNO"
+    },
+    {
+     "choices": [
+      "Varias veces."
+     ],
+     "finding": "El sujeto intentó algo con su pelo que fue un error {{RED}}varias veces.",
+     "summary": "ERRORES DE PELO: {{RED}}ALGUNOS"
+    },
+    {
+     "choices": [
+      "Muchas, demasiadas veces."
+     ],
+     "finding": "El sujeto ha cometido {{RED}}muchos, demasiados errores con su pelo en el pasado.",
+     "summary": "ERRORES DE PELO: {{RED}}DEMASIADOS"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109146",
+   "interrogations": [
+    "Cuéntanos sobre tu historia con tu cabello.",
+    "¿Qué considerarías un “error con el pelo”?",
+    "¿Estás feliz con tu peinado en este momento?"
+   ],
+   "isTrivia": false,
+   "question": "¿Alguna vez probaste algo con tu pelo que resultó ser un gran error?",
+   "reminder": "Errores de cabello",
    "starterContent": false
   },
   {
@@ -3229,6 +3999,7 @@
    "interrogations": [
     "De acuerdo, ¿de dónde te han echado?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez te echaron de un lugar o evento?",
    "reminder": "¿Echado?"
   },
@@ -3257,6 +4028,7 @@
     "¿Por qué la devolviste? ¿Tienes un paladar muy fino o había algo verdaderamente mal con ella?",
     "¿Tuvo que ver con alguna alergia?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez has devuelto comida en un restaurante?",
    "reminder": "¿Devolver comida?",
    "starterContent": false
@@ -3307,6 +4079,7 @@
     "Así que, ¿te crees más importante que la pregunta del mago? ¿Dónde está tu sentido de la magia?",
     "Cuéntame lo que harías después de arrollar a un hombre mágico."
    ],
+   "isTrivia": false,
    "question": "Chocas a un mago con tu auto. ¿Qué es lo siguiente que haces?",
    "reminder": "ACCIDENTE DE MAGO",
    "starterContent": true
@@ -3350,6 +4123,7 @@
     "¿Cuántos amigos de la escuela tienes agendados en el teléfono?",
     "¿Dirías que eras alguien popular en la secundaria?"
    ],
+   "isTrivia": false,
    "question": "¿Con cuántos amigos de la escuela (desde el jardín hasta la secundaria) has mantenido la amistad?",
    "reminder": "Amigos de la escuela",
    "starterContent": false,
@@ -3380,6 +4154,7 @@
     "¿Qué piensas de la clonación romántica?",
     "¿Te consideras bueno besando?"
    ],
+   "isTrivia": false,
    "question": "Si pudieras besarte a ti mismo... ¿lo harías?",
    "reminder": "¿Besarte?",
    "starterContent": true,
@@ -3411,6 +4186,7 @@
     "¿Qué opinas del yoga, en general?",
     "¿Se parece la pose a un perro? Presenta tu argumento."
    ],
+   "isTrivia": false,
    "question": "¿Sabes hacer la pose de yoga del \"perro boca abajo\"?",
    "reminder": "¿Perro boca abajo?",
    "starterContent": false
@@ -3455,6 +4231,7 @@
     "¿Eras un buen estudiante?",
     "¿Por qué te hicieron firmar?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez te hicieron firmar en la escuela?",
    "reminder": "¿Firmas escolares?",
    "starterContent": false
@@ -3491,6 +4268,7 @@
     "Por favor, explícanos por qué o por qué no esto ensuciaría el ambiente.",
     "¿Qué tan rápido crees que se va a descomponer la cáscara?"
    ],
+   "isTrivia": false,
    "question": "Quieres tirar una cáscara de banana y no hay tacho. ¿Está bien tirarla en la basura?",
    "reminder": "Tirando cáscaras de banana",
    "starterContent": false
@@ -3522,9 +4300,10 @@
     "¿Tenías que manejar muchos números en el trabajo o en la escuela?",
     "¿Cuánto es 13 x 7?"
    ],
+   "isTrivia": true,
    "question": "¿Cuánto es 13 x 8?",
    "reminder": "13 x 8",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "appearance": "EARLY",
@@ -3573,6 +4352,7 @@
     "¿El vidente hizo una predicción precisa?",
     "¿Crees que todos los videntes son estafadores?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez visitaste a un vidente?",
    "reminder": "¿Visitaste un vidente?",
    "starterContent": false
@@ -3610,6 +4390,7 @@
     "¿Jugabas deportes de pequeño?",
     "¿Alguna vez te han llamado mal perdedor?"
    ],
+   "isTrivia": false,
    "question": "¿Eres alguien competitivo?",
    "reminder": "¿Competitivo?",
    "starterContent": true
@@ -3671,10 +4452,11 @@
    "familiarity": "FRIENDS",
    "id": "109438",
    "interrogations": [
-    "¿Miraste algún [i]Gran Hermano[/i]?",
+    "¿Miraste algún Gran Hermano?",
     "¿Te llamarías gamer a ti mismo?",
     "Puedo ver lo que llevas puesto, ¿te importa aunque sea un poco el mundo de la moda?"
    ],
+   "isTrivia": false,
    "question": "Si los siguientes museos existieran, ¿en cuál crees que lo pasarías mejor?",
    "reminder": "¡Nuevos museos!"
   },
@@ -3705,9 +4487,46 @@
     "¿Publicaste algo hoy?",
     "¿Se te ocurre alguna publicación de la que estés profundamente arrepentido?"
    ],
+   "isTrivia": false,
    "question": "¿Qué sentirías si vieras tus primeras publicaciones en redes sociales?",
    "reminder": "Sentimientos de posteos viejos",
    "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Sí."
+     ],
+     "finding": "El sujeto piensa que Avatar es {{RED}}una buena película.",
+     "summary": "AVATAR: {{RED}}BUENA"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "El sujeto piensa que Avatar {{RED}}no es una buena película.",
+     "summary": "AVATAR: {{RED}}MALA"
+    },
+    {
+     "choices": [
+      "Nunca la vi."
+     ],
+     "finding": "El sujeto nunca ha visto {{RED}}Avatar. ¡Genial!",
+     "summary": "AVATAR: {{RED}}NO LA VIO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109514",
+   "interrogations": [
+    "¿Qué piensas de las parábolas ambientales?",
+    "¿Te gustan los éxitos de taquilla o nah?"
+   ],
+   "isTrivia": false,
+   "question": "¿Es [i]Avatar[/i] una buena película? (La de los alienígenas azules.)",
+   "reminder": "Opiniones de Avatar"
   },
   {
    "appearance": "EARLY",
@@ -3737,6 +4556,7 @@
     "¿Tienes un vehículo viejo o un modelo más nuevo?",
     "¿Puedes nombrar cinco partes que hay bajo el capó de un auto?"
    ],
+   "isTrivia": true,
    "question": "¿Qué hace el carburador de un auto?",
    "reminder": "El trabajo de un carburador",
    "starterContent": true
@@ -3774,6 +4594,7 @@
     "¿Prefieres hacer las cosas tú mismo?",
     "En general, ¿prefieres pagarle a alguien para que lo haga?"
    ],
+   "isTrivia": false,
    "question": "Tienes que ensamblar un mueble pesado. ¿Qué haces?",
    "reminder": "Construcción de mueble",
    "starterContent": false
@@ -3810,6 +4631,7 @@
     "¿Qué tiene de malo que tu holograma sea músico?",
     "¿Piensas que los hologramas son geniales, o preocupantes?"
    ],
+   "isTrivia": false,
    "question": "Después de que mueras, hay gente que quiere usar tu imagen para hologramas, deepfakes, etc. ¿Lo permites?",
    "reminder": "¿Holograma post-mortem?"
   },
@@ -3852,6 +4674,7 @@
     "¿Qué pasaría si te dijera que las personas como tú son la razón por la que los champús tienen instrucciones?",
     "¿Se necesita mucho para hacerte llorar?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tan bien te tomas una broma a expensa tuya?",
    "reminder": "¿Aguantas un chiste?",
    "starterContent": false
@@ -3883,9 +4706,34 @@
     "¿Cómo eres cuando estás pasado de mambo?",
     "¿Dirías que eres “demasiado”, “pasado de mambo”, o “un montón”?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tan seguido dirías que te “pasas de mambo”?",
    "reminder": "¿Es mucho?",
    "starterContent": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Absolutamente",
+      "Más o menos",
+      "Para nada"
+     ],
+     "finding": "El sospechoso dice que es “{{SELECTION}}” un adulto Disney.",
+     "summary": "ADULTO DISNEY: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "109701",
+   "interrogations": [
+    "¿Deberían poder los treintañeros ir a parques de Disney sin niños?",
+    "¿Cuál es tu atracción favorita de Disney?"
+   ],
+   "isTrivia": false,
+   "question": "¿Consideras que eres un “adulto Disney”?",
+   "reminder": "¿Adulto Disney?"
   },
   {
    "appearance": "EARLY",
@@ -3919,6 +4767,7 @@
     "¿Las personas de atención al cliente te consideran agradable?",
     "¿Eres bueno conociendo los padres de tu pareja?"
    ],
+   "isTrivia": false,
    "question": "¿Tienes labia?",
    "reminder": "¿Labia?",
    "starterContent": true
@@ -3963,6 +4812,7 @@
     "¿Tienes miedo a las agujas?",
     "¿Sabes cómo inyectarte solo?"
    ],
+   "isTrivia": false,
    "question": "¡Hora de tu vacuna para la gripe! ¿Cómo te comportas habitualmente a la hora de recibir una inyección?",
    "reminder": "A inyectarse",
    "x": false
@@ -3978,7 +4828,7 @@
       "¡Nop!"
      ],
      "finding": "Cuando le preguntaron si era hipocondríaco, el culpable dijo: “{{SELECTION}}”",
-     "summary": "¿HIPOCONDRÍACO? {{SELECTION}}"
+     "summary": "¿HIPO- CONDRÍACO? {{SELECTION}}"
     }
    ],
    "familiarity": "FRIENDS",
@@ -3988,6 +4838,7 @@
     "¿Sueles asumir lo peor al respecto de cuestiones de la salud?",
     "¿Cómo te sientes ahora mismo?"
    ],
+   "isTrivia": false,
    "question": "¿Eres alguien hipocondríaco?",
    "reminder": "¿Hipocondríaco?"
   },
@@ -3999,7 +4850,7 @@
      "choices": [
       "Sí"
      ],
-     "finding": "El sujeto cree que al final de Titanic {{RED}}había espacio en la puerta para Jack.",
+     "finding": "El sujeto cree que al final de Titanic {{RED}}había suficiente espacio en la puerta para Jack.",
      "summary": "¿LUGAR PARA JACK? {{SELECTION}}"
     },
     {
@@ -4011,9 +4862,9 @@
     },
     {
      "choices": [
-      "No vi [i]Titanic[/i]."
+      "No vi Titanic."
      ],
-     "finding": "El sujeto no tiene ninguna opinión acerca de Rose, Jack, o la puerta porque {{RED}}nunca vio Titanic.",
+     "finding": "El sujeto no tiene ninguna opinión acerca de Rose, Jack, o la puerta porque {{RED}}nunca ha visto Titanic.",
      "summary": "TITANIC: {{RED}}NO LA VIO"
     },
     {
@@ -4029,9 +4880,10 @@
    "interrogations": [
     "¿Qué te hace un experto en la flotabilidad de Leonardo DiCaprio?",
     "Si amas a alguien, ¿está bien dejarlo que se ahogue?",
-    "¿Sobre cuántas puertas flotantes estuviste [i]tú[/i]?"
+    "¿Sobre cuántas puertas flotantes has estado?"
    ],
-   "question": "Al final de [i]Titanic[/i], cuando Rose está sobre la puerta flotante, ¿había suficiente lugar para Jack?",
+   "isTrivia": false,
+   "question": "Al final de Titanic, cuando Rose está sobre la puerta flotante, ¿había suficiente lugar para Jack?",
    "reminder": "Puerta del Titanic",
    "starterContent": true
   },
@@ -4071,10 +4923,11 @@
    "familiarity": "STRANGERS",
    "id": "109775",
    "interrogations": [
-    "Si [i]fueras[/i] a hacer cosplay, ¿de quién sería?",
+    "Si FUERAS a hacer cosplay, ¿de quién sería?",
     "¿El ponerse disfraces y pretender ser alguien más te parece “divertido”?",
     "¿Qué piensas de las pelucas?"
    ],
+   "isTrivia": false,
    "question": "¿Qué piensas del cosplay?",
    "reminder": "¿Cosplay?"
   },
@@ -4101,8 +4954,9 @@
    "id": "109924",
    "interrogations": [
     "¿Estás conforme con tus habilidades de canto?",
-    "Si [i]sí[/i] cantaras solo, ¿qué canción sería?"
+    "Si sí cantaras solo, ¿qué canción sería?"
    ],
+   "isTrivia": false,
    "question": "Cuando estás solo, ¿cantas en voz alta?",
    "reminder": "Canto en privado",
    "starterContent": false
@@ -4146,6 +5000,7 @@
     "¿Hay alguien al que no le agrades?",
     "¿Qué tendría que hacer alguien para volverse tu némesis?"
    ],
+   "isTrivia": false,
    "question": "¿Dirías que tienes un \"némesis\"?",
    "reminder": "¿Némesis?"
   },
@@ -4181,6 +5036,7 @@
     "¿Qué haría que seas aterrador?",
     "¿Alguna vez asustaste a alguien en el pasado?"
    ],
+   "isTrivia": false,
    "question": "¿Hay gente en el mundo que te tenga miedo?",
    "reminder": "¿Soy aterrador?"
   },
@@ -4212,6 +5068,7 @@
     "¿Te consideras un conocedor de la comida?",
     "Está bien admitir que no sabes acerca de lo de las estrellas Michelin. ¡Yo tampoco sabía!"
    ],
+   "isTrivia": true,
    "question": "¿Cuál es el máximo número de estrellas Michelin que un restaurante puede recibir?",
    "reminder": "Máximo de estrellas Michelin",
    "starterContent": true
@@ -4244,6 +5101,7 @@
     "¿Crees que alguien con conocimientos teatrales sería un buen mentiroso?",
     "¿Puedes decirme cuáles son las diferentes partes de un escenario?"
    ],
+   "isTrivia": true,
    "question": "¿Cómo se llama la parte del escenario de un teatro que está más cercana al público?",
    "reminder": "Direcciones en el escenario"
   },
@@ -4275,6 +5133,7 @@
     "¿Cuál es otro equipo que forma parte de la Conferencia Nacional?",
     "¿Te importan los deportes?"
    ],
+   "isTrivia": true,
    "question": "¿Qué equipo de la NFL está en la Conferencia Nacional del fútbol americano?",
    "reminder": "¿Equipo de la conferencia nacional?",
    "starterContent": true
@@ -4321,6 +5180,7 @@
     "O sea, al menos conoces a Pikachu, ¿verdad?",
     "¿Qué significa la frase \"tipo planta\" para ti?"
    ],
+   "isTrivia": true,
    "question": "¿Cuál de estos es un Pokémon?",
    "reminder": "¿Entrenador Pokémon?",
    "starterContent": true
@@ -4359,7 +5219,8 @@
     "¿El nombre Gerard Way significa algo para ti?",
     "¿Conocías a los chicos emo en la secundarias? ¿ERAS de los chicos emo?"
    ],
-   "question": "Termina la letra: “When I was a young boy / my father took me into the city.....”",
+   "isTrivia": true,
+   "question": "Termina la letra: “When I was a young boy / my father took me into the city...”",
    "reminder": "¿Fan de My Chemical Romance?",
    "starterContent": true
   },
@@ -4387,7 +5248,7 @@
      "choices": [
       "No lo sé, ni me importa."
      ],
-     "finding": "El culpable extrañamente a la defensiva {{RED}}\"no le importa\" el sable láser de Mace Windu.",
+     "finding": "Al culpable extrañamente a la defensiva {{RED}} no le importa el sable láser de Mace Windu.",
      "summary": "SABLE LÁSER: {{RED}}FUERA"
     }
    ],
@@ -4398,6 +5259,7 @@
     "¿Qué colores crees que representan el bien y el mal?",
     "¿El nombre de Sheev Palpatine significa algo para ti?"
    ],
+   "isTrivia": true,
    "question": "¿De qué color es el sable láser de Mace Windu?",
    "reminder": "Sable de Mace Windu",
    "starterContent": true
@@ -4408,28 +5270,28 @@
    "evidence": [
     {
      "choices": [
-      "Shades down low"
+      "\"...shades down low\""
      ],
      "finding": "No digan que el culpable es swiftie, porque {{RED}}no pudo identificar correctamente la letra de Taylor Swift.",
      "summary": "LETRA DE TAYLOR: {{RED}}INCORRECTA"
     },
     {
      "choices": [
-      "Fly t-shirt"
+      "\"...fly t-shirt\""
      ],
      "finding": "No digan que el culpable es swiftie, porque {{RED}}no pudo identificar correctamente la letra de Taylor Swift.",
      "summary": "LETRA DE TAYLOR: {{RED}}INCORRECTA"
     },
     {
      "choices": [
-      "White t-shirt"
+      "\"...white t-shirt\""
      ],
      "finding": "¡El swiftie sospechoso velozmente {{RED}}supo completar la letra de Taylor Swift!",
      "summary": "LETRAS DE TAYLOR: {{RED}}CORRECTA"
     },
     {
      "choices": [
-      "Tiny new skirt"
+      "\"...tiny new skirt\""
      ],
      "finding": "No digan que el culpable es swiftie, porque {{RED}}no pudo identificar correctamente la letra de Taylor Swift.",
      "summary": "LETRA DE TAYLOR: {{RED}}INCORRECTA"
@@ -4438,7 +5300,7 @@
      "choices": [
       "¿No sé?"
      ],
-     "finding": "Este culpable se rindió de inmediato y {{RED}}ni siquiera intentó reconocer la letra de la canción. Era Taylor Swift, por si no sabías.",
+     "finding": "Este culpable se rindió y {{RED}}ni siquiera intentó reconocer la letra de la canción. Era Taylor Swift, por si no sabías.",
      "summary": "LETRAS DE TAYLOR: {{RED}}NI IDEA"
     }
    ],
@@ -4448,7 +5310,8 @@
     "¿Dirías que tenemos Bad Blood?",
     "¿Tienes la más mínima idea de quién cantaría eso?"
    ],
-   "question": "Termina la frase: “You got that long hair, slicked back, <BLANK>“",
+   "isTrivia": true,
+   "question": "Termina la frase: “You got that long hair, slicked back...“",
    "reminder": "Letras de la Taylor",
    "starterContent": true
   },
@@ -4478,6 +5341,7 @@
     "Si fueras un árbol, ¿necesitarías muchos cuidados?",
     "¿Cómo reaccionas si te piden que te calmes?"
    ],
+   "isTrivia": false,
    "question": "¿Pides mucha atención?",
    "reminder": "¿Pide atención?"
   },
@@ -4507,6 +5371,7 @@
     "¿Alguna vez has ido a pescar? ¿Te gusta?",
     "¿Podrías describirnos ahora mismo cómo son las truchas?"
    ],
+   "isTrivia": true,
    "question": "¿Dónde uno suele encontrar truchas?",
    "reminder": "¡Truchas!"
   },
@@ -4550,9 +5415,10 @@
     "Supongamos que sabes qué quiere decir la \"B\" - ¿qué piensas que significan las otras dos letras?",
     "¿Suena atractiva la idea de un camino de alta velocidad en bicicleta para ti?"
    ],
+   "isTrivia": true,
    "question": "¿Qué quieren decir las siglas del acrónimo BMX?",
    "reminder": "¡BMX!",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "appearance": "LATE",
@@ -4601,9 +5467,10 @@
     "¿La palabra \"Haas\" te dice algo?",
     "¿Sabes siquiera el tipo de autos que conducen en Fórmula 1?"
    ],
+   "isTrivia": true,
    "question": "En el año actual (2025), ¿para qué equipo de Fórmula 1 corre Lewis Hamilton?",
    "reminder": "Feliz con la Fórmula 1",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "appearance": "LATE",
@@ -4645,9 +5512,10 @@
     "Cuando caminas por una puerta, ¿tienes una idea básica de cómo funciona?",
     "¿Cómo te manejas con el martillo?"
    ],
+   "isTrivia": true,
    "question": "En términos de construcción, ¿qué es un dintel?",
    "reminder": "¡Dinteles, nena!",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "appearance": "LATE",
@@ -4689,6 +5557,7 @@
     "¿Sabes la diferencia entre compuestos orgánicos e inorgánicos?",
     "¿Tuviste Química en la escuela? De ser así, ¿te iba bien?"
    ],
+   "isTrivia": true,
    "question": "¿Qué compuesto se representa con la fórmula NH3?",
    "reminder": "NH3 y ahí me ves",
    "starterContent": true
@@ -4733,6 +5602,7 @@
     "¿Te has hecho un chequeo de tus huesos recientemente?",
     "Martillo y yunque: ¿te suenan algo?"
    ],
+   "isTrivia": true,
    "question": "¿Dónde están tus osículos?",
    "reminder": "Osículos",
    "starterContent": true
@@ -4777,6 +5647,7 @@
     "¿En qué lado te pones en el conflicto computadoras vs. personas?",
     "Si fuera una IA, ¿qué me dirías?"
    ],
+   "isTrivia": false,
    "question": "La inteligencia artificial (IA)...",
    "reminder": "¿IA?"
   },
@@ -4805,6 +5676,7 @@
     "¿Cuál sería tu estrategia para derrotar a una avestruz?",
     "Un año es mucho tiempo - ¿qué harías para entrenar para una pelea contra una avestruz?"
    ],
+   "isTrivia": false,
    "question": "Si tuvieras un año para prepararte, ¿le ganarías en un combate a una avestruz?",
    "reminder": "Pelea contra una avestruz",
    "starterContent": true
@@ -4842,6 +5714,7 @@
     "¿Tienes parientes que hayan elegido ser cremados?",
     "Si fueras cremado, ¿querrías que esparzan tus cenizas?"
    ],
+   "isTrivia": false,
    "question": "¿Qué piensas sobre la cremación?",
    "reminder": "¿Cremación?",
    "starterContent": true
@@ -4886,6 +5759,7 @@
     "¿Crees que tienes un fuerte instinto de la moral?",
     "¿Qué opción te GUSTARÍA que fuera verdad?"
    ],
+   "isTrivia": false,
    "question": "¿Crees que los humanos somos naturalmente buenos?",
    "reminder": "Humanos: ¿Buenos?"
   },
@@ -4922,7 +5796,8 @@
     "¿Necesitas sentirte cómodo para sentir que formas parte de algo?",
     "¿Alguna vez ha pasado que sintieras instintos “primigenios”?"
    ],
-   "question": "Cuando estás en la naturaleza, ¿te sientes [i]parte[/i] de la naturaleza?",
+   "isTrivia": false,
+   "question": "Cuando estás en la naturaleza, ¿te sientes parte de la naturaleza?",
    "reminder": "En la naturaleza"
   },
   {
@@ -4965,6 +5840,7 @@
     "¿Estás de acuerdo con la frase \"Todo lo que vale la pena vale la pena hacerlo bien\"?",
     "¿Qué fue lo último en lo que haz puesto el 100% de tu esfuerzo?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tan seguido dirías que haces tu mayor esfuerzo?",
    "reminder": "¿Tu mayor esfuerzo?"
   },
@@ -4988,6 +5864,7 @@
     "¿Cuál es tu reacción instintiva cuando ves un Cybertruck en la calle?",
     "¿Sabrías decir qué forma tiene un Cybertruck?"
    ],
+   "isTrivia": false,
    "question": "¿....Cybertrucks?",
    "reminder": "¿Cybertruck?"
   },
@@ -5031,6 +5908,7 @@
     "¿Cuál sería tu primera pregunta para un fantasma?",
     "Si un fantasma estuviera escuchando en estos momentos, ¿qué le preguntarías?"
    ],
+   "isTrivia": false,
    "question": "Si los humanos de repente pudieran hablar con los fantasmas, ¿qué harías?",
    "reminder": "¿Charlas con fantasmas?"
   },
@@ -5067,6 +5945,7 @@
     "Si pudieras pasar los firewalls sin que nadie se diera cuenta, ¿lo harías?",
     "¿De qué clase de cuestiones “personales” estaríamos hablando?"
    ],
+   "isTrivia": false,
    "question": "¿Está bien usar una computadora de trabajo para cuestiones personales?",
    "reminder": "Computadoras de trabajo",
    "x": false
@@ -5092,6 +5971,7 @@
     "¿La velocidad de la muerte juega un rol en tu decisión?",
     "¿Cuál es un nivel aceptable de riesgo para ti?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál de las siguientes muertes preferirías?",
    "reminder": "Causas de muerte",
    "starterContent": true
@@ -5143,6 +6023,7 @@
     "¿Cuál sería la reacción del grupo que elegiste?",
     "¿Cuál sería el MEJOR grupo frente al que estar desnudo?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál sería el peor grupo frente al que estar súbitamente desnudo?",
    "reminder": "Desnudez pública",
    "x": true
@@ -5193,6 +6074,7 @@
     "¿Cuál es tu principal sensación cuando recibes atención inesperada?",
     "¿A veces sientes como si estuvieras siendo observado?"
    ],
+   "isTrivia": false,
    "question": "¿Cuán seguido crees que otras personas piensan en ti?",
    "reminder": "Pensando en ti"
   },
@@ -5249,6 +6131,7 @@
     "¿Te sientes así por algo que un animal hizo, o no hizo?",
     "¿Sientes que algunos animales pueden sentir el odio?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez sentiste odio en la vida real contra un individuo animal?",
    "reminder": "Hater de animales"
   },
@@ -5299,9 +6182,46 @@
     "¿Sabes quiénes son algunos de los senadores de tu partido?",
     "De ser posible, ¿votarías por correo, o irías hasta una urna?"
    ],
+   "isTrivia": false,
    "question": "¿Votaste en las últimas elecciones de medio término?",
    "reminder": "Elecciones de medio término",
    "starterContent": true
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "¡Saltar!"
+     ],
+     "finding": "De presentarse un lago desconocido, el sospechoso {{RED}}saltaría dentro de él.",
+     "summary": "LAGO: {{RED}}SALTA"
+    },
+    {
+     "choices": [
+      "Ver lo que hace el resto."
+     ],
+     "finding": "De presentarse un lago desconocido, el sospechoso {{RED}}esperaría a ver lo que el resto hace.",
+     "summary": "LAGO: {{RED}}ESPERA Y MIRA"
+    },
+    {
+     "choices": [
+      "¿Nadar en un lado desconocido? Ni loco."
+     ],
+     "finding": "El sospechoso {{RED}}jamás saltaría hacia un lago desconocido.",
+     "summary": "LAGO: {{RED}}NI LOCO"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112646",
+   "interrogations": [
+    "¿Cómo están los lagos en tu zona?",
+    "¿El tamaño o profundidad de un lago hacen la diferencia para ti?"
+   ],
+   "isTrivia": false,
+   "question": "¡En una escalada llegaste a un hermoso y cristalino lago! ¿Y ahora qué?",
+   "reminder": "Salto de lago"
   },
   {
    "appearance": "LATE",
@@ -5329,6 +6249,7 @@
     "¿Crees que todo pasa por una razón?",
     "¿Qué piensas sobre el efecto mariposa?"
    ],
+   "isTrivia": false,
    "question": "Si tuvieras la capacidad de volver en el tiempo y cambiar la historia, ¿lo harías?",
    "reminder": "¿Cambiar la historia?"
   },
@@ -5354,6 +6275,7 @@
     "¿Cuál es tu estado emocional hoy, en general?",
     "¿Puede mejorar tu día a esta altura?"
    ],
+   "isTrivia": false,
    "question": "Así que... ¿te sientes bien?",
    "reminder": "¿Estás bien?",
    "starterContent": false
@@ -5411,6 +6333,7 @@
     "¿Qué estás usando para jugar este juego ahora mismo?",
     "¿Qué es importante para ti en un teléfono?"
    ],
+   "isTrivia": false,
    "question": "¿Qué tipo de teléfono tienes?",
    "reminder": "Tipo de teléfono"
   },
@@ -5461,6 +6384,7 @@
     "Si rompiéramos ahora mismo, ¿estarías bien con ello?",
     "¿Cuándo fue la última vez que viste a un o una ex?"
    ],
+   "isTrivia": false,
    "question": "En general, mis ex...",
    "reminder": "¿Ex?"
   },
@@ -5517,6 +6441,7 @@
     "¿Cómo estás, amigo?",
     "¿Empezó tu día de una manera, y terminó de otra diferente?"
    ],
+   "isTrivia": false,
    "question": "¡Bueno! ¿Cómo está resultando el día de hoy para ti?",
    "reminder": "¿Cómo te sientes hoy?"
   },
@@ -5552,8 +6477,45 @@
     "¿Te tocó el rol que querías en este juego?",
     "Si sientes pánico en un juego, ¿te gusta esa sensación o no?"
    ],
+   "isTrivia": false,
    "question": "Cuando juego un juego de deducción social (como este) prefiero ser...",
    "reminder": "Deducción social"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "¡Graciosísimos!"
+     ],
+     "finding": "¡El gaseoso del culpable cree que {{RED}}los pedos son graciosísimos!",
+     "summary": "PEDOS: {{RED}}MUY GRACIOSOS"
+    },
+    {
+     "choices": [
+      "Graciosos a veces."
+     ],
+     "finding": "El culpable cree que {{RED}}los pedos a veces son graciosos.",
+     "summary": "PEDOS: {{RED}}ALGO GRACIOSOS"
+    },
+    {
+     "choices": [
+      "Puaj. Nunca son graciosos."
+     ],
+     "finding": "El culpable que no se le escapa uno piensa {{RED}}que los pedos jamás son graciosos",
+     "summary": "PEDOS: {{RED}}NUNCA GRACIOSOS"
+    }
+   ],
+   "familiarity": "FRIENDS",
+   "id": "112717",
+   "interrogations": [
+    "Qué cosa los pedos, ¿verdad?",
+    "(Haz el sonido de un pedo y mira qué pasa.)"
+   ],
+   "isTrivia": false,
+   "question": "¿Son graciosos los pedos?",
+   "reminder": "¡Pedos!"
   },
   {
    "appearance": "EARLY",
@@ -5587,6 +6549,7 @@
     "Cuéntanos sobre los veranos de tu juventud.",
     "¿Qué es algo genial que aprendiste en el campamento?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez has ido a un campamento (de verano o no) especializado en alguno de estos?",
    "reminder": "¿Campamento especial?"
   },
@@ -5616,6 +6579,7 @@
     "¿Puedes decirme literalmente cualquier cosa acerca del mercado de valores?",
     "¿Tienes alguna acción?"
    ],
+   "isTrivia": false,
    "question": "Si te preguntaran, ¿puedes explicar cómo funciona el mercado de valores?",
    "reminder": "¿Mercado de valores?"
   },
@@ -5647,6 +6611,7 @@
     "¿Alguna vez has tenido un amigo por correspondencia?",
     "¿Tienes papel y lapicera? ¿Qué tan seguido se usan?"
    ],
+   "isTrivia": false,
    "question": "¿Cuántas cartas (o incluso postales) has escrito en el último año?",
    "reminder": "Escritura de cartas"
   },
@@ -5665,25 +6630,26 @@
       "Lucille",
       "George Sr."
      ],
-     "finding": "El sujeto cree que el mejor personaje de [i]Arrested Development[/i] es {{SELECTION}}.",
+     "finding": "El sujeto cree que el mejor personaje de Arrested Development es {{SELECTION}}.",
      "summary": "ARRESTED: {{SELECTION}}"
     },
     {
      "choices": [
-      "¿Qué es [i]Arrested Development[/i]?"
+      "¿Qué es Arrested Development?"
      ],
-     "finding": "El sujeto afirma {{RED}}no saber qué es [i]Arrested Development[/i].",
+     "finding": "El sujeto afirma {{RED}}no saber qué es Arrested Development.",
      "summary": "ARRESTED: {{RED}}NI IDEA"
     }
    ],
    "familiarity": "FRIENDS",
    "id": "112726",
    "interrogations": [
-    "¿Cuál es tu frase favorita de [i]Arrested Development[/i]?",
+    "¿Cuál es tu frase favorita de Arrested Development?",
     "Como persona, ¿eres un “personaje principal” o un “personaje secundario peculiar”?",
-    "¿Con quién en [i]Arrested Development[/i] te identificas más?"
+    "¿Con quién en Arrested Development te identificas más?"
    ],
-   "question": "¿Quién es el mejor personaje de [i]Arrested Development[/i]?",
+   "isTrivia": false,
+   "question": "¿Quién es el mejor personaje de Arrested Development?",
    "reminder": "Arrested Development"
   },
   {
@@ -5734,6 +6700,7 @@
     "¿Cuál es la llamada más larga que has tenido?",
     "¿Cuándo fue la última vez que hablaste por teléfono?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál es la duración ideal de una llamada con un amigo cercano?",
    "reminder": "Duración de llamada"
   },
@@ -5759,10 +6726,11 @@
    "familiarity": "STRANGERS",
    "id": "112730",
    "interrogations": [
-    "Si [i]estuvieras[/i] escribiendo un libro, ¿de qué trataría?",
+    "Si ESTUVIERAS escribiendo un libro, ¿de qué trataría?",
     "¿Qué piensas de los proyectos grandes?",
-    "¿Alguna vez has leído un libro y pensado, [i]yo podría hacerlo mejor[/i]?"
+    "¿Alguna vez has leído un libro y pensado, \"yo podría hacerlo mejor\"?"
    ],
+   "isTrivia": false,
    "question": "De tener el tiempo, ¿podrías escribir un libro?",
    "reminder": "¿Escribirías un libro?"
   },
@@ -5792,6 +6760,7 @@
     "En tu mente, ¿cómo se ven los aliens?",
     "Si decidieras dejar la Tierra, ¿qué extrañarías?"
    ],
+   "isTrivia": false,
    "question": "Aterrizan los alienígenas y quieren que te unas a ellos. No tienes tiempo para decirle a nadie. ¿Partes del planeta?",
    "reminder": "¿Irse con los aliens?",
    "starterContent": true
@@ -5825,7 +6794,7 @@
      "choices": [
       "Una buena caminata"
      ],
-     "finding": "La idea de algo entretenido para el sospechoso es {{SELECTION}}.",
+     "finding": "La idea de algo entretenido para el sospechoso es una {{SELECTION}}.",
      "summary": "ALGO ENTRETENIDO: {{RED}}CAMINAR"
     }
    ],
@@ -5836,6 +6805,7 @@
     "¿Qué hace que una experiencia sea buena para ti?",
     "Si tuvieras ocho horas libres mañana, ¿qué harías con ellas?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál de las siguientes experiencias disfrutarías más?",
    "reminder": "Mejor experiencia"
   },
@@ -5871,6 +6841,7 @@
     "¿Hay algo que solías sentir que ya no sientes tan seguido?",
     "¿El hecho de madurar te brinda alegría?"
    ],
+   "isTrivia": false,
    "question": "¿Extrañas la persona que solías ser cuando eras más joven?",
    "reminder": "¿Extrañas tu antigua versión?"
   },
@@ -5921,6 +6892,7 @@
     "¿Sueles ser el que intenta romper el hielo?",
     "¿Crees que la gracia es cuestión de habilidad, o las personas nacen con ella?"
    ],
+   "isTrivia": false,
    "question": "¿Eres gracioso?",
    "reminder": "¿Das gracia?"
   },
@@ -5957,6 +6929,7 @@
     "¿Cuál es tu marca favorita de ropa en este momento?",
     "¿Cuál es tu definición de moda rápida?"
    ],
+   "isTrivia": false,
    "question": "¿Alguna vez has comprado algo que sea \"moda rápida\"?",
    "reminder": "Moda rápida"
   },
@@ -5993,6 +6966,7 @@
     "¿Sueles tener dolores de estómago por ansiedad?",
     "¿Cómo es tu digestión, en general?"
    ],
+   "isTrivia": false,
    "question": "¿Te duele el estómago ahora mismo?",
    "reminder": "¿Dolores? ¿Estomacales?",
    "starterContent": true
@@ -6023,6 +6997,7 @@
     "¿Te gusta sentir que las personas confían en ti?",
     "¿Cuál es un secreto que te negaste a mantener?"
    ],
+   "isTrivia": false,
    "question": "¿Te gusta cuando alguien te cuenta sus mayores secretos?",
    "reminder": "Mayores secretos",
    "starterContent": true
@@ -6033,25 +7008,26 @@
    "evidence": [
     {
      "choices": [
-      "Emoción",
-      "Curiosidad",
-      "Angustia",
-      "Ansiedad",
-      "Calma"
+      "Amable",
+      "Cascarrabias",
+      "Sabia",
+      "Caótica",
+      "Reclusa"
      ],
-     "finding": "Al pensar en el pasar de los años, el objetivo siente {{SELECTION}}.",
-     "summary": "¿CRECER? {{SELECTION}}"
+     "finding": "El sospechoso planea ser (o ya es) una persona mayor que es {{SELECTION}}.",
+     "summary": "AL SER MAYOR: {{SELECTION}}"
     }
    ],
    "familiarity": "FRIENDS",
    "id": "113144",
    "interrogations": [
-    "¿Crees que los mejores años de tu vida están por venir?",
-    "¿Eres una persona nostálgica?",
-    "¿Te preocupas mucho por el futuro?"
+    "Los mejores años de tu vida, ¿están por venir?",
+    "¿Qué piensas de asustar niños?",
+    "¿Qué piensas cuando hay gente en tu jardín?"
    ],
-   "question": "¿Qué te hace sentir el pasar de los años?",
-   "reminder": "¿Creciendo?"
+   "isTrivia": false,
+   "question": "¿Qué tipo de persona mayor planeas ser? (¿O ya eres?)",
+   "reminder": "Cuando sea mayor"
   },
   {
    "appearance": "EARLY",
@@ -6079,6 +7055,7 @@
     "¿Cómo te llevas con las alturas?",
     "¿Te gusta la sensación de adrenalina?"
    ],
+   "isTrivia": false,
    "question": "¿Quieres hacer paracaidismo?",
    "reminder": "¡¡¡Paracaidismo!!!"
   },
@@ -6108,6 +7085,7 @@
     "¿Tienes algún conocimiento previo en anatomía?",
     "¿Disfrutas de este tema de discusión?"
    ],
+   "isTrivia": false,
    "question": "Si te muestran dos huesos del mismo tamaño, ¿reconocerías el hueso humano del animal?",
    "reminder": "Identificación de hueso humano"
   },
@@ -6137,6 +7115,7 @@
     "¿Eres particularmente espiritual?",
     "¿Tu familia te vuelve loco a veces?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál de las siguientes frases que dan cringe se acerca más a tu filosofía de vida?",
    "reminder": "Frases que dan cringe",
    "starterContent": true
@@ -6174,7 +7153,8 @@
     "Di esta frase en voz alta: “No voy a fiestas, SOY la fiesta.”",
     "En cuanto a disfraces, ¿cuál es tu idea de “darlo todo”?"
    ],
-   "question": "¿Alguna vez has tenido [i]aunque sea un poco[/i] de glitter en el cuerpo?",
+   "isTrivia": false,
+   "question": "¿Alguna vez has tenido aunque sea un poco de glitter en el cuerpo?",
    "reminder": "Glitter en el cuerpo",
    "starterContent": true
   },
@@ -6211,6 +7191,7 @@
     "Imagínate que estás en un auto autónomo ahora mismo. ¿Cómo te sientes?",
     "¿Quién maneja mejor, las personas o las computadoras?"
    ],
+   "isTrivia": false,
    "question": "¿Qué piensas de conducir un auto que se conduce solo?",
    "reminder": "AUTO AUTÓNOMO"
   },
@@ -6220,9 +7201,9 @@
    "evidence": [
     {
      "choices": [
-      "Son lo mejor."
+      "¡Son lo mejor!"
      ],
-     "finding": "Cuando le preguntaron su opinión de las sala de escape, el sujeto dice “{{SELECTION}}”.",
+     "finding": "Cuando le preguntaron su opinión de las sala de escape, el sujeto dice “{{SELECTION}}”",
      "summary": "SALA DE ESCAPE: {{RED}}ME ENCANTA"
     },
     {
@@ -6254,6 +7235,7 @@
     "¿Qué es bueno/malo de las salas de escape?",
     "¿Te gusta trabajar en equipo para resolver problemas?"
    ],
+   "isTrivia": false,
    "question": "¿Qué piensas de las salas de escape?",
    "reminder": "¿SALAS DE ESCAPE?"
   },
@@ -6283,6 +7265,7 @@
     "¿Qué sientes sobre hacer lo mismo una y otra vez?",
     "El tiempo utilizado en tu rutina diaria, ¿te afecta de algún modo?"
    ],
+   "isTrivia": false,
    "question": "¿Eres el tipo de persona que tiene pequeños rituales diarios para ciertas cosas?",
    "reminder": "RITUALES DIARIOS"
   },
@@ -6319,6 +7302,7 @@
     "¿Puedes “ubicar el norte”?",
     "¿Sueles recurrir a otros para que te ayudan a encontrar algo?"
    ],
+   "isTrivia": false,
    "question": "¿Cómo eres con las direcciones de viaje?",
    "reminder": "Direcciones de viaje"
   },
@@ -6344,7 +7328,7 @@
      "choices": [
       "Siendo honesto, entraría en pánico."
      ],
-     "finding": "En una crisis, el sospechoso admite {{RED}}”Siendo honestos, entraría en pánico.”",
+     "finding": "En una crisis, el sospechoso admite {{RED}}que entraría en pánico.",
      "summary": "EN CRISIS: {{RED}}ENTRA EN PÁNICO"
     }
    ],
@@ -6355,6 +7339,7 @@
     "Imagina que ocurre una crisis ahora mismo. Guíanos por tu reacción.",
     "¿Cómo sueles reaccionar a las catástrofes?"
    ],
+   "isTrivia": false,
    "question": "¿Cómo crees que te comportarías en una crisis?",
    "reminder": "ROL EN CRISIS"
   },
@@ -6381,7 +7366,7 @@
       "No son lo mío."
      ],
      "finding": "En lo que se refiere a masajes y días de spa, al sospechoso {{RED}}no le gustan.",
-     "summary": "¿COSAS DE SPA? {{RED}}”NO SON LO MÍO”"
+     "summary": "¿COSAS DE SPA? {{RED}} NO SON LO MÍO"
     }
    ],
    "familiarity": "STRANGERS",
@@ -6391,9 +7376,36 @@
     "¿Cuándo fue la última vez que te hicieron un masaje?",
     "¿Se te hace fácil o difícil relajarte?"
    ],
+   "isTrivia": false,
    "question": "¿Qué piensas de los masajes, días de spa, y todas esas cosas?",
    "reminder": "COSAS DE SPA",
-   "x": true
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Lluvioso",
+      "Nevado",
+      "Con viento",
+      "Con neblina"
+     ],
+     "finding": "El sospechoso afirma disfrutar más del clima {{SELECTION}}.",
+     "summary": "MEJOR CLIMA: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "113987",
+   "interrogations": [
+    "¿Qué piensas del clima que hay en este momento?",
+    "¿Qué tipo de cosas haces durante tu clima preferido?",
+    "¿Cuál es tu atuendo ideal para salir afuera?"
+   ],
+   "isTrivia": false,
+   "question": "Mi tipo de clima no soleado preferido es...",
+   "reminder": "Mejor clima"
   },
   {
    "appearance": "EARLY",
@@ -6420,6 +7432,7 @@
     "¿Comida fina o comida rápida?",
     "¿Qué acompañaría a tu comida ilimitada elegida?"
    ],
+   "isTrivia": false,
    "question": "Puedes recibir una de estas opciones directo a tu casa, gratis, por el resto de tu vida. ¿Cuál eliges?",
    "reminder": "Comida gratis de por vida"
   },
@@ -6470,6 +7483,7 @@
     "¿Qué cosa en tu vida querrías que sea completamente diferente?",
     "¿Alguna de estas opciones es algo en lo que has pensado alguna vez?"
    ],
+   "isTrivia": false,
    "question": "¿Cuál de estos cambios en el rumbo de tu vida podrías anunciar y la gente diría “Sí, tiene sentido”?",
    "reminder": "CAMBIO DE VIDA"
   },
@@ -6534,6 +7548,7 @@
     "¿Siempre has sido el mismo tipo de nerd?",
     "¿Tu tipo de nerd involucra coleccionar cosas?"
    ],
+   "isTrivia": false,
    "question": "¿Qué clase de nerd eres?",
    "reminder": "TIPO DE NERD"
   },
@@ -6584,6 +7599,7 @@
     "¿Qué sientes cuando sale el tema de los deportes?",
     "Cuéntanos sobre la mascota de tu equipo."
    ],
+   "isTrivia": false,
    "question": "¿Cuál era tu participación en los deportes escolares?",
    "reminder": "Deportes escolares"
   },
@@ -6620,6 +7636,7 @@
     "¿Cuál es tu parte favorita de un parque de diversiones?",
     "¿Te gusta asustarte a ti mismo?"
    ],
+   "isTrivia": false,
    "question": "¿Qué piensas de las montañas rusas y otras atracciones emocionantes?",
    "reminder": "Atracciones emocionantes"
   },
@@ -6649,6 +7666,7 @@
     "Bueno, adelante. Explícanos cómo hacer pan.",
     "¿Cómo son tus habilidades culinarias, en general?"
    ],
+   "isTrivia": false,
    "question": "Si te lo pidieran, ¿podrías explicar los pasos básicos para hacer un pan?",
    "reminder": "Haciendo pan"
   },
@@ -6661,7 +7679,7 @@
       "Sangrientas",
       "De suspenso",
       "Bizarras",
-      "Graciosas"
+      "Gracioso"
      ],
      "finding": "El sospechoso prefiere que las películas de terror sean {{SELECTION}}.",
      "summary": "TIPO DE TERROR: {{SELECTION}}"
@@ -6681,6 +7699,7 @@
     "¿Cuál es la mejor película de terror de todas?",
     "Cuéntanos un momento de película de terror que jamás olvidarás."
    ],
+   "isTrivia": false,
    "question": "Me gustan las películas de terror:",
    "reminder": "Tipo de terror"
   },
@@ -6724,6 +7743,7 @@
     "¿Tienes algún compilado en tu casa ahora mismo?",
     "¿Qué se te viene a la mente como una buena canción para empezar un compilado?"
    ],
+   "isTrivia": false,
    "question": "¿Cuántos compilados de música en CD has tenido en tu vida?",
    "reminder": "Compilados"
   },
@@ -6742,7 +7762,7 @@
      "choices": [
       "La verdad que no."
      ],
-     "finding": "Cuando le preguntaron si se consideraba suertudo, el sospechoso dijo “{{SELECTION}}”.",
+     "finding": "Cuando le preguntaron si se consideraba suertudo, el sospechoso dijo “{{SELECTION}}”",
      "summary": "¿SUERTUDO? {{RED}}NO"
     }
    ],
@@ -6753,8 +7773,361 @@
     "¿Te sientes suertudo en este momento?",
     "¿Crees en la suerte?"
    ],
+   "isTrivia": false,
    "question": "¿Consideras que eres una persona suertuda?",
    "reminder": "¿Con suerte?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Clásico",
+      "Smooth",
+      "Experimental"
+     ],
+     "finding": "Cuando se trata del jazz, al sospechoso le gusta “{{SELECTION}}”.",
+     "summary": "TIPO DE JAZZ: “{{SELECTION}}”"
+    },
+    {
+     "choices": [
+      "No me gusta el jazz."
+     ],
+     "finding": "El sospechoso no disfruta de ningún tipo del jazz. {{RED}}Odia el jazz.",
+     "summary": "JAZZ: {{RED}}LO ODIA"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114486",
+   "interrogations": [
+    "Nombra un jazzista o canción de jazz que te encanta.",
+    "¿Sientes que le has dado una oportunidad al jazz?",
+    "Tararea algunos compases de cómo quieres que suene tu jazz."
+   ],
+   "isTrivia": false,
+   "question": "Me gusta el jazz...",
+   "reminder": "TIPO DE JAZZ"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "Nada. Es normal."
+     ],
+     "finding": "Cuando se encuentra con alguien que utiliza su teléfono en el cine, el sospechoso {{RED}}lo dejaría ser, ya que es un comportamiento normal.",
+     "summary": "¿CELULAR EN PELIS? {{RED}}NORMAL"
+    },
+    {
+     "choices": [
+      "Decirle al staff."
+     ],
+     "finding": "Cuando se encuentra con alguien que utiliza su teléfono en el cine, el sospechoso {{RED}}le avisaría al staff.",
+     "summary": "¿CELULAR EN PELIS? {{RED}}DECIRLE AL STAFF"
+    },
+    {
+     "choices": [
+      "Confrontarlo."
+     ],
+     "finding": "Cuando se encuentra con alguien que utiliza su teléfono en el cine, el sospechoso lo {{RED}}confrontaría.",
+     "summary": "¿CELULAR EN PELIS? {{RED}}CONFRONTARLO"
+    },
+    {
+     "choices": [
+      "Tratar de ignorarlo."
+     ],
+     "finding": "Cuando se encuentra con alguien que utiliza su teléfono en el cine, el sospechoso {{RED}}haría su mayor esfuerzo para ignorarlo.",
+     "summary": "¿CELULAR EN PELIS? {{RED}}IGNORARLO"
+    },
+    {
+     "choices": [
+      "Irme."
+     ],
+     "finding": "Cuando se encuentra con alguien que utiliza su teléfono en el cine, el sospechoso {{RED}}se iría de la sala.",
+     "summary": "¿CELULAR EN PELIS? {{RED}}IRSE"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114553",
+   "interrogations": [
+    "¿Te ha pasado en la vida real? ¿Qué hiciste?",
+    "¿Te sientes bien usando tu teléfono durante una película?",
+    "¿Qué piensas de tener una confrontación en general?"
+   ],
+   "isTrivia": false,
+   "question": "Alguien comienza a usar su teléfono en un cine. ¿Qué haces?",
+   "reminder": "Teléfono durante la película"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "La más picante."
+     ],
+     "finding": "El sospechoso se considera {{RED}}EL MÁS PICANTE.",
+     "summary": "¿ACTITUD? {{RED}}LA MÁS PICANTE"
+    },
+    {
+     "choices": [
+      "Soy un poco picante."
+     ],
+     "finding": "El sospechoso cree ser {{RED}}UN POCO PICANTE.",
+     "summary": "¿ACTITUD? {{RED}}UN POCO PICANTE"
+    },
+    {
+     "choices": [
+      "No soy picante."
+     ],
+     "finding": "El sospechoso a la fuga {{RED}}NO ES PICANTE.",
+     "summary": "¿ACTITUD PICANTE? {{RED}}NAH"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114561",
+   "interrogations": [
+    "Defínenos qué es “picante”, por favor.",
+    "¿Quién es la persona más picante jugando en este momento?",
+    "¿Tienes algún recuerdo específico de ser picante?"
+   ],
+   "isTrivia": false,
+   "question": "¿Qué tan picante es tu actitud?",
+   "reminder": "¿Actitud picante?"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Jane Austen",
+      "León-O",
+      "RuPaul"
+     ],
+     "finding": "El sospechoso preferiría quedarse dos horas varado en un elevador junto a {{SELECTION}}.",
+     "summary": "ELEVADOR: {{SELECTION}}"
+    },
+    {
+     "choices": [
+      "Bruce Springsteen"
+     ],
+     "finding": "El sospechoso preferiría quedarse dos horas varado en un elevador junto a {{SELECTION}}.",
+     "summary": "ELEVADOR: {{RED}}SPRINGSTEEN"
+    },
+    {
+     "choices": [
+      "Shakira",
+      "Stephen King",
+      "Mr. Beast"
+     ],
+     "finding": "El sospechoso preferiría quedarse dos horas varado en un elevador junto a {{SELECTION}}.",
+     "summary": "ELEVADOR: {{SELECTION}}"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114563",
+   "interrogations": [
+    "¿Cómo planeas pasar esas dos horas?",
+    "¿Cuál es un buen tema de conversacíon?",
+    "Cuéntanos como iniciarías la conversación con tu persona elegida."
+   ],
+   "isTrivia": false,
+   "question": "Estás atorado en un elevador y tienes que hacer tiempo durante dos horas. ¿Quién quieres que vaya contigo?",
+   "reminder": "Compañero de elevador"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "evidence": [
+    {
+     "choices": [
+      "El período Jurásico"
+     ],
+     "finding": "Si tuviera la oportunidad, el sospechoso pasaría un año en {{SELECTION}}.",
+     "summary": "VIAJE EN EL TIEMPO: {{RED}}JURÁSICO"
+    },
+    {
+     "choices": [
+      "El Renacimiento"
+     ],
+     "finding": "Si tuviera la oportunidad, el sospechoso pasaría un año en {{SELECTION}}.",
+     "summary": "VIAJE EN EL TIEMPO: {{RED}}RENACIMIENTO"
+    },
+    {
+     "choices": [
+      "El futuro"
+     ],
+     "finding": "Si tuviera la oportunidad, el sospechoso pasaría un año en {{SELECTION}}.",
+     "summary": "VIAJE EN EL TIEMPO: {{RED}}FUTURO"
+    },
+    {
+     "choices": [
+      "El Antiguo Egipto"
+     ],
+     "finding": "Si tuviera la oportunidad, el sospechoso pasaría un año en {{SELECTION}}.",
+     "summary": "VIAJE EN EL TIEMPO: {{RED}}EGIPTO"
+    },
+    {
+     "choices": [
+      "La era victoriana"
+     ],
+     "finding": "Si tuviera la oportunidad, el sospechoso pasaría un año en {{SELECTION}}.",
+     "summary": "VIAJE EN EL TIEMPO: {{RED}}VICTORIANA"
+    },
+    {
+     "choices": [
+      "Jamás viajaría en el tiempo."
+     ],
+     "finding": "Dada la oportunidad de viajar en el tiempo, el sospechoso dice {{RED}} \"No viajaría en el tiempo a ninguna parte.\"",
+     "summary": "¿VIAJE EN EL TIEMPO?: {{RED}}NO GRACIAS"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114647",
+   "interrogations": [
+    "Si escogiste viajar en el tiempo, ¿qué harías en tu año?",
+    "¿Eres más de pensar hacia adelante o hacia atrás?",
+    "¿Qué traerías contigo?",
+    "¿Te gustan las películas de viajes en el tiempo?"
+   ],
+   "isTrivia": false,
+   "question": "Si tuvieras la oportunidad de pasar un año en otro período del tiempo. Entre estas, ¿cuál visitarías?",
+   "reminder": "Eras para viajar en el tiempo"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "evidence": [
+    {
+     "choices": [
+      "Un clásico del rock"
+     ],
+     "finding": "El sospechoso quiere escuchar {{SELECTION}} cada vez que entra a una habitación.",
+     "summary": "SONIDO DE ENTRADA: {{RED}}CLÁSICO DEL ROCK"
+    },
+    {
+     "choices": [
+      "Una fanfarria de trompetas"
+     ],
+     "finding": "El sospechoso quiere escuchar {{SELECTION}} cada vez que entra a una habitación.",
+     "summary": "SONIDO DE ENTRADA: {{RED}}TROMPETAS"
+    },
+    {
+     "choices": [
+      "Suspiros audibles"
+     ],
+     "finding": "El sospechoso quiere escuchar {{SELECTION}} cada vez que entra a una habitación.",
+     "summary": "SONIDO DE ENTRADA: {{RED}}SUSPIROS"
+    },
+    {
+     "choices": [
+      "Tu nombre, gritado por todos"
+     ],
+     "finding": "El sospechoso quiere entrar en una habitación y oir {{RED}}su nombre, gritado por todos.",
+     "summary": "SONIDO DE ENTRADA: {{RED}}SU NOMBRE"
+    },
+    {
+     "choices": [
+      "Un aullido de lobo"
+     ],
+     "finding": "El sospechoso quiere escuchar {{SELECTION}} cada vez que entra a una habitación.",
+     "summary": "SONIDO DE ENTRADA: {{RED}}AULLIDO DE LOBO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114678",
+   "interrogations": [
+    "¿Qué tipo de energía tienes cuando entras a una habitación?",
+    "¿Esperas inspirar miedo en las personas?",
+    "Haz la mímica de abrir una puerta y saludar a las personas ahora mismo."
+   ],
+   "isTrivia": false,
+   "question": "Si un sonido sonara cada vez que entraras a una habitación, ¿cuál querrías que sea?",
+   "reminder": "Sonido de entrada a habitación"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Lo doy todo."
+     ],
+     "finding": "En lo que se refiere a fiestas con decoraciones, el sospechoso {{RED}}lo da todo.",
+     "summary": "DECORACIÓN DE FIESTAS: {{RED}}LO DA TODO"
+    },
+    {
+     "choices": [
+      "Una cantidad normal."
+     ],
+     "finding": "En lo que se refiere a fiestas con decoraciones, el sospechoso {{RED}}opta por una cantidad normal.",
+     "summary": "DECORACIÓN DE FIESTAS: {{RED}}NORMAL"
+    },
+    {
+     "choices": [
+      "Lo mínimo indispensable."
+     ],
+     "finding": "En lo que se refiere a fiestas con decoraciones, el sospechoso {{RED}}hace lo mínimo indispensable.",
+     "summary": "DECORACIÓN DE FIESTAS: {{RED}}MÍNIMA"
+    },
+    {
+     "choices": [
+      "¿A decir verdad? Nada."
+     ],
+     "finding": "En lo que se refiere a fiestas con decoraciones, el Grinch del sospechoso {{RED}}no hace nada.",
+     "summary": "DECORACIÓN DE FIESTAS: {{RED}}NADA"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114806",
+   "interrogations": [
+    "¿Qué piensas de las decoraciones festivas en general?",
+    "¿Qué festividad te imaginas cuando discutimos esto?",
+    "¿Los “jóvenes de alma” suelen estar felices al ver tu casa?"
+   ],
+   "isTrivia": false,
+   "question": "En lo que se refiere a días célebres que involucran decoraciones, ¿cuál es tu respuesta?",
+   "reminder": "Decoraciones de fiestas"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "evidence": [
+    {
+     "choices": [
+      "Siempre!!!!! Es parte de mí!!!?!!!"
+     ],
+     "finding": "Cuando se trata de añadir puntuación extra a los mensajes, al sospechoso {{RED}}le encanta hacerlo!!!?!!!!",
+     "summary": "EXTRA !!?!!: {{RED}}SIEMPRE"
+    },
+    {
+     "choices": [
+      "A veces, por diversión."
+     ],
+     "finding": "Cuando se trata de añadir puntuación extra a los mensajes, al sospechoso {{RED}}lo hace a veces, por diversión.",
+     "summary": "EXTRA !!?!!: {{RED}}A VECES"
+    },
+    {
+     "choices": [
+      "No."
+     ],
+     "finding": "No busquen signos de puntuación adicionales en los mensajes del sospechoso, porque {{RED}}jamás los usa.",
+     "summary": "EXTRA !!?!!: {{RED}}NO"
+    }
+   ],
+   "familiarity": "STRANGERS",
+   "id": "114807",
+   "interrogations": [
+    "¿Te gusta escibir mensajes y correos de formas “divertidas”?",
+    "¿Quieres que los mensajes den una sensación de entusiasmo desenfrenado?",
+    "¿Cómo suena un mensaje de texto promedio tuyo?"
+   ],
+   "isTrivia": false,
+   "question": "¿Le agregas signos de puntuación extra a los mensajes?",
+   "reminder": "¿¡¡¡¡¿¡¡Xtra!!?!!!!?"
   }
  ]
 }

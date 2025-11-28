@@ -50,9 +50,9 @@
       "SKIP_TUTORIAL": "Omitir tutoriales",
       "SKIP_TUTORIAL_DESCRIPTION": "Omitir la sección del tutorial.",
       "POST_GAME_CHOICE_TITLE": "¿Otra vez?",
-      "TO_START": "para empezar",
-      "TO_START_GAME": "para empezar",
-      "TO_CANCEL_GAME": "para cancelar",
+      "TO_START": "Iniciar partida",
+      "TO_START_GAME": "Iniciar partida",
+      "TO_CANCEL_GAME": "Cancelar",
       "PRELOADING_ON_SCREEN_PROMPT": "Cargando…",
       "WAITING_ON_MODERATION": "Esperando a la moderación",
       "GLOBAL_ROOM_CODE_LABEL": "Código de Sala",
@@ -124,7 +124,8 @@
       "CREDITS_LYRIC_20": "Arriba ponle chispitas y no hay nada mejor",
       "CREDITS_LYRIC_21": "Cómetelas a montones o una por una",
       "CREDITS_LYRIC_22": "¡Bienvenido a Cookie Haus!",
-      "CREDITS_LYRIC_23": " "
+      "CREDITS_LYRIC_23": " ",
+      "SCORE_WEEKLY": "¡Bonificación semanal!"
     },
     "fr": {
       "INTERNET_CONNECTED": "On vient de trouver Internet.",
