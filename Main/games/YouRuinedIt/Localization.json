@@ -59,7 +59,7 @@
       "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jackbox.lol",
       "WRITE_PROMPT": "Escribe algo que te guste o de lo que seas fan",
       "CHOOSE_PROMPT_PROMPT": "Elige qué hacer quedar [ruinBold]MAL[/ruinBold]",
-      "CHOOSE_WINNER_PROMPT": "Vota por tu favorito",
+      "CHOOSE_WINNER_PROMPT": "Vota por tu favorita",
       "FINAL_ROUND_MAKE_GOOD_PROMPT": "Hagan que esto sea bueno:<br/>",
       "FINAL_ROUND_RUIN_THIS_PROMPT": "Arruinen esto:",
       "CHOOSE_PROMPT_PLAYER_FOCUSED": "Elige un enunciado para hacer quedar [ruinBold]MAL[/ruinBold] a [playerName]%s[/playerName]",
