@@ -1,6 +1,6 @@
 # The Jackbox Party Pack 11: traducción a español
 
-Parche de traducción no oficial de [Jackbox en español](https://traducciones.jackbox.lol/) para The Jackbox Party Pack 11.
+Parche de traducción no oficial de [Jackbox en español](https://traducciones.jackbox.lol/) para The Jackbox Party Pack 11. Este repositorio es utilizado por [Jackbox Utility](https://github.com/JackboxUtility).
 
 - **Estado de traducción:** Legends of Trivia no está traducido.
 - **Estado de doblaje:** No hay doblajes en el parche.
