@@ -2,10 +2,10 @@
 
 Parche de traducción no oficial de [Jackbox en español](https://traducciones.jackbox.lol/) para The Jackbox Party Pack 11.
 
-**Estado de traducción:** Falta traducir Legends of Trivia. 
-**Estado de doblaje:** No hay doblajes en el parche.
-**Versión:** 123.1-ES
-**Plataformas soportadas:** Steam, Microsoft Store
+- **Estado de traducción:** Legends of Trivia no está traducido.
+- **Estado de doblaje:** No hay doblajes en el parche.
+- **Versión:** 123.1-ES
+- **Plataformas soportadas:** Steam, Microsoft Store
 
 ## Cómo utilizar
 
@@ -17,4 +17,3 @@ Para crear un nuevo parche, se siguen los siguientes pasos:
 4. Completar los datos: número de versión, título y texto que detalle qué se hizo en la release.
 5. En GitHub subir los archivos ahora cambiados (con eso el archivito de versión se cambia, que lo usa la Utility), publicar la release y listo.
 6. Al generar un release nuevo, redactar las patch notes correspondientes y publicar en la página.
-7. 
