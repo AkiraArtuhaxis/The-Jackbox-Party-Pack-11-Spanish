@@ -1,0 +1,2636 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "altText": "Mandril",
+     "correct": true,
+     "hint": "Rafiki es un mandril"
+    },
+    {
+     "altText": "Guepardo",
+     "correct": false,
+     "hint": "Los guepardos nunca prosperan"
+    },
+    {
+     "altText": "Jabalí",
+     "correct": true,
+     "hint": "Pumba"
+    },
+    {
+     "altText": "Cálao",
+     "correct": true,
+     "hint": "Zazu es un pajaro cálao"
+    },
+    {
+     "altText": "Escarabajo",
+     "correct": false,
+     "hint": "Los bichos no hablan"
+    },
+    {
+     "altText": "Elefante",
+     "correct": false,
+     "hint": "Bailarín de apoyo como mucho"
+    },
+    {
+     "altText": "Ñu",
+     "correct": false,
+     "hint": "Mata a Mufasa sin dar aviso"
+    },
+    {
+     "altText": "Suricata",
+     "correct": true,
+     "hint": "Timón"
+    },
+    {
+     "altText": "Hiena",
+     "correct": true,
+     "hint": "Tres de ellos hablan"
+    }
+   ],
+   "id": "109357",
+   "isEasy": true,
+   "question": "Animales con diálogos en [i]El Rey León[/i] (1994)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Cuadrado",
+     "correct": true,
+     "hint": "Un cuadrado tiene 4 ángulos rectos"
+    },
+    {
+     "altText": "Triángulo Rectángulo",
+     "correct": true,
+     "hint": "Tiene uno"
+    },
+    {
+     "altText": "Círculo",
+     "correct": false,
+     "hint": "¿Ves alguna esquina?"
+    },
+    {
+     "altText": "Octágono",
+     "correct": false,
+     "hint": "Muchas esquinas...."
+    },
+    {
+     "altText": "Signo de suma",
+     "correct": true,
+     "hint": "Este tiene la MAYOR cantidad de ángulos rectos"
+    },
+    {
+     "altText": "Pentágono",
+     "correct": true,
+     "hint": "Hay dos ángulos rectos"
+    },
+    {
+     "altText": "Hexágono",
+     "correct": false,
+     "hint": "Sin ángulos de 90 grados"
+    },
+    {
+     "altText": "Paralelogramo",
+     "correct": false,
+     "hint": "Sin ángulos de 90 grados"
+    },
+    {
+     "altText": "Cuadrado (con un hueco triangular)",
+     "correct": true,
+     "hint": "Hay tres ángulos rectos"
+    }
+   ],
+   "id": "109751",
+   "isEasy": true,
+   "question": "Formas con ángulos rectos"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Revólver",
+     "correct": true,
+     "hint": "Contar las balas del revólver es un chiste recurrente en la película"
+    },
+    {
+     "altText": "Llave inglesa",
+     "correct": true,
+     "hint": "Se llama llave en la version británica"
+    },
+    {
+     "altText": "Cuchillo",
+     "correct": true,
+     "hint": "También conocido como la daga"
+    },
+    {
+     "altText": "Veneno",
+     "correct": false,
+     "hint": "Fue añadido en la versión VCR del juego"
+    },
+    {
+     "altText": "Martillo",
+     "correct": false,
+     "hint": "Únicamente aparece como arma en el spin-off de 2003"
+    },
+    {
+     "altText": "Hacha",
+     "correct": false,
+     "hint": "No, pero estaba en la versión avanzada de los años 80"
+    },
+    {
+     "altText": "Cuerda",
+     "correct": true,
+     "hint": "The token is all bundled up"
+    },
+    {
+     "altText": "Lead Pipe",
+     "correct": true,
+     "hint": "Mr. Body does eat lead"
+    },
+    {
+     "altText": "Crossbow",
+     "correct": false,
+     "hint": "No arrows of any kind are featured"
+    },
+    {
+     "altText": "Frying Pan",
+     "correct": false,
+     "hint": "El Cuchillo es La unica Herramienta de la Cocina Usada"
+    }
+   ],
+   "id": "109772",
+   "isEasy": false,
+   "question": "The original Clue murder weapons (1949)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Arc de Triomphe",
+     "correct": true,
+     "hint": "Ard de Triomphe is in Paris"
+    },
+    {
+     "altText": "Christ the Redeemer",
+     "correct": false,
+     "hint": "Christ the Redeemer is in Rio de Janeiro"
+    },
+    {
+     "altText": "La gran Muralla de China",
+     "correct": false,
+     "hint": "Adivina en donde esta La Gran Muralla de China"
+    },
+    {
+     "altText": "The Paris Las Vegas Hotel",
+     "correct": false,
+     "hint": "Este es el Hotel de Paris Las Vegas"
+    },
+    {
+     "altText": "The Eiffel Tower",
+     "correct": true,
+     "hint": "This is the real Eiffel Tower"
+    },
+    {
+     "altText": "Stonehenge",
+     "correct": true,
+     "hint": "Stonehenge is in the UK"
+    },
+    {
+     "altText": "House of Parliament",
+     "correct": true,
+     "hint": "Big Ben is the bell, not the clock"
+    },
+    {
+     "altText": "Notre Dame",
+     "correct": true,
+     "hint": "This is where that Hunchback hangs out"
+    },
+    {
+     "altText": "Taj Mahal",
+     "correct": false,
+     "hint": "The Taj Mahal is in the city of Agra"
+    },
+    {
+     "altText": "Angel Falls",
+     "correct": false,
+     "hint": "This is Angel Falls"
+    }
+   ],
+   "id": "109773",
+   "isEasy": false,
+   "question": "Photos taken in Europe"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Cabra",
+     "correct": true,
+     "hint": "Goat rhymes with boat"
+    },
+    {
+     "altText": "Tent",
+     "correct": false,
+     "hint": "What would “tent” even rhyme with?"
+    },
+    {
+     "altText": "Plane",
+     "correct": false,
+     "hint": "Train is the vehicle that rhymes with rain"
+    },
+    {
+     "altText": "Train",
+     "correct": true,
+     "hint": "Train is the vehicle that rhymes with rain"
+    },
+    {
+     "altText": "Lion",
+     "correct": false,
+     "hint": "¿Con que puede rimar leon?"
+    },
+    {
+     "altText": "Mouse",
+     "correct": true,
+     "hint": "He would eat them in a house"
+    },
+    {
+     "altText": "Tree",
+     "correct": true,
+     "hint": "¿Podrías tu usted... en un Árbol?"
+    },
+    {
+     "altText": "Box",
+     "correct": true,
+     "hint": "A fox would join you in there"
+    },
+    {
+     "altText": "Socks",
+     "correct": false,
+     "hint": "You’re thinking of a different Seuss book"
+    },
+    {
+     "altText": "Cat",
+     "correct": false,
+     "hint": "You’re thinking of a different Seuss book"
+    }
+   ],
+   "id": "109774",
+   "isEasy": true,
+   "question": "Palabras en [i]Huevos Verdes con Jamón[/i]"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Map of Australia",
+     "correct": false,
+     "hint": "This is only country that is also a continent"
+    },
+    {
+     "altText": "Map of Chile",
+     "correct": true,
+     "hint": "This is a South American country"
+    },
+    {
+     "altText": "Map of Spain",
+     "correct": false,
+     "hint": "This is Spain"
+    },
+    {
+     "altText": "Map of Canada",
+     "correct": true,
+     "hint": "The is the northern neighbor of the U.S."
+    },
+    {
+     "altText": "Map of Mexico",
+     "correct": false,
+     "hint": "South of the U.S. border"
+    },
+    {
+     "altText": "Map of Cuba",
+     "correct": true,
+     "hint": "Castro was in charge"
+    },
+    {
+     "altText": "Map of China",
+     "correct": true,
+     "hint": "Used to be the most populous country, but was surpassed by India"
+    },
+    {
+     "altText": "Map of Italy",
+     "correct": false,
+     "hint": "Looks like a Versace boot"
+    }
+   ],
+   "id": "110145",
+   "isEasy": true,
+   "question": "Countries that start with “C”"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Trumpet",
+     "correct": false,
+     "hint": "A trumpet is a brass instrument"
+    },
+    {
+     "altText": "Harmonica",
+     "correct": true,
+     "hint": "A harmonica has small metal reeds"
+    },
+    {
+     "altText": "Bagpipe",
+     "correct": true,
+     "hint": "A bagpipe has a reed"
+    },
+    {
+     "altText": "Lightsaber Handle",
+     "correct": false,
+     "hint": "This is actually a fake laser sword handle"
+    },
+    {
+     "altText": "Flute",
+     "correct": true,
+     "hint": "Woodwinds are either reed instruments or flutes"
+    },
+    {
+     "altText": "Kazoo",
+     "correct": false,
+     "hint": "A kazoo does not have a reed"
+    },
+    {
+     "altText": "Soprano Saxophone",
+     "correct": true,
+     "hint": "This is a type of saxophone"
+    },
+    {
+     "altText": "Tuba",
+     "correct": false,
+     "hint": "Tuba is a brass instrument"
+    },
+    {
+     "altText": "Saxophone",
+     "correct": true,
+     "hint": "A saxophone is a woodwind"
+    },
+    {
+     "altText": "Recorder",
+     "correct": true,
+     "hint": "A recorder is a type of flute, and a flute is...."
+    }
+   ],
+   "id": "110148",
+   "isEasy": false,
+   "question": "Woodwind Instruments"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Peaches",
+     "correct": true,
+     "hint": "Do peaches have pits?"
+    },
+    {
+     "altText": "Dates",
+     "correct": true,
+     "hint": "You have a date with a stone"
+    },
+    {
+     "altText": "Grapes",
+     "correct": false,
+     "hint": "Seeds aren’t always stones"
+    },
+    {
+     "altText": "Mangoes",
+     "correct": true,
+     "hint": "Mangoes have stones called drupes"
+    },
+    {
+     "altText": "Pineapple",
+     "correct": false,
+     "hint": "Pineapples are only hard on the outside"
+    },
+    {
+     "altText": "Olives",
+     "correct": true,
+     "hint": "Olives are fruits"
+    },
+    {
+     "altText": "Cherries",
+     "correct": true,
+     "hint": "Do cherries have pits?"
+    },
+    {
+     "altText": "Bananas",
+     "correct": false,
+     "hint": "If you find a hard bit in your banana... do not eat it."
+    },
+    {
+     "altText": "Walnuts",
+     "correct": false,
+     "hint": "Walnuts aren’t fruits"
+    },
+    {
+     "altText": "Apples",
+     "correct": false,
+     "hint": "Seeds aren’t always stones"
+    }
+   ],
+   "id": "110152",
+   "isEasy": true,
+   "question": "Stone Fruit"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Warm Woolen Mittens",
+     "correct": true,
+     "hint": "Warm woolen mittens... rhymes with kittens"
+    },
+    {
+     "altText": "Snow-White Bunny",
+     "correct": false,
+     "hint": "Bunnies/rabbits not mentioned in song"
+    },
+    {
+     "altText": "Crisp Apple Strudel",
+     "correct": true,
+     "hint": "That apple strudel looks crisp to me"
+    },
+    {
+     "altText": "Shiny Red Wagon",
+     "correct": false,
+     "hint": "What would wagon even rhyme with?"
+    },
+    {
+     "altText": "Schnitzel with Noodles",
+     "correct": true,
+     "hint": "Schnitzel with noodles? A favorite of Maria’s"
+    },
+    {
+     "altText": "Fluffy Barnyard Chicks",
+     "correct": false,
+     "hint": "Chicks/chickens/hens not mentioned"
+    },
+    {
+     "altText": "Red-Cheeked Child",
+     "correct": false,
+     "hint": "Girls in white dresses are the only children mentioned"
+    },
+    {
+     "altText": "Bright Copper Kettle",
+     "correct": true,
+     "hint": "Bright Copper Kettle is mentioned before warm woolen mittens"
+    },
+    {
+     "altText": "Warm Berry Muffins",
+     "correct": false,
+     "hint": "Muffins are not in her favorites"
+    },
+    {
+     "altText": "Brown Paper Package Tied Up with String",
+     "correct": true,
+     "hint": "Brown Paper Package? Tied up with string?!?! ...yeah!"
+    }
+   ],
+   "id": "110153",
+   "isEasy": false,
+   "question": "Things Mentioned in Lyrics of “My Favorite Things”"
+  },
+  {
+   "choices": [
+    {
+     "altText": "2 Rubber Duckies",
+     "correct": true,
+     "hint": "Is 2 a prime number?"
+    },
+    {
+     "altText": "3 Rubber Duckies",
+     "correct": true,
+     "hint": "Is 3 a prime number?"
+    },
+    {
+     "altText": "4 Rubber Duckies",
+     "correct": false,
+     "hint": "You can divide 4 by 2."
+    },
+    {
+     "altText": "5 Rubber Duckies",
+     "correct": true,
+     "hint": "5 is a prime number"
+    },
+    {
+     "altText": "6 Rubber Duckies",
+     "correct": false,
+     "hint": "2 x 3 = 6"
+    },
+    {
+     "altText": "7 Rubber Duckies",
+     "correct": true,
+     "hint": "7 can only be divided by 1 and itself"
+    },
+    {
+     "altText": "8 Rubber Duckies",
+     "correct": false,
+     "hint": "8 can be divided by 2"
+    },
+    {
+     "altText": "9 Rubber Duckies",
+     "correct": false,
+     "hint": "9 can be divided by 3"
+    },
+    {
+     "altText": "10 Rubber Duckies",
+     "correct": false,
+     "hint": "10 ducks can be divided by 2, 5, 1 and 10."
+    },
+    {
+     "altText": "11 Rubber Duckies",
+     "correct": true,
+     "hint": "Can you divide 11 up evenly?"
+    }
+   ],
+   "id": "111196",
+   "isEasy": true,
+   "question": "Prime Number of Rubber Duckies"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Missouri",
+     "correct": true,
+     "hint": "Huckleberry Finn shows Missouri does"
+    },
+    {
+     "altText": "California",
+     "correct": false,
+     "hint": "California is pretty far away"
+    },
+    {
+     "altText": "Florida",
+     "correct": false,
+     "hint": "Florida...too far east"
+    },
+    {
+     "altText": "Illinois",
+     "correct": true,
+     "hint": "It runs right along edge of Illinois"
+    },
+    {
+     "altText": "Louisiana",
+     "correct": true,
+     "hint": "Go south down the Mississippi and you’ll find LA"
+    },
+    {
+     "altText": "Texas",
+     "correct": false,
+     "hint": "TX? A little bit too west"
+    },
+    {
+     "altText": "Tennessee",
+     "correct": true,
+     "hint": "This the only ten I see... 10/10 correct that is!"
+    },
+    {
+     "altText": "Ilía",
+     "correct": false,
+     "hint": "Alaska? Think about it..."
+    },
+    {
+     "altText": "Ohio",
+     "correct": false,
+     "hint": "Oh-hi... no"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "111501",
+   "isEasy": false,
+   "question": "U.S. States That Border the Mississippi River"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Camel",
+     "correct": true,
+     "hint": "The hump is delicious"
+    },
+    {
+     "altText": "Snake",
+     "correct": false,
+     "hint": "Snake is a little thin for a cookie"
+    },
+    {
+     "altText": "Parrot",
+     "correct": false,
+     "hint": "A little small for a cookie"
+    },
+    {
+     "altText": "Seal",
+     "correct": true,
+     "hint": "This is one of the few marine cookies"
+    },
+    {
+     "altText": "Unicorn",
+     "correct": false,
+     "hint": "This is not a real animal... sorry"
+    },
+    {
+     "altText": "Shark",
+     "correct": false,
+     "hint": "Not many aquatic animals available"
+    },
+    {
+     "altText": "Tiger",
+     "correct": true,
+     "hint": "Barnum has BOTH tigers and lions"
+    },
+    {
+     "altText": "Dolphin",
+     "correct": false,
+     "hint": "Not many aquatic cookies available"
+    },
+    {
+     "altText": "Hippo",
+     "correct": true,
+     "hint": "Barnum has both elephants AND hippos"
+    },
+    {
+     "altText": "Zebra",
+     "correct": true,
+     "hint": "Barnum has many striped options"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "112583",
+   "isEasy": true,
+   "question": "Barnum Animal Cracker Shapes"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Wood",
+     "correct": true,
+     "hint": "Wood/lumber is a resource"
+    },
+    {
+     "altText": "Cattle",
+     "correct": false,
+     "hint": "Cattle are NOT the livestock resource in the game"
+    },
+    {
+     "altText": "Coffee",
+     "correct": false,
+     "hint": "Coffee is what the players drink while playing... not what they trade"
+    },
+    {
+     "altText": "Bricks",
+     "correct": true,
+     "hint": "Bricks are produced by the hills in the game"
+    },
+    {
+     "altText": "Sheep",
+     "correct": true,
+     "hint": "Sheep are produced by the pastures in the game"
+    },
+    {
+     "altText": "Wheat",
+     "correct": true,
+     "hint": "Wheat is always a resource in the real world and Catan"
+    },
+    {
+     "altText": "Corn",
+     "correct": false,
+     "hint": "Catan is not Iowa"
+    },
+    {
+     "altText": "Coins (silver)",
+     "correct": false,
+     "hint": "There’s no currency... it’s a beautiful world"
+    },
+    {
+     "altText": "Ore",
+     "correct": true,
+     "hint": "Ore comes from the mountains of Catan"
+    },
+    {
+     "altText": "Coal",
+     "correct": false,
+     "hint": "No coal mines"
+    }
+   ],
+   "id": "112584",
+   "isEasy": false,
+   "question": "Resources in the (Original) Settlers of Catan"
+  },
+  {
+   "choices": [
+    {
+     "altText": "White",
+     "correct": true,
+     "hint": "Mr. White is right"
+    },
+    {
+     "altText": "Brown",
+     "correct": true,
+     "hint": "This is the director’s moniker"
+    },
+    {
+     "altText": "Blue",
+     "correct": true,
+     "hint": "He’s a bit “blue” about his one scene"
+    },
+    {
+     "altText": "Purple",
+     "correct": false,
+     "hint": "Not featured in this very “violet” movie"
+    },
+    {
+     "altText": "Orange",
+     "correct": true,
+     "hint": "Mr. Orange played by Harvey Keitel"
+    },
+    {
+     "altText": "Green",
+     "correct": false,
+     "hint": "Mr. Green is in Clue"
+    },
+    {
+     "altText": "Black",
+     "correct": false,
+     "hint": "They want to be Mr. Black... but nobody gets the name"
+    },
+    {
+     "altText": "Pink",
+     "correct": true,
+     "hint": "Steve Buscemi is upset that this one is correct"
+    }
+   ],
+   "id": "112586",
+   "isEasy": false,
+   "question": "[i]Reservoir Dogs[/i] (’92) Character Names",
+   "x": true
+  },
+  {
+   "choices": [
+    {
+     "altText": "Green Lantern",
+     "correct": false,
+     "hint": "Green Lantern is a DC superhero"
+    },
+    {
+     "altText": "Storm",
+     "correct": true,
+     "hint": "This is a Storm"
+    },
+    {
+     "altText": "Wolverine",
+     "correct": true,
+     "hint": "This is a Wolverine"
+    },
+    {
+     "altText": "Robin",
+     "correct": false,
+     "hint": "This is a Robin"
+    },
+    {
+     "altText": "Cyclops",
+     "correct": true,
+     "hint": "What do you call a monster with one eye?"
+    },
+    {
+     "altText": "Black Widow",
+     "correct": false,
+     "hint": "This spider is more of an Avenger"
+    },
+    {
+     "altText": "Phoenix",
+     "correct": true,
+     "hint": "What do you call a flaming bird that rises from the ashes?"
+    },
+    {
+     "altText": "Nightcrawler",
+     "correct": true,
+     "hint": "This worm is called a Nightcrawer"
+    },
+    {
+     "altText": "Wasp",
+     "correct": false,
+     "hint": "This is a Wasp"
+    },
+    {
+     "altText": "Green Arrow",
+     "correct": false,
+     "hint": "Green Arrow is a DC superhero"
+    }
+   ],
+   "id": "112588",
+   "isEasy": false,
+   "question": "Names of X-Men Characters"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Escarabajo",
+     "correct": true,
+     "hint": "The Beetle is nicknamed the Bug"
+    },
+    {
+     "altText": "Golf",
+     "correct": true,
+     "hint": "VW Golf was originally a variation of the Beetle"
+    },
+    {
+     "altText": "Mustang",
+     "correct": false,
+     "hint": "Mustang is made by Ford"
+    },
+    {
+     "altText": "Leaf",
+     "correct": false,
+     "hint": "This is a Nissan model"
+    },
+    {
+     "altText": "Rabbit",
+     "correct": true,
+     "hint": "The Rabbit was a hatchback"
+    },
+    {
+     "altText": "Taurus",
+     "correct": false,
+     "hint": "This is Taurus"
+    },
+    {
+     "altText": "Lincoln",
+     "correct": false,
+     "hint": "Who makes the Lincoln?"
+    },
+    {
+     "altText": "Cóndor",
+     "correct": false,
+     "hint": "The Firebird is a Pontiac"
+    },
+    {
+     "altText": "Atlas",
+     "correct": true,
+     "hint": "The Atlas was a VW SUV"
+    },
+    {
+     "altText": "Polo",
+     "correct": true,
+     "hint": "The Polo was a super mini"
+    }
+   ],
+   "id": "112589",
+   "isEasy": false,
+   "question": "VW Car Model Names"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Lemon",
+     "correct": false,
+     "hint": "Lemons are in slot machines, not Pac-Man"
+    },
+    {
+     "altText": "Strawberry",
+     "correct": true,
+     "hint": "The strawberry is a bonus item"
+    },
+    {
+     "altText": "Raspberries",
+     "correct": false,
+     "hint": "Raspberries? ...no, too hard to pixelate"
+    },
+    {
+     "altText": "Orange",
+     "correct": false,
+     "hint": "There is an orange fruit... but it’s not an orange"
+    },
+    {
+     "altText": "Pineapple",
+     "correct": false,
+     "hint": "Too pointy for a big mouth"
+    },
+    {
+     "altText": "Apple",
+     "correct": true,
+     "hint": "Apples are worth 700 points"
+    },
+    {
+     "altText": "Cherries",
+     "correct": true,
+     "hint": "This is the most valuable Pac-Man fruit"
+    },
+    {
+     "altText": "Peach",
+     "correct": true,
+     "hint": "There is a peach! It looks like an orange on screen"
+    }
+   ],
+   "id": "112629",
+   "isEasy": true,
+   "question": "Fruit in Pac-Man (1980)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Pink Heart",
+     "correct": true,
+     "hint": "One of the originals"
+    },
+    {
+     "altText": "Red Ruby",
+     "correct": false,
+     "hint": "Ruby was not the red one"
+    },
+    {
+     "altText": "Red Balloon",
+     "correct": true,
+     "hint": "Added in 1989"
+    },
+    {
+     "altText": "Blue Fairy",
+     "correct": false,
+     "hint": "Fairy sure this isn’t in there"
+    },
+    {
+     "altText": "Blue Moon",
+     "correct": true,
+     "hint": "Blue moon added in 1995"
+    },
+    {
+     "altText": "Yellow Bell",
+     "correct": false,
+     "hint": "Yellow bells... never heard of ‘em"
+    },
+    {
+     "altText": "Shooting Star",
+     "correct": true,
+     "hint": "Shooting star added in 1998"
+    },
+    {
+     "altText": "Purple Horseshoe",
+     "correct": true,
+     "hint": "Purple horseshoe added in 1983"
+    },
+    {
+     "altText": "Gold Coin",
+     "correct": false,
+     "hint": "Lucky doesn’t have any gold coins"
+    },
+    {
+     "altText": "White Cloud",
+     "correct": false,
+     "hint": "No white clouds... they would just look like normal marshmallows"
+    }
+   ],
+   "id": "112630",
+   "isEasy": true,
+   "question": "Lucky Charms Marshmallows (In a standard 2025 box)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Pirates",
+     "correct": true,
+     "hint": "These sailors are from Pittsburgh"
+    },
+    {
+     "altText": "Coyotes",
+     "correct": false,
+     "hint": "The Arizona Coyotes play hockey"
+    },
+    {
+     "altText": "Marlins",
+     "correct": true,
+     "hint": "This is a Marlin"
+    },
+    {
+     "altText": "Cubs",
+     "correct": true,
+     "hint": "Another name for baby bears"
+    },
+    {
+     "altText": "Lions",
+     "correct": false,
+     "hint": "No MLB baseball team called the Lions"
+    },
+    {
+     "altText": "Jets",
+     "correct": false,
+     "hint": "Are you thinking football?"
+    },
+    {
+     "altText": "Orioles",
+     "correct": true,
+     "hint": "This is an Oriole"
+    },
+    {
+     "altText": "Rays",
+     "correct": true,
+     "hint": "This is a Ray"
+    },
+    {
+     "altText": "Dolphins",
+     "correct": false,
+     "hint": "Dolphins play football"
+    },
+    {
+     "altText": "Lynxes",
+     "correct": false,
+     "hint": "This is a Lynx"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "112635",
+   "isEasy": false,
+   "question": "MLB Team Names"
+  },
+  {
+   "choices": [
+    {
+     "altText": "George Washington",
+     "correct": true,
+     "hint": "This is the first one"
+    },
+    {
+     "altText": "William Shakespeare",
+     "correct": false,
+     "hint": "Shakespeare is ineligible"
+    },
+    {
+     "altText": "Charles Dickens",
+     "correct": false,
+     "hint": "This is Charles Dickens"
+    },
+    {
+     "altText": "Theodore Roosevelt",
+     "correct": true,
+     "hint": "Teddy bears are named after this guy"
+    },
+    {
+     "altText": "Winston Churchill",
+     "correct": false,
+     "hint": "Churchill was a world leader"
+    },
+    {
+     "altText": "Benjamin Franklin",
+     "correct": false,
+     "hint": "This is Benjamin Franklin"
+    },
+    {
+     "altText": "Andrew Jackson",
+     "correct": true,
+     "hint": "This is Andrew Jackson"
+    },
+    {
+     "altText": "P.T. Barnum",
+     "correct": false,
+     "hint": "This is P.T. Barnum"
+    },
+    {
+     "altText": "Ulysses S. Grant",
+     "correct": true,
+     "hint": "Ulysses S Grant was a general and..."
+    },
+    {
+     "altText": "Abraham Lincoln",
+     "correct": true,
+     "hint": "It’s the penny guy!"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "112637",
+   "isEasy": false,
+   "question": "U.S. Presidents"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Titanic",
+     "correct": false,
+     "hint": "This is the Titanic"
+    },
+    {
+     "altText": "Salt",
+     "correct": false,
+     "hint": "Salt is a movie with Angelina Jolie"
+    },
+    {
+     "altText": "Magnolia",
+     "correct": true,
+     "hint": "This type of flower is called a Magnolia"
+    },
+    {
+     "altText": "The Mummy",
+     "correct": true,
+     "hint": "There have been many movies called “The Mummy”"
+    },
+    {
+     "altText": "The Last Samurai",
+     "correct": true,
+     "hint": "He is the Last Samurai"
+    },
+    {
+     "altText": "The Princess Diaries",
+     "correct": false,
+     "hint": "The arrow is pointing at the Princess Diary"
+    },
+    {
+     "altText": "Cóctel o bebida preparada",
+     "correct": true,
+     "hint": "He is making a Cocktail"
+    },
+    {
+     "altText": "Top Gun",
+     "correct": true,
+     "hint": "It’s pointing at the Top Gun"
+    },
+    {
+     "altText": "Jaws",
+     "correct": false,
+     "hint": "The arrow is pointing at the Jaws"
+    },
+    {
+     "altText": "Bullet Train",
+     "correct": false,
+     "hint": "This is a Bullet Train"
+    }
+   ],
+   "id": "112640",
+   "isEasy": false,
+   "question": "Tom Cruise Movie Titles"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Scrubs",
+     "correct": true,
+     "hint": "There’s two... so those are Scrubs... plural"
+    },
+    {
+     "altText": "Brooklyn Nine-Nine",
+     "correct": true,
+     "hint": "The city pictured is Brooklyn"
+    },
+    {
+     "altText": "Yellowjackets",
+     "correct": false,
+     "hint": "Yellowjackets... sounds more like a drama?"
+    },
+    {
+     "altText": "The Office",
+     "correct": true,
+     "hint": "I could see a Jim, Pam or Dwight working here"
+    },
+    {
+     "altText": "Cheers",
+     "correct": true,
+     "hint": "What do you say when you clink glasses?"
+    },
+    {
+     "altText": "Big Bang",
+     "correct": false,
+     "hint": "It’s not just a theory that Sheldon and gang were on CBS"
+    },
+    {
+     "altText": "One Tree Hill",
+     "correct": false,
+     "hint": "One Tree Hill was a drama... not on NBC"
+    },
+    {
+     "altText": "30 Rock",
+     "correct": true,
+     "hint": "How many “rock” are there?"
+    },
+    {
+     "altText": "The X-Files",
+     "correct": false,
+     "hint": "Fox aired these particular files"
+    },
+    {
+     "altText": "The Sopranos",
+     "correct": false,
+     "hint": "These are Sopranos"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "113451",
+   "isEasy": false,
+   "question": "NBC Sitcoms"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Cheese",
+     "correct": true,
+     "hint": "No carbs or sugar in cheese"
+    },
+    {
+     "altText": "Rice",
+     "correct": false,
+     "hint": "No carbs"
+    },
+    {
+     "altText": "Honey",
+     "correct": false,
+     "hint": "Too sweet"
+    },
+    {
+     "altText": "Mayonnaise",
+     "correct": true,
+     "hint": "Fat is fine"
+    },
+    {
+     "altText": "Lobster & Butter",
+     "correct": true,
+     "hint": "Meat and butter are fine!"
+    },
+    {
+     "altText": "Bread",
+     "correct": false,
+     "hint": "Bread is like the most famous no-no"
+    },
+    {
+     "altText": "Ketchup",
+     "correct": false,
+     "hint": "There is sugar in ketchup"
+    },
+    {
+     "altText": "Bacon",
+     "correct": true,
+     "hint": "No carbs in bacon"
+    },
+    {
+     "altText": "Steak & Asparagus",
+     "correct": true,
+     "hint": "Even the butter is fine"
+    },
+    {
+     "altText": "Popcorn",
+     "correct": false,
+     "hint": "Well, the butter is okay but...."
+    }
+   ],
+   "id": "113534",
+   "isEasy": true,
+   "question": "Can Eat This on the Keto Diet"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Jaguar",
+     "correct": true,
+     "hint": "Jaguars are the apex predator of the Amazon"
+    },
+    {
+     "altText": "Sloth",
+     "correct": true,
+     "hint": "It’s easy to spot a sloth in the Amazon... because they don’t run off"
+    },
+    {
+     "altText": "Red Panda",
+     "correct": false,
+     "hint": "This is a red panda"
+    },
+    {
+     "altText": "Tiger",
+     "correct": false,
+     "hint": "Tigers are mostly in Asia"
+    },
+    {
+     "altText": "Poison Arrow Frog",
+     "correct": true,
+     "hint": "Lots of frogs in rainforests"
+    },
+    {
+     "altText": "Cobra",
+     "correct": false,
+     "hint": "Cobras need dryer climates"
+    },
+    {
+     "altText": "Hippopotamus",
+     "correct": false,
+     "hint": "Hippos are African"
+    },
+    {
+     "altText": "Peacock",
+     "correct": false,
+     "hint": "Peacocks are in Asia and Africa"
+    },
+    {
+     "altText": "Capybara",
+     "correct": true,
+     "hint": "This is a capybara"
+    },
+    {
+     "altText": "Green Anaconda",
+     "correct": true,
+     "hint": "The largest rainforest has one of the biggest snakes"
+    }
+   ],
+   "id": "113560",
+   "isEasy": true,
+   "question": "Animals Native to the Amazon"
+  },
+  {
+   "choices": [
+    {
+     "altText": "The Hoover Dam",
+     "correct": true,
+     "hint": "The Hoover Dam was built during the Great Depression"
+    },
+    {
+     "altText": "The Seattle Space Needle",
+     "correct": false,
+     "hint": "Space Needle built while Twilight Zone was airing"
+    },
+    {
+     "altText": "Christ the Redeemer",
+     "correct": true,
+     "hint": "Built during the roaring ’20s"
+    },
+    {
+     "altText": "The Golden Gate Bridge",
+     "correct": true,
+     "hint": "The Golden Gate Bridge was built in the ’30s"
+    },
+    {
+     "altText": "The Louvre Pyramid",
+     "correct": false,
+     "hint": "The Louvre (and its glass pyramid) didn’t open until the ’70s"
+    },
+    {
+     "altText": "The Burj Khalifa",
+     "correct": false,
+     "hint": "The Burj Khalifa is the current tallest building the world"
+    },
+    {
+     "altText": "The Statue of Liberty",
+     "correct": true,
+     "hint": "The Statue of Liberty is the oldest landmark in this set"
+    },
+    {
+     "altText": "Sydney Opera House",
+     "correct": false,
+     "hint": "The Sydney Opera House opened the same year that the Vietnam War ended"
+    },
+    {
+     "altText": "Eiffel Tower",
+     "correct": true,
+     "hint": "Eiffel Tower was constructed in the 19th century"
+    },
+    {
+     "altText": "The London Eye",
+     "correct": false,
+     "hint": "This is the London’s tallest ferris wheel"
+    }
+   ],
+   "id": "113570",
+   "isEasy": false,
+   "question": "Landmarks Built Before World War II"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Lacrosse",
+     "correct": false,
+     "hint": "They will add lacrosse to Summer Olympics in 2028"
+    },
+    {
+     "altText": "Pickleball",
+     "correct": false,
+     "hint": "Pickleball only recently became big"
+    },
+    {
+     "altText": "Ping Pong",
+     "correct": true,
+     "hint": "China swept this sport"
+    },
+    {
+     "altText": "Figure Skating",
+     "correct": false,
+     "hint": "This is figure skating"
+    },
+    {
+     "altText": "Croquet",
+     "correct": false,
+     "hint": "Only played in the 1900 Summer Olympics"
+    },
+    {
+     "altText": "Cricket",
+     "correct": false,
+     "hint": "They will play cricket in 2028, but...."
+    },
+    {
+     "altText": "Boxing",
+     "correct": true,
+     "hint": "The source of scandal"
+    },
+    {
+     "altText": "Archery",
+     "correct": true,
+     "hint": "South Korea swept"
+    },
+    {
+     "altText": "Skateboarding",
+     "correct": true,
+     "hint": "Skateboarding started in the 2020 games"
+    },
+    {
+     "altText": "Breakdancing",
+     "correct": true,
+     "hint": "Remember Raygun?"
+    }
+   ],
+   "id": "113572",
+   "isEasy": true,
+   "question": "Events in the 2024 Olympics in France"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Spider-Woman",
+     "correct": false,
+     "hint": "You may have seen her in Madame Web!"
+    },
+    {
+     "altText": "Man-Bat",
+     "correct": true,
+     "hint": "Man-Bat is a villain from the comics"
+    },
+    {
+     "altText": "Penguin",
+     "correct": true,
+     "hint": "He got his own HBO Series"
+    },
+    {
+     "altText": "Doctor Octopus",
+     "correct": false,
+     "hint": "Looks more like a Spider-Man villain"
+    },
+    {
+     "altText": "Scorpion",
+     "correct": false,
+     "hint": "Scorpion is a Spider-Man villain"
+    },
+    {
+     "altText": "Two-Face",
+     "correct": true,
+     "hint": "Played by Aaron Eckhart in The Dark Knight"
+    },
+    {
+     "altText": "Scarecrow",
+     "correct": true,
+     "hint": "Played by Cillian Murphy in Batman Begins"
+    },
+    {
+     "altText": "Green Lantern",
+     "correct": false,
+     "hint": "Is Green Lantern a real bad guy?"
+    },
+    {
+     "altText": "Poison Ivy",
+     "correct": true,
+     "hint": "Leaves of three, let them be"
+    },
+    {
+     "altText": "Wolverine",
+     "correct": false,
+     "hint": "This is a picture of a wolverine"
+    }
+   ],
+   "id": "113579",
+   "isEasy": false,
+   "question": "Names of Batman Villains"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Turtle",
+     "correct": false,
+     "hint": "There’s a skeleton under there"
+    },
+    {
+     "altText": "Snakes",
+     "correct": false,
+     "hint": "Snakes have slinky skeletons"
+    },
+    {
+     "altText": "Lobster",
+     "correct": true,
+     "hint": "Crustaceans have their bones on the outside"
+    },
+    {
+     "altText": "Snail",
+     "correct": true,
+     "hint": "The shell is not a spine"
+    },
+    {
+     "altText": "Hummingbird",
+     "correct": false,
+     "hint": "All birds have bones"
+    },
+    {
+     "altText": "Goldfish",
+     "correct": false,
+     "hint": "A fish has a skeleton"
+    },
+    {
+     "altText": "Octopus",
+     "correct": true,
+     "hint": "Too squishy for a spine"
+    },
+    {
+     "altText": "Spider",
+     "correct": true,
+     "hint": "Arachnids have an exoskeleton"
+    },
+    {
+     "altText": "Bats",
+     "correct": false,
+     "hint": "All mammals are vertebrates"
+    },
+    {
+     "altText": "Fly",
+     "correct": true,
+     "hint": "Has an exoskeleton"
+    }
+   ],
+   "id": "113580",
+   "isEasy": true,
+   "question": "Invertebrates"
+  },
+  {
+   "choices": [
+    {
+     "altText": "The Two Cherubs",
+     "correct": false,
+     "hint": "Painted by a different ninja turtle"
+    },
+    {
+     "altText": "The Creation of Adam",
+     "correct": false,
+     "hint": "Painted by a party dude"
+    },
+    {
+     "altText": "Vitruvian Man",
+     "correct": true,
+     "hint": "From his notebooks"
+    },
+    {
+     "altText": "The Mona Lisa",
+     "correct": true,
+     "hint": "She’s smiling because she’s right"
+    },
+    {
+     "altText": "Relativity Stairs",
+     "correct": false,
+     "hint": "A recreation of an M.C. Escher piece"
+    },
+    {
+     "altText": "The Birth of Venus",
+     "correct": false,
+     "hint": "This is a Botticelli"
+    },
+    {
+     "altText": "The Last Supper",
+     "correct": true,
+     "hint": "Played a very important part in the Dan Brown novel"
+    },
+    {
+     "altText": "The Thinker",
+     "correct": false,
+     "hint": "This was done by a French artist"
+    },
+    {
+     "altText": "Aerial Screw Design",
+     "correct": true,
+     "hint": "He was also a bit of a scientist"
+    },
+    {
+     "altText": "Lady with an Ermine",
+     "correct": true,
+     "hint": "This one of four paintings of women done by da Vinci"
+    }
+   ],
+   "id": "113581",
+   "isEasy": false,
+   "question": "Works of Leonardo da Vinci"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Pig",
+     "correct": true,
+     "hint": "She wins a beauty pageant"
+    },
+    {
+     "altText": "Tiger",
+     "correct": false,
+     "hint": "Not a ggrrreaaat answer"
+    },
+    {
+     "altText": "Frog",
+     "correct": true,
+     "hint": "The star of the picture!"
+    },
+    {
+     "altText": "Turtle",
+     "correct": false,
+     "hint": "Henson made turtle costumes for a different film"
+    },
+    {
+     "altText": "Bear",
+     "correct": true,
+     "hint": "Wakka Wakka"
+    },
+    {
+     "altText": "Cat",
+     "correct": false,
+     "hint": "Rowlf wouldn’t share the spotlight"
+    },
+    {
+     "altText": "Dog",
+     "correct": true,
+     "hint": "He plays piano"
+    },
+    {
+     "altText": "Shark",
+     "correct": false,
+     "hint": "Bruce was busy making the Spielberg picture"
+    },
+    {
+     "altText": "Chicharito",
+     "correct": true,
+     "hint": "First name Sam"
+    },
+    {
+     "altText": "Bat",
+     "correct": false,
+     "hint": "More of a Sesame Street extra"
+    }
+   ],
+   "id": "113582",
+   "isEasy": false,
+   "question": "Characters in [i]The Muppet Movie[/i]"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Velociraptor",
+     "correct": true,
+     "hint": "They were in the kitchen!"
+    },
+    {
+     "altText": "Brachiosaurus",
+     "correct": true,
+     "hint": "Take off your sunglasses and have a better look"
+    },
+    {
+     "altText": "Pteranodon",
+     "correct": false,
+     "hint": "Pteranodons aren’t even dinosaurs"
+    },
+    {
+     "altText": "Stegosaurus",
+     "correct": false,
+     "hint": "They are in The Lost World"
+    },
+    {
+     "altText": "Triceratops",
+     "correct": true,
+     "hint": "Triceratops had a tummy ache"
+    },
+    {
+     "altText": "Ankylosaurus",
+     "correct": false,
+     "hint": "Ankylosaurus is in The Lost World"
+    },
+    {
+     "altText": "Dilophosaurus",
+     "correct": true,
+     "hint": "She was in it and she was spittin’"
+    },
+    {
+     "altText": "Pachycephalosaurus",
+     "correct": false,
+     "hint": "No boneheads"
+    },
+    {
+     "altText": "Spinosaurus",
+     "correct": false,
+     "hint": "Not till the third one"
+    },
+    {
+     "altText": "T-rex",
+     "correct": true,
+     "hint": "Don’t move! The image will see you if you move"
+    }
+   ],
+   "id": "113598",
+   "isEasy": true,
+   "question": "Dinosaurs Featured in the First [i]Jurassic Park[/i] Movie"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Telephone",
+     "correct": true,
+     "hint": "With Lady Gaga"
+    },
+    {
+     "altText": "Halo",
+     "correct": true,
+     "hint": "What do you call that circle around a little angel’s head?"
+    },
+    {
+     "altText": "Firework",
+     "correct": false,
+     "hint": "Baby, you’re a...."
+    },
+    {
+     "altText": "Texas Hold ‘Em",
+     "correct": true,
+     "hint": "Which card game is this?"
+    },
+    {
+     "altText": "Umbrella",
+     "correct": false,
+     "hint": "Ella-ella, ayy, ayy, ayy"
+    },
+    {
+     "altText": "Baby Boy",
+     "correct": true,
+     "hint": "This is a baby boy"
+    },
+    {
+     "altText": "Driver’s License",
+     "correct": false,
+     "hint": "Driver’s License was a debut single"
+    },
+    {
+     "altText": "Partition",
+     "correct": true,
+     "hint": "That’s a partition"
+    },
+    {
+     "altText": "Rock Lobster",
+     "correct": false,
+     "hint": "We were at the beach"
+    },
+    {
+     "altText": "Vampire",
+     "correct": false,
+     "hint": "Sung by the same person as Driver’s License"
+    }
+   ],
+   "id": "113602",
+   "isEasy": false,
+   "question": "Title of a Beyoncé Song (or Duet)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "The Ring",
+     "correct": true,
+     "hint": "If you watch this, you die in seven days"
+    },
+    {
+     "altText": "Dodgeball",
+     "correct": false,
+     "hint": "Stars Ben Stiller and Vince Vaughn"
+    },
+    {
+     "altText": "Cabin in the Woods",
+     "correct": true,
+     "hint": "What kind of building is this... and where is it?"
+    },
+    {
+     "altText": "Titanic",
+     "correct": false,
+     "hint": "Stars Leonardo DiCaprio & Kate Winslet"
+    },
+    {
+     "altText": "The Fly",
+     "correct": true,
+     "hint": "Starring Jeff Goldblum & Geena Davis"
+    },
+    {
+     "altText": "Scream",
+     "correct": true,
+     "hint": "Do you like scary movies?"
+    },
+    {
+     "altText": "The Princess Diary",
+     "correct": false,
+     "hint": "Anne Hathaway movie"
+    },
+    {
+     "altText": "The Black Phone",
+     "correct": true,
+     "hint": "2021 film starring Ethan Hawke"
+    },
+    {
+     "altText": "The Last Samurai",
+     "correct": false,
+     "hint": "This is a Tom Cruise movie"
+    },
+    {
+     "altText": "Ratatouille",
+     "correct": false,
+     "hint": "This is a Pixar movie"
+    }
+   ],
+   "id": "113604",
+   "isEasy": false,
+   "question": "Scary Movies That Won the Saturn Horror Award"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Anglerfish",
+     "correct": false,
+     "hint": "Very scary... but no lines"
+    },
+    {
+     "altText": "Jellyfish",
+     "correct": false,
+     "hint": "Lots of them... but none speak"
+    },
+    {
+     "altText": "Hammerhead Shark",
+     "correct": true,
+     "hint": "One of the three featured"
+    },
+    {
+     "altText": "Sea Turtle",
+     "correct": true,
+     "hint": "Woah! Dude!"
+    },
+    {
+     "altText": "Barracuda",
+     "correct": false,
+     "hint": "A pivotal character... but doesn’t speak"
+    },
+    {
+     "altText": "Squid",
+     "correct": false,
+     "hint": "There’s a giant one in Finding Dory"
+    },
+    {
+     "altText": "Ray",
+     "correct": true,
+     "hint": "He talks AND he sings!"
+    },
+    {
+     "altText": "Blue Tang",
+     "correct": true,
+     "hint": "I can’t remember if she does...."
+    },
+    {
+     "altText": "Orca",
+     "correct": false,
+     "hint": "Orcas are found in colder waters"
+    },
+    {
+     "altText": "Starfish",
+     "correct": true,
+     "hint": "Her name is Peach"
+    }
+   ],
+   "id": "113610",
+   "isEasy": true,
+   "question": "Creatures with Speaking Roles in [i]Finding Nemo[/i]"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Fugu Pufferfish",
+     "correct": true,
+     "hint": "Takes a skilled chef to prepare"
+    },
+    {
+     "altText": "Blessed Poison Frog",
+     "correct": true,
+     "hint": "Notice how brightly colored it is"
+    },
+    {
+     "altText": "Mistletoe",
+     "correct": true,
+     "hint": "For kissing, not for eating"
+    },
+    {
+     "altText": "Boa Constrictor",
+     "correct": false,
+     "hint": "This is a constrictor"
+    },
+    {
+     "altText": "Dandelions",
+     "correct": false,
+     "hint": "You can eat dandelions"
+    },
+    {
+     "altText": "Cantarito",
+     "correct": false,
+     "hint": "You can eat grasshoppers"
+    },
+    {
+     "altText": "Monarch Butterfly",
+     "correct": true,
+     "hint": "Notice the brightly colored wings"
+    },
+    {
+     "altText": "Pine Cone",
+     "correct": false,
+     "hint": "It’s crunchy, but not poisonous"
+    },
+    {
+     "altText": "Fly Agaric Mushroom",
+     "correct": true,
+     "hint": "Do NOT make a salad out of this"
+    },
+    {
+     "altText": "Spider Crab",
+     "correct": false,
+     "hint": "Poisonous crabs tend to be a lot smaller"
+    }
+   ],
+   "id": "113612",
+   "isEasy": true,
+   "question": "Is It Poisonous?"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Troll",
+     "correct": true,
+     "hint": "This (like the question) is a troll"
+    },
+    {
+     "altText": "Troll",
+     "correct": true,
+     "hint": "This (like the question) is a troll"
+    },
+    {
+     "altText": "Troll",
+     "correct": true,
+     "hint": "This (like the question) is a troll"
+    },
+    {
+     "altText": "Troll",
+     "correct": true,
+     "hint": "This (like the question) is a troll"
+    },
+    {
+     "altText": "Troll",
+     "correct": true,
+     "hint": "This (like the question) is a troll"
+    },
+    {
+     "altText": "Troll",
+     "correct": true,
+     "hint": "This (like the question) is a troll"
+    },
+    {
+     "altText": "Troll",
+     "correct": true,
+     "hint": "This (like the question) is a troll"
+    },
+    {
+     "altText": "Troll",
+     "correct": true,
+     "hint": "This (like the question) is a troll"
+    }
+   ],
+   "id": "113614",
+   "isEasy": false,
+   "question": "This is a Troll"
+  },
+  {
+   "choices": [
+    {
+     "altText": "The Leftovers",
+     "correct": true,
+     "hint": "These are the leftovers"
+    },
+    {
+     "altText": "The Wire",
+     "correct": true,
+     "hint": "This is the wire"
+    },
+    {
+     "altText": "House of Cards",
+     "correct": false,
+     "hint": "This is a house of cards"
+    },
+    {
+     "altText": "The Penguin",
+     "correct": true,
+     "hint": "This is the penguin"
+    },
+    {
+     "altText": "Yellowjackets",
+     "correct": false,
+     "hint": "These are yellowjackets"
+    },
+    {
+     "altText": "Moon Knight",
+     "correct": false,
+     "hint": "Sounds more like a Disney Plus show"
+    },
+    {
+     "altText": "The Sopranos",
+     "correct": true,
+     "hint": "These are the Sopranos"
+    },
+    {
+     "altText": "The X-Files",
+     "correct": false,
+     "hint": "These are “X” files"
+    },
+    {
+     "altText": "Russian Doll",
+     "correct": false,
+     "hint": "This is a Russian doll"
+    },
+    {
+     "altText": "White Lotus",
+     "correct": true,
+     "hint": "This is a white lotus"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "113638",
+   "isEasy": false,
+   "question": "Titles of HBO Dramas"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Atlas",
+     "correct": true,
+     "hint": "This is Atlas holding up the world"
+    },
+    {
+     "altText": "Statue of St. George",
+     "correct": false,
+     "hint": "This is Saint George slaying a dragon"
+    },
+    {
+     "altText": "Pandora",
+     "correct": true,
+     "hint": "This is Pandora releasing all the ills into the world"
+    },
+    {
+     "altText": "The Thinker",
+     "correct": false,
+     "hint": "This Rodin piece was originally inspired by Dante’s Inferno"
+    },
+    {
+     "altText": "Perseus with the Head of Medusa",
+     "correct": true,
+     "hint": "This is Perseus holding Medusa’s head"
+    },
+    {
+     "altText": "Icarus Falling",
+     "correct": true,
+     "hint": "This is Icarus flying too close to the sun"
+    },
+    {
+     "altText": "Excalibur (Sword in the Stone)",
+     "correct": false,
+     "hint": "This is the sword King Arthur pulls from the stone"
+    },
+    {
+     "altText": "Egyptian Book of the Dead",
+     "correct": false,
+     "hint": "This is Anubis judging the dead"
+    },
+    {
+     "altText": "Prometheus",
+     "correct": true,
+     "hint": "This is Prometheus stealing fire for humanity"
+    },
+    {
+     "altText": "Thor, God of Thunder",
+     "correct": false,
+     "hint": "This is Thor with his goats Tanngrisnir and Tanngnjóstr"
+    }
+   ],
+   "id": "113639",
+   "isEasy": false,
+   "question": "This Art Depicts a Greek Myth"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Sci-Fi Movie Vehicles",
+     "correct": false,
+     "hint": "This is a hunk of junk won gambling"
+    },
+    {
+     "altText": "Fictional Flying Saucer",
+     "correct": false,
+     "hint": "This is a flying saucer"
+    },
+    {
+     "altText": "Saturn V Rocket",
+     "correct": true,
+     "hint": "This is the Saturn V rocket"
+    },
+    {
+     "altText": "Apollo 11 Command Module",
+     "correct": true,
+     "hint": "This was the Apollo 11 command module"
+    },
+    {
+     "altText": "Solar Interstellar Vehicle",
+     "correct": false,
+     "hint": "We’re not intersteller... yet"
+    },
+    {
+     "altText": "Fictional Spaceship",
+     "correct": false,
+     "hint": "Looks like a Mass Effect ship to me"
+    },
+    {
+     "altText": "The ISS",
+     "correct": true,
+     "hint": "This is the International Space Station"
+    },
+    {
+     "altText": "Sputnik",
+     "correct": true,
+     "hint": "This was one of the first manmade objects in space"
+    },
+    {
+     "altText": "Human Colony on Mars",
+     "correct": false,
+     "hint": "These are pods for a human colony on Mars"
+    },
+    {
+     "altText": "Mars Rover",
+     "correct": true,
+     "hint": "This is the Mars Rover"
+    }
+   ],
+   "id": "113640",
+   "isEasy": false,
+   "question": "Real Space Tech That’s Actually Been To Space"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Cheese",
+     "correct": false,
+     "hint": "Richard Cheese is a singer"
+    },
+    {
+     "altText": "Rice (Anne Rice)",
+     "correct": true,
+     "hint": "This is the kind of food that would interview a vampire"
+    },
+    {
+     "altText": "Brown (Dan Brown)",
+     "correct": true,
+     "hint": "What color is this? Hmmm, it’s a Vatican mystery...."
+    },
+    {
+     "altText": "Strawberry",
+     "correct": false,
+     "hint": "You might be thinking of a baseball player"
+    },
+    {
+     "altText": "Sparks (Nicholas Sparks)",
+     "correct": true,
+     "hint": "Those are a lot of Sparks"
+    },
+    {
+     "altText": "Crow",
+     "correct": false,
+     "hint": "Are you thinking of Sheryl?"
+    },
+    {
+     "altText": "King (Stephen King)",
+     "correct": true,
+     "hint": "Who is that spooky guy who writes a LOT of scary books?"
+    },
+    {
+     "altText": "Bacon",
+     "correct": false,
+     "hint": "Francis Bacon is not on the best seller list"
+    },
+    {
+     "altText": "Steel (Danielle Steel)",
+     "correct": true,
+     "hint": "This is the best selling author on this list... Steel"
+    },
+    {
+     "altText": "Gates",
+     "correct": false,
+     "hint": "Might be thinking of the computer guy"
+    }
+   ],
+   "id": "113641",
+   "isEasy": false,
+   "question": "Last Name of a Top 100 Best-Selling Author"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Sulfur",
+     "correct": false,
+     "hint": "Naturally occurring, smells like rotten eggs"
+    },
+    {
+     "altText": "Aspirin",
+     "correct": true,
+     "hint": "Formula = C9H8O4"
+    },
+    {
+     "altText": "Tormenta (Storm)",
+     "correct": false,
+     "hint": "Only metal element that’s liquid at room temperature"
+    },
+    {
+     "altText": "Hydrochloric Acid",
+     "correct": true,
+     "hint": "Hydrogen AND Chlorine"
+    },
+    {
+     "altText": "Lead",
+     "correct": false,
+     "hint": "Lead is not an alloy"
+    },
+    {
+     "altText": "Water",
+     "correct": true,
+     "hint": "H2O"
+    },
+    {
+     "altText": "Ethanol",
+     "correct": true,
+     "hint": "NaCl"
+    },
+    {
+     "altText": "Copper Wire",
+     "correct": false,
+     "hint": "It’s just copper"
+    },
+    {
+     "altText": "Humo (Smoke)",
+     "correct": false,
+     "hint": "100% Au"
+    },
+    {
+     "altText": "White Sugar",
+     "correct": true,
+     "hint": "Formula = C12H22O11"
+    }
+   ],
+   "id": "114738",
+   "isEasy": false,
+   "question": "Compounds (AKA Made of Multiple Elements)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "European Union",
+     "correct": false,
+     "hint": "Created in 1955 to celebrate a new union"
+    },
+    {
+     "altText": "Chile",
+     "correct": false,
+     "hint": "Red, white & blue is often found in the Americas"
+    },
+    {
+     "altText": "Turkey",
+     "correct": true,
+     "hint": "A tiny bit of it is in Europe, but most of the country is...."
+    },
+    {
+     "altText": "Japan",
+     "correct": true,
+     "hint": "Known as the “land of the rising sun”"
+    },
+    {
+     "altText": "Fake Flag",
+     "correct": false,
+     "hint": "I made this in Google Docs"
+    },
+    {
+     "altText": "China",
+     "correct": true,
+     "hint": "The large star represents the CCP, aka the ______ Communist Party"
+    },
+    {
+     "altText": "India",
+     "correct": true,
+     "hint": "The Ashoka Chakra is in the center"
+    },
+    {
+     "altText": "Ghana",
+     "correct": false,
+     "hint": "The black star represents independence from colonial rule"
+    },
+    {
+     "altText": "Morocco",
+     "correct": false,
+     "hint": "Same continent as Ghana"
+    },
+    {
+     "altText": "South Korea",
+     "correct": true,
+     "hint": "This is the southern one"
+    }
+   ],
+   "id": "114739",
+   "isEasy": false,
+   "question": "Flags of Countries in Asia"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Birds",
+     "correct": false,
+     "hint": "Birds are not one of the flying pests to plague Pharaoh"
+    },
+    {
+     "altText": "Thorns",
+     "correct": false,
+     "hint": "Not a lot of plants in the desert"
+    },
+    {
+     "altText": "Locusts",
+     "correct": true,
+     "hint": "They ate the crops"
+    },
+    {
+     "altText": "Flies",
+     "correct": true,
+     "hint": "Several of the plagues would really “bug” you"
+    },
+    {
+     "altText": "Hail",
+     "correct": true,
+     "hint": "This is hail"
+    },
+    {
+     "altText": "Crocodiles",
+     "correct": false,
+     "hint": "The Nile had other problems"
+    },
+    {
+     "altText": "Spiders",
+     "correct": false,
+     "hint": "Spiders? Even Moses had his limits...."
+    },
+    {
+     "altText": "Darkness",
+     "correct": true,
+     "hint": "This covers the entire land"
+    },
+    {
+     "altText": "Frogs",
+     "correct": true,
+     "hint": "This one almost gets Pharaoh to change his mind..."
+    },
+    {
+     "altText": "Tornado",
+     "correct": false,
+     "hint": "You’re thinking of the Book of Job"
+    }
+   ],
+   "id": "114740",
+   "isEasy": false,
+   "question": "The Plagues of Egypt (From the Book of Exodus)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Mushrooms",
+     "correct": false,
+     "hint": "Not much flora in this recipe"
+    },
+    {
+     "altText": "White Wine",
+     "correct": false,
+     "hint": "You can eat this and drive"
+    },
+    {
+     "altText": "Spinach",
+     "correct": false,
+     "hint": "You’re thinking of Quiche Florentine"
+    },
+    {
+     "altText": "Bacon",
+     "correct": true,
+     "hint": "Yep, chopped up into little bits"
+    },
+    {
+     "altText": "Eggs",
+     "correct": true,
+     "hint": "“Quiche” basically means “egg pie”"
+    },
+    {
+     "altText": "Gruyère Cheese",
+     "correct": true,
+     "hint": "Cheese was added in 20th-century recipes"
+    },
+    {
+     "altText": "Shortening",
+     "correct": true,
+     "hint": "The opposite of Tall-ening"
+    },
+    {
+     "altText": "Mayo",
+     "correct": false,
+     "hint": "Mayo has eggs, so this would be redundant"
+    },
+    {
+     "altText": "Lobster",
+     "correct": false,
+     "hint": "Not a seafood dish"
+    },
+    {
+     "altText": "Butter",
+     "correct": true,
+     "hint": "This is Julia’s trademark"
+    }
+   ],
+   "id": "114741",
+   "isEasy": false,
+   "question": "Traditional Quiche Lorraine Ingredients (Using Julia Childs’ recipe)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Twelve Drummers Drumming",
+     "correct": true,
+     "hint": "There are 12"
+    },
+    {
+     "altText": "3 Jugglers Juggling",
+     "correct": false,
+     "hint": "These are not French Hens"
+    },
+    {
+     "altText": "Two Falcons Posing",
+     "correct": false,
+     "hint": "These are not turtle doves"
+    },
+    {
+     "altText": "8 Archers Launching",
+     "correct": false,
+     "hint": "No weapons in the song"
+    },
+    {
+     "altText": "Seven Swans A-Swimming",
+     "correct": true,
+     "hint": "There are 7"
+    },
+    {
+     "altText": "Three Ducks A-Migrating",
+     "correct": false,
+     "hint": "These are not French Hens"
+    },
+    {
+     "altText": "Five Golden Rings!",
+     "correct": true,
+     "hint": "This is the part you sing as loud as possible"
+    },
+    {
+     "altText": "Two Turtle Doves",
+     "correct": true,
+     "hint": "Yes, this is what a Turtle Dove looks like"
+    },
+    {
+     "altText": "Nine Ladies Dancing",
+     "correct": true,
+     "hint": "Yes, there 9 ladies dancing in this photo"
+    },
+    {
+     "altText": "Seven Horses Prancing",
+     "correct": false,
+     "hint": "Song mentions bovines, not equines"
+    }
+   ],
+   "id": "114742",
+   "isEasy": false,
+   "question": "Gifts in “The 12 Days of Christmas”"
+  },
+  {
+   "choices": [
+    {
+     "altText": "21 by Adele",
+     "correct": true,
+     "hint": "That adds up to “21”"
+    },
+    {
+     "altText": "Dark Side of the Moon by Pink Floyd",
+     "correct": false,
+     "hint": "Syd Barrett was lead vocals for Pink Floyd"
+    },
+    {
+     "altText": "Teenage Dream by Katy Perry",
+     "correct": true,
+     "hint": "Featuring song “Firework” and “California Gurls”"
+    },
+    {
+     "altText": "SOS by SZA",
+     "correct": true,
+     "hint": "SOS is three letters, so is SZA"
+    },
+    {
+     "altText": "American Idiot by Green Day",
+     "correct": false,
+     "hint": "“Don’t wanna be an....”"
+    },
+    {
+     "altText": "Chocolate Starfish by Limp Bizkit",
+     "correct": false,
+     "hint": "...and the Hot Dog Flavored Water"
+    },
+    {
+     "altText": "Dirty Computer by Janelle Monáe",
+     "correct": true,
+     "hint": "That is one “Dirty Computer”"
+    },
+    {
+     "altText": "Ice Ice Baby by Vanilla Ice",
+     "correct": false,
+     "hint": "Vanilla Ice identifies as male"
+    },
+    {
+     "altText": "Yellow Submarine by The Beatles",
+     "correct": false,
+     "hint": "Ringo wrote this one"
+    },
+    {
+     "altText": "Jagged Little Pill by Alanis Morissette",
+     "correct": true,
+     "hint": "This Little Pill is Jagged"
+    }
+   ],
+   "id": "114745",
+   "isEasy": false,
+   "question": "Albums by Solo Female Artists",
+   "starterContent": false
+  },
+  {
+   "choices": [
+    {
+     "altText": "Impacto Meteoro",
+     "correct": true,
+     "hint": "He, and his son, attended"
+    },
+    {
+     "altText": "Hounds",
+     "correct": true,
+     "hint": "They were brought by Igor"
+    },
+    {
+     "altText": "Mummy",
+     "correct": false,
+     "hint": "Too wrapped up to attend"
+    },
+    {
+     "altText": "Igor",
+     "correct": true,
+     "hint": "He even gets a lyric, “Mash Good!”"
+    },
+    {
+     "altText": "Fantasma (Ghost)",
+     "correct": false,
+     "hint": "No body, no invite"
+    },
+    {
+     "altText": "Zombies",
+     "correct": true,
+     "hint": "The lyrics say they were there and they were having fun"
+    },
+    {
+     "altText": "Dragón (Dragon)",
+     "correct": false,
+     "hint": "Not a party person, tends to drag-on"
+    },
+    {
+     "altText": "Wolfman",
+     "correct": true,
+     "hint": "Mentioned along with Dracula"
+    },
+    {
+     "altText": "Witch",
+     "correct": false,
+     "hint": "No Glinda, No Elphaba... no witch of any kind"
+    },
+    {
+     "altText": "Black Cat",
+     "correct": false,
+     "hint": "Only dogs are mentioned"
+    }
+   ],
+   "id": "114746",
+   "isEasy": false,
+   "question": "Mentioned in the “Monster Mash” Lyrics"
+  }
+ ]
+}

@@ -1,0 +1,5556 @@
+{
+ "content": [
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Nuevo Hampshire"
+    },
+    {
+     "altSpellings": [
+      "Massetchusetts"
+     ],
+     "answer": "Massachusetts"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Rhode Island"
+    },
+    {
+     "altSpellings": [
+      "Conneticut"
+     ],
+     "answer": "Connecticut"
+    },
+    {
+     "altSpellings": [],
+     "answer": "New York"
+    },
+    {
+     "altSpellings": [],
+     "answer": "New Jersey"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pennsylvania"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Delaware"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Maryland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Virginia"
+    },
+    {
+     "altSpellings": [
+      "N Carolina",
+      "NC"
+     ],
+     "answer": "North Carolina"
+    },
+    {
+     "altSpellings": [
+      "S Carolina",
+      "SC"
+     ],
+     "answer": "South Carolina"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Georgia"
+    }
+   ],
+   "category": "HISTORIA de Estados Unidos",
+   "countrySpecific": true,
+   "id": "109995",
+   "question": "Las Colonias Originales de EE.UU."
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Armadillos"
+     ],
+     "answer": "Armadillo"
+    },
+    {
+     "altSpellings": [
+      "Camellos"
+     ],
+     "answer": "Camello"
+    },
+    {
+     "altSpellings": [
+      "Gatos"
+     ],
+     "answer": "Gato"
+    },
+    {
+     "altSpellings": [
+      "Burros"
+     ],
+     "answer": "Burro"
+    },
+    {
+     "altSpellings": [
+      "Caballos"
+     ],
+     "answer": "Caballo"
+    },
+    {
+     "altSpellings": [
+      "Llamas"
+     ],
+     "answer": "Llama"
+    },
+    {
+     "altSpellings": [
+      "Mulas"
+     ],
+     "answer": "Mula"
+    },
+    {
+     "altSpellings": [
+      "Loros"
+     ],
+     "answer": "Loro"
+    },
+    {
+     "altSpellings": [
+      "Lobos"
+     ],
+     "answer": "Lobo"
+    }
+   ],
+   "category": "Amigos digitales",
+   "id": "109997",
+   "question": "Animales que puedes domesticar en [i]Minecraft[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Hidrógeno"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Helio"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Litio"
+    },
+    {
+     "altSpellings": [
+      "Berilio"
+     ],
+     "answer": "Berilio"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Boro"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Carbono"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Nitrógeno"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Oxígeno"
+    },
+    {
+     "altSpellings": [
+      "Flúor"
+     ],
+     "answer": "Flúor"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Neón"
+    }
+   ],
+   "category": "CIENCIA",
+   "id": "109998",
+   "question": "Los primeros diez elementos de la tabla periódica"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "T-Swift"
+     ],
+     "answer": "Taylor Swift"
+    },
+    {
+     "altSpellings": [
+      "The Weekend"
+     ],
+     "answer": "The Weeknd"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Drake"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bad Bunny"
+    },
+    {
+     "altSpellings": [
+      "Billy Eilish",
+      "Eilish"
+     ],
+     "answer": "Billie Eilish"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ariana Grande"
+    }
+   ],
+   "category": "BARDOS POPULARES",
+   "id": "110000",
+   "question": "Los seis artistas más escuchados de Spotify en 2024"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "West"
+     ],
+     "answer": "Adam West"
+    },
+    {
+     "altSpellings": [
+      "Keaton"
+     ],
+     "answer": "Michael Keaton"
+    },
+    {
+     "altSpellings": [
+      "Kilmer"
+     ],
+     "answer": "Val Kilmer"
+    },
+    {
+     "altSpellings": [
+      "Clooney"
+     ],
+     "answer": "George Clooney"
+    },
+    {
+     "altSpellings": [
+      "Bale"
+     ],
+     "answer": "Christian Bale"
+    },
+    {
+     "altSpellings": [
+      "Affleck"
+     ],
+     "answer": "Ben Affleck"
+    },
+    {
+     "altSpellings": [
+      "Pattinson"
+     ],
+     "answer": "Robert Pattinson"
+    }
+   ],
+   "category": "CRUSADERS",
+   "id": "110004",
+   "question": "Actores que hicieron de Batman en una película con actores"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Toad"
+    },
+    {
+     "altSpellings": [
+      "Rey Koopa"
+     ],
+     "answer": "Bowser"
+    },
+    {
+     "altSpellings": [
+      "Donkey Kong"
+     ],
+     "answer": "Donkey Kong Jr."
+    },
+    {
+     "altSpellings": [
+      "Koopa"
+     ],
+     "answer": "Koopa Troopa"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Luigi"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mario"
+    },
+    {
+     "altSpellings": [
+      "Peach",
+      "Princesa",
+      "Princesa Toadstool"
+     ],
+     "answer": "Princesa Peach"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Yoshi"
+    }
+   ],
+   "category": "Juegos veloces",
+   "id": "111306",
+   "question": "Conductores en el [i]Mario Kart[/i] original"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "OC"
+     ],
+     "answer": "Orange County"
+    },
+    {
+     "altSpellings": [
+      "NYC"
+     ],
+     "answer": "New York City"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Atlanta"
+    },
+    {
+     "altSpellings": [],
+     "answer": "New Jersey"
+    },
+    {
+     "altSpellings": [
+      "Distrito de Columbia",
+      "DC"
+     ],
+     "answer": "D.C."
+    },
+    {
+     "altSpellings": [],
+     "answer": "Beverly Hills"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Miami"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Potomac"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bajo cero (Sub-Zero)"
+    },
+    {
+     "altSpellings": [
+      "SLC"
+     ],
+     "answer": "Salt Lake City"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Rhode Island"
+    }
+   ],
+   "category": "Reality Locals",
+   "countrySpecific": true,
+   "id": "111366",
+   "question": "The twelve U.S. locations of the [i]Real Housewives[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "NYC"
+     ],
+     "answer": "New York"
+    },
+    {
+     "altSpellings": [
+      "LA"
+     ],
+     "answer": "Los Angeles"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Chicago"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Houston"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Phoenix"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Philadelphia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "San Antonio"
+    },
+    {
+     "altSpellings": [],
+     "answer": "San Diego"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Dallas"
+    },
+    {
+     "altSpellings": [],
+     "answer": "San Jose"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Jacksonville"
+    },
+    {
+     "altSpellings": [
+      "Fort Worth"
+     ],
+     "answer": "Ft. Worth"
+    }
+   ],
+   "category": "Big Cities",
+   "countrySpecific": true,
+   "id": "111393",
+   "question": "Ciudades de los Estados Unidos de más de 1 millón de personas"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Ratón"
+     ],
+     "answer": "Rata"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Buey"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tigre"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Conejo"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Dragón (Dragon)"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Serpiente"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Caballo"
+    },
+    {
+     "altSpellings": [
+      "Oveja",
+      "Cordero"
+     ],
+     "answer": "Cabra"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mono"
+    },
+    {
+     "altSpellings": [
+      "Pollo"
+     ],
+     "answer": "Gallo"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Perro"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Cerdo"
+    }
+   ],
+   "category": "Zodíaco",
+   "id": "111394",
+   "question": "Los animales del zodíaco chino"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Creepy"
+    },
+    {
+     "altSpellings": [
+      "cooky"
+     ],
+     "answer": "Kooky"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mysterious"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Spooky"
+    },
+    {
+     "altSpellings": [
+      "ookie"
+     ],
+     "answer": "Ooky"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Neat"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sweet"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Petite"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Strange"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Deranged"
+    }
+   ],
+   "category": "Canciones espeluznantes",
+   "id": "111395",
+   "question": "Palabras utilizadas para describir la familia de Addams en su canción temática"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Tomates"
+     ],
+     "answer": "Tomate"
+    },
+    {
+     "altSpellings": [
+      "Zanahorias"
+     ],
+     "answer": "Zanahoria"
+    },
+    {
+     "altSpellings": [
+      "Appio"
+     ],
+     "answer": "Apio"
+    },
+    {
+     "altSpellings": [
+      "Beterragaa",
+      "Betabel"
+     ],
+     "answer": "Remolacha"
+    },
+    {
+     "altSpellings": [
+      "Lechuga iceberg"
+     ],
+     "answer": "Lechuga"
+    },
+    {
+     "altSpellings": [
+      "Watercrest"
+     ],
+     "answer": "Watercress"
+    },
+    {
+     "altSpellings": [
+      "Espinaca"
+     ],
+     "answer": "Espinaca"
+    },
+    {
+     "altSpellings": [
+      "Perejil"
+     ],
+     "answer": "Perejiles"
+    }
+   ],
+   "category": "Ingredientes del producto",
+   "id": "112020",
+   "question": "Los Siete Vegables (y una Fruta) en V8"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Fantasma",
+      "Fantasma de la Opera"
+     ],
+     "answer": "El Fantasma de la Ópera"
+    },
+    {
+     "altSpellings": [
+      "Chicago!"
+     ],
+     "answer": "Chicago"
+    },
+    {
+     "altSpellings": [
+      "Rey León"
+     ],
+     "answer": "El rey león"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Wicked"
+    },
+    {
+     "altSpellings": [
+      "¡Gatos!"
+     ],
+     "answer": "Gatos"
+    },
+    {
+     "altSpellings": [
+      "Les Miserables",
+      "Les Mis",
+      "Les Miz"
+     ],
+     "answer": "Les Misérables"
+    },
+    {
+     "altSpellings": [
+      "Chorus Line"
+     ],
+     "answer": "A Chorus Line"
+    }
+   ],
+   "category": "Musical Milestones",
+   "id": "112114",
+   "question": "Los siete espectáculos de Broadway de más larga duración hasta 2025"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Amenaza fantasma"
+     ],
+     "answer": "La amenaza fantasma"
+    },
+    {
+     "altSpellings": [
+      "El ataque de los clones"
+     ],
+     "answer": "Ataque de los clones"
+    },
+    {
+     "altSpellings": [
+      "La venganza de los Sith"
+     ],
+     "answer": "Venganza de los Sith"
+    },
+    {
+     "altSpellings": [
+      "Nueva esperanza"
+     ],
+     "answer": "Una nueva esperanza"
+    },
+    {
+     "altSpellings": [
+      "Imperio contraataca"
+     ],
+     "answer": "El imperio contraataca"
+    },
+    {
+     "altSpellings": [
+      "El regreso del Jedi"
+     ],
+     "answer": "Regreso del Jedi"
+    },
+    {
+     "altSpellings": [
+      "Despertar de la fuerza"
+     ],
+     "answer": "El despertar de la fuerza"
+    },
+    {
+     "altSpellings": [
+      "Último Jedi"
+     ],
+     "answer": "El último Jedi"
+    },
+    {
+     "altSpellings": [
+      "Ascenso de Skywalker"
+     ],
+     "answer": "El ascenso de Skywalker"
+    }
+   ],
+   "category": "Franquicia sci-fi",
+   "id": "112116",
+   "question": "Los 9 subtítulos para los episodios I-IX de las películas de [i]Star Wars[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Francia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Alemania"
+    },
+    {
+     "altSpellings": [
+      "Luxamburgo",
+      "Luxemburg",
+      "Luxemborgo",
+      "Luxamborgo"
+     ],
+     "answer": "Luxemburgo"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Islandia"
+    },
+    {
+     "altSpellings": [
+      "Griego"
+     ],
+     "answer": "Grecia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Finlandia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Italia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Suiza"
+    },
+    {
+     "altSpellings": [
+      "Checa"
+     ],
+     "answer": "República Checa"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Estonia"
+    },
+    {
+     "altSpellings": [
+      "Países Bajos",
+      "Holanda"
+     ],
+     "answer": "Países Bajos"
+    }
+   ],
+   "category": "Comida internacional",
+   "id": "112119",
+   "question": "Países que consumen más queso per cápita"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Man"
+     ],
+     "answer": "Person"
+    },
+    {
+     "altSpellings": [
+      "Themselves",
+      "Himself",
+      "Herself",
+      "Themself"
+     ],
+     "answer": "Self"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Nature"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Society"
+    },
+    {
+     "altSpellings": [
+      "God"
+     ],
+     "answer": "Fate"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Supernatural"
+    },
+    {
+     "altSpellings": [
+      "Machine"
+     ],
+     "answer": "Technology"
+    }
+   ],
+   "category": "Writing conventions",
+   "id": "112120",
+   "question": "The 7 basic literary conflicts (AKA “Person vs...”)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "FB"
+     ],
+     "answer": "Facebook"
+    },
+    {
+     "altSpellings": [
+      "You Tube"
+     ],
+     "answer": "YouTube"
+    },
+    {
+     "altSpellings": [
+      "Whats App"
+     ],
+     "answer": "WhatsApp"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Instagram"
+    },
+    {
+     "altSpellings": [
+      "Tik Tok"
+     ],
+     "answer": "TikTok"
+    },
+    {
+     "altSpellings": [
+      "We chat"
+     ],
+     "answer": "WeChat"
+    },
+    {
+     "altSpellings": [
+      "Linked In",
+      "Linkdin"
+     ],
+     "answer": "LinkedIn"
+    }
+   ],
+   "category": "Your Socials",
+   "id": "112263",
+   "question": "As of 2025, social media sites with 1 billion active users"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Fool",
+      "Folly",
+      "The Crocodile"
+     ],
+     "answer": "The Fool"
+    },
+    {
+     "altSpellings": [
+      "Magician",
+      "The Juggler",
+      "The Mountebank",
+      "The Magus"
+     ],
+     "answer": "The Magician"
+    },
+    {
+     "altSpellings": [
+      "Priestess",
+      "High Priestess",
+      "The Priestess",
+      "The Popess"
+     ],
+     "answer": "The High Priestess"
+    },
+    {
+     "altSpellings": [
+      "Empress"
+     ],
+     "answer": "The Empress"
+    },
+    {
+     "altSpellings": [
+      "Emperador (Emperor)"
+     ],
+     "answer": "The Emperor"
+    },
+    {
+     "altSpellings": [
+      "Hierophant",
+      "The Pope"
+     ],
+     "answer": "The Hierophant"
+    },
+    {
+     "altSpellings": [
+      "Lovers",
+      "Marriage",
+      "The Two Roads"
+     ],
+     "answer": "The Lovers"
+    },
+    {
+     "altSpellings": [
+      "Chariot",
+      "The Chariot of Osiris",
+      "Osiris Triumphant"
+     ],
+     "answer": "The Chariot"
+    },
+    {
+     "altSpellings": [
+      "Fortitude"
+     ],
+     "answer": "Strength"
+    },
+    {
+     "altSpellings": [
+      "Hermit",
+      "The Sage",
+      "The Wise Man",
+      "The Veiled Lamp"
+     ],
+     "answer": "The Hermit"
+    },
+    {
+     "altSpellings": [
+      "The Wheel of Fortune",
+      "The Sphinx"
+     ],
+     "answer": "Wheel of Fortune"
+    },
+    {
+     "altSpellings": [
+      "Themis"
+     ],
+     "answer": "Toxic"
+    },
+    {
+     "altSpellings": [
+      "Hanged Man",
+      "Prudence",
+      "The People"
+     ],
+     "answer": "The Hanged Man"
+    },
+    {
+     "altSpellings": [
+      "Grim Reaper",
+      "The Reaper",
+      "The Scythe"
+     ],
+     "answer": "Death"
+    },
+    {
+     "altSpellings": [
+      "Temprance"
+     ],
+     "answer": "Temperance"
+    },
+    {
+     "altSpellings": [
+      "Lucifer",
+      "Satan",
+      "Typhon",
+      "Devil"
+     ],
+     "answer": "The Devil"
+    },
+    {
+     "altSpellings": [
+      "Noob Saibot (Noob Saibot)",
+      "The House of God",
+      "The Blasted Tower",
+      "The Beheaded Tower"
+     ],
+     "answer": "The Tower"
+    },
+    {
+     "altSpellings": [
+      "Star",
+      "The Dog Star",
+      "Osiris"
+     ],
+     "answer": "The Star"
+    },
+    {
+     "altSpellings": [
+      "Moon",
+      "Twilight",
+      "The Twilight"
+     ],
+     "answer": "The Moon"
+    },
+    {
+     "altSpellings": [
+      "Sol (Sun)",
+      "The Blazing Light"
+     ],
+     "answer": "The Sun"
+    },
+    {
+     "altSpellings": [
+      "Judgment"
+     ],
+     "answer": "Judgement"
+    },
+    {
+     "altSpellings": [
+      "World",
+      "The Universe",
+      "Universe"
+     ],
+     "answer": "The World"
+    }
+   ],
+   "category": "NEW AGE RELIGION",
+   "id": "112444",
+   "question": "The Major Arcana Tarot Cards",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Cardiovascular",
+      "Circulatory"
+     ],
+     "answer": "Cardiovascular System"
+    },
+    {
+     "altSpellings": [
+      "Digestive",
+      "Gastrointestinal",
+      "Digestion"
+     ],
+     "answer": "Digestive System"
+    },
+    {
+     "altSpellings": [
+      "Endocrine"
+     ],
+     "answer": "Endocrine System"
+    },
+    {
+     "altSpellings": [
+      "Immune",
+      "Lymphatic",
+      "Lymphatic System"
+     ],
+     "answer": "Immune System"
+    },
+    {
+     "altSpellings": [
+      "Muscular"
+     ],
+     "answer": "Muscular System"
+    },
+    {
+     "altSpellings": [
+      "Nervous",
+      "Nerves"
+     ],
+     "answer": "Nervous System"
+    },
+    {
+     "altSpellings": [
+      "Integumentary",
+      "Skin",
+      "Dermis"
+     ],
+     "answer": "Integumentary System"
+    },
+    {
+     "altSpellings": [
+      "Reproductive",
+      "Reproduction"
+     ],
+     "answer": "Reproductive System"
+    },
+    {
+     "altSpellings": [
+      "Respiratory",
+      "Respiration"
+     ],
+     "answer": "Respiratory System"
+    },
+    {
+     "altSpellings": [
+      "Skeletal",
+      "Skeleton"
+     ],
+     "answer": "Skeletal System"
+    },
+    {
+     "altSpellings": [
+      "Urinary",
+      "Waste"
+     ],
+     "answer": "Urinary System"
+    }
+   ],
+   "category": "THE HUMAN BODY",
+   "id": "112445",
+   "question": "The Systems of the Human Body"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Rams"
+     ],
+     "answer": "Cordero"
+    },
+    {
+     "altSpellings": [
+      "Bulls"
+     ],
+     "answer": "Bull"
+    },
+    {
+     "altSpellings": [
+      "Twin"
+     ],
+     "answer": "Twins"
+    },
+    {
+     "altSpellings": [
+      "Crabs"
+     ],
+     "answer": "Crab"
+    },
+    {
+     "altSpellings": [
+      "Lions"
+     ],
+     "answer": "Lion"
+    },
+    {
+     "altSpellings": [
+      "Virgin"
+     ],
+     "answer": "Maiden"
+    },
+    {
+     "altSpellings": [
+      "Balance",
+      "Scale"
+     ],
+     "answer": "Scales"
+    },
+    {
+     "altSpellings": [
+      "Scorpions"
+     ],
+     "answer": "Scorpion"
+    },
+    {
+     "altSpellings": [
+      "Arrow",
+      "Bow and arrow",
+      "Bow & Arrow"
+     ],
+     "answer": "Archer"
+    },
+    {
+     "altSpellings": [
+      "Goats"
+     ],
+     "answer": "Cabra"
+    },
+    {
+     "altSpellings": [
+      "Water holder",
+      "Water",
+      "Waterbearer",
+      "Water pot",
+      "Jug"
+     ],
+     "answer": "Water Bearer"
+    },
+    {
+     "altSpellings": [
+      "Fishes",
+      "Two fish",
+      "2 fish"
+     ],
+     "answer": "Fish"
+    }
+   ],
+   "category": "ASTROLOGY",
+   "id": "112446",
+   "question": "Western Astrological Symbols (Symbols, not names)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Blanca Nieves",
+      "Blanca"
+     ],
+     "answer": "Blancanieves"
+    },
+    {
+     "altSpellings": [
+      "Cinderella"
+     ],
+     "answer": "Cenicienta"
+    },
+    {
+     "altSpellings": [
+      "Bella durmiente"
+     ],
+     "answer": "Aurora"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ariel"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bella"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Jazmín"
+    },
+    {
+     "altSpellings": [
+      "Pocohontas",
+      "Pocahantas",
+      "Pocahontos",
+      "Pocohontos",
+      "Pocahontiss",
+      "Pocohontiss"
+     ],
+     "answer": "Pocahontas"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mulán"
+    },
+    {
+     "altSpellings": [
+      "Tiyana",
+      "Tianna"
+     ],
+     "answer": "Tiana"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Rapunzel"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mérida"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Moana"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Raya"
+    }
+   ],
+   "category": "CHILDREN’S MEDIA",
+   "id": "112447",
+   "question": "The Official “Disney Princess” Princesses"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Prideful",
+      "Vainglory"
+     ],
+     "answer": "Pride"
+    },
+    {
+     "altSpellings": [
+      "Greedy",
+      "Covetousness"
+     ],
+     "answer": "Greed"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Lust"
+    },
+    {
+     "altSpellings": [
+      "Jealously",
+      "Jealous",
+      "Envious"
+     ],
+     "answer": "Envy"
+    },
+    {
+     "altSpellings": [
+      "Lazy",
+      "Laziness"
+     ],
+     "answer": "Sloth"
+    },
+    {
+     "altSpellings": [
+      "Anger",
+      "Wraith"
+     ],
+     "answer": "Wrath"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gluttony"
+    }
+   ],
+   "category": "THEOLOGY",
+   "id": "112448",
+   "question": "The 7 Deadly Sins",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Artic"
+     ],
+     "answer": "Arctic"
+    },
+    {
+     "altSpellings": [],
+     "answer": "South Atlantic"
+    },
+    {
+     "altSpellings": [],
+     "answer": "North Pacific"
+    },
+    {
+     "altSpellings": [],
+     "answer": "South Pacific"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Indian"
+    },
+    {
+     "altSpellings": [
+      "Southern",
+      "Anartic"
+     ],
+     "answer": "Antarctic"
+    },
+    {
+     "altSpellings": [],
+     "answer": "North Atlantic"
+    }
+   ],
+   "category": "World Geography",
+   "id": "112449",
+   "question": "The 7 Seas"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "A"
+     ],
+     "answer": "Vitamina A"
+    },
+    {
+     "altSpellings": [
+      "C"
+     ],
+     "answer": "Vitamina C"
+    },
+    {
+     "altSpellings": [
+      "D"
+     ],
+     "answer": "Vitamina D"
+    },
+    {
+     "altSpellings": [
+      "E"
+     ],
+     "answer": "Vitamina E"
+    },
+    {
+     "altSpellings": [
+      "K"
+     ],
+     "answer": "Vitamina K"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tiamina"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Riboflavina"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Niacina"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ácido pantoténico"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Biotina"
+    },
+    {
+     "altSpellings": [
+      "B-6"
+     ],
+     "answer": "B6"
+    },
+    {
+     "altSpellings": [
+      "B-12"
+     ],
+     "answer": "B12"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Folato"
+    }
+   ],
+   "category": "EL CUERPO HUMANO",
+   "id": "112450",
+   "question": "Las 13 vitaminas esenciales"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Alemania"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Italia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Japón"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hungría"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Rumania"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bulgaria"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Eslovaquia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Croacia"
+    }
+   ],
+   "category": "HISTORIA DE LA SEGUNDA GUERRA MUNDIAL",
+   "id": "112454",
+   "question": "Países del Eje en la segunda guerra mundial"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Beagle"
+    },
+    {
+     "altSpellings": [
+      "Shorthaired Pointer",
+      "Pointer",
+      "Shorthair Pointer",
+      "German Shorthaired"
+     ],
+     "answer": "German Shorthaired Pointer"
+    },
+    {
+     "altSpellings": [
+      "GSD",
+      "German Shepherd",
+      "German Shephard"
+     ],
+     "answer": "German Shepherd Dog"
+    },
+    {
+     "altSpellings": [
+      "Bichon"
+     ],
+     "answer": "Bichon Frise"
+    },
+    {
+     "altSpellings": [
+      "Terrier"
+     ],
+     "answer": "Wire Fox Terrier"
+    },
+    {
+     "altSpellings": [
+      "Poodle"
+     ],
+     "answer": "Standard Poodle"
+    },
+    {
+     "altSpellings": [
+      "Pekinese",
+      "Pekanese"
+     ],
+     "answer": "Pekingese"
+    },
+    {
+     "altSpellings": [
+      "Blood Hound"
+     ],
+     "answer": "Bloodhound"
+    },
+    {
+     "altSpellings": [
+      "PBGV",
+      "Petit",
+      "Roughie",
+      "Griffon",
+      "Petit Basset Griffon Vendeen",
+      "Griffon Vendéen",
+      "Griffon Vendeen"
+     ],
+     "answer": "Petit Basset Griffon Vendéen"
+    },
+    {
+     "altSpellings": [
+      "Poodle"
+     ],
+     "answer": "Miniature Poodle"
+    },
+    {
+     "altSpellings": [
+      "Schnauzer"
+     ],
+     "answer": "Giant Schnauzer"
+    }
+   ],
+   "category": "DOG BREEDS",
+   "id": "112455",
+   "question": "Westminster Best In Show-Winning Breeds, 2015-25"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Zoolander"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Zoolander 2"
+    },
+    {
+     "altSpellings": [
+      "Starsky and Hutch",
+      "Starsky + Hutch"
+     ],
+     "answer": "Starsky & Hutch"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Night at the Museum"
+    },
+    {
+     "altSpellings": [
+      "Battle of the Smithsonian",
+      "Battle at the Smithonsian"
+     ],
+     "answer": "Night at the Museum: Battle of the Smithsonian"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Night at the Museum: Secret of the Tomb"
+    },
+    {
+     "altSpellings": [
+      "Cable Guy"
+     ],
+     "answer": "The Cable Guy"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Meet the Parents"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Meet the Fockers"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Little Fockers"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Permanent Midnight"
+    },
+    {
+     "altSpellings": [
+      "Royal Tenenbaums"
+     ],
+     "answer": "The Royal Tenenbaums"
+    }
+   ],
+   "category": "COMEDY ACTORS",
+   "id": "112457",
+   "question": "Movies Starring Both Ben Stiller & Owen Wilson"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Brown"
+     ],
+     "answer": "Universidad Brown"
+    },
+    {
+     "altSpellings": [
+      "Columbia"
+     ],
+     "answer": "Universidad de Columbia"
+    },
+    {
+     "altSpellings": [
+      "Cornell"
+     ],
+     "answer": "Universidad Cornell"
+    },
+    {
+     "altSpellings": [
+      "Dartmouth"
+     ],
+     "answer": "Dartmouth College"
+    },
+    {
+     "altSpellings": [
+      "Harvard"
+     ],
+     "answer": "Universidad Harvard"
+    },
+    {
+     "altSpellings": [
+      "UPenn",
+      "Universidad de Pensilvania",
+      "Pennsylvania University"
+     ],
+     "answer": "La Universidad de Pensilvania"
+    },
+    {
+     "altSpellings": [
+      "Princeton"
+     ],
+     "answer": "Universidad de Princeton"
+    },
+    {
+     "altSpellings": [
+      "Yale"
+     ],
+     "answer": "Universidad Yale"
+    }
+   ],
+   "category": "UNIVERSIDADES DE ESTADOS UNIDOS",
+   "countrySpecific": true,
+   "id": "112502",
+   "question": "La Ivy League"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Zues"
+     ],
+     "answer": "Zeus"
+    },
+    {
+     "altSpellings": [
+      "Herra"
+     ],
+     "answer": "Hera"
+    },
+    {
+     "altSpellings": [
+      "Poseiden",
+      "Posidon"
+     ],
+     "answer": "Poseidón"
+    },
+    {
+     "altSpellings": [
+      "Thanos"
+     ],
+     "answer": "Tánatos"
+    },
+    {
+     "altSpellings": [
+      "Atena"
+     ],
+     "answer": "Atenea"
+    },
+    {
+     "altSpellings": [
+      "Helio"
+     ],
+     "answer": "Helios"
+    },
+    {
+     "altSpellings": [
+      "Hefasto"
+     ],
+     "answer": "Hefesto"
+    },
+    {
+     "altSpellings": [
+      "Aries"
+     ],
+     "answer": "Ares"
+    },
+    {
+     "altSpellings": [
+      "Persofone"
+     ],
+     "answer": "Perséfone"
+    },
+    {
+     "altSpellings": [
+      "Hermmes"
+     ],
+     "answer": "Hermes"
+    },
+    {
+     "altSpellings": [
+      "Haddes"
+     ],
+     "answer": "Hades"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Cérix"
+    },
+    {
+     "altSpellings": [
+      "Crono"
+     ],
+     "answer": "Cronos"
+    }
+   ],
+   "category": "MITOLOGÍA GRIEGA",
+   "id": "112503",
+   "question": "Dioses griegos que matas en los juegos de [i]God of War[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Illinois"
+     ],
+     "answer": "University of Illinois"
+    },
+    {
+     "altSpellings": [
+      "Indiana",
+      "IU",
+      "Indiana University Bloomington"
+     ],
+     "answer": "Indiana University"
+    },
+    {
+     "altSpellings": [
+      "Iowa"
+     ],
+     "answer": "University of Iowa"
+    },
+    {
+     "altSpellings": [
+      "UMD",
+      "Maryland",
+      "University of Maryland, College Park",
+      "University of Maryland College Park"
+     ],
+     "answer": "University of Maryland"
+    },
+    {
+     "altSpellings": [
+      "Michigan",
+      "U of M"
+     ],
+     "answer": "University of Michigan"
+    },
+    {
+     "altSpellings": [
+      "Michigan State",
+      "MSU"
+     ],
+     "answer": "Michigan State University"
+    },
+    {
+     "altSpellings": [
+      "UMN",
+      "University of Minnesota Twin Cities"
+     ],
+     "answer": "University of Minnesota"
+    },
+    {
+     "altSpellings": [
+      "Nebraska",
+      "University of Nebraska",
+      "University of Nebraska Lincoln"
+     ],
+     "answer": "University of Nebraska–Lincoln"
+    },
+    {
+     "altSpellings": [
+      "OSU",
+      "Ohio State",
+      "Ohio"
+     ],
+     "answer": "Ohio State University"
+    },
+    {
+     "altSpellings": [
+      "Oregon",
+      "UO",
+      "U of O"
+     ],
+     "answer": "University of Oregon"
+    },
+    {
+     "altSpellings": [
+      "PSU",
+      "Penn State"
+     ],
+     "answer": "Pennsylvania State University"
+    },
+    {
+     "altSpellings": [
+      "Rutgers"
+     ],
+     "answer": "Rutgers University"
+    },
+    {
+     "altSpellings": [
+      "UCLA",
+      "University of California Los Angeles"
+     ],
+     "answer": "University of California, Los Angeles"
+    },
+    {
+     "altSpellings": [
+      "USC",
+      "SC",
+      "Southern Cal"
+     ],
+     "answer": "University of Southern California"
+    },
+    {
+     "altSpellings": [
+      "UW Madison",
+      "UW",
+      "UW–Madison"
+     ],
+     "answer": "University of Wisconsin–Madison"
+    },
+    {
+     "altSpellings": [
+      "Washington"
+     ],
+     "answer": "University of Washington"
+    },
+    {
+     "altSpellings": [
+      "Purdue"
+     ],
+     "answer": "Purdue University"
+    },
+    {
+     "altSpellings": [
+      "Northwestern",
+      "NU"
+     ],
+     "answer": "Northwestern University"
+    }
+   ],
+   "category": "SCHOOLS",
+   "countrySpecific": true,
+   "id": "112515",
+   "question": "Big Ten Conference Schools"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "U.S.",
+      "US",
+      "The United States",
+      "The States",
+      "The U.S.",
+      "USA",
+      "U.S.A."
+     ],
+     "answer": "United States"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Canada"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Francia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Italia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Alemania"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Japan"
+    },
+    {
+     "altSpellings": [
+      "U.K.",
+      "The United Kingdom",
+      "England",
+      "The U.K.",
+      "Britain",
+      "Great Britain"
+     ],
+     "answer": "United Kingdom"
+    }
+   ],
+   "category": "COUNTRIES",
+   "id": "112532",
+   "question": "The seven countries that make up the G-7"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nemo",
+      "Buscando a Nemo"
+     ],
+     "answer": "Buscando a Nemo"
+    },
+    {
+     "altSpellings": [
+      "Increíbles",
+      "Los increíbles"
+     ],
+     "answer": "Los increíbles"
+    },
+    {
+     "altSpellings": [
+      "Ratatooie",
+      "Ratatouille"
+     ],
+     "answer": "Ratatouille"
+    },
+    {
+     "altSpellings": [
+      "Wall E",
+      "Wally"
+     ],
+     "answer": "WALL-E"
+    },
+    {
+     "altSpellings": [
+      "Up"
+     ],
+     "answer": "Up"
+    },
+    {
+     "altSpellings": [
+      "Toy Story Tres",
+      "Toy Story 3"
+     ],
+     "answer": "Toy Story 3"
+    },
+    {
+     "altSpellings": [
+      "Valiente"
+     ],
+     "answer": "Valiente"
+    },
+    {
+     "altSpellings": [
+      "Intensa Mente"
+     ],
+     "answer": "Intensa Mente"
+    },
+    {
+     "altSpellings": [
+      "Coco",
+      "Cocos"
+     ],
+     "answer": "Coco"
+    },
+    {
+     "altSpellings": [
+      "Toy Story Cuatro",
+      "Toy Story 4"
+     ],
+     "answer": "Toy Story 4"
+    },
+    {
+     "altSpellings": [
+      "Soul"
+     ],
+     "answer": "Soul"
+    }
+   ],
+   "category": "PELÍCULAS ANIMADAS",
+   "id": "112533",
+   "question": "Películas de Pixar hasta el 2025 ganadoras del Óscar a “Mejor película animada”"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Pitcher"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Catcher"
+    },
+    {
+     "altSpellings": [
+      "1st base",
+      "First baseman",
+      "1st baseman",
+      "First"
+     ],
+     "answer": "First base"
+    },
+    {
+     "altSpellings": [
+      "2nd base",
+      "2nd baseman",
+      "Second baseman",
+      "Second"
+     ],
+     "answer": "Second base"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Shortstop"
+    },
+    {
+     "altSpellings": [
+      "3rd base",
+      "3rd baseman",
+      "Third baseman",
+      "Third"
+     ],
+     "answer": "Third base"
+    },
+    {
+     "altSpellings": [
+      "Left fielder",
+      "leftfield"
+     ],
+     "answer": "Left field"
+    },
+    {
+     "altSpellings": [
+      "Center fielder",
+      "Centerfield"
+     ],
+     "answer": "Center field"
+    },
+    {
+     "altSpellings": [
+      "Right fielder",
+      "Rightfield"
+     ],
+     "answer": "Right field"
+    }
+   ],
+   "category": "BASEBALL",
+   "id": "112534",
+   "question": "The Nine Baseball Fielding Positions"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "2% milk",
+      "2%",
+      "Skim",
+      "Whole",
+      "Nonfat",
+      "Skim milk",
+      "Whole milk",
+      "Nonfat milk",
+      "Semi-skimmed milk",
+      "Trim milk",
+      "Skimmed milk"
+     ],
+     "answer": "Milk"
+    },
+    {
+     "altSpellings": [
+      "Almond milk"
+     ],
+     "answer": "Almond"
+    },
+    {
+     "altSpellings": [
+      "Coconut milk"
+     ],
+     "answer": "Coconut"
+    },
+    {
+     "altSpellings": [
+      "Oat milk",
+      "Oatmilk"
+     ],
+     "answer": "Oat"
+    },
+    {
+     "altSpellings": [
+      "Half and half",
+      "Breve"
+     ],
+     "answer": "Half & Half"
+    },
+    {
+     "altSpellings": [
+      "Soy milk",
+      "Soya"
+     ],
+     "answer": "Soy"
+    },
+    {
+     "altSpellings": [
+      "Sweet cream"
+     ],
+     "answer": "Cream"
+    }
+   ],
+   "category": "BEVERAGES",
+   "countrySpecific": true,
+   "id": "112536",
+   "question": "The types of milk you can add to a drink at Starbucks"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "The Kings Speech",
+      "King’s Speech",
+      "Kings Speech"
+     ],
+     "answer": "The King’s Speech"
+    },
+    {
+     "altSpellings": [
+      "Artist"
+     ],
+     "answer": "The Artist"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Argo"
+    },
+    {
+     "altSpellings": [
+      "Twelve Years a Slave"
+     ],
+     "answer": "12 Years a Slave"
+    },
+    {
+     "altSpellings": [
+      "Birdman"
+     ],
+     "answer": "Birdman or (The Unexpected Virtue of Ignorance)"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Spotlight"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Moonlight"
+    },
+    {
+     "altSpellings": [
+      "Shape of Water"
+     ],
+     "answer": "The Shape of Water"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Green Book"
+    },
+    {
+     "altSpellings": [],
+     "answer": "General Zod"
+    }
+   ],
+   "category": "10/10 Movies",
+   "id": "112549",
+   "question": "The 10 Oscars Best Picture Winners of the 2010s"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "100 meter dash",
+      "100 meters",
+      "100 meter",
+      "100-metre dash",
+      "100 metre dash",
+      "100 metres",
+      "100 metre",
+      "100",
+      "100m"
+     ],
+     "answer": "100-meter dash"
+    },
+    {
+     "altSpellings": [
+      "400 meter dash",
+      "400 meters",
+      "400 meter",
+      "400-metre dash",
+      "400 metre dash",
+      "400 metres",
+      "400 metre",
+      "400",
+      "400m"
+     ],
+     "answer": "400-meter dash"
+    },
+    {
+     "altSpellings": [
+      "1500 meter run",
+      "1500 meters",
+      "1500 meter",
+      "1500-metre run",
+      "1500 metre run",
+      "1500 metres",
+      "1500 metre",
+      "1500",
+      "1500m"
+     ],
+     "answer": "1500-meter run"
+    },
+    {
+     "altSpellings": [
+      "110 meter hurdles",
+      "110-metre hurdles",
+      "110 metre hurdles",
+      "Hurdles"
+     ],
+     "answer": "110-meter hurdles"
+    },
+    {
+     "altSpellings": [
+      "Shotput"
+     ],
+     "answer": "Shot put"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Long jump"
+    },
+    {
+     "altSpellings": [],
+     "answer": "High jump"
+    },
+    {
+     "altSpellings": [
+      "Vault"
+     ],
+     "answer": "Pole vault"
+    },
+    {
+     "altSpellings": [
+      "Discus"
+     ],
+     "answer": "Discus throw"
+    },
+    {
+     "altSpellings": [
+      "Javelin"
+     ],
+     "answer": "Javelin throw"
+    }
+   ],
+   "category": "Track & Field",
+   "id": "112550",
+   "question": "Decathlon Events"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Cleveland",
+      "Browns"
+     ],
+     "answer": "Cleveland Browns"
+    },
+    {
+     "altSpellings": [
+      "Detroit",
+      "Lions"
+     ],
+     "answer": "Detroit Lions"
+    },
+    {
+     "altSpellings": [
+      "Houston",
+      "Texans"
+     ],
+     "answer": "Houston Texans"
+    },
+    {
+     "altSpellings": [
+      "Jacksonville",
+      "Jaguars",
+      "Jags"
+     ],
+     "answer": "Jacksonville Jaguars"
+    },
+    {
+     "altSpellings": [
+      "Arizona",
+      "Cardinals"
+     ],
+     "answer": "Arizona Cardinals"
+    },
+    {
+     "altSpellings": [
+      "Chargers",
+      "LA Chargers"
+     ],
+     "answer": "Los Angeles Chargers"
+    },
+    {
+     "altSpellings": [
+      "Tennessee",
+      "Titans"
+     ],
+     "answer": "Tennessee Titans"
+    },
+    {
+     "altSpellings": [
+      "Atlanta",
+      "Falcons"
+     ],
+     "answer": "Atlanta Falcons"
+    },
+    {
+     "altSpellings": [
+      "Carolina",
+      "Panthers"
+     ],
+     "answer": "Carolina Panthers"
+    },
+    {
+     "altSpellings": [
+      "Cincinnati",
+      "Bengals"
+     ],
+     "answer": "Cincinnati Bengals"
+    },
+    {
+     "altSpellings": [
+      "Buffalo",
+      "Bills"
+     ],
+     "answer": "Buffalo Bills"
+    },
+    {
+     "altSpellings": [
+      "Minnesota",
+      "Vikings"
+     ],
+     "answer": "Minnesota Vikings"
+    }
+   ],
+   "category": "Super Bowl Blues",
+   "countrySpecific": true,
+   "id": "112551",
+   "question": "As of 2025, NFL Teams Without a Super Bowl Victory"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Paper"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Cotton"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Crisálida"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Fruit"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Flowers"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Wood"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Iron"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Wool"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Copper"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bronze"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pottery"
+    },
+    {
+     "altSpellings": [
+      "Aluminum"
+     ],
+     "answer": "Tin"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Crystal"
+    },
+    {
+     "altSpellings": [],
+     "answer": "China"
+    },
+    {
+     "altSpellings": [
+      "Sterling Silver",
+      "Sterling"
+     ],
+     "answer": "Silver"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pearl"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Coral"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ruby"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sapphire"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Humo (Smoke)"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Emerald"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Escarcha (Frost)"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Platinum"
+    }
+   ],
+   "category": "Gift Giving",
+   "id": "112572",
+   "question": "Materials of Traditional Wedding Anniversary Gifts"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Direwolves"
+     ],
+     "answer": "Direwolf"
+    },
+    {
+     "altSpellings": [
+      "Male Deer",
+      "Deer"
+     ],
+     "answer": "Stag"
+    },
+    {
+     "altSpellings": [
+      "Fish",
+      "Trout",
+      "Silvertrout"
+     ],
+     "answer": "Silver Trout"
+    },
+    {
+     "altSpellings": [
+      "Lion"
+     ],
+     "answer": "Golden Lion"
+    },
+    {
+     "altSpellings": [
+      "Giant Squid"
+     ],
+     "answer": "Kraken"
+    },
+    {
+     "altSpellings": [
+      "Threeheaded dragon",
+      "Dragón (Dragon)"
+     ],
+     "answer": "Three-headed Dragon"
+    },
+    {
+     "altSpellings": [
+      "Falcon and Moon",
+      "Falcon & Moon",
+      "Falcon Moon",
+      "Moon & Falcon",
+      "Moon Falcon"
+     ],
+     "answer": "Moon and Falcon"
+    },
+    {
+     "altSpellings": [
+      "Sun spear",
+      "Sunspear",
+      "Spear and sun",
+      "Spear & sun",
+      "Sun & Spear"
+     ],
+     "answer": "Sun and Spear"
+    },
+    {
+     "altSpellings": [
+      "Rose",
+      "Gold rose"
+     ],
+     "answer": "Golden Rose"
+    }
+   ],
+   "category": "TELEVISION-BOOKS",
+   "id": "112578",
+   "question": "Sigils of the Great Houses of [i]Game of Thrones[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Phone"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mail"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Safari"
+    },
+    {
+     "altSpellings": [
+      "message",
+      "messages",
+      "imessage"
+     ],
+     "answer": "Text"
+    },
+    {
+     "altSpellings": [],
+     "answer": "iPod"
+    },
+    {
+     "altSpellings": [
+      "Calender"
+     ],
+     "answer": "Calendar"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Photos"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Camera"
+    },
+    {
+     "altSpellings": [],
+     "answer": "YouTube"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Stocks"
+    },
+    {
+     "altSpellings": [
+      "Google Maps"
+     ],
+     "answer": "Maps"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Weather"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Clock"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Calculator"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Notes"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ajustes"
+    }
+   ],
+   "category": "iPhone Icons",
+   "countrySpecific": true,
+   "id": "112600",
+   "question": "Name the Apps Included on the Original iPhone"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Garnet"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Amethyst"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Aquamarine"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bloodstone"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Escarcha (Frost)"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Emerald"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pearl"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Alexandrite"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Moonstone"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ruby"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Peridot"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sardonyx"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Spinel"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sapphire"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Opal"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tourmaline"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Topaz"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Citrine"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tanzanite"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Turquoise"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Zircon"
+    }
+   ],
+   "category": "Rock of the Month",
+   "id": "112628",
+   "question": "Name the Birthstones"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "The Army",
+      "USA"
+     ],
+     "answer": "Army"
+    },
+    {
+     "altSpellings": [
+      "Marines",
+      "Marine",
+      "USMC"
+     ],
+     "answer": "Marine Corps"
+    },
+    {
+     "altSpellings": [
+      "The Navy",
+      "USN"
+     ],
+     "answer": "Navy"
+    },
+    {
+     "altSpellings": [
+      "The Airforce",
+      "Airforce",
+      "The Air force",
+      "USAF"
+     ],
+     "answer": "Air Force"
+    },
+    {
+     "altSpellings": [
+      "The Space Force",
+      "USSF"
+     ],
+     "answer": "Space Force"
+    },
+    {
+     "altSpellings": [
+      "The Coast Guard",
+      "USCG"
+     ],
+     "answer": "Coast Guard"
+    }
+   ],
+   "category": "Military",
+   "countrySpecific": true,
+   "id": "112642",
+   "question": "Name the Six U.S. Armed Forces",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "The hall"
+     ],
+     "answer": "Hall"
+    },
+    {
+     "altSpellings": [
+      "The lounge"
+     ],
+     "answer": "Lounge"
+    },
+    {
+     "altSpellings": [
+      "The dining room"
+     ],
+     "answer": "Dining Room"
+    },
+    {
+     "altSpellings": [
+      "The kitchen"
+     ],
+     "answer": "Kitchen"
+    },
+    {
+     "altSpellings": [
+      "The ballroom"
+     ],
+     "answer": "Ballroom"
+    },
+    {
+     "altSpellings": [
+      "The conservatory"
+     ],
+     "answer": "Conservatory"
+    },
+    {
+     "altSpellings": [
+      "The billiard room"
+     ],
+     "answer": "Billiard Room"
+    },
+    {
+     "altSpellings": [
+      "The library"
+     ],
+     "answer": "Library"
+    },
+    {
+     "altSpellings": [
+      "The study"
+     ],
+     "answer": "Study"
+    }
+   ],
+   "category": "Room & Board Game",
+   "id": "113285",
+   "question": "Rooms in [i]Clue[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Aruba"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Jamaica"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bermuda"
+    },
+    {
+     "altSpellings": [
+      "Bahamas",
+      "The Bahamas"
+     ],
+     "answer": "Bahama"
+    },
+    {
+     "altSpellings": [
+      "Florida Keys",
+      "The Keys",
+      "Keys"
+     ],
+     "answer": "Key Largo"
+    },
+    {
+     "altSpellings": [
+      "Montego Bay"
+     ],
+     "answer": "Montego"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Martinique"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Montserrat"
+    },
+    {
+     "altSpellings": [
+      "Port au Prince"
+     ],
+     "answer": "Port-au-Prince"
+    }
+   ],
+   "category": "Tropical Tunes",
+   "id": "113286",
+   "question": "Vacation Destinations in The Beach Boys’ “Kokomo”"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Hungry",
+      "Food"
+     ],
+     "answer": "Hunger"
+    },
+    {
+     "altSpellings": [
+      "Sleep"
+     ],
+     "answer": "Energy"
+    },
+    {
+     "altSpellings": [
+      "Sit"
+     ],
+     "answer": "Comfort"
+    },
+    {
+     "altSpellings": [
+      "Jugar"
+     ],
+     "answer": "Fun"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hygiene"
+    },
+    {
+     "altSpellings": [
+      "Bathroom"
+     ],
+     "answer": "Bladder"
+    },
+    {
+     "altSpellings": [
+      "Environment",
+      "Home"
+     ],
+     "answer": "Room"
+    },
+    {
+     "altSpellings": [
+      "Socializing",
+      "Interaction"
+     ],
+     "answer": "Social"
+    }
+   ],
+   "category": "Sims Gameplay",
+   "id": "113290",
+   "question": "A Sim’s 8 “Needs”"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Milk"
+    },
+    {
+     "altSpellings": [
+      "Egg"
+     ],
+     "answer": "Eggs"
+    },
+    {
+     "altSpellings": [
+      "Peanut"
+     ],
+     "answer": "Peanuts"
+    },
+    {
+     "altSpellings": [
+      "Tree nut"
+     ],
+     "answer": "Tree nuts"
+    },
+    {
+     "altSpellings": [
+      "Shell fish",
+      "Crustaceans"
+     ],
+     "answer": "Shellfish"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Fish"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Wheat"
+    },
+    {
+     "altSpellings": [
+      "Soy",
+      "Soybean"
+     ],
+     "answer": "Soybeans"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sesame"
+    }
+   ],
+   "category": "Food Allergies",
+   "id": "113297",
+   "question": "The FDA’s “Big Nine” common food allergens"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nintendo Entertainment System",
+      "Famicom"
+     ],
+     "answer": "NES"
+    },
+    {
+     "altSpellings": [
+      "Super Nintendo Entertainment System",
+      "Super Famicom"
+     ],
+     "answer": "SNES"
+    },
+    {
+     "altSpellings": [
+      "Nintendo 64",
+      "Nintendo Sixty Four"
+     ],
+     "answer": "N64"
+    },
+    {
+     "altSpellings": [
+      "Nintendo GameCube"
+     ],
+     "answer": "GameCube"
+    },
+    {
+     "altSpellings": [
+      "Nintendo Wii",
+      "Wee",
+      "Nintendo Wee"
+     ],
+     "answer": "Wii"
+    },
+    {
+     "altSpellings": [
+      "Nintendo Wii-U",
+      "WiiU",
+      "Wee-U",
+      "Nintendo Wee-U",
+      "Wii-U",
+      "Nintendo Wii U"
+     ],
+     "answer": "Wii U"
+    },
+    {
+     "altSpellings": [
+      "Nintendo Switch"
+     ],
+     "answer": "Switch"
+    },
+    {
+     "altSpellings": [
+      "Nintendo Switch 2",
+      "Nintendo Switch Two",
+      "Switch Two"
+     ],
+     "answer": "Switch 2"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Virtual Boy"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Color TV-Game"
+    }
+   ],
+   "category": "Video Games",
+   "id": "113306",
+   "question": "Nintendo Home Consoles (as of 2025)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Royal flush"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Straight flush"
+    },
+    {
+     "altSpellings": [
+      "4 of a kind",
+      "Four-of-a-kind",
+      "4-of-a-kind"
+     ],
+     "answer": "Four of a kind"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Full House"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Flush"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Straight"
+    },
+    {
+     "altSpellings": [
+      "3 of a kind",
+      "Three-of-a-kind",
+      "3-of-a-kind"
+     ],
+     "answer": "Three of a kind"
+    },
+    {
+     "altSpellings": [
+      "2 pair"
+     ],
+     "answer": "Two pair"
+    },
+    {
+     "altSpellings": [
+      "One pair",
+      "1 pair",
+      "A pair"
+     ],
+     "answer": "Pair"
+    },
+    {
+     "altSpellings": [],
+     "answer": "High card"
+    }
+   ],
+   "category": "Card Games",
+   "id": "113308",
+   "question": "The Ten Hands that can be Played in Poker",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Austria"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Canada"
+    },
+    {
+     "altSpellings": [
+      "People’s Republic of China"
+     ],
+     "answer": "China"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Japan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Francia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Italia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Alemania"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Norway"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Russia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "South Korea"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Suiza"
+    },
+    {
+     "altSpellings": [
+      "USA",
+      "The US",
+      "U.S.A.",
+      "The U.S.A.",
+      "The U.S.",
+      "America",
+      "United States of America",
+      "U.S."
+     ],
+     "answer": "United States"
+    },
+    {
+     "altSpellings": [
+      "Bosnia",
+      "Herzegovina",
+      "Yugoslavia",
+      "Bosnia & Herzegovina"
+     ],
+     "answer": "Bosnia and Herzegovina"
+    }
+   ],
+   "category": "Cold Countries",
+   "id": "113366",
+   "question": "As of 2025, Host Countries of the Winter Olympics"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "escape"
+     ],
+     "answer": "Esc"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tab"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Caps"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Shift"
+    },
+    {
+     "altSpellings": [
+      "ctrl"
+     ],
+     "answer": "Control"
+    },
+    {
+     "altSpellings": [
+      "alt",
+      "option"
+     ],
+     "answer": "Option"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Command"
+    },
+    {
+     "altSpellings": [
+      "del"
+     ],
+     "answer": "Delete"
+    },
+    {
+     "altSpellings": [
+      "enter"
+     ],
+     "answer": "Return"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Lock"
+    }
+   ],
+   "category": "CLICKETY CLACK",
+   "id": "113503",
+   "question": "Words on a MacBook Keyboard"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Blueberry"
+     ],
+     "answer": "Blueberries"
+    },
+    {
+     "altSpellings": [
+      "Coffee beans"
+     ],
+     "answer": "Coffee"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Corn"
+    },
+    {
+     "altSpellings": [
+      "Hop"
+     ],
+     "answer": "Hops"
+    },
+    {
+     "altSpellings": [
+      "Hot pepper",
+      "Pepper",
+      "Peppers",
+      "Red pepper",
+      "Red peppers"
+     ],
+     "answer": "Hot peppers"
+    },
+    {
+     "altSpellings": [
+      "Sombrerito",
+      "Watermelon",
+      "Watermelons"
+     ],
+     "answer": "Melons"
+    },
+    {
+     "altSpellings": [
+      "Poppy",
+      "Poppy flower",
+      "Poppy flowers"
+     ],
+     "answer": "Poppies"
+    },
+    {
+     "altSpellings": [
+      "Radish"
+     ],
+     "answer": "Radishes"
+    },
+    {
+     "altSpellings": [
+      "Red cabbage",
+      "Cabbage",
+      "Cabbages"
+     ],
+     "answer": "Red cabbages"
+    },
+    {
+     "altSpellings": [
+      "Starfruit",
+      "Star fruit",
+      "Star fruits"
+     ],
+     "answer": "Starfruits"
+    },
+    {
+     "altSpellings": [
+      "Summer spangle",
+      "Spangle",
+      "Spangles"
+     ],
+     "answer": "Summer spangles"
+    },
+    {
+     "altSpellings": [
+      "Squash",
+      "Squashes",
+      "Summer squash"
+     ],
+     "answer": "Summer squashes"
+    },
+    {
+     "altSpellings": [
+      "Sunflower",
+      "Sun flower",
+      "Sun flowers"
+     ],
+     "answer": "Sunflowers"
+    },
+    {
+     "altSpellings": [
+      "Tomate",
+      "Tomatos"
+     ],
+     "answer": "Tomates"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Wheat"
+    }
+   ],
+   "category": "Agriculture",
+   "id": "113564",
+   "question": "The [i]Stardew Valley[/i] Summer Crops"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "One",
+      "Buck",
+      "1"
+     ],
+     "answer": "$1"
+    },
+    {
+     "altSpellings": [
+      "Two",
+      "2"
+     ],
+     "answer": "$2"
+    },
+    {
+     "altSpellings": [
+      "Five",
+      "5"
+     ],
+     "answer": "$5"
+    },
+    {
+     "altSpellings": [
+      "Ten",
+      "10"
+     ],
+     "answer": "$10"
+    },
+    {
+     "altSpellings": [
+      "Twenty",
+      "20"
+     ],
+     "answer": "$20"
+    },
+    {
+     "altSpellings": [
+      "Fifty",
+      "50"
+     ],
+     "answer": "$50"
+    },
+    {
+     "altSpellings": [
+      "One hundred",
+      "Hundred",
+      "100"
+     ],
+     "answer": "$100"
+    },
+    {
+     "altSpellings": [
+      "Five hundred",
+      "500"
+     ],
+     "answer": "$500"
+    },
+    {
+     "altSpellings": [
+      "Thousand",
+      "One thousand",
+      "1,000",
+      "$1000",
+      "1000",
+      "$1k"
+     ],
+     "answer": "$1,000"
+    },
+    {
+     "altSpellings": [
+      "Five thousand",
+      "$5000",
+      "5000",
+      "5,000",
+      "$5k"
+     ],
+     "answer": "$5,000"
+    },
+    {
+     "altSpellings": [
+      "Ten thousand",
+      "10,000",
+      "$10000",
+      "10000",
+      "$10k"
+     ],
+     "answer": "$10,000"
+    }
+   ],
+   "category": "Currency",
+   "countrySpecific": true,
+   "id": "113567",
+   "question": "U.S. Bill Denominations in Circulation"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Back to New York",
+      "NYC"
+     ],
+     "answer": "New York City"
+    },
+    {
+     "altSpellings": [
+      "LA"
+     ],
+     "answer": "Los Angeles"
+    },
+    {
+     "altSpellings": [
+      "SF"
+     ],
+     "answer": "San Francisco"
+    },
+    {
+     "altSpellings": [],
+     "answer": "London"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Miami"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Boston"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Seattle"
+    },
+    {
+     "altSpellings": [
+      "Hawaii"
+     ],
+     "answer": "Honolulu"
+    },
+    {
+     "altSpellings": [
+      "NoLa"
+     ],
+     "answer": "New Orleans"
+    }
+   ],
+   "category": "’90s Reality",
+   "id": "113578",
+   "question": "First Ten Locations of MTV’s [i]The Real World[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Evans"
+     ],
+     "answer": "Chris Evans"
+    },
+    {
+     "altSpellings": [
+      "Hemsworth"
+     ],
+     "answer": "Chris Hemsworth"
+    },
+    {
+     "altSpellings": [
+      "Johanson",
+      "Scarllet Johanson",
+      "Scarlet Johansen",
+      "Scarlet Johanson",
+      "Scarlett Johanson",
+      "Scarlett Johanssen",
+      "Scarlett Johansen"
+     ],
+     "answer": "Scarlett Johansson"
+    },
+    {
+     "altSpellings": [
+      "Jackson",
+      "Samuel Jackson",
+      "Sam Jackson",
+      "Sameul L Jackson",
+      "Sameul Jackson"
+     ],
+     "answer": "Samuel L. Jackson"
+    },
+    {
+     "altSpellings": [
+      "Mark Ruffallo",
+      "Ruffalo"
+     ],
+     "answer": "Mark Ruffalo"
+    },
+    {
+     "altSpellings": [
+      "Robert Downy Jr.",
+      "Robert Downey Jr",
+      "RDJ",
+      "Downey Jr"
+     ],
+     "answer": "Robert Downey Jr."
+    },
+    {
+     "altSpellings": [
+      "Renner",
+      "Jeremey Renner"
+     ],
+     "answer": "Jeremy Renner"
+    },
+    {
+     "altSpellings": [
+      "Hiddelston",
+      "Tom Hiddelston",
+      "Hiddleston",
+      "Hiddles"
+     ],
+     "answer": "Tom Hiddleston"
+    },
+    {
+     "altSpellings": [
+      "Stellan Skarsgard",
+      "Stelan Skarsgard",
+      "Stellan Sarsgard"
+     ],
+     "answer": "Stellan Skarsgård"
+    },
+    {
+     "altSpellings": [
+      "Clark Greg"
+     ],
+     "answer": "Clark Gregg"
+    },
+    {
+     "altSpellings": [
+      "Cobie Smulder",
+      "Colby Smulders",
+      "Coby Smulders",
+      "Cobie Smoulders"
+     ],
+     "answer": "Cobie Smulders"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Paul Bettany"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gwyneth Paltrow"
+    }
+   ],
+   "category": "’00s Films",
+   "id": "113868",
+   "question": "Stars of [i]The Avengers[/i] (2012)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Dove",
+      "Turtle Dove",
+      "2 Turtle Doves",
+      "Two Turtle Doves",
+      "Turtledoves",
+      "Turtledove",
+      "2 Turtledoves",
+      "Two Turtledoves"
+     ],
+     "answer": "Turtle Doves"
+    },
+    {
+     "altSpellings": [
+      "Hens",
+      "Hen",
+      "3 French hens",
+      "Three French hens"
+     ],
+     "answer": "French Hens"
+    },
+    {
+     "altSpellings": [
+      "Goose",
+      "Six Geese",
+      "6 Geese"
+     ],
+     "answer": "Geese"
+    },
+    {
+     "altSpellings": [
+      "Partridges"
+     ],
+     "answer": "Partridge"
+    },
+    {
+     "altSpellings": [
+      "Calling",
+      "Calling Bird",
+      "4 Calling birds",
+      "Four calling birds"
+     ],
+     "answer": "Calling Birds"
+    },
+    {
+     "altSpellings": [
+      "Swan",
+      "Seven Swans",
+      "7 Swans"
+     ],
+     "answer": "Swans"
+    }
+   ],
+   "category": "Musical Birds",
+   "id": "113869",
+   "question": "Birds in “The Twelve Days of Christmas”"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "McDonalds",
+      "Macca’s",
+      "Maccas",
+      "McD",
+      "McDo",
+      "McDs",
+      "McD’s"
+     ],
+     "answer": "McDonald’s"
+    },
+    {
+     "altSpellings": [
+      "Tata Starbucks",
+      "Starbuck",
+      "Starbies",
+      "Starbucks Coffee"
+     ],
+     "answer": "Starbucks"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Subway"
+    },
+    {
+     "altSpellings": [
+      "Kentucky Fried Chicken"
+     ],
+     "answer": "KFC"
+    },
+    {
+     "altSpellings": [
+      "Dominoes",
+      "Dominos"
+     ],
+     "answer": "Domino’s"
+    },
+    {
+     "altSpellings": [
+      "Hungry Jack’s",
+      "BK"
+     ],
+     "answer": "Burger King"
+    },
+    {
+     "altSpellings": [
+      "Dunkin Donuts",
+      "Dunking Donuts",
+      "Dunkin",
+      "Dunkin’ Donuts"
+     ],
+     "answer": "Dunkin’"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Krispy Kreme"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pizza Hut"
+    },
+    {
+     "altSpellings": [
+      "Hunt Brothers",
+      "Hunt Brother"
+     ],
+     "answer": "Hunt Brothers Pizza"
+    },
+    {
+     "altSpellings": [
+      "Cotti"
+     ],
+     "answer": "Cotti Coffee"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Wallace"
+    },
+    {
+     "altSpellings": [
+      "Luckin"
+     ],
+     "answer": "Luckin Coffee"
+    },
+    {
+     "altSpellings": [
+      "Mixue",
+      "Mixue Ice Cream",
+      "Mixue Tea"
+     ],
+     "answer": "Mixue Ice Cream & Tea"
+    }
+   ],
+   "category": "Fast Food",
+   "id": "113870",
+   "question": "Fast Food Franchises With 10,000+ Locations"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "A Screw",
+      "The Screw"
+     ],
+     "answer": "Screw"
+    },
+    {
+     "altSpellings": [
+      "Pully"
+     ],
+     "answer": "Pulley"
+    },
+    {
+     "altSpellings": [
+      "Wheel",
+      "The Wheel"
+     ],
+     "answer": "Wheel and axle"
+    },
+    {
+     "altSpellings": [
+      "Wedges"
+     ],
+     "answer": "Wedge"
+    },
+    {
+     "altSpellings": [
+      "Plane"
+     ],
+     "answer": "Inclined Plane"
+    },
+    {
+     "altSpellings": [
+      "Levers"
+     ],
+     "answer": "Lever"
+    }
+   ],
+   "category": "Basic Machinery",
+   "id": "113871",
+   "question": "The Six Simple Machines"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "The Man of Steel"
+     ],
+     "answer": "Man of Steel"
+    },
+    {
+     "altSpellings": [
+      "Batman v Superman",
+      "Batman vs Superman",
+      "Batman vs Superman Dawn of Justice",
+      "Batman v Superman: Dawn of Justice"
+     ],
+     "answer": "Batman v Superman"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Suicide Squad"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Wonder Woman"
+    },
+    {
+     "altSpellings": [
+      "The Justice League"
+     ],
+     "answer": "Justice League"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Aquaman"
+    },
+    {
+     "altSpellings": [
+      "Shazam"
+     ],
+     "answer": "Shazam!"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Birds of Prey"
+    },
+    {
+     "altSpellings": [
+      "WW 84",
+      "WW84",
+      "WW ’84"
+     ],
+     "answer": "Wonder Woman 1984"
+    },
+    {
+     "altSpellings": [],
+     "answer": "The Suicide Squad"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Black Adam"
+    },
+    {
+     "altSpellings": [
+      "Shazam 2",
+      "Shazam Fury of the Gods",
+      "Fury of the Gods"
+     ],
+     "answer": "Shazam! Fury of the Gods"
+    },
+    {
+     "altSpellings": [
+      "Flash"
+     ],
+     "answer": "The Flash"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Blue Beetle"
+    },
+    {
+     "altSpellings": [
+      "Aquaman 2"
+     ],
+     "answer": "Aquaman and the Lost Kingdom"
+    }
+   ],
+   "category": "",
+   "id": "113875",
+   "question": "Superhero Movies in the DCEU (AKA The Snyderverse)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Football"
+     ],
+     "answer": "Soccer"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bowling"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tennis"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Golf"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Basketball"
+    },
+    {
+     "altSpellings": [
+      "Swordplay",
+      "Swordfght",
+      "Swords",
+      "Fencing"
+     ],
+     "answer": "Chambara"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Volleyball"
+    },
+    {
+     "altSpellings": [
+      "Badmitten",
+      "Badmitton"
+     ],
+     "answer": "Badminton"
+    }
+   ],
+   "category": "Gaming & Sports",
+   "id": "113877",
+   "question": "The Sports in [i]Nintendo Switch Sports[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "English"
+    },
+    {
+     "altSpellings": [
+      "Mandarin Chinese",
+      "Mandarian"
+     ],
+     "answer": "Mandarin"
+    },
+    {
+     "altSpellings": [
+      "Hindustani"
+     ],
+     "answer": "Hindi"
+    },
+    {
+     "altSpellings": [
+      "Spainish"
+     ],
+     "answer": "Spanish"
+    },
+    {
+     "altSpellings": [
+      "Arabic",
+      "Modern Standard Arabic"
+     ],
+     "answer": "Standard Arabic"
+    },
+    {
+     "altSpellings": [
+      "French"
+     ],
+     "answer": "French"
+    },
+    {
+     "altSpellings": [
+      "Bengali"
+     ],
+     "answer": "Bengali"
+    },
+    {
+     "altSpellings": [
+      "Portugues",
+      "Portuguse"
+     ],
+     "answer": "Portuguese"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Russian"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Indonesian"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Urdu"
+    }
+   ],
+   "category": "Highest Honors",
+   "id": "113885",
+   "question": "The Ten Most Spoken Languages in the World"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "SNL"
+     ],
+     "answer": "Saturday Night Live"
+    },
+    {
+     "altSpellings": [
+      "GOT"
+     ],
+     "answer": "Game of Thrones"
+    },
+    {
+     "altSpellings": [
+      "Frazier"
+     ],
+     "answer": "Frasier"
+    },
+    {
+     "altSpellings": [],
+     "answer": "The Simpsons"
+    },
+    {
+     "altSpellings": [
+      "Mary Tyler Moore",
+      "Mary Tyler Moore Show"
+     ],
+     "answer": "The Mary Tyler Moore Show"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Cheers"
+    },
+    {
+     "altSpellings": [
+      "West Wing"
+     ],
+     "answer": "The West Wing"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hill Street Blues"
+    },
+    {
+     "altSpellings": [
+      "Last Week Tonight",
+      "John Oliver"
+     ],
+     "answer": "Last Week Tonight with John Oliver"
+    },
+    {
+     "altSpellings": [],
+     "answer": "American Masters"
+    },
+    {
+     "altSpellings": [
+      "Drag Race"
+     ],
+     "answer": "RuPaul’s Drag Race"
+    },
+    {
+     "altSpellings": [
+      "Daily Show"
+     ],
+     "answer": "The Daily Show"
+    },
+    {
+     "altSpellings": [
+      "Carol Burnett Show",
+      "Carol Burnett"
+     ],
+     "answer": "The Carol Burnett Show"
+    },
+    {
+     "altSpellings": [
+      "E.R."
+     ],
+     "answer": "ER"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Modern Family"
+    },
+    {
+     "altSpellings": [],
+     "answer": "All in the Family"
+    },
+    {
+     "altSpellings": [],
+     "answer": "The Sopranos"
+    },
+    {
+     "altSpellings": [],
+     "answer": "The Crown"
+    },
+    {
+     "altSpellings": [
+      "DWTS"
+     ],
+     "answer": "Dancing with the Stars"
+    },
+    {
+     "altSpellings": [],
+     "answer": "The Bear"
+    }
+   ],
+   "category": "Best TV",
+   "countrySpecific": true,
+   "id": "113886",
+   "question": "TV Shows With More Than 20 Emmys (as of 2025)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Flutes"
+     ],
+     "answer": "Music"
+    },
+    {
+     "altSpellings": [],
+     "answer": "History"
+    },
+    {
+     "altSpellings": [
+      "lyrics",
+      "lyric poetry",
+      "romantic and lyric poetry",
+      "romance",
+      "love poems",
+      "love poetry"
+     ],
+     "answer": "Romantic Poetry"
+    },
+    {
+     "altSpellings": [
+      "Tragic"
+     ],
+     "answer": "Tragedy"
+    },
+    {
+     "altSpellings": [
+      "Hymns",
+      "Mimics"
+     ],
+     "answer": "Sacred Poetry"
+    },
+    {
+     "altSpellings": [
+      "Song",
+      "Choral song",
+      "Chorus",
+      "Dance and song",
+      "Dancing"
+     ],
+     "answer": "Baile"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Comedy"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Astronomy"
+    },
+    {
+     "altSpellings": [
+      "Heroic Poetry",
+      "Heroes",
+      "Epic and heroic poetry",
+      "Epic poems",
+      "Epics"
+     ],
+     "answer": "Epic Poetry"
+    }
+   ],
+   "category": "",
+   "id": "113887",
+   "question": "Arts/Sciences Represented by One of the Nine Muses"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Lola"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Lisa"
+    },
+    {
+     "altSpellings": [
+      "Lyne",
+      "Lynne",
+      "Lynn Jr."
+     ],
+     "answer": "Lynn"
+    },
+    {
+     "altSpellings": [
+      "Lenny",
+      "Lenni"
+     ],
+     "answer": "Leni"
+    },
+    {
+     "altSpellings": [
+      "Luane",
+      "Luanne"
+     ],
+     "answer": "Luan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Luna"
+    },
+    {
+     "altSpellings": [
+      "Lauri",
+      "Lorri"
+     ],
+     "answer": "Lori"
+    },
+    {
+     "altSpellings": [
+      "Lanna"
+     ],
+     "answer": "Lana"
+    },
+    {
+     "altSpellings": [
+      "Lilly"
+     ],
+     "answer": "Lily"
+    },
+    {
+     "altSpellings": [
+      "Lucille"
+     ],
+     "answer": "Lucy"
+    }
+   ],
+   "category": "2020s Nickelodeon",
+   "id": "113888",
+   "question": "Sisters in [i]The Loud House[/i] (2016)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Australia"
+    },
+    {
+     "altSpellings": [
+      "Barbuda",
+      "Antigua and Barbuda"
+     ],
+     "answer": "Antigua"
+    },
+    {
+     "altSpellings": [
+      "The Bahamas",
+      "Bahama"
+     ],
+     "answer": "Bahamas"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Belize"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Canada"
+    },
+    {
+     "altSpellings": [
+      "Grenadda",
+      "Greneda"
+     ],
+     "answer": "Grenada"
+    },
+    {
+     "altSpellings": [
+      "Guyanna"
+     ],
+     "answer": "Guyana"
+    },
+    {
+     "altSpellings": [
+      "Republic of Ireland"
+     ],
+     "answer": "Ireland"
+    },
+    {
+     "altSpellings": [
+      "Jamacia"
+     ],
+     "answer": "Jamaica"
+    },
+    {
+     "altSpellings": [
+      "NZ"
+     ],
+     "answer": "New Zealand"
+    },
+    {
+     "altSpellings": [
+      "Saint Kitts"
+     ],
+     "answer": "Saint Kitts and Nevis"
+    },
+    {
+     "altSpellings": [
+      "Saint Vincent and the Grenadines",
+      "St. Vincent",
+      "SVG"
+     ],
+     "answer": "Saint Vincent"
+    },
+    {
+     "altSpellings": [
+      "Republic of Singapore"
+     ],
+     "answer": "Singapore"
+    },
+    {
+     "altSpellings": [
+      "Trinidad",
+      "Tobago"
+     ],
+     "answer": "Trinidad and Tobago"
+    },
+    {
+     "altSpellings": [
+      "US",
+      "The United States",
+      "USA",
+      "United States of America"
+     ],
+     "answer": "United States"
+    },
+    {
+     "altSpellings": [
+      "Britain",
+      "UK",
+      "Great Britain"
+     ],
+     "answer": "United Kingdom"
+    }
+   ],
+   "category": "Global Languages",
+   "id": "114114",
+   "question": "Countries Where English is the Primary Language"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Slap bet",
+      "Slapping",
+      "Slaps",
+      "Pogs",
+      "Ddakji-chigi"
+     ],
+     "answer": "Ddakji"
+    },
+    {
+     "altSpellings": [
+      "Red Light Green Light",
+      "Red Green Light"
+     ],
+     "answer": "Red Light, Green Light"
+    },
+    {
+     "altSpellings": [
+      "Honeycomb",
+      "Honecomb carving",
+      "Dalgona",
+      "Ppopgi",
+      "Sugar Carving",
+      "Sugar Honeycomb"
+     ],
+     "answer": "Sugar Honeycombs"
+    },
+    {
+     "altSpellings": [
+      "Tug-o-war",
+      "Tugowar",
+      "Tugofwar",
+      "Tug of war",
+      "Tug o war",
+      "Juldaligi"
+     ],
+     "answer": "Tug-of-War"
+    },
+    {
+     "altSpellings": [
+      "Marble",
+      "Guseul"
+     ],
+     "answer": "Marbles"
+    },
+    {
+     "altSpellings": [
+      "Hopscotch",
+      "Glass Stepping Stones"
+     ],
+     "answer": "Glass Bridge"
+    },
+    {
+     "altSpellings": [
+      "The Squid Game",
+      "Ojing-eo Geim",
+      "Ojingo"
+     ],
+     "answer": "Squid Game"
+    },
+    {
+     "altSpellings": [
+      "Rock, Paper, Scissors",
+      "Rock, Paper, Scissor",
+      "Rock Paper Scissor",
+      "Rock Paper Scissors",
+      "Roshambo",
+      "Rock Paper Scissors Minus One",
+      "Rock Paper Scissors - Minus One"
+     ],
+     "answer": "Rock, Paper, Scissors, Minus One"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Russian Roulette"
+    },
+    {
+     "altSpellings": [
+      "Three-Legged Marathon",
+      "Three-Legged Race",
+      "Six Legged Race",
+      "Three Legged Race",
+      "Six Legged Pentathlon",
+      "Pentathlon",
+      "6 Legged Race",
+      "6-Legged Race",
+      "Six-Legged Race"
+     ],
+     "answer": "Six-Legged Pentathlon"
+    },
+    {
+     "altSpellings": [
+      "Flying Stones",
+      "Biseokchigi"
+     ],
+     "answer": "Flying Stone"
+    },
+    {
+     "altSpellings": [
+      "Dice",
+      "Dice Game",
+      "Gongi",
+      "Gong-gi",
+      "Gongginori",
+      "Korean Jacks",
+      "Knucklebones"
+     ],
+     "answer": "Gonggi"
+    },
+    {
+     "altSpellings": [
+      "Top",
+      "Tops",
+      "Spin the Top",
+      "Spin Top",
+      "Paengi Doligi"
+     ],
+     "answer": "Spinning Top"
+    },
+    {
+     "altSpellings": [
+      "Hacky Sack",
+      "Shuttlecock",
+      "Hackey Sack",
+      "Jeggi",
+      "Jegi-chagi"
+     ],
+     "answer": "Jegi"
+    },
+    {
+     "altSpellings": [
+      "Jjakjisgi Geim",
+      "Odd Man Out",
+      "Odd-Man-Out",
+      "Round and Round",
+      "Roll Call"
+     ],
+     "answer": "Mingle"
+    },
+    {
+     "altSpellings": [
+      "Hide & Seek",
+      "Hide n Seek",
+      "Sumbakkogjil",
+      "Hide-and-seek",
+      "Hide and Seek"
+     ],
+     "answer": "Hide-and-Seek"
+    },
+    {
+     "altSpellings": [
+      "Skip Rope",
+      "Jumping Rope",
+      "Julneomgi",
+      "Jumprope"
+     ],
+     "answer": "Jump Rope"
+    },
+    {
+     "altSpellings": [
+      "Tall Squid Game",
+      "Gogong Ojingeo",
+      "Sky Squid"
+     ],
+     "answer": "Sky Squid Game"
+    }
+   ],
+   "category": "International Hits",
+   "id": "114117",
+   "question": "Games Played in [i]Squid Games[/i] (Seasons 1 - 3)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Doe",
+      "Di"
+     ],
+     "answer": "Do"
+    },
+    {
+     "altSpellings": [
+      "Ray",
+      "Ri"
+     ],
+     "answer": "Re"
+    },
+    {
+     "altSpellings": [
+      "Me"
+     ],
+     "answer": "Mi"
+    },
+    {
+     "altSpellings": [
+      "Fi",
+      "Far"
+     ],
+     "answer": "Fa"
+    },
+    {
+     "altSpellings": [
+      "Se",
+      "Si",
+      "Sew",
+      "So"
+     ],
+     "answer": "Sol"
+    },
+    {
+     "altSpellings": [
+      "Li",
+      "Le"
+     ],
+     "answer": "La"
+    },
+    {
+     "altSpellings": [
+      "Tea"
+     ],
+     "answer": "Ti"
+    }
+   ],
+   "category": "Musical Notes",
+   "id": "114120",
+   "question": "The Seven Musical Syllables of the Solfège System"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Luxuries",
+      "Luxury Items",
+      "Fashion",
+      "Jewelry",
+      "Luxury"
+     ],
+     "answer": "Luxury - District 1"
+    },
+    {
+     "altSpellings": [
+      "Weapons",
+      "Weaponry",
+      "Masonry",
+      "Masons",
+      "Arms",
+      "Weaponry & Masonry",
+      "Defense"
+     ],
+     "answer": "Defense - District 2"
+    },
+    {
+     "altSpellings": [
+      "Electronics",
+      "Electronic",
+      "Technology",
+      "Tech"
+     ],
+     "answer": "Electronics - District 3"
+    },
+    {
+     "altSpellings": [
+      "Fishing",
+      "Fish"
+     ],
+     "answer": "Fishing - District 4"
+    },
+    {
+     "altSpellings": [
+      "Electricity",
+      "Power",
+      "Power Plants",
+      "Batteries",
+      "Battery",
+      "Power Production",
+      "Dam",
+      "Dams"
+     ],
+     "answer": "Power - District 5"
+    },
+    {
+     "altSpellings": [
+      "Transport",
+      "Transoportation",
+      "Train",
+      "Railroad",
+      "Hovercrafts",
+      "Ships",
+      "Transportation"
+     ],
+     "answer": "Transportation - District 6"
+    },
+    {
+     "altSpellings": [
+      "Lumber",
+      "Wood",
+      "Trees"
+     ],
+     "answer": "Lumber - District 7"
+    },
+    {
+     "altSpellings": [
+      "Textiles",
+      "Textile",
+      "Clothing",
+      "Fabrics",
+      "Clothes"
+     ],
+     "answer": "Textiles - District 8"
+    },
+    {
+     "altSpellings": [
+      "Grain",
+      "Grains",
+      "Grain production",
+      "Bread",
+      "Bread basket"
+     ],
+     "answer": "Grain - District 9"
+    },
+    {
+     "altSpellings": [
+      "Livestock",
+      "Cattle",
+      "Meat",
+      "Butcher",
+      "Meats",
+      "Animals"
+     ],
+     "answer": "Livestock - District 10"
+    },
+    {
+     "altSpellings": [
+      "Orchards",
+      "Agriculture",
+      "Crops",
+      "Farming",
+      "Farms"
+     ],
+     "answer": "Agriculture - District 11"
+    },
+    {
+     "altSpellings": [
+      "Coal",
+      "Coal Mining",
+      "Mining",
+      "Medicine"
+     ],
+     "answer": "Coal - District 12"
+    },
+    {
+     "altSpellings": [
+      "Nuclear Power",
+      "Nuclear Weapons",
+      "Nukes",
+      "Nuclear"
+     ],
+     "answer": "Nuclear - District 13"
+    }
+   ],
+   "category": "Fictional Economies",
+   "id": "114122",
+   "question": "The Industries in [i]The Hunger Games[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Pepper"
+     ],
+     "answer": "Black Pepper"
+    },
+    {
+     "altSpellings": [
+      "Golden Turmeric",
+      "Tumeric"
+     ],
+     "answer": "Turmeric"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Cumin"
+    },
+    {
+     "altSpellings": [
+      "Cilantro"
+     ],
+     "answer": "Coriander"
+    },
+    {
+     "altSpellings": [
+      "Paprika",
+      "Chili",
+      "Chilis"
+     ],
+     "answer": "Chili Powder"
+    },
+    {
+     "altSpellings": [
+      "Gingerroot"
+     ],
+     "answer": "Ginger"
+    },
+    {
+     "altSpellings": [
+      "Garlic"
+     ],
+     "answer": "Garlic Powder"
+    },
+    {
+     "altSpellings": [
+      "Cinnamon Stick"
+     ],
+     "answer": "Cinnamon"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Oregano"
+    },
+    {
+     "altSpellings": [
+      "Time"
+     ],
+     "answer": "Thyme"
+    },
+    {
+     "altSpellings": [
+      "Cardamon"
+     ],
+     "answer": "Cardamom"
+    }
+   ],
+   "category": "Global Cuisine",
+   "id": "114123",
+   "question": "The Ten Most Popular Spices in the World"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Alegría"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sadness"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Anger"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Disgust"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Fear"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Anxiety"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Envy"
+    },
+    {
+     "altSpellings": [
+      "Onwee"
+     ],
+     "answer": "Ennui"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Nostalgia"
+    },
+    {
+     "altSpellings": [
+      "Embarrass",
+      "Embarrassed"
+     ],
+     "answer": "Embarrassment"
+    }
+   ],
+   "category": "Emotional Cartoons",
+   "id": "114127",
+   "question": "Riley’s Emotions in [i]Inside Out[/i] 1 & 2"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Sheep"
+    },
+    {
+     "altSpellings": [
+      "Dogs",
+      "Puppy"
+     ],
+     "answer": "Dog"
+    },
+    {
+     "altSpellings": [
+      "Ducks"
+     ],
+     "answer": "Duck"
+    },
+    {
+     "altSpellings": [
+      "Frogs"
+     ],
+     "answer": "Frog"
+    },
+    {
+     "altSpellings": [
+      "Caballos"
+     ],
+     "answer": "Caballo"
+    },
+    {
+     "altSpellings": [
+      "Coyotes"
+     ],
+     "answer": "Coyote"
+    },
+    {
+     "altSpellings": [
+      "Roosters",
+      "Cock",
+      "Cocks",
+      "Pollo"
+     ],
+     "answer": "Gallo"
+    },
+    {
+     "altSpellings": [
+      "Pigs",
+      "Piggy",
+      "Piggie"
+     ],
+     "answer": "Pig"
+    },
+    {
+     "altSpellings": [
+      "Cows"
+     ],
+     "answer": "Cow"
+    },
+    {
+     "altSpellings": [
+      "Birds"
+     ],
+     "answer": "Ave (Bird)"
+    },
+    {
+     "altSpellings": [
+      "Gatos",
+      "Kitty"
+     ],
+     "answer": "Cat"
+    },
+    {
+     "altSpellings": [
+      "Turkeys"
+     ],
+     "answer": "Turkey"
+    }
+   ],
+   "category": "Classic Toys",
+   "id": "114159",
+   "question": "Animals in the ORIGINAL Fisher Price See ‘N Say"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "A-",
+      "A -"
+     ],
+     "answer": "A Negative"
+    },
+    {
+     "altSpellings": [
+      "A+",
+      "A +"
+     ],
+     "answer": "A Positive"
+    },
+    {
+     "altSpellings": [
+      "B-",
+      "B -"
+     ],
+     "answer": "B Negative"
+    },
+    {
+     "altSpellings": [
+      "B+",
+      "B +"
+     ],
+     "answer": "B Positive"
+    },
+    {
+     "altSpellings": [
+      "AB -",
+      "AB-"
+     ],
+     "answer": "AB Negative"
+    },
+    {
+     "altSpellings": [
+      "AB+",
+      "AB +"
+     ],
+     "answer": "AB Positive"
+    },
+    {
+     "altSpellings": [
+      "O -",
+      "O-"
+     ],
+     "answer": "O Negative"
+    },
+    {
+     "altSpellings": [
+      "O+",
+      "O +"
+     ],
+     "answer": "O Positive"
+    }
+   ],
+   "category": "Human Biology",
+   "id": "114160",
+   "question": "Human Blood Types (Landsteiner System)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Openheimer"
+     ],
+     "answer": "Oppenheimer"
+    },
+    {
+     "altSpellings": [
+      "Tenent",
+      "Tennet"
+     ],
+     "answer": "Tenet"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Dunkirk"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Interstellar"
+    },
+    {
+     "altSpellings": [
+      "Dark Knight Rises"
+     ],
+     "answer": "The Dark Knight Rises"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Inception"
+    },
+    {
+     "altSpellings": [
+      "Dark Knight"
+     ],
+     "answer": "The Dark Knight"
+    },
+    {
+     "altSpellings": [
+      "Prestige"
+     ],
+     "answer": "The Prestige"
+    },
+    {
+     "altSpellings": [
+      "Batman"
+     ],
+     "answer": "Batman Begins"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Insomnia"
+    },
+    {
+     "altSpellings": [
+      "Momento"
+     ],
+     "answer": "Memento"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Following"
+    },
+    {
+     "altSpellings": [
+      "Odyssey"
+     ],
+     "answer": "The Odyssey"
+    }
+   ],
+   "category": "Autuer’s Ouvre",
+   "id": "114719",
+   "question": "Feature Films Directed by Christopher Nolan"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Indian Elephant",
+      "African Elephant",
+      "Bull elephant"
+     ],
+     "answer": "Elefante"
+    },
+    {
+     "altSpellings": [
+      "King Cobra"
+     ],
+     "answer": "Cobra"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tiger"
+    },
+    {
+     "altSpellings": [
+      "Hippo"
+     ],
+     "answer": "Hippopotamus"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gorilla"
+    },
+    {
+     "altSpellings": [
+      "African Lion"
+     ],
+     "answer": "Lion"
+    },
+    {
+     "altSpellings": [
+      "Gazelle"
+     ],
+     "answer": "Antelope"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ñu"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Giraffe"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Zebra"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Vulture"
+    },
+    {
+     "altSpellings": [
+      "Rhino",
+      "Black rhino"
+     ],
+     "answer": "Rhinoceros"
+    },
+    {
+     "altSpellings": [
+      "Spotted hyena"
+     ],
+     "answer": "Hiena"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Crocodile"
+    },
+    {
+     "altSpellings": [
+      "Mono"
+     ],
+     "answer": "Macaque"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Baboon"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Chimpanzee"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Piranha"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Toucan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Buffalo"
+    },
+    {
+     "altSpellings": [
+      "Boa constrictor"
+     ],
+     "answer": "Python"
+    },
+    {
+     "altSpellings": [
+      "Butterflies"
+     ],
+     "answer": "Butterfly"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Cálao"
+    }
+   ],
+   "category": "Jungle Cruise Fauna",
+   "id": "114736",
+   "question": "Animals seen on Disneyland’s Jungle Cruise ride"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Weights",
+      "Weightlifting",
+      "Strength training"
+     ],
+     "answer": "Strength"
+    },
+    {
+     "altSpellings": [
+      "Biking",
+      "Cycle",
+      "Bike",
+      "Recumbent bike",
+      "Bicycling"
+     ],
+     "answer": "Cycling"
+    },
+    {
+     "altSpellings": [
+      "Run",
+      "Sprint",
+      "Sprinting",
+      "Distance running",
+      "Treadmill"
+     ],
+     "answer": "Running"
+    },
+    {
+     "altSpellings": [
+      "Row",
+      "Row machine"
+     ],
+     "answer": "Rowing"
+    },
+    {
+     "altSpellings": [
+      "Somatic exercises"
+     ],
+     "answer": "Yoga"
+    },
+    {
+     "altSpellings": [
+      "Meditate"
+     ],
+     "answer": "Meditation"
+    },
+    {
+     "altSpellings": [
+      "Stretch",
+      "Cooldown",
+      "Cool down"
+     ],
+     "answer": "Stretching"
+    },
+    {
+     "altSpellings": [
+      "Walk"
+     ],
+     "answer": "Walking"
+    },
+    {
+     "altSpellings": [
+      "Nature",
+      "Outdoor running",
+      "Outdoors"
+     ],
+     "answer": "Outdoor"
+    },
+    {
+     "altSpellings": [
+      "Bodyweight",
+      "HIIT",
+      "Boxing",
+      "Interval",
+      "Interval training"
+     ],
+     "answer": "Cardio"
+    }
+   ],
+   "category": "Exercise",
+   "id": "114763",
+   "question": "As of 2025, the ten categories of fitness classes available on the Peloton website"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Citizen Cane",
+      "Citizen Cain"
+     ],
+     "answer": "Citizen Kane"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Casablanca"
+    },
+    {
+     "altSpellings": [
+      "Godfather"
+     ],
+     "answer": "The Godfather"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gone with the Wind"
+    },
+    {
+     "altSpellings": [
+      "Lawerence of Arabia"
+     ],
+     "answer": "Lawrence of Arabia"
+    },
+    {
+     "altSpellings": [
+      "Wizard of Oz"
+     ],
+     "answer": "The Wizard of Oz"
+    },
+    {
+     "altSpellings": [
+      "Graduate"
+     ],
+     "answer": "The Graduate"
+    },
+    {
+     "altSpellings": [],
+     "answer": "On the Waterfront"
+    },
+    {
+     "altSpellings": [
+      "Shindlers List",
+      "Shindler’s List",
+      "Schindlers List"
+     ],
+     "answer": "Schindler’s List"
+    },
+    {
+     "altSpellings": [
+      "Singing in the Rain"
+     ],
+     "answer": "Singin’ in the Rain"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Vertigo"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Raging Bull"
+    }
+   ],
+   "category": "Classic Film",
+   "id": "114780",
+   "question": "In the American Film Institute’s Top Ten Films of All Time (Hint: they’re classics)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Umoja",
+      "Unification"
+     ],
+     "answer": "Unity"
+    },
+    {
+     "altSpellings": [
+      "Self-Determined",
+      "Kujichagulia",
+      "autonomy",
+      "Free will",
+      "Will",
+      "Self Determination",
+      "Self Determined",
+      "Define ourselves",
+      "Define Self"
+     ],
+     "answer": "Self-Determination"
+    },
+    {
+     "altSpellings": [
+      "Support Others",
+      "Economics",
+      "Financial",
+      "Cooperation",
+      "Co-operation",
+      "Financial Cooperation",
+      "Fianancial",
+      "Ujamaa",
+      "Support",
+      "Mutual Profit",
+      "Cooperative Economics"
+     ],
+     "answer": "Cooperative Economics"
+    },
+    {
+     "altSpellings": [
+      "Community",
+      "Responsibilitey",
+      "Collective Work",
+      "Ujima",
+      "Responsible",
+      "Responsibility and Collective Work"
+     ],
+     "answer": "Responsibility"
+    },
+    {
+     "altSpellings": [
+      "Motivation",
+      "Cause",
+      "Intent",
+      "Objectives",
+      "Objective",
+      "Goals",
+      "Goal",
+      "Intention",
+      "Purposeful",
+      "Nia",
+      "Vocation"
+     ],
+     "answer": "Purpose"
+    },
+    {
+     "altSpellings": [
+      "Creative",
+      "Creation",
+      "Imagination",
+      "Kuumba"
+     ],
+     "answer": "Creativity"
+    },
+    {
+     "altSpellings": [
+      "Imani",
+      "Faithful",
+      "Belief",
+      "Faithfulness"
+     ],
+     "answer": "Post-truth"
+    }
+   ],
+   "category": "Spiritual Holidays",
+   "countrySpecific": true,
+   "id": "114781",
+   "question": "The Seven Principles of Kwanzaa"
+  }
+ ]
+}

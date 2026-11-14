@@ -1,0 +1,186 @@
+{
+ "content": [
+  {
+   "correct": true,
+   "id": "106983",
+   "question": "La mayoría de la gente tiene 24 costillas."
+  },
+  {
+   "correct": true,
+   "id": "106984",
+   "question": "Hay 7 continentes."
+  },
+  {
+   "correct": false,
+   "id": "106985",
+   "question": "Facebook se lanzó antes que MySpace."
+  },
+  {
+   "correct": false,
+   "id": "106986",
+   "question": "Bill Pullman aparece en [i]Tornado[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106987",
+   "question": "Lizzo grabó la canción “Pink” para la película [i]Barbie[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106988",
+   "question": "El Teorema Pitágórico indica que a2+b2 = c2."
+  },
+  {
+   "correct": true,
+   "id": "106989",
+   "question": "Muhammad Ali es un ganador de la medalla de oro olímpica."
+  },
+  {
+   "correct": true,
+   "id": "106990",
+   "question": "La rebelión de los Bóxers ocurrió en China."
+  },
+  {
+   "correct": false,
+   "id": "106991",
+   "question": "Burbuja es miembro de [i]KATSEYE[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106992",
+   "question": "Burbuja es miembro de [i]Las Chicas Superpoderosas[/i]."
+  },
+  {
+   "correct": false,
+   "id": "106993",
+   "question": "El Yukon es un automóvil modelo Ford."
+  },
+  {
+   "correct": true,
+   "id": "106994",
+   "question": "Monopooly fue creado por Parker Brothers."
+  },
+  {
+   "correct": true,
+   "id": "106995",
+   "question": "El chocolate Snickers tiene cachuate."
+  },
+  {
+   "correct": true,
+   "id": "106996",
+   "question": "Afrodita es la diosa griega de la belleza."
+  },
+  {
+   "correct": false,
+   "id": "106997",
+   "question": "H.G. Wells escribió [i]Veinte mil leguas de viaje submarino[/i]."
+  },
+  {
+   "correct": true,
+   "countrySpecific": true,
+   "id": "106998",
+   "question": "Maradonna jugó para el Napoli."
+  },
+  {
+   "correct": true,
+   "id": "106999",
+   "question": "El oso Paddington fue adoptado por la familia Brown."
+  },
+  {
+   "correct": false,
+   "id": "107000",
+   "question": "El sashimi se enrolla en arroz."
+  },
+  {
+   "correct": false,
+   "id": "107001",
+   "question": "Técnicamente, se escribe “whisky”."
+  },
+  {
+   "correct": true,
+   "id": "107002",
+   "question": "Técnicamente, se escribe “güisqui”."
+  },
+  {
+   "correct": false,
+   "id": "107057",
+   "question": "El famoso “Bosque Azul” está en Alemania."
+  },
+  {
+   "correct": true,
+   "id": "107058",
+   "question": "El pastel de Selva Negra es famoso por su relleno de cereza."
+  },
+  {
+   "correct": true,
+   "id": "107059",
+   "question": "Snoopy es un beagle."
+  },
+  {
+   "correct": false,
+   "id": "107060",
+   "question": "Scooby-Doo es un San Bernardo."
+  },
+  {
+   "correct": true,
+   "id": "107061",
+   "question": "Lassie es un Collie."
+  },
+  {
+   "correct": true,
+   "id": "107062",
+   "question": "Sudán es el país con más pirámides."
+  },
+  {
+   "correct": false,
+   "id": "107063",
+   "question": "El libro [i]Jurassic Park[/i] fue escrito por John Grisham."
+  },
+  {
+   "correct": true,
+   "id": "107064",
+   "question": "[i]Suits[/i] fue el programa de televisión más visto en Netflix en 2023."
+  },
+  {
+   "correct": false,
+   "countrySpecific": true,
+   "id": "107065",
+   "question": "[i]Is It Cake?[/i] fue el programa de televisión más visto en Netflix en 2023."
+  },
+  {
+   "correct": false,
+   "id": "107066",
+   "question": "Hay partes de África en 3 de los 4 hemisferios."
+  },
+  {
+   "correct": false,
+   "id": "107067",
+   "question": "La ictericia es una condición que hace que la piel se vea azul."
+  },
+  {
+   "correct": false,
+   "id": "107068",
+   "question": "Lionel Messi jugó para Argentina en la Copa del Mundo de 2005."
+  },
+  {
+   "correct": true,
+   "id": "107070",
+   "question": "Tyrannosaurus Rex vivió en el Periodo Cretácico."
+  },
+  {
+   "correct": true,
+   "id": "107071",
+   "question": "La atmósfera de Venus se compone principalmente de dióxido de carbono."
+  },
+  {
+   "correct": true,
+   "id": "107072",
+   "question": "La guerra de los cien años duró 116 años."
+  },
+  {
+   "correct": false,
+   "id": "107073",
+   "question": "Tradicionalmente, el egg nog no contiene huevo."
+  }
+ ]
+}

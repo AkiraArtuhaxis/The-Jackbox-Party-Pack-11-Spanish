@@ -1,0 +1,134 @@
+{
+ "content": [
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Editoriales hostiles"
+    },
+    {
+     "correct": false,
+     "text": "Comida caducada"
+    },
+    {
+     "correct": true,
+     "text": "Trivia"
+    },
+    {
+     "correct": false,
+     "text": "Armas nucleares pequeñas"
+    }
+   ],
+   "clue": "Este juego se llama Leyendas de...",
+   "id": "114180",
+   "isEasy": false,
+   "question": "Los monstruos en este reino atacan usando...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Cardio"
+    },
+    {
+     "correct": true,
+     "text": "Trabajo en equipo"
+    },
+    {
+     "correct": false,
+     "text": "Afinacion perfecta"
+    },
+    {
+     "correct": false,
+     "text": "Capacidad con Microsoft Excel"
+    }
+   ],
+   "clue": "ESTE es un juego de EQUIPO",
+   "id": "114181",
+   "isEasy": false,
+   "question": "Este juego requiere habilidades de trivia y...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Vínculos profundos"
+    },
+    {
+     "correct": false,
+     "text": "Sellos raros"
+    },
+    {
+     "correct": true,
+     "text": "Humo (Smoke)"
+    },
+    {
+     "correct": false,
+     "text": "Fotos familiares atesoradas"
+    }
+   ],
+   "clue": "Te encantará cómo brillan",
+   "id": "114182",
+   "isEasy": false,
+   "question": "Tanto tu puntuación personal como la de tu equipo se basan en la recolección de...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Usando el CRISTAL MENTAL"
+    },
+    {
+     "correct": true,
+     "text": "HABLANDO con tu equipo"
+    },
+    {
+     "correct": false,
+     "text": "DESEANDOLO muy fuerte"
+    },
+    {
+     "correct": false,
+     "text": "SUBIENDO TU CEREBRO a IA"
+    }
+   ],
+   "clue": "¡La comunicación es clave!",
+   "id": "114192",
+   "isEasy": false,
+   "question": "Puedes compartir tus pensamientos durante cada pregunta...",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Respondiendo trivia"
+    },
+    {
+     "correct": false,
+     "text": "Presentando quejas a RRHH"
+    },
+    {
+     "correct": false,
+     "text": "Haciendo diss tracks"
+    },
+    {
+     "correct": false,
+     "text": "Ignorándoles"
+    }
+   ],
+   "clue": "¿Necesitas una pista para esta TRIVIA?",
+   "id": "114211",
+   "isEasy": false,
+   "question": "Puedes dañar monstruos...",
+   "theme": "FOREST"
+  }
+ ]
+}

@@ -1,0 +1,3332 @@
+{
+ "content": [
+  {
+   "countrySpecific": true,
+   "id": "111399",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Hasta el viento tiene miedo",
+        "El libro de piedra",
+        "Veneno para las hadas",
+        "Más negro que la noche",
+        "La tía Alejandra",
+        "Alucarda"
+       ],
+       "category": "Película de terror mexicana"
+      },
+      {
+       "answers": [
+        "Afuera",
+        "Nubes",
+        "La célula que explota",
+        "Antes de que nos olviden",
+        "Aquí no es así",
+        "No dejes que..."
+       ],
+       "category": "Canción de Caifanes"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "August",
+        "Enchanted",
+        "Cardigan",
+        "Gasoline",
+        "Midnight Rain",
+        "Snow on the Beach"
+       ],
+       "category": "Canción de Taylor Swift"
+      },
+      {
+       "answers": [
+        "La mirada fría",
+        "La farsa",
+        "Error de cálculo",
+        "A como de lugar",
+        "Crisálida",
+        "Éxtasis"
+       ],
+       "category": "Episodio de La Rosa de Guadalupe"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dos monjes",
+        "El ataúd del vampiro",
+        "El esqueleto de la señora Morales",
+        "El escapulario",
+        "La mansión de la locura",
+        "La Llorona"
+       ],
+       "category": "Película de terror mexicana"
+      },
+      {
+       "answers": [
+        "Mi hija vive",
+        "Vuelta en U",
+        "Te amaré hasta el final",
+        "Jamás secuestrarán tu alma",
+        "Ni con el pétalo de una rosa",
+        "Éxtasis"
+       ],
+       "category": "Episodio de La Rosa de Guadalupe"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "countrySpecific": true,
+   "id": "111455",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Catalina Creel",
+        "Paola Bracho",
+        "Rubí Pérez",
+        "Soraya Montenegro",
+        "Teresa Chávez",
+        "Gaviota Montalvo"
+       ],
+       "category": "Personaje de telenovela latinoamericana"
+      },
+      {
+       "answers": [
+        "Fermina Daza",
+        "Florentino Ariza",
+        "Bayardo San Román",
+        "Sierva María de Todos los Ángeles",
+        "Juvenal Urbino",
+        "Ángela Vicario"
+       ],
+       "category": "Personaje de Gabriel García Márquez"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Beatriz Pinzón Solano",
+        "Armando Mendoza",
+        "Marimar Pérez",
+        "María Hernández",
+        "Luis Fernando de la Vega",
+        "Mía Colucci"
+       ],
+       "category": "Personaje de telenovela latinoamericana"
+      },
+      {
+       "answers": [
+        "Pedro Navaja",
+        "Ligia Elena",
+        "Juanito Alimaña",
+        "Pablo Pueblo",
+        "Amalia Batista",
+        "Macorina"
+       ],
+       "category": "Personaje de canción popular latina"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Pedro Infante",
+        "María Bonita",
+        "Penélope",
+        "Yolanda",
+        "Camelia la Texana",
+        "Simón Blanco"
+       ],
+       "category": "Personaje de canción popular latina"
+      },
+      {
+       "answers": [
+        "Úrsula Iguarán",
+        "Aureliano Buendía",
+        "Remedios Moscote",
+        "Petra Cotes",
+        "Amaranta Úrsula",
+        "Melquíades"
+       ],
+       "category": "Personaje de Gabriel García Márquez"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "112265",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Parásito",
+        "Metallo",
+        "Brainiac",
+        "Bizarro",
+        "El Juguetero",
+        "Señor Mxyzptlk"
+       ],
+       "category": "Villano de Superman"
+      },
+      {
+       "answers": [
+        "Psicosis",
+        "Cibernético",
+        "Chessman",
+        "Tinieblas",
+        "Último Guerrero",
+        "Máscara Sagrada"
+       ],
+       "category": "Luchadores"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Paloma solitaria",
+        "Marzo",
+        "El simpatizante",
+        "Beloved",
+        "Olive Kitteridge",
+        "Gilead"
+       ],
+       "category": "Novela ganadora del Pulitzer"
+      },
+      {
+       "answers": [
+        "Abismo Negro",
+        "Averno",
+        "Mephisto",
+        "La Sombra",
+        "El Mesías",
+        "Dragón Rojo"
+       ],
+       "category": "Luchadores"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Ángeles asesinos",
+        "Asuntos extranjeros",
+        "El simpatizante",
+        "El reparador",
+        "Laughing Boy",
+        "Doctor Arrowsmith"
+       ],
+       "category": "Novela ganadora del Pulitzer"
+      },
+      {
+       "answers": [
+        "General Zod",
+        "Juicio Final",
+        "Mongul",
+        "Darkseid",
+        "Ultrahumanoide",
+        "La Encantadora"
+       ],
+       "category": "Villano de Superman"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112271",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Twisted",
+        "Life Itself",
+        "Oldboy",
+        "Jumper",
+        "The Man",
+        "187"
+       ],
+       "category": "Película de Samuel L. Jackson"
+      },
+      {
+       "answers": [
+        "Misery",
+        "Her Majesty",
+        "Now and Then",
+        "Shout",
+        "Get Back",
+        "Glass Onion"
+       ],
+       "category": "Canción de los Beatles"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Help",
+        "Yesterday",
+        "Girl",
+        "Revolution",
+        "Because",
+        "Something"
+       ],
+       "category": "Canción de los Beatles"
+      },
+      {
+       "answers": [
+        "Goblin Mode",
+        "Brain Rot",
+        "Post-truth",
+        "Omnishambles",
+        "Climate Emergency",
+        "Rage Bait"
+       ],
+       "category": "Palabra del año según Oxford"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Basic",
+        "Spiral",
+        "Glass",
+        "Unthinkable",
+        "1408",
+        "Unbreakable"
+       ],
+       "category": "Película de Samuel L. Jackson"
+      },
+      {
+       "answers": [
+        "Toxic",
+        "Vax",
+        "Rizz",
+        "Selfie",
+        "Vape",
+        "Youthquake"
+       ],
+       "category": "Palabra del año según Oxford"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112285",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Te aviso, te anuncio que hoy renuncio",
+        "Porque eres tú mi sol, la fe con que vivo",
+        "Un día después de la tormenta, cuando menos piensas",
+        "No puedo vivir sin ti, no hay manera",
+        "Estoy aquí queriéndote, ahogándome",
+        "Que me quedes tú, y me quede tu abrazo"
+       ],
+       "category": "Letra de Shakira"
+      },
+      {
+       "answers": [
+        "La pluma es lengua del alma",
+        "Cada uno es hijo de sus obras",
+        "La verdad adelgaza y no quiebra",
+        "El tiempo todo lo cura y todo lo muda",
+        "No hay libro tan malo que no tenga algo bueno",
+        "Donde una puerta se cierra, otra se abre"
+       ],
+       "category": "Cita de Cervantes"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "No me sigas, mejor acompáñame",
+        "Si lloras por amor, cobra pasaje",
+        "Aquí viajan corazones rotos",
+        "Mi destino tiene ruta fija",
+        "Con fe, motor y corazón",
+        "Este amor no hace paradas"
+       ],
+       "category": "Frase de microbús"
+      },
+      {
+       "answers": [
+        "Sueños blancos en la ciudad",
+        "Se me acaba el argumento",
+        "Dónde estás corazón",
+        "Tú serás mi baby, mi príncipe azul",
+        "Te aviso, te anuncio",
+        "Waka waka"
+       ],
+       "category": "Letra de Shakira"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dios bendice este camino",
+        "No corro, vuelo bajito",
+        "Si la vida pesa, súbase por atrás",
+        "Cupido también paga pasaje",
+        "Aquí termina tu orgullo",
+        "Más vale tarde que soltero"
+       ],
+       "category": "Frase de microbús"
+      },
+      {
+       "answers": [
+        "El que lee mucho y anda mucho, ve mucho",
+        "La música compone los ánimos descompuestos",
+        "La libertad es uno de los más preciosos dones",
+        "El amor junta los cetros con los cayados",
+        "La esperanza nace juntamente con el amor",
+        "Cambiar el mundo, no es locura"
+       ],
+       "category": "Cita de Cervantes"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112666",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Tanque",
+        "Pibe",
+        "Chicharito",
+        "Matador",
+        "Pulga",
+        "Mágico"
+       ],
+       "category": "Sobrenombre de futbolista"
+      },
+      {
+       "answers": [
+        "Tornado",
+        "Gol",
+        "Hilux",
+        "Tsuru",
+        "Aveo",
+        "Caribe"
+       ],
+       "category": "Modelo de auto"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Batman",
+        "Titán",
+        "Huracán",
+        "Cóndor",
+        "La Cucaracha",
+        "Búmeran"
+       ],
+       "category": "Atracción de parque de diversiones"
+      },
+      {
+       "answers": [
+        "Lobo",
+        "Tracker",
+        "Cavalier",
+        "Tornado",
+        "Vento",
+        "Atos"
+       ],
+       "category": "Modelo de auto"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Kaiser",
+        "Emperador",
+        "Búfalo",
+        "Loco",
+        "Príncipe",
+        "Dedos"
+       ],
+       "category": "Sobrenombre de futbolista"
+      },
+      {
+       "answers": [
+        "Medusa",
+        "Superman",
+        "Kilahuea",
+        "Quimera",
+        "Drakko",
+        "Krater"
+       ],
+       "category": "Atracción de parque de diversiones"
+      }
+     ]
+    }
+   ],
+   "theme": "DESERT"
+  },
+  {
+   "id": "112677",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "La mujer del espejo",
+        "La niña del panteón",
+        "El último viaje",
+        "La casa del árbol",
+        "Al caer la noche",
+        "El precio de la promesa"
+       ],
+       "category": "Episodio de [i]Lo que la gente cuenta[/i]"
+      },
+      {
+       "answers": [
+        "Tormento",
+        "Funeral",
+        "Antes de ti",
+        "El cristal",
+        "Tu falta de querer",
+        "Aunque te mueras por volver"
+       ],
+       "category": "Canción de Mon Laferte"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "La sombra del miedo",
+        "La aparición",
+        "El alma en pena",
+        "La promesa",
+        "La visita",
+        "El secreto"
+       ],
+       "category": "Episodio de [i]Lo que la gente cuenta[/i]"
+      },
+      {
+       "answers": [
+        "Intrigante",
+        "Abrumadora",
+        "Tirana",
+        "Controladora",
+        "Inestable",
+        "Insinuante"
+       ],
+       "category": "Tono de esmalte de Masglo"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Amárrame",
+        "Caderas blancas",
+        "La trenza",
+        "Si tú me quisieras",
+        "Se me va a quemar el corazón",
+        "Pa’ dónde se fue"
+       ],
+       "category": "Canción de Mon Laferte"
+      },
+      {
+       "answers": [
+        "Fufurufa",
+        "Bipolar",
+        "Materialista",
+        "Querendona",
+        "Primera dama",
+        "Sangre toro"
+       ],
+       "category": "Tono de esmalte Masglo"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "id": "112685",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "La formasombras (Shadowshaper)",
+        "Ciudad de hueso (City of Bones)",
+        "Graceling",
+        "Lightlark",
+        "Caraval",
+        "Seis de cuervos (Six of Crows)"
+       ],
+       "category": "Novelas de Literatura Juvenil"
+      },
+      {
+       "answers": [
+        "Inmortal (Immortal)",
+        "Niños de Bodom (Children of Bodom)",
+        "Sepultura",
+        "Ángel mórbido (Morbid Angel)",
+        "Trono oscuro (Darkthrone)",
+        "Tierra helada (Iced Earth)"
+       ],
+       "category": "Banda de Metal"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dio",
+        "Gorguts",
+        "Emperador (Emperor)",
+        "En las puertas (At the Gates)",
+        "Zombi blanco (White Zombie)",
+        "Destino misericordioso (Mercyful Fate)"
+       ],
+       "category": "Banda de Metal"
+      },
+      {
+       "answers": [
+        "Arcángelo (Arcangelo)",
+        "Agujas (Needles)",
+        "Contrapunto (Counterpoint)",
+        "Almirante de guerra (War Admiral)",
+        "Harapos de la Unión (Union Rags)",
+        "Salve a todos (Hail To All)"
+       ],
+       "category": "Caballo Ganador del Belmont Stakes"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Caraval",
+        "Correr o morir (The Maze Runner)",
+        "Corazón de tinta (Inkheart)",
+        "La reina roja (Red Queen)",
+        "Alas de estrella (Wings of Starlight)",
+        "Legendborn (Legendborn)"
+       ],
+       "category": "Novelas de Literatura Juvenil"
+      },
+      {
+       "answers": [
+        "Creador de imperios (Empire Maker)",
+        "Asunto colonial (Colonial Affair)",
+        "Gobernante sobre hielo (Ruler On Ice)",
+        "Malicia palaciega (Palace Malice)",
+        "Sin horas (Hourless)",
+        "Toque de oro (Touch Gold)"
+       ],
+       "category": "Caballo Ganador del Belmont Stakes"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112698",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Noche con estrellas",
+        "Mujer inclinando mano",
+        "Corazón anatómico",
+        "Taxi entrante",
+        "Mujer con orejas de conejo",
+        "Cara angustiada"
+       ],
+       "category": "Nombre oficial de emoji"
+      },
+      {
+       "answers": [
+        "Hombre de cabello negro",
+        "Mujer reclinada",
+        "Ola entrante",
+        "Hombre pesando oro",
+        "Mujer con gato"
+       ],
+       "category": "Obra de arte en el Met"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Soldado montado",
+        "Jenny la pirata",
+        "Un pastor y un jinete en un camino rural",
+        "Exorcista de demonios",
+        "Dos jóvenes campesinas",
+        "Fauno tocando la flauta"
+       ],
+       "category": "Obra de arte en el Met"
+      },
+      {
+       "answers": [
+        "Nena de fuerzas especiales",
+        "Capitán de yate",
+        "Bufón terorrífico",
+        "Templario medieval",
+        "Bata de cassanova",
+        "Rey noble"
+       ],
+       "category": "Disfraz de Halloween"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Cuidador de zoológico",
+        "Repartidor",
+        "Cura",
+        "Árbitro",
+        "Faraón",
+        "Colegiala"
+       ],
+       "category": "Disfraz de Halloween"
+      },
+      {
+       "answers": [
+        "Mujer con barbijo",
+        "Trabajador de fábrica",
+        "Mujer científica",
+        "Supervillano",
+        "Genio",
+        "Mapache"
+       ],
+       "category": "Nombre oficial de emoji"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "id": "112753",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Barotrauma",
+        "Enfermedad de Devic",
+        "Lengua geográfica",
+        "Sarpullido por calor",
+        "Frenillo lingual",
+        "Dedo en gatillo"
+       ],
+       "category": "Condición Médica"
+      },
+      {
+       "answers": [
+        "Augurio",
+        "Piel de corteza",
+        "Toque helado",
+        "Visión en la oscuridad",
+        "Shillelagh",
+        "Respiración acuática"
+       ],
+       "category": "Hechizo de Calabozos y Dragones"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Trismo",
+        "Pie zambo",
+        "Pie plano",
+        "Dedo en martillo",
+        "Rodilla del saltador",
+        "Yips"
+       ],
+       "category": "Condición Médica"
+      },
+      {
+       "answers": [
+        "Carioca",
+        "Meneíto",
+        "Teke teke",
+        "Harlem Shake",
+        "Ritmo vuelta",
+        "La macarena"
+       ],
+       "category": "Paso de baile"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dembow",
+        "Zapateado",
+        "Pasito duranguense",
+        "Serrucho",
+        "Macarena",
+        "La bomba"
+       ],
+       "category": "Paso de baile"
+      },
+      {
+       "answers": [
+        "Manos ardientes",
+        "Golpe",
+        "Rayo relámpago",
+        "Zancada prodigiosa",
+        "Paso brumoso",
+        "Trepado de araña"
+       ],
+       "category": "Hechizo de Calabozos y Dragones"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112754",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Piedra (Rock)",
+        "Fantasma (Ghost)",
+        "Dragón (Dragon)",
+        "Hada (Fairy)",
+        "Psíquico (Psychic)",
+        "Insecto (Bug)"
+       ],
+       "category": "Tipo de Pokémon"
+      },
+      {
+       "answers": [
+        "Humo (Smoke)",
+        "Escarcha (Frost)",
+        "Reptil (Reptile)",
+        "Raiden (Raiden)",
+        "Escorpion (Scorpion)",
+        "Noob Saibot (Noob Saibot)"
+       ],
+       "category": "Personaje de Mortal Kombat"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Fuego (Fire)",
+        "Acero (Steel)",
+        "Ave (Bird)",
+        "Obscuro (Dark)",
+        "Eléctrico (Electric)",
+        "Veneno (Poison)"
+       ],
+       "category": "Tipo de Pokémon"
+      },
+      {
+       "answers": [
+        "Fiebre (Fever)",
+        "Calor (Heat)",
+        "Cielo (Sky)",
+        "Jazz",
+        "Sol (Sun)",
+        "Magia (Magic)"
+       ],
+       "category": "Equipo de la NBA o WNBA"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Sueño (Dream)",
+        "Alas (Wings)",
+        "Chispas (Sparks)",
+        "Lince (Lynx)",
+        "Tormenta (Storm)",
+        "Lobos del bosque (Timberwolves)"
+       ],
+       "category": "Equipo de la NBA o WNBA"
+      },
+      {
+       "answers": [
+        "Lluvia (Rain)",
+        "Bajo cero (Sub-Zero)",
+        "Llama (Blaze)",
+        "Lobo nocturno (Nightwolf)",
+        "Cyrax",
+        "Sektor"
+       ],
+       "category": "Personaje de Mortal Kombat"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112889",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Altair",
+        "Bellatrix",
+        "Castula",
+        "Vega",
+        "Pollux"
+       ],
+       "category": "Nombre de Estrella"
+      },
+      {
+       "answers": [
+        "Dralion",
+        "Alegría",
+        "Quidam",
+        "Kà",
+        "Zarkana"
+       ],
+       "category": "Show del Cique du Soleil"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Abrilada",
+        "Humatín",
+        "Revatio",
+        "Septra",
+        "Uplyso"
+       ],
+       "category": "Medicamento de Pfizer"
+      },
+      {
+       "answers": [
+        "Zumanity",
+        "Varekai",
+        "Saltimbanco",
+        "O",
+        "Luzia"
+       ],
+       "category": "Show del Cique du Soleil"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mirzam",
+        "Rigel",
+        "Syrma",
+        "Adhil",
+        "Chara"
+       ],
+       "category": "Nombre de Estrella"
+      },
+      {
+       "answers": [
+        "Xalatan",
+        "Geodon",
+        "Eliquis",
+        "Eraxis",
+        "Calan"
+       ],
+       "category": "Medicamento de Pfizer"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112985",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "La Mística",
+        "Martinete",
+        "Quebradora",
+        "Tope suicida",
+        "Huracarrana",
+        "Destructor canadiense"
+       ],
+       "category": "Movimiento de lucha libre"
+      },
+      {
+       "answers": [
+        "Mango Loco",
+        "Pipeline Punch",
+        "Pacific Punch",
+        "Ultra Paradise",
+        "Ultra Violet",
+        "Khaotic"
+       ],
+       "category": "Sabor de Monster Energy"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "La Casita",
+        "Tijeras voladoras",
+        "Rompecaras",
+        "Plancha suicida",
+        "Bombazo",
+        "Candado al brazo"
+       ],
+       "category": "Movimiento de lucha libre"
+      },
+      {
+       "answers": [
+        "Disco Destructor",
+        "Destello Final",
+        "Cañón Galick",
+        "Ataque Big Bang",
+        "Makankosappo",
+        "Masenko"
+       ],
+       "category": "Ataque de Dragon Ball Z"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mango Loco",
+        "Pipeline Punch",
+        "Pacific Punch",
+        "Ultra Paradise",
+        "Ultra Violet",
+        "Khaotic"
+       ],
+       "category": "Sabor de Monster Energy"
+      },
+      {
+       "answers": [
+        "Resplandor Final",
+        "Onda Explosiva",
+        "Granada Infernal",
+        "Impacto Meteoro",
+        "Cañón de Luz",
+        "Bola de la Muerte"
+       ],
+       "category": "Ataque de Dragon Ball Z"
+      }
+     ]
+    }
+   ],
+   "theme": "FOREST"
+  },
+  {
+   "id": "112986",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Alaïa",
+        "Moschino",
+        "Celine",
+        "DSQUARED2",
+        "Givenchy",
+        "Loewe"
+       ],
+       "category": "Marca de moda"
+      },
+      {
+       "answers": [
+        "Hooli",
+        "Weyland-Yutani",
+        "Blue Sun",
+        "InGen",
+        "Hyperion",
+        "Shinra"
+       ],
+       "category": "Corporación ficticia malvada"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Balmain",
+        "Burberry",
+        "Chloé",
+        "Fendi",
+        "Lanvin",
+        "Moncler"
+       ],
+       "category": "Marca de moda"
+      },
+      {
+       "answers": [
+        "Bissú",
+        "Pai Pai",
+        "Ahal",
+        "Pink Up",
+        "Vogue",
+        "Momiji"
+       ],
+       "category": "Marca de belleza latinoamericana"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Globex",
+        "Lexcorp",
+        "Biosyn",
+        "Oscorp",
+        "Vault-Tec",
+        "UAC"
+       ],
+       "category": "Corporación ficticia malvada"
+      },
+      {
+       "answers": [
+        "Belcorp",
+        "Cyzone",
+        "Ésika",
+        "L’Bel",
+        "Natura",
+        "Yanbal"
+       ],
+       "category": "Marca de belleza latinoamericana"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113097",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Barranco Goloso",
+        "Mansión Retorcida",
+        "Lago de Boo",
+        "Camino Forestal",
+        "Cielos Helados",
+        "Bañódromo"
+       ],
+       "category": "Pistas de [i]Mario Kart[/i]"
+      },
+      {
+       "answers": [
+        "Callejón de gasolina",
+        "El lado lejano",
+        "Pequeño Nemo en el País de los Sueños",
+        "Cul de Sac",
+        "Pradera Liberty",
+        "Por encima del seto"
+       ],
+       "category": "Tiras cómicas"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Avenida Brasil",
+        "Cuna de lobos",
+        "La tormenta",
+        "Verano en Venecia",
+        "Pueblo chico, infierno grande",
+        "El camino secreto"
+       ],
+       "category": "Telenovelas"
+      },
+      {
+       "answers": [
+        "Ámsterdam acelerada",
+        "Roma bajo la Luna",
+        "Paseo por Madrid",
+        "Visita a Nueva York",
+        "Ronda por Londres",
+        "A tope en Los Ángeles"
+       ],
+       "category": "Pistas de [i]Mario Kart[/i]"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Lorenzo y Pepita",
+        "Educando a papá",
+        "Periquita",
+        "Mandrake el mago",
+        "Terry y los piratas",
+        "Kalimán"
+       ],
+       "category": "Tiras cómicas"
+      },
+      {
+       "answers": [
+        "Rosa salvaje",
+        "Amor real",
+        "La dueña",
+        "La patrona",
+        "Pasión de gavilanes",
+        "Simplemente María"
+       ],
+       "category": "Telenovelas"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113140",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Hielo y sal",
+        "Cucharada de canela",
+        "Cubetazo helado",
+        "El suelo es lava",
+        "Chile fantasma",
+        "Giro de botella"
+       ],
+       "category": "Reto viral"
+      },
+      {
+       "answers": [
+        "Cucaracha",
+        "Submarino",
+        "Vampiro",
+        "Charro negro",
+        "Medias de seda",
+        "Ojo rojo"
+       ],
+       "category": "Cóctel o bebida preparada"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Rabona",
+        "Bicicleta",
+        "Sombrerito",
+        "Ruleta",
+        "Elástica",
+        "Croqueta"
+       ],
+       "category": "Truco de fútbol"
+      },
+      {
+       "answers": [
+        "Paloma",
+        "Margarita",
+        "Cantarito",
+        "Cucaracha",
+        "Submarino",
+        "Vampiro"
+       ],
+       "category": "Cóctel o bebida preparada"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Caja invisible",
+        "La silla",
+        "Galleta en la frente",
+        "Maniquí congelado",
+        "La escoba",
+        "Plancha humana"
+       ],
+       "category": "Reto viral"
+      },
+      {
+       "answers": [
+        "Vuelta al mundo",
+        "Arcoíris",
+        "Péndulo",
+        "Toque de cuello",
+        "Lambreta",
+        "Panna"
+       ],
+       "category": "Truco de fútbol"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "113142",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "El talismán (The Talisman)",
+        "El hombre de la cortadora de césped (The Lawnmower Man)",
+        "Doctor Sueño (Doctor Sleep)",
+        "El visitante (The Outsider)",
+        "El fugitivo (The Running Man)",
+        "Mr. Mercedes"
+       ],
+       "category": "Historia de Stephen King"
+      },
+      {
+       "answers": [
+        "Mike de Hierro (Iron Mike)",
+        "El Sicario (The Hitman)",
+        "Joe Humeante (Smokin’ Joe)",
+        "El Chico de Oro (The Golden Boy)",
+        "El Bombardero de Bronce (The Bronze Bomber)",
+        "El Rey Gitano (The Gypsy King)"
+       ],
+       "category": "Apodo de boxeador"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "La zona muerta (The Dead Zone)",
+        "Christine",
+        "El mono (The Monkey)",
+        "La tienda (Needful Things)",
+        "Quien pierde paga (Finders Keepers)",
+        "No tengas miedo (Never Flinch)"
+       ],
+       "category": "Historia de Stephen King"
+      },
+      {
+       "answers": [
+        "El faro (The Lighthouse)",
+        "La despedida (The Farewell)",
+        "Clímax (Climax)",
+        "Tráela de vuelta (Bring Her Back)",
+        "La bruja (The Witch)",
+        "Bajo la piel (Under the Skin)"
+       ],
+       "category": "Película de A24"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "El Verdugo (The Executioner)",
+        "El Robacuerpos (The Body Snatcher)",
+        "El Asesino de Easton (The Easton Assassin)",
+        "El Hombre Cenicienta (Cinderella Man)",
+        "La Mangosta (The Mongoose)",
+        "Guisante Dulce (Sweet Pea)"
+       ],
+       "category": "Apodo de boxeador"
+      },
+      {
+       "answers": [
+        "La garra de hierro (The Iron Claw)",
+        "El brutalista (The Brutalist)",
+        "El Sexto (The Sixth)",
+        "El caballero verde (The Green Knight)",
+        "Santa Maud (Saint Maud)",
+        "Apóyate en Pete (Lean on Pete)"
+       ],
+       "category": "Película de A24"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113280",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Patricia",
+        "Wilma",
+        "Mitch",
+        "Gilbert",
+        "Odile",
+        "Katrina"
+       ],
+       "category": "Nombre de huracán o tormenta tropical"
+      },
+      {
+       "answers": [
+        "Ilía",
+        "Kaiak",
+        "Magnat",
+        "Vibranza",
+        "Luna",
+        "Humor"
+       ],
+       "category": "Fragancia de catálogo"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Otis",
+        "Mitch",
+        "Gilbert",
+        "Dora",
+        "Stan",
+        "Manuel"
+       ],
+       "category": "Nombre de huracán o tormenta tropical"
+      },
+      {
+       "answers": [
+        "Geisha",
+        "Bourbon",
+        "Caturra",
+        "Pacamara",
+        "Typica",
+        "Maragogipe"
+       ],
+       "category": "Variedad de Café"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Osadía",
+        "D’orsay",
+        "Kriska",
+        "Essencial",
+        "Biografía",
+        "Tentación"
+       ],
+       "category": "Fragancia de catálogo"
+      },
+      {
+       "answers": [
+        "Catuaí",
+        "Castillo",
+        "Mundo Novo",
+        "Obatá",
+        "Villa Sarchí",
+        "SL28"
+       ],
+       "category": "Variedad de Café"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "id": "113281",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Industrial",
+        "Hélix",
+        "Orbital",
+        "Aurícula",
+        "Trago",
+        "Antitrago"
+       ],
+       "category": "Tipo de performación de oreja"
+      },
+      {
+       "answers": [
+        "Trinquete",
+        "Arcee",
+        "Sabueso",
+        "Jazz",
+        "Golpe lateral",
+        "Galvatrón"
+       ],
+       "category": "Personaje de [i]Transformadores[/i]"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mordida de serpiente",
+        "Lóbulo",
+        "Escafa",
+        "Daith",
+        "Concha",
+        "Snug"
+       ],
+       "category": "Tipo de performación de oreja"
+      },
+      {
+       "answers": [
+        "Rastrillo",
+        "Talud",
+        "Vestidor",
+        "Mazmorra",
+        "Mirador Saledizo",
+        "Ladronera"
+       ],
+       "category": "Parte de Castillo Medieval"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Piel de hierro",
+        "Gato de rueda",
+        "Ariete a reacción",
+        "Grimlock",
+        "Saltarriscos",
+        "Triturahuesos"
+       ],
+       "category": "Personaje de [i]Transformadores[/i]"
+      },
+      {
+       "answers": [
+        "Barbacana",
+        "Matacán",
+        "Bastión",
+        "Revellín",
+        "Buhedera",
+        "Garita"
+       ],
+       "category": "Parte de Castillo Medieval"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113282",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Jacqueline Kennedy: Los Años de la Casa Blanca",
+        "La Mujer del Siglo XVIII",
+        "China: A Través del Espejo",
+        "Vestuarios de la India Real",
+        "El Mundo de Balenciaga"
+       ],
+       "category": "Temáticas del Met Gala"
+      },
+      {
+       "answers": [
+        "Patrón y Paradoja: Los Edredones de las Mujeres Amish",
+        "Viaje de Color",
+        "Diseñando la Paz",
+        "Naturaleza por Diseño: Lecciones Botánicas",
+        "Haciendo una Declaración"
+       ],
+       "category": "Exhibiciones del Museo Smithsoniano"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Baile",
+        "Hombre y el Caballo",
+        "La Belle Époque",
+        "Diosa: El Modo Clásico",
+        "Mujeres de Estilo Norteamericanas"
+       ],
+       "category": "Temáticas del Met Gala"
+      },
+      {
+       "answers": [
+        "Belles de Jour",
+        "Pequeña en Rosa",
+        "Hola, Sociedad",
+        "Un Verano Algo Maravilloso",
+        "Último Tango, Después Paris"
+       ],
+       "category": "Episodios de [i]Gossip Girl[/i]"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Vuelo Temprano",
+        "Estados Unidos está Escuchando",
+        "Tomando el Escenario",
+        "El Valor del Dinero",
+        "En estas Rudas Calles"
+       ],
+       "category": "Exhibiciones del Museo Smithsoniano"
+      },
+      {
+       "answers": [
+        "La Era de la Disonancia",
+        "Cazadores del Arca Perdida",
+        "Salón de los Muertos",
+        "Retrato de una Dama Alexander",
+        "Hoguera de la Vanidad"
+       ],
+       "category": "Episodios de [i]Gossip Girl[/i]"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113284",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Pepa Marcos",
+        "Paulina Morales",
+        "Rebeca Giner",
+        "Becky del Páramo",
+        "Huma Rojo"
+       ],
+       "category": "Personaje de película de Almodóvar"
+      },
+      {
+       "answers": [
+        "Sergio Pitol",
+        "Juan Gelman",
+        "Nicanor Parra",
+        "Elena Poniatowska",
+        "Ida Vitale"
+       ],
+       "category": "Ganador/a del Premio Cervantes"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Leo Macías",
+        "Paco Arcos",
+        "Marco Zuluaga",
+        "Nicanor Parra",
+        "Benigno Martín"
+       ],
+       "category": "Personaje de película de Almodóvar"
+      },
+      {
+       "answers": [
+        "Roberto Clemente",
+        "Juan Marichal",
+        "Luis Aparicio",
+        "Orlando Cepeda",
+        "Rod Carew"
+       ],
+       "category": "Beisbolista latino del Salón de la Fama"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Fernando Valenzuela",
+        "Mariano Rivera",
+        "Pedro Martínez",
+        "Vladimir Guerrero",
+        "Iván Rodríguez"
+       ],
+       "category": "Beisbolista latino del Salón de la Fama"
+      },
+      {
+       "answers": [
+        "Álvaro Mutis",
+        "Alejo Carpentier",
+        "José Emilio Pacheco",
+        "Fernando del Paso",
+        "Gonzalo Celorio"
+       ],
+       "category": "Ganador/a del Premio Cervantes"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113289",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Sabor a peligro (A Taste of Danger)",
+        "Misterio en el menú (Mystery on the Menu)",
+        "El intruso invisible (The Invisible Intruder)",
+        "El símbolo del árbol de las brujas (The Witch Tree Symbol)",
+        "Partido enemigo (Enemy Match)"
+       ],
+       "category": "Libros de Nancy Drew"
+      },
+      {
+       "answers": [
+        "Traidores, impostores y estafadores (Betrayers, Fakes and Fraudsters)",
+        "Asesinato a plena vista (Murder in Plain Sight)",
+        "Puñalada y traición (Backstab and Betrayal)",
+        "El peso del engaño (The Weight of Deceit)",
+        "Cabañas en el bosque (Cabins in the Woods)"
+       ],
+       "category": "Episodios de Los Traidores"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "El misterio de la Posada Lila (The Mystery at Lilac Inn)",
+        "La decimotercera perla (The Thirteenth Pearl)",
+        "El misterio de los 99 escalones (The Mystery of the 99 Steps)",
+        "La clave de la calle Larkspur (Password to Larkspur Lane)",
+        "La estatua susurrante (The Whispering Statue)"
+       ],
+       "category": "Libros de Nancy Drew"
+      },
+      {
+       "answers": [
+        "El golpe del cristal (Crystal Caper)",
+        "El Misterio de la Abadía (Mystery of the Abbey)",
+        "¡Aventureros al tren! (Ticket to Ride)",
+        "El valle de la eternidad (The Vale of Eternity)",
+        "La jaula nocturna (The Night Cage)"
+       ],
+       "category": "Juegos de Mesa"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Un asesino silencioso (A Silent Assassin)",
+        "No confíes en nadie (Trust No One)",
+        "Sospecha y sabotaje (Suspicion and Sabotage)",
+        "Asesinato que escribieron (Murder They Wrote)",
+        "Una jugada mortal (A Killer Move)"
+       ],
+       "category": "Episodios de Los Traidores"
+      },
+      {
+       "answers": [
+        "Las Mansiones de la Locura (Mansions of Madness)",
+        "El amor está muerto (Love is Dead)",
+        "Betrayal: La Casa de la Colina (Betrayal at House on the Hill)",
+        "Los Castillos de Borgoña (The Castles of Burgundy)",
+        "Arrepentimientos profundos (Deep Regrets)"
+       ],
+       "category": "Juegos de Mesa"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113319",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Espía",
+        "Redención",
+        "Persecución mortal",
+        "El robo del siglo",
+        "Caos",
+        "Snatch"
+       ],
+       "category": "Pelicula protagonizada por Jason Statham"
+      },
+      {
+       "answers": [
+        "¿Gratis?",
+        "XXX",
+        "¿Cuánto cuesta un Dólar?",
+        "Father Time",
+        "Opposites Attract",
+        "30 for 30"
+       ],
+       "category": "Canción de Kendrick Lamar"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "El comodín",
+        "El protector",
+        "13",
+        "Asesino solitario",
+        "Turn It Up",
+        "El único"
+       ],
+       "category": "Pelicula protagonizada por Jason Statham"
+      },
+      {
+       "answers": [
+        "Cover Up",
+        "Check Out",
+        "Flip Flop",
+        "It’s in the Bag",
+        "Make Your Move",
+        "Money Game"
+       ],
+       "category": "Juego de Price is Right"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Rich",
+        "Big Shot",
+        "Now or Never",
+        "Count Me Out",
+        "For Sale?",
+        "Good Credit"
+       ],
+       "category": "Canción de Kendrick Lamar"
+      },
+      {
+       "answers": [
+        "Bullseye",
+        "Double Cross",
+        "Golden Road",
+        "Let ‘em Roll",
+        "3 Strikes",
+        "Temptation"
+       ],
+       "category": "Juego de Price is Right"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113320",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Alegría",
+        "Boo",
+        "Russell",
+        "Dory",
+        "Hopper",
+        "Buzz Lighyear"
+       ],
+       "category": "Personaje de Pixar"
+      },
+      {
+       "answers": [
+        "Steeler",
+        "Flint",
+        "Spirit",
+        "Scarlett",
+        "Hélix",
+        "Clutch"
+       ],
+       "category": "Personaje de G.I. Joe"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dash",
+        "Mérida",
+        "Crush",
+        "Frozono",
+        "Remy",
+        "Síndrome"
+       ],
+       "category": "Personaje de Pixar"
+      },
+      {
+       "answers": [
+        "Maverick",
+        "Edsel",
+        "Thunderbird",
+        "Courier",
+        "Durango",
+        "Probe"
+       ],
+       "category": "Vehículo Ford"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Bloqueo",
+        "Luciérnaga",
+        "Destro",
+        "Sargento Acechador",
+        "Banzai",
+        "Dardo"
+       ],
+       "category": "Personaje de G.I. Joe"
+      },
+      {
+       "answers": [
+        "Fiesta",
+        "Contour",
+        "Edge",
+        "Bronco",
+        "Scorpio",
+        "Freestyle"
+       ],
+       "category": "Vehículo Ford"
+      }
+     ]
+    }
+   ],
+   "theme": ""
+  },
+  {
+   "id": "113505",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Shoot-through",
+        "Buenos días",
+        "La guardia del granjero",
+        "Burpee",
+        "Pelando el Gato",
+        "Caminata de muro"
+       ],
+       "category": "Ejercicio de CrossFit"
+      },
+      {
+       "answers": [
+        "Mecedora",
+        "Estrella a una mano",
+        "Paseando al perro",
+        "Boingy-boing horizontal",
+        "Monte Houdini",
+        "Giro al fallo"
+       ],
+       "category": "Truco de YoYo"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Envión en tijera",
+        "Arrancada desde colgado",
+        "Levantamiento turco",
+        "Salto al cajón",
+        "Sentadilla libre",
+        "Thruster"
+       ],
+       "category": "Ejercicio de CrossFit"
+      },
+      {
+       "answers": [
+        "Arabesco",
+        "Alzada lazo",
+        "Pirueta de espalda",
+        "Salto Lutz",
+        "Salto de tijera ruso",
+        "Tres"
+       ],
+       "category": "Movimiento de patinaje de patinaje artístico"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Doble trapecio",
+        "Envoltura de pierna",
+        "Órbitas detrás de la espalda",
+        "Rueda de rehilete",
+        "8 Loco",
+        "Brain Twister"
+       ],
+       "category": "Truco de YoYo"
+      },
+      {
+       "answers": [
+        "Pirueta camello",
+        "Espiral de la muerte",
+        "Pirueta cortapelo",
+        "Triple Axel",
+        "Giro Rocker",
+        "El patito"
+       ],
+       "category": "Movimiento de patinaje de patinaje artístico"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113530",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mongraal",
+        "TheGrefg",
+        "Tarik",
+        "Rubius",
+        "Ibai",
+        "Juansguarnizo"
+       ],
+       "category": "Streamer popular de Twitch"
+      },
+      {
+       "answers": [
+        "Lustigt",
+        "Stockholm",
+        "Skruvby",
+        "Varmblixt",
+        "Dejsa",
+        "Nordkisa"
+       ],
+       "category": "Producto de IKEA"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Jynxzi",
+        "Pokimane",
+        "Clix",
+        "Shroud",
+        "Alanzoka",
+        "Sykkuno"
+       ],
+       "category": "Streamer popular de Twitch"
+      },
+      {
+       "answers": [
+        "Rodiano",
+        "Ewok",
+        "Zabrak",
+        "Anzellan",
+        "Wookiee",
+        "Sarlacc"
+       ],
+       "category": "Especies alienígenas en [i]Star Wars[/i]"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Kallax",
+        "Tonstad",
+        "Smågöra",
+        "Vattenkar",
+        "Hauga",
+        "Vedbo"
+       ],
+       "category": "Producto de IKEA"
+      },
+      {
+       "answers": [
+        "Gungan",
+        "Togruta",
+        "Jawa",
+        "Hutt",
+        "Tauntaun",
+        "Nautolan"
+       ],
+       "category": "Especies alienígenas en [i]Star Wars[/i]"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113541",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Hinterland",
+        "El secreto de Rillington Place",
+        "Wolf Hall",
+        "Shetland",
+        "Virdee",
+        "Wisting"
+       ],
+       "category": "Drama de BBC"
+      },
+      {
+       "answers": [
+        "Harrenhal",
+        "Foso Cailin",
+        "Las Tierras de los Ríos",
+        "Las Tierras de la Corona",
+        "Winterfell",
+        "Colina Cuerno"
+       ],
+       "category": "Lugar de [i]Juego de Tronos[/i]"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Ridley Road",
+        "Poldark",
+        "Bannan",
+        "Campion",
+        "Granite Harbour",
+        "Middlemarch"
+       ],
+       "category": "Drama de BBC"
+      },
+      {
+       "answers": [
+        "Tetley",
+        "Bigelow",
+        "Typhoo",
+        "Glengettie",
+        "Whittard",
+        "Tavalon"
+       ],
+       "category": "Marca de té"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Tavalon",
+        "Roca Casterly",
+        "Pyke",
+        "Aguasdulces",
+        "Altojardín",
+        "Isla del Oso"
+       ],
+       "category": "Lugar de [i]Juego de Tronos[/i]"
+      },
+      {
+       "answers": [
+        "Vahdam",
+        "Twinings",
+        "Kshire",
+        "Dilmah",
+        "Numi",
+        "Luzianne"
+       ],
+       "category": "Marca de té"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113584",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Corfu",
+        "Ithaca",
+        "Thera",
+        "Paxos",
+        "Samothrace"
+       ],
+       "category": "Islas griegas"
+      },
+      {
+       "answers": [
+        "Synopsys",
+        "Ansys",
+        "Okta",
+        "Kyndryl",
+        "Oracle"
+       ],
+       "category": "Principales empresas de software"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Gorgie",
+        "Solimo",
+        "Alani Nu",
+        "Oca",
+        "Ardor"
+       ],
+       "category": "Bebidas energéticas"
+      },
+      {
+       "answers": [
+        "Cythera",
+        "Salamis",
+        "Chios",
+        "Leucas",
+        "Kéa"
+       ],
+       "category": "Islas griegas"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Twilio",
+        "Splunk",
+        "Toast",
+        "Fiserv",
+        "Atlassian"
+       ],
+       "category": "Principales empresas de software"
+      },
+      {
+       "answers": [
+        "Fast Twitch",
+        "Prime",
+        "Gorilla Mind",
+        "Jocko Go",
+        "Celsius"
+       ],
+       "category": "Bebidas energéticas"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "id": "113586",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mappy",
+        "Tekken",
+        "Navarone",
+        "Rolling Thunder",
+        "Time Crisis"
+       ],
+       "category": "Juego de Arcade Clásico de Namco"
+      },
+      {
+       "answers": [
+        "Eartheater",
+        "Flight Facilities",
+        "Orbital",
+        "Skepta",
+        "Clown Core"
+       ],
+       "category": "Lineup del Festival Coachella 2024"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Sky Kid",
+        "Point Blank",
+        "Convoy",
+        "Blazer",
+        "Steel Gunner"
+       ],
+       "category": "Juegos de Arcade Clásicos de Namco"
+      },
+      {
+       "answers": [
+        "Tombstone",
+        "Temple de acero",
+        "El último pistolero",
+        "Hud: El indomable",
+        "Noche de terror"
+       ],
+       "category": "Films occidentales"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Gorgon City",
+        "Taking Back Sunday",
+        "Black Country, New Road",
+        "Mandy, Indiana",
+        "feeble little horse"
+       ],
+       "category": "Lineup del Festival Coachella 2024"
+      },
+      {
+       "answers": [
+        "Los siete magníficos",
+        "Veracruz",
+        "Por un puñado de dólares",
+        "A la hora señalada",
+        "La pandilla del fin del mundo"
+       ],
+       "category": "Films occidentales"
+      }
+     ]
+    }
+   ],
+   "theme": "DESERT"
+  },
+  {
+   "id": "113591",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Nutrish",
+        "Orijen",
+        "Diamond Naturals",
+        "Pedigree",
+        "Vital Essentials"
+       ],
+       "category": "Marcas de alimento de perro"
+      },
+      {
+       "answers": [
+        "Kora Organics",
+        "Stripes",
+        "S’able Labs",
+        "Sienna Naturals",
+        "Rhode",
+        "Kind Science"
+       ],
+       "category": "Marcas de belleza de celebridades"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "KSHMR",
+        "Topic",
+        "Black Coffee",
+        "Hardwell",
+        "R3HAB",
+        "Skrillex"
+       ],
+       "category": "DJs famosos"
+      },
+      {
+       "answers": [
+        "Goop",
+        "LolaVie",
+        "Homecourt",
+        "SKKN",
+        "The Outset"
+       ],
+       "category": "Marcas de belleza de celebridades"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Eukanuba",
+        "Iams",
+        "Nutro",
+        "Ollie",
+        "Jinx"
+       ],
+       "category": "Marcas de alimento de perro"
+      },
+      {
+       "answers": [
+        "Marshmello",
+        "Dubdogz",
+        "Pink Panda",
+        "W&W",
+        "Alok"
+       ],
+       "category": "DJs famosos"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113658",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Toncantins",
+        "Borneo",
+        "Caramoan",
+        "Palau",
+        "Vanuatu",
+        "Fiji"
+       ],
+       "category": "Lugares de temporadas de [i]Survivor[/i]"
+      },
+      {
+       "answers": [
+        "Solana",
+        "Cardano",
+        "Toncoin",
+        "Monero",
+        "Shiba Inu",
+        "Aptos"
+       ],
+       "category": "Criptomonedas"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Gabon",
+        "Kaôh Rōng",
+        "Cagayan",
+        "San Juan del Sur",
+        "Islas Cook",
+        "Marquesas"
+       ],
+       "category": "Lugares de temporadas de [i]Survivor[/i]"
+      },
+      {
+       "answers": [
+        "Reale",
+        "Jungsik",
+        "Le Palais",
+        "Lasarte",
+        "L’Ambroisie",
+        "Maaemo"
+       ],
+       "category": "Restaurante Michelin de tres Estrellas"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Ethereum",
+        "BNB",
+        "Polkadot",
+        "Hyperliquid",
+        "Avalanche",
+        "Bitcoin"
+       ],
+       "category": "Criptomonedas"
+      },
+      {
+       "answers": [
+        "Mágico",
+        "Alinea",
+        "Sorn",
+        "Quintessence",
+        "Geranium",
+        "Noma"
+       ],
+       "category": "Restaurante Michelin de tres Estrellas"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113790",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Summer of Soul",
+        "El hombre en el cable",
+        "Grey Gardens",
+        "La cueva",
+        "Spellbound",
+        "Buscando a Sugar Man"
+       ],
+       "category": "Documental nominado al oscar"
+      },
+      {
+       "answers": [
+        "El gato en la bolsa de compras",
+        "Un hombre que vivía en Leeds",
+        "Alguien cayó de lo alto",
+        "Las malas noticias",
+        "¿A qué vienes?",
+        "La mancha roja"
+       ],
+       "category": "Historias de miedo para contar en la oscuridad"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Salida por la tienda de regalos",
+        "Mi maestro el pulpo",
+        "Comida, Inc.",
+        "Sicko",
+        "Waste Land",
+        "Super Size Me"
+       ],
+       "category": "Documental nominado al oscar"
+      },
+      {
+       "answers": [
+        "Amish Paradise",
+        "Headline News",
+        "Christmas at Ground Zero",
+        "Trapped in the Drive-Thru",
+        "First World Problems",
+        "Word Crimes"
+       ],
+       "category": "Canción de Weird Al Yankovic"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Salchichas fabulosas",
+        "El canto de la carroza fúnebre",
+        "¿Puedo llevar tu canasta?",
+        "Un caballo nuevo",
+        "La niñera",
+        "Sopa de cementerio"
+       ],
+       "category": "Historias de miedo para contar en la oscuridad"
+      },
+      {
+       "answers": [
+        "Handy",
+        "I Can’t Watch This",
+        "Pancreas",
+        "Ricky",
+        "Toothless People",
+        "The White Stuff"
+       ],
+       "category": "Canción de Weird Al Yankovic"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "id": "113795",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "The Deck",
+        "Bear Brook",
+        "Betrayal",
+        "Bone Valley",
+        "Welcome to Your Fantasy",
+        "A Little Wicked"
+       ],
+       "category": "Podcast de True Crime"
+      },
+      {
+       "answers": [
+        "Are You the One?",
+        "Mr. Personality",
+        "Outback Jack",
+        "Forever Eden",
+        "The One That Got Away",
+        "It Takes a Church"
+       ],
+       "category": "Reality show de citas"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "El cisne",
+        "Granjero busca esposa",
+        "Daisy of Love",
+        "What Chili Wants",
+        "El pueblo del amor",
+        "Momma’s Boys"
+       ],
+       "category": "Reality show de citas"
+      },
+      {
+       "answers": [
+        "San Valentín, oh San Valentín",
+        "La Reina de Corazones",
+        "Panecillos calientes",
+        "Guau-Guau-Guau",
+        "Baila para tu papá",
+        "El nido de la tórtola"
+       ],
+       "category": "Poema de Mamá Oca"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Llora, bebé, llora",
+        "Jack sé ágil",
+        "La casa que construyó Jack",
+        "Había un hombre torcido",
+        "El gran búho marrón",
+        "El pobre perro Bright"
+       ],
+       "category": "Poema de Mamá Oca"
+      },
+      {
+       "answers": [
+        "Sword and Scale",
+        "Rotten Mango",
+        "And That’s Why We Drink",
+        "Something Was Wrong",
+        "The Bakersfield Three",
+        "Run, Fool!"
+       ],
+       "category": "Podcast de True Crime"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "113829",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Moisés",
+        "Napoleón",
+        "Boxeador",
+        "Mínimus",
+        "Campanilla"
+       ],
+       "category": "Personaje de [i]Rebelión en la granja[/i]"
+      },
+      {
+       "answers": [
+        "Peacock",
+        "Acorn",
+        "Stan",
+        "Philo",
+        "Mango"
+       ],
+       "category": "Servicio de streaming"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Viejo Major",
+        "Squealer",
+        "Benjamín",
+        "Trébol",
+        "Sr. Whymper"
+       ],
+       "category": "Personaje de [i]Rebelión en la granja[/i]"
+      },
+      {
+       "answers": [
+        "Lucky",
+        "Sonny",
+        "Cookie Jarvis",
+        "El gallo Cornelius",
+        "El perro Chip"
+       ],
+       "category": "Mascota de cereal"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Crave",
+        "Binge",
+        "Nebula",
+        "Aha",
+        "Starz"
+       ],
+       "category": "Servicio de streaming"
+      },
+      {
+       "answers": [
+        "Buzz Lighyear",
+        "Snap",
+        "Bigg Mixx",
+        "Dig ‘Em",
+        "Melvin"
+       ],
+       "category": "Mascota de cereal"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113833",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Silo",
+        "Servant",
+        "Murderbot",
+        "Surface",
+        "See",
+        "Echo 3"
+       ],
+       "category": "Series de Apple TV"
+      },
+      {
+       "answers": [
+        "Newton",
+        "Cyberdog",
+        "Airport",
+        "Copland",
+        "Time Capsule"
+       ],
+       "category": "Producto de Apple descontinuado"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Palm Royale",
+        "Acapulco",
+        "Bad Monkey",
+        "Monarch",
+        "Dickinson",
+        "Pachinko"
+       ],
+       "category": "Series de Apple TV"
+      },
+      {
+       "answers": [
+        "Pink Lady",
+        "Braeburn",
+        "Spartan",
+        "Northern Spy",
+        "Gravenstein"
+       ],
+       "category": "Tipo de manzana"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Lisa",
+        "Pippin",
+        "Ping",
+        "Round Mouse",
+        "Xserve"
+       ],
+       "category": "Producto de Apple descontinuado"
+      },
+      {
+       "answers": [
+        "Spartan",
+        "Gala",
+        "Ambrosia",
+        "SweeTango",
+        "Idared",
+        "Jazz"
+       ],
+       "category": "Tipo de manzana"
+      }
+     ]
+    }
+   ],
+   "theme": "FOREST"
+  },
+  {
+   "id": "114055",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "VSX",
+        "PINK",
+        "Signature",
+        "Bombshell",
+        "Rapture"
+       ],
+       "category": "Nombres productos de Victoria’s Secret"
+      },
+      {
+       "answers": [
+        "Jitterbug",
+        "Mate",
+        "Edge",
+        "Galaxy",
+        "Chocolate"
+       ],
+       "category": "Modelo de teléfono móvil"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Cricket",
+        "Firefly",
+        "Soul",
+        "Wave",
+        "Pixel"
+       ],
+       "category": "Modelo de teléfono móvil"
+      },
+      {
+       "answers": [
+        "Skinamarink",
+        "Grimcutty",
+        "Cuckoo",
+        "Pooka!",
+        "Companion"
+       ],
+       "category": "Película de terror en Hulu"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Tease",
+        "Dream Angels",
+        "Insatiable",
+        "Temptation",
+        "Secret Dream"
+       ],
+       "category": "Nombres productos de Victoria’s Secret"
+      },
+      {
+       "answers": [
+        "Little Monsters",
+        "Appendage",
+        "Matriarch",
+        "Fresh",
+        "Run"
+       ],
+       "category": "Película de terror en Hulu"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "114080",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Bad Medicine",
+        "Cherry Pie",
+        "Dr. Feelgood",
+        "November Rain",
+        "Fantasy",
+        "Naughty Naughty"
+       ],
+       "category": "Canción tocada en Hair Nation"
+      },
+      {
+       "answers": [
+        "VIP",
+        "Timber",
+        "Prestige",
+        "Wolfthorn",
+        "Oasis",
+        "Aqua Reef"
+       ],
+       "category": "Aroma de Old Spice"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Black Clover",
+        "Fire Force",
+        "Bleach",
+        "Wind Breaker",
+        "Berserk",
+        "Chainsaw Man"
+       ],
+       "category": "Anime en Crunchyroll"
+      },
+      {
+       "answers": [
+        "Pure Sport",
+        "Deep Sea",
+        "Steel Titan",
+        "Raptorstrike",
+        "Krakengard",
+        "Sunrise"
+       ],
+       "category": "Aroma de Old Spice"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Lord of Mysteries",
+        "Demon Slayer",
+        "Hellsing",
+        "My Dress-Up Darling",
+        "The Seven Deadly Sins",
+        "A Condition Called Love"
+       ],
+       "category": "Anime en Crunchyroll"
+      },
+      {
+       "answers": [
+        "The Final Countdown",
+        "Youth Gone Wild",
+        "Jet City Woman",
+        "Heaven’s on Fire",
+        "Modern Day Cowboy",
+        "Too Young to Fall in Love"
+       ],
+       "category": "Canción tocada en Hair Nation"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "114084",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Tótem de Inmortalidad",
+        "Frasco de experiencia",
+        "Estrella del Nether",
+        "Membrana de fantasma",
+        "Cristal de End",
+        "Vara de Blaze"
+       ],
+       "category": "Objeto de Minecraft (a 2024)"
+      },
+      {
+       "answers": [
+        "Vara de control cósmico",
+        "Cofre de los antiguos inviernos",
+        "Necroespada Toda-Negra",
+        "Cubo Cósmico",
+        "Ojo de Agamotto",
+        "Stormbreaker"
+       ],
+       "category": "Objeto ficticio en comics de Marvel"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Sand Cloud",
+        "Bolsa Stasher",
+        "Clean Cube",
+        "UniKey",
+        "Mission Belt",
+        "The Bouqs"
+       ],
+       "category": "Producto de Shark Tank"
+      },
+      {
+       "answers": [
+        "Balde con lava",
+        "Libro del conocimiento",
+        "Fruta del Chorus",
+        "Bote de cerezo",
+        "Cofre del Ender",
+        "Aliento de dragón"
+       ],
+       "category": "Objeto de Minecraft (a 2024)"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Bomba Loca",
+        "Nulificador Definitivo",
+        "Bandas Cuánticas",
+        "LMD",
+        "Plataforma Temporal",
+        "Moléculas Inestables"
+       ],
+       "category": "Objeto ficticio en comics de Marvel"
+      },
+      {
+       "answers": [
+        "Ionic Ear",
+        "RoloDoc",
+        "The Sullivan Generator",
+        "LIFTiD Neurostimulation",
+        "Monosuit",
+        "DomeDock"
+       ],
+       "category": "Producto de Shark Tank"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "114085",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Zona Tiza",
+        "Cerdo Cabra Banana Grillo",
+        "Middlemost: Aventura postal",
+        "Mr. Meaty",
+        "Just for Kicks",
+        "Game Shakers"
+       ],
+       "category": "Programa de Nickelodeon"
+      },
+      {
+       "answers": [
+        "Psycho Bunny",
+        "ClimbZone",
+        "Adopt Me!",
+        "Ubetcha!",
+        "Free People",
+        "Master Noodle"
+       ],
+       "category": "Negocio en Mall of America"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Nate el Grande",
+        "Victorious",
+        "Marvin Marvin",
+        "Sunny Day",
+        "T.U.F.F. Puppy",
+        "Catscratch"
+       ],
+       "category": "Programa de Nickelodeon"
+      },
+      {
+       "answers": [
+        "Early Girl",
+        "Better Boy",
+        "Juliet",
+        "Celebrity",
+        "Gigante Verde",
+        "Mr. Stripey"
+       ],
+       "category": "Tipo de Tomate"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Buckle",
+        "Zara",
+        "Squishable",
+        "True Classic",
+        "Mochinut",
+        "Pepper Palace"
+       ],
+       "category": "Negocio en Mall of America"
+      },
+      {
+       "answers": [
+        "Jersey Boy",
+        "Super Sweet 100",
+        "Sungold",
+        "Midnight Roma",
+        "Deleite del jardinero",
+        "Brandywine"
+       ],
+       "category": "Tipo de Tomate"
+      }
+     ]
+    }
+   ],
+   "theme": "FOREST"
+  },
+  {
+   "countrySpecific": true,
+   "id": "114088",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Aventuras en la oficina",
+        "Dads",
+        "Mi madre es un auto",
+        "Cavemen",
+        "Cupido",
+        "Bad Judge"
+       ],
+       "category": "Comedia de televisión (de una sola temporada)"
+      },
+      {
+       "answers": [
+        "En guerra con mi abuelo",
+        "Socias en guerra",
+        "Siete deseos",
+        "Papás a la fuerza",
+        "Chappie",
+        "El gurú del amor"
+       ],
+       "category": "Película (con una reseña crítica de una estrella)"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Ángel del infierno",
+        "Las hermanas Kelly",
+        "We Are Men",
+        "Siéntate y cállate",
+        "Work It!",
+        "One Big Happy"
+       ],
+       "category": "Comedia de televisión (de una sola temporada)"
+      },
+      {
+       "answers": [
+        "Lovefool",
+        "Me and Mrs. Jones",
+        "How Do You Talk to an Angel?",
+        "Two of Hearts",
+        "Mickey",
+        "What’s Up"
+       ],
+       "category": "La única canción que la pegó de su cantante (o banda)"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Borderlands",
+        "Dulce noviembre",
+        "Presidente bajo fuego",
+        "Bright",
+        "Jack Frost",
+        "Una esposa de mentira"
+       ],
+       "category": "Película (con una reseña crítica de una estrella)"
+      },
+      {
+       "answers": [
+        "Spirit in the Sky",
+        "I Know What Boys Like",
+        "In a Big Country",
+        "Barbie Girl",
+        "Just a Friend",
+        "Genius of Love"
+       ],
+       "category": "La única canción que la pegó de su cantante (o banda)"
+      }
+     ]
+    }
+   ],
+   "theme": "DESERT"
+  }
+ ]
+}
