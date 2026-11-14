@@ -1,0 +1,866 @@
+{
+    "payload": [
+        {
+            "campaignID": "ForestCampaignStart0",
+            "campaignName": "Inicio del Bosque",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "campaignIDs": [
+                        "ForestCampaignPath0",
+                        "ForestCampaignPath1"
+                    ],
+                    "doIntro": true,
+                    "doOutroRun": true
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath0",
+            "campaignName": "El Tranquilo Sendero del Conejo",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Gooberto",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Escurriclópe",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "campaignIDs": [
+                        "ForestCampaignPath2",
+                        "ForestCampaignPath3"
+                    ],
+                    "doOutro": true
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath1",
+            "campaignName": "La Senda del Guerrero",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Arbustíclope",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": false,
+                    "itemIDs": [
+                        "world1TestSelfHealPotion",
+                        "world1TestAttackPotion",
+                        "hintPotion"
+                    ],
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath4",
+                        "ForestCampaignPath5"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath2",
+            "campaignName": "El Sendero del Bolso",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "world1TestAttackPotion",
+                        "defendPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Avariciso Juan",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath6",
+                        "ForestCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath3",
+            "campaignName": "El Sendero del Peligro",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "world1TestAttackPotion",
+                        "world1TestSelfHealPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Juan Pablo Grande",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Mega-Escurriclópe",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath6",
+                        "ForestCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath4",
+            "campaignName": "El Sendero al Oro Precioso",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Arbustíclope",
+                    "doIntro": true,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Avariciso Juan",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath6",
+                        "ForestCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath5",
+            "campaignName": "Las Pruebas del Trabajo en Equipo",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Juan Pablo Grande",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Mega-Escurriclópe",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath6",
+                        "ForestCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath6",
+            "campaignName": "Gástalo antes de que te gasten",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "useSpecialBackground": true,
+                    "itemIDs": [
+                        "world1TestSelfHealPotion",
+                        "hintPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Yo el Ogro",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath7",
+            "campaignName": "Un descanso antes de que seas destrozado",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "HealingRiddle",
+                    "monsterConfigID": "Cuervo Adivinanza",
+                    "useSpecialBackground": true,
+                    "doIntro": true,
+                    "doOutro": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Yo el Ogro",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignStart0",
+            "campaignName": "Inicio del Desierto",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "campaignIDs": [
+                        "DesertCampaignPath0",
+                        "DesertCampaignPath1"
+                    ],
+                    "doIntro": true,
+                    "doOutroRun": true
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath0",
+            "campaignName": "La Excursión Escaldante",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Piclópe",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "world1TestSelfHealPotion",
+                        "defendPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath2",
+                        "DesertCampaignPath3"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath1",
+            "campaignName": "Un camino Estéril Básico",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Escurriclópe Seco",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "defendPotion",
+                        "world1TestAttackPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath4",
+                        "DesertCampaignPath5"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath2",
+            "campaignName": "Las Dunas del Peligro",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Piclópe",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": false
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Imagen",
+                    "monsterConfigID": "Sisea o Falla",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath6",
+                        "DesertCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath3",
+            "campaignName": "El Espejismo Económico",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Piclópe",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Imagen",
+                    "monsterConfigID": "Sisea o Falla",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath6",
+                        "DesertCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath4",
+            "campaignName": "Un Parche Espinoso de Cactus",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Mega-Piclópe",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "defendPotion",
+                        "autoRevivePotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Imagen",
+                    "monsterConfigID": "Sisea o Falla",
+                    "doIntro": false,
+                    "doOutro": false,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath6",
+                        "DesertCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath5",
+            "campaignName": "El Outback de los Auchis",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Mega-Piclópe",
+                    "doIntro": true,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Imagen",
+                    "monsterConfigID": "Sisea o Falla",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath6",
+                        "DesertCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath6",
+            "campaignName": "Ofertas Calientes Antes de la Muerte",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "useSpecialBackground": true,
+                    "itemIDs": [
+                        "world1TestSelfHealPotion",
+                        "hintPotion",
+                        "defendPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Bombiraje",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath7",
+            "campaignName": "Un descanso antes de que D.E.P",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "HealingRiddle",
+                    "monsterConfigID": "Cuervo Adivinanza",
+                    "useSpecialBackground": true,
+                    "doIntro": true,
+                    "doOutro": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Bombiraje",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignStart0",
+            "campaignName": "Inicio del Pico",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "campaignIDs": [
+                        "PeakCampaignPath0",
+                        "PeakCampaignPath1"
+                    ],
+                    "doIntro": true,
+                    "doOutroRun": true
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath0",
+            "campaignName": "La Cumbre de los Confundidos",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Cerebróclope",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Cerebróclope",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath2",
+                        "PeakCampaignPath3"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath1",
+            "campaignName": "Un Ascenso Gentil",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Psicóclope",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Cerebróclope",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath4",
+                        "PeakCampaignPath5"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath2",
+            "campaignName": "Atento a la riqueza que cae",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Imagen",
+                    "monsterConfigID": "Mineralax",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath6",
+                        "PeakCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath3",
+            "campaignName": "Una Escalada Empinada",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Mineralax",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath6",
+                        "PeakCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath4",
+            "campaignName": "Costos Crecientes Adelante",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Imagen",
+                    "monsterConfigID": "Mineralax",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath6",
+                        "PeakCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath5",
+            "campaignName": "Subiendo las Apuestas",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "TesoroLístalo",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Mineralax",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Mapa",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath6",
+                        "PeakCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath6",
+            "campaignName": "Últimas Ofertas antes de los Últimos Sacramentos",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "Tienda",
+                    "monsterConfigID": "Tienda",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "useSpecialBackground": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultiTrivia",
+                    "monsterConfigID": "Bibliódraco",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath7",
+            "campaignName": "Un Descanso Antes de la Prueba Más Grande",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "HealingRiddle",
+                    "monsterConfigID": "Cuervo Adivinanza",
+                    "useSpecialBackground": true,
+                    "doIntro": true,
+                    "doOutro": true
+                },
+                {
+                    "triviaType": "MultiTrivia",
+                    "monsterConfigID": "Bibliódraco",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        }
+    ]
+}
