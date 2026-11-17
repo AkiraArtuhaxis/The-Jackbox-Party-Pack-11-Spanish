@@ -1,89 +1,89 @@
 {
  "content": [
   {
-   "category": "King Books",
+   "category": "Libros con plantas",
    "choices": [
     {
      "correct": true,
-     "text": "[i]The Ruins[/i]"
+     "text": "[i]Las ruinas[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Summer People[/i]"
+     "text": "[i]La gente del verano[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Green Mile[/i]"
+     "text": "[i]La milla verde[/i]"
     },
     {
      "correct": true,
-     "text": "[i]The Day of the Triffids[/i]"
+     "text": "[i]El día de los trífidos[/i]"
     }
    ],
-   "clue": "It ruins his streak",
+   "clue": "La “milla” es demasiado larga para comérsela",
    "id": "107966",
    "isEasy": false,
-   "question": "Which two books feature plants eating people?",
+   "question": "¿Qué dos libros tienen plantas que se comen a la gente?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Real Life Wonders",
+   "category": "Maravillas reales",
    "choices": [
     {
      "correct": true,
-     "text": "Fires"
+     "text": "Incendios"
     },
     {
      "correct": true,
-     "text": "Earthquakes"
+     "text": "Terremotos"
     },
     {
      "correct": false,
-     "text": "Storms"
+     "text": "Tormentas"
     },
     {
      "correct": false,
-     "text": "Warfare"
+     "text": "Guerras"
     }
    ],
-   "clue": "Your kills used to be hot, now you’re shaky",
+   "clue": "Uno quema y el otro sacude",
    "id": "109328",
    "isEasy": false,
-   "question": "*Crunch**Crunch*.... What two things destroyed most of the Seven Wonders of the World?",
+   "question": "*Crunch* *Crunch*.... ¿Qué dos cosas destruyeron la mayoría de las Siete Maravillas del Mundo Antiguo?",
    "theme": "FOREST"
   },
   {
-   "category": "Metallurgy",
+   "category": "Metalurgia",
    "choices": [
     {
      "correct": true,
-     "text": "Copper"
+     "text": "Cobre"
     },
     {
      "correct": false,
-     "text": "Iron"
+     "text": "Hierro"
     },
     {
      "correct": false,
-     "text": "Humo (Smoke)"
+     "text": "Oro"
     },
     {
      "correct": true,
-     "text": "Tin"
+     "text": "Estaño"
     }
    ],
-   "clue": "Cups are often made of these two metals",
+   "clue": "Uno es rojizo y el otro rima con “caño”",
    "id": "109673",
    "isEasy": false,
-   "question": "My bronze cooking pots are an alloy comprised primarily of what two metals?",
+   "question": "Mis ollas de bronce son una aleación compuesta principalmente de ¿qué dos metales?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Space Stuff",
+   "category": "Cosas del espacio",
    "choices": [
     {
      "correct": true,
-     "text": "Tormenta (Storm)"
+     "text": "Mercurio"
     },
     {
      "correct": true,
@@ -91,29 +91,29 @@
     },
     {
      "correct": false,
-     "text": "Mars"
+     "text": "Marte"
     },
     {
      "correct": false,
-     "text": "Saturn"
+     "text": "Saturno"
     }
    ],
-   "clue": "Liquid metal razor",
+   "clue": "Los dos más cercanos al Sol",
    "id": "109674",
    "isEasy": false,
-   "question": "Which two planets do NOT have moons?",
+   "question": "¿Qué dos planetas NO tienen lunas?",
    "theme": "CASTLE"
   },
   {
-   "category": "Nature Check",
+   "category": "Naturaleza",
    "choices": [
     {
      "correct": false,
-     "text": "Egypt"
+     "text": "Egipto"
     },
     {
      "correct": true,
-     "text": "The United States"
+     "text": "Estados Unidos"
     },
     {
      "correct": false,
@@ -124,14 +124,14 @@
      "text": "China"
     }
    ],
-   "clue": "The other two have crocodiles",
+   "clue": "Los otros dos tienen cocodrilos",
    "id": "109871",
    "isEasy": false,
-   "question": "Alligators are only native to what two countries?",
+   "question": "¿De qué dos países son nativos los aligátores?",
    "theme": "CASTLE"
   },
   {
-   "category": "Reality TV",
+   "category": "Reality shows",
    "choices": [
     {
      "correct": false,
@@ -150,16 +150,16 @@
      "text": "[i]Married to Medicine[/i]"
     }
    ],
-   "clue": "The two that reference spouses/weddings",
+   "clue": "Los dos que hablan de esposas y matrimonios",
    "countrySpecific": true,
    "id": "109872",
    "isEasy": false,
-   "question": "Phaedra Parks has been a regular on what two Bravo! reality shows?",
+   "question": "¿En qué dos reality shows de Bravo participó Phaedra Parks como integrante fija?",
    "theme": "CEMETERY",
    "x": true
   },
   {
-   "category": "Coat of Arms",
+   "category": "Escudo de armas",
    "choices": [
     {
      "correct": false,
@@ -167,25 +167,25 @@
     },
     {
      "correct": true,
-     "text": "Kangaroo"
+     "text": "Canguro"
     },
     {
      "correct": true,
-     "text": "Emu"
+     "text": "Emú"
     },
     {
      "correct": false,
-     "text": "Echidna"
+     "text": "Equidna"
     }
    ],
-   "clue": "Both rhyme with “ScoobyDoo”",
+   "clue": "Uno salta y el otro es un ave que no vuela",
    "id": "109873",
    "isEasy": false,
-   "question": "Australia’s coat of arms features a shield held up by what two animals?",
+   "question": "El escudo de armas de Australia tiene un escudo sostenido por ¿qué dos animales?",
    "theme": "CASTLE"
   },
   {
-   "category": "2000s Cinema",
+   "category": "Cine de los 2000",
    "choices": [
     {
      "correct": true,
@@ -193,29 +193,29 @@
     },
     {
      "correct": false,
-     "text": "[i]X2[/i]"
+     "text": "[i]X-Men 2[/i]"
     },
     {
      "correct": false,
-     "text": "[i]2 Fast 2 Furious[/i]"
+     "text": "[i]Más rápidos, más furiosos[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Spider-Man 2[/i]"
+     "text": "[i]El Hombre Araña 2[/i]"
     }
    ],
-   "clue": "“Somebody once webbed me....”",
+   "clue": "Un ogro y un arácnido",
    "id": "109874",
    "isEasy": false,
-   "question": "Which two of the movies below came out in 2004?",
+   "question": "¿Cuáles dos de estas películas se estrenaron en 2004?",
    "theme": "CASTLE"
   },
   {
-   "category": "Mixology",
+   "category": "Coctelería",
    "choices": [
     {
      "correct": false,
-     "text": "Gin"
+     "text": "Ginebra"
     },
     {
      "correct": true,
@@ -227,26 +227,26 @@
     },
     {
      "correct": true,
-     "text": "Scotch"
+     "text": "Whisky escocés"
     }
    ],
-   "clue": "Scottish Dams",
+   "clue": "Los dos son de Escocia",
    "id": "109875",
    "isEasy": false,
-   "question": "What are the two ingredients in a Rusty Nail?",
+   "question": "¿Cuáles son los dos ingredientes de un Rusty Nail?",
    "theme": "CASTLE",
    "x": true
   },
   {
-   "category": "Ale Customers",
+   "category": "Clientes de cerveza",
    "choices": [
     {
      "correct": true,
-     "text": "The United Kingdom"
+     "text": "Reino Unido"
     },
     {
      "correct": false,
-     "text": "Ireland"
+     "text": "Irlanda"
     },
     {
      "correct": true,
@@ -254,70 +254,70 @@
     },
     {
      "correct": false,
-     "text": "The United States"
+     "text": "Estados Unidos"
     }
    ],
-   "clue": "Not the ones U(K) think",
+   "clue": "No son los que crees: Irlanda no está",
    "id": "109876",
    "isEasy": false,
-   "question": "What two nations are the largest consumers of the stout beer Guinness?",
+   "question": "¿Qué dos países son los mayores consumidores de la cerveza negra Guinness?",
    "theme": "CASTLE",
    "x": true
   },
   {
-   "category": "Southern Geography",
+   "category": "Geografía austral",
    "choices": [
     {
      "correct": false,
-     "text": "South Australia"
+     "text": "Australia Meridional"
     },
     {
      "correct": true,
-     "text": "Western Australia"
+     "text": "Australia Occidental"
     },
     {
      "correct": false,
-     "text": "New South Wales"
+     "text": "Nueva Gales del Sur"
     },
     {
      "correct": true,
      "text": "Victoria"
     }
    ],
-   "clue": "It’s kind of ironic... in a western way",
+   "clue": "Uno está bien al oeste y el otro se llama como una reina",
    "id": "109933",
    "isEasy": false,
-   "question": "Which Australian states do NOT share a border with Queensland?",
+   "question": "¿Qué estados australianos NO limitan con Queensland?",
    "theme": "CASTLE"
   },
   {
-   "category": "THE UNDEAD",
+   "category": "LOS NO MUERTOS",
    "choices": [
     {
      "correct": false,
-     "text": "[i]Dead Calm[/i]"
+     "text": "[i]Terror a bordo[/i] ([i]Dead Calm[/i])"
     },
     {
      "correct": true,
-     "text": "[i]Dead Alive[/i]"
+     "text": "[i]Braindead: Tu madre se ha comido a mi perro[/i] ([i]Dead Alive[/i])"
     },
     {
      "correct": false,
-     "text": "[i]Dead Silence[/i]"
+     "text": "[i]El títere[/i] ([i]Dead Silence[/i])"
     },
     {
      "correct": true,
-     "text": "[i]Land of the Dead[/i]"
+     "text": "[i]La tierra de los muertos vivientes[/i] ([i]Land of the Dead[/i])"
     }
    ],
-   "clue": "Land on the Alive one",
+   "clue": "Una es de Peter Jackson y la otra de George A. Romero",
    "id": "110092",
    "isEasy": false,
-   "question": "Which two of these movies features zombies?",
+   "question": "¿Cuáles dos de estas películas tienen zombis?",
    "theme": "CEMETERY"
   },
   {
-   "category": "GADGETS",
+   "category": "INVENTOS",
    "choices": [
     {
      "correct": false,
@@ -333,69 +333,69 @@
     },
     {
      "correct": true,
-     "text": "Dippin’ Dots: The Ice Cream of the Future"
+     "text": "Dippin’ Dots: el helado del futuro"
     }
    ],
-   "clue": "More like Dippin’ Shops",
+   "clue": "El de limpieza y el helado",
    "id": "110094",
    "isEasy": false,
-   "question": "Which two products were created before the year 2000?",
+   "question": "¿Qué dos productos se crearon antes del año 2000?",
    "theme": "CASTLE"
   },
   {
-   "category": "THE FORGE",
+   "category": "LA FRAGUA",
    "choices": [
     {
      "correct": true,
-     "text": "Acero (Steel)"
+     "text": "Acero"
     },
     {
      "correct": false,
-     "text": "Iron"
+     "text": "Hierro"
     },
     {
      "correct": false,
-     "text": "Lead"
+     "text": "Plomo"
     },
     {
      "correct": true,
-     "text": "Bronze"
+     "text": "Bronce"
     }
    ],
-   "clue": "Steal the 3rd place medal",
+   "clue": "El de la medalla de tercer lugar es uno",
    "id": "110095",
    "isEasy": false,
-   "question": "*Munch*.... Which of these two crunchy snacks are alloys?",
+   "question": "*Ñam*.... ¿Cuáles dos de estos bocadillos crujientes son aleaciones?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Common Diseases",
+   "category": "Enfermedades comunes",
    "choices": [
     {
      "correct": true,
-     "text": "Rabies"
+     "text": "Rabia"
     },
     {
      "correct": false,
-     "text": "Strep throat"
+     "text": "Faringitis estreptocócica"
     },
     {
      "correct": true,
-     "text": "Chickenpox"
+     "text": "Varicela"
     },
     {
      "correct": false,
-     "text": "Athlete’s foot"
+     "text": "Pie de atleta"
     }
    ],
-   "clue": "The ones with body parts in the name are wrong.",
+   "clue": "Las que nombran una parte del cuerpo son incorrectas",
    "id": "110096",
    "isEasy": false,
-   "question": "Which two of these illnesses are caused by a virus?",
+   "question": "¿Cuáles dos de estas enfermedades son causadas por un virus?",
    "theme": "DESERT"
   },
   {
-   "category": "Classic Bards",
+   "category": "Bardos clásicos",
    "choices": [
     {
      "correct": true,
@@ -414,40 +414,40 @@
      "text": "“Happiness”"
     }
    ],
-   "clue": "Song 1 = Song 2",
+   "clue": "Tiempo y dinero",
    "id": "110097",
    "isEasy": false,
-   "question": "Pick the two songs on Pink Floyd’s [i]The Dark Side of the Moon[/i].",
+   "question": "Elige las dos canciones del disco [i]The Dark Side of the Moon[/i] de Pink Floyd.",
    "theme": "CASTLE"
   },
   {
-   "category": "Cartoon Death",
+   "category": "Muertes animadas",
    "choices": [
     {
      "correct": true,
-     "text": "Gaston in [i]Beauty and the Beast[/i]"
+     "text": "Gastón en [i]La bella y la bestia[/i]"
     },
     {
      "correct": false,
-     "text": "Scar in [i]The Lion King[/i]"
+     "text": "Scar en [i]El rey león[/i]"
     },
     {
      "correct": false,
-     "text": "Syndrome in [i]The Incredibles[/i]"
+     "text": "Síndrome en [i]Los Increíbles[/i]"
     },
     {
      "correct": true,
-     "text": "Muntz in [i]Up[/i]"
+     "text": "Muntz en [i]Up: Una aventura de altura[/i]"
     }
    ],
-   "clue": "No one falls DOWN like Gaston!",
+   "clue": "Uno cae de un castillo y el otro de un dirigible",
    "id": "110113",
    "isEasy": false,
-   "question": "Which two villains fall to their death?",
+   "question": "¿Qué dos villanos mueren por una caída?",
    "theme": "CASTLE"
   },
   {
-   "category": "Movie Music",
+   "category": "Música de película",
    "choices": [
     {
      "correct": true,
@@ -455,99 +455,99 @@
     },
     {
      "correct": false,
-     "text": "[i]The Terminator[/i]"
+     "text": "[i]Terminator[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Back to the Future[/i]"
+     "text": "[i]Volver al futuro[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Star Wars: The Force Awakens[/i]"
+     "text": "[i]Star Wars: El despertar de la Fuerza[/i]"
     }
    ],
-   "clue": "He’s a Super Star",
+   "clue": "Un superhéroe y una guerra de las galaxias",
    "id": "110116",
    "isEasy": false,
-   "question": "Select both movies with John Williams scores.",
+   "question": "Elige las dos películas con música de John Williams.",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "VOLCANIC MOUNTAINS",
+   "category": "MONTAÑAS VOLCÁNICAS",
    "choices": [
     {
      "correct": false,
-     "text": "Mount Everest"
+     "text": "Monte Everest"
     },
     {
      "correct": false,
-     "text": "Mount Olympus"
+     "text": "Monte Olimpo"
     },
     {
      "correct": true,
-     "text": "Mount Fuji"
+     "text": "Monte Fuji"
     },
     {
      "correct": true,
-     "text": "Mount Kilimanjaro"
+     "text": "Kilimanjaro"
     }
    ],
-   "clue": "The Greek Gods never had any issues with volcanoes",
+   "clue": "Los dioses griegos nunca tuvieron problemas con volcanes",
    "id": "111657",
    "isEasy": false,
-   "question": "Which two of these mountains are also volcanoes?",
+   "question": "¿Cuáles dos de estas montañas también son volcanes?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Prehistoric Periods",
+   "category": "Períodos prehistóricos",
    "choices": [
     {
      "correct": true,
-     "text": "Jurassic"
+     "text": "Jurásico"
     },
     {
      "correct": false,
-     "text": "Cenozoic"
+     "text": "Cenozoico"
     },
     {
      "correct": true,
-     "text": "Triassic"
+     "text": "Triásico"
     },
     {
      "correct": false,
-     "text": "Paleozoic"
+     "text": "Paleozoico"
     }
    ],
-   "clue": "Just Try Jur first instincts",
+   "clue": "Piensa en [i]Jurassic Park[/i]",
    "id": "111662",
    "isEasy": false,
-   "question": "In what two ages could you have petted (or eaten) a dinosaur?",
+   "question": "¿En qué dos períodos podrías haber acariciado (o comido) un dinosaurio?",
    "theme": "DESERT"
   },
   {
-   "category": "Workout Culture",
+   "category": "Cultura fitness",
    "choices": [
     {
      "correct": true,
-     "text": "Your quads"
+     "text": "Los cuádriceps"
     },
     {
      "correct": false,
-     "text": "Your lats"
+     "text": "Los dorsales"
     },
     {
      "correct": false,
-     "text": "Your delts"
+     "text": "Los deltoides"
     },
     {
      "correct": true,
-     "text": "Your hams"
+     "text": "Los isquiotibiales"
     }
    ],
-   "clue": "In college we ate ham sandwiches on the quad",
+   "clue": "Muslo por delante y muslo por detrás",
    "id": "111663",
    "isEasy": false,
-   "question": "Which two muscles do you work out on leg day?",
+   "question": "¿Qué dos músculos trabajas el día de piernas?",
    "theme": "CASTLE"
   },
   {
@@ -555,56 +555,56 @@
    "choices": [
     {
      "correct": false,
-     "text": "Don’t swear"
+     "text": "No decir groserías"
     },
     {
      "correct": true,
-     "text": "Don’t drink"
+     "text": "No beber alcohol"
     },
     {
      "correct": true,
-     "text": "Don’t have sex"
+     "text": "No tener sexo"
     },
     {
      "correct": false,
-     "text": "Assume the killer isn’t dead"
+     "text": "Dar por hecho que el asesino no está muerto"
     }
    ],
-   "clue": "Celibate AND sober?!",
+   "clue": "¿¡Célibe Y sobrio!?",
    "id": "111665",
    "isEasy": false,
-   "question": "Select the two rules of surviving a horror movie in [i]Scream[/i].",
+   "question": "Elige las dos reglas para sobrevivir a una película de terror según [i]Scream[/i].",
    "theme": "CEMETERY",
    "x": true
   },
   {
-   "category": "Famous Figures",
+   "category": "Personajes famosos",
    "choices": [
     {
      "correct": true,
-     "text": "King Tut"
+     "text": "Tutankamón"
     },
     {
      "correct": true,
-     "text": "Joan of Arc"
+     "text": "Juana de Arco"
     },
     {
      "correct": false,
-     "text": "Queen Elizabeth I"
+     "text": "Isabel I de Inglaterra"
     },
     {
      "correct": false,
      "text": "Wolfgang Amadeus Mozart"
     }
    ],
-   "clue": "The boy king and the girl knight",
+   "clue": "El niño rey y la niña guerrera",
    "id": "111666",
    "isEasy": false,
-   "question": "Pick the two historical figures who didn’t make it to 30.",
+   "question": "Elige los dos personajes históricos que no llegaron a los 30 años.",
    "theme": "CEMETERY"
   },
   {
-   "category": "Modern Sitcoms",
+   "category": "Comedias actuales",
    "choices": [
     {
      "correct": false,
@@ -623,71 +623,71 @@
      "text": "[i]Mixed-ish[/i]"
     }
    ],
-   "clue": "It’s a mix of sequel and prequel.",
+   "clue": "Una secuela y una precuela",
    "countrySpecific": true,
    "id": "111686",
    "isEasy": false,
-   "question": "What are the two sitcom spin-offs of [i]Black-ish[/i]?",
+   "question": "¿Cuáles son las dos comedias derivadas de [i]Black-ish[/i]?",
    "theme": "CASTLE"
   },
   {
-   "category": "ARACHNID FACTS",
+   "category": "DATOS ARÁCNIDOS",
    "choices": [
     {
      "correct": true,
-     "text": "Jumping spider"
+     "text": "Araña saltarina"
     },
     {
      "correct": false,
-     "text": "Tarantula"
+     "text": "Tarántula"
     },
     {
      "correct": true,
-     "text": "Wolf spider"
+     "text": "Araña lobo"
     },
     {
      "correct": false,
-     "text": "Black widow spider"
+     "text": "Viuda negra"
     }
    ],
-   "clue": "Too busy leaping and howling maybe?",
+   "clue": "¿Muy ocupadas saltando y aullando?",
    "id": "111687",
    "isEasy": false,
-   "question": "Which spiders don’t make webs?",
+   "question": "¿Qué arañas no tejen telarañas?",
    "theme": "CEMETERY"
   },
   {
-   "category": "ZODIAC CALENDAR",
+   "category": "CALENDARIO ZODIACAL",
    "choices": [
     {
      "correct": true,
-     "text": "Christmas Day"
+     "text": "Navidad"
     },
     {
      "correct": false,
-     "text": "Valentine’s Day"
+     "text": "San Valentín"
     },
     {
      "correct": false,
-     "text": "Groundhog Day"
+     "text": "Día de la Marmota"
     },
     {
      "correct": true,
-     "text": "New Year’s Day"
+     "text": "Año Nuevo"
     }
    ],
-   "clue": "Capricorn szn ends January 19th.",
+   "clue": "La temporada de Capricornio termina el 19 de enero",
    "id": "111688",
    "isEasy": false,
-   "question": "What holidays occur during peak “Capricorn szn”?",
+   "question": "¿Qué festividades caen en plena “temporada de Capricornio”?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "BOOK CHARACTERS",
+   "category": "PERSONAJES DE LIBROS",
    "choices": [
     {
      "correct": false,
-     "text": "Countess Begar"
+     "text": "Condesa Begar"
     },
     {
      "correct": true,
@@ -695,21 +695,21 @@
     },
     {
      "correct": true,
-     "text": "Mr. Poe"
+     "text": "Sr. Poe"
     },
     {
      "correct": false,
      "text": "Dr. Dali"
     }
    ],
-   "clue": "The poet yes, the artist no",
+   "clue": "El poeta sí, el pintor no",
    "id": "111689",
    "isEasy": false,
-   "question": "What are two character names in [i]A Series of Unfortunate Events[/i]?",
+   "question": "¿Cuáles son dos personajes de [i]Una serie de catastróficas desdichas[/i]?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Sport Legacies",
+   "category": "Legado deportivo",
    "choices": [
     {
      "correct": false,
@@ -728,63 +728,63 @@
      "text": "Detroit Lions"
     }
    ],
-   "clue": "These are our true colors, no lyin’.",
+   "clue": "Un color y un felino",
    "countrySpecific": true,
    "id": "111750",
    "isEasy": false,
-   "question": "Pick the two teams who have never even been to the Super Bowl.",
+   "question": "Elige los dos equipos que nunca llegaron al Super Bowl.",
    "theme": "CASTLE"
   },
   {
-   "category": "Arachnid Facts",
+   "category": "Datos arácnidos",
    "choices": [
     {
      "correct": true,
-     "text": "Brown recluse"
+     "text": "Reclusa parda"
     },
     {
      "correct": true,
-     "text": "Redback"
+     "text": "Espalda roja"
     },
     {
      "correct": false,
-     "text": "Orange-tip"
+     "text": "Punta naranja"
     },
     {
      "correct": false,
-     "text": "White admiral"
+     "text": "Almirante blanco"
     }
    ],
-   "clue": "Maybe a bit of a reddish brown?",
+   "clue": "¿Tal vez un marrón rojizo?",
    "id": "111751",
    "isEasy": false,
-   "question": "Which two of these are real venomous spiders?",
+   "question": "¿Cuáles dos de estas son arañas venenosas reales?",
    "theme": "DESERT"
   },
   {
-   "category": "Marine Measurements",
+   "category": "Medidas marinas",
    "choices": [
     {
      "correct": true,
-     "text": "Ocean sunfish"
+     "text": "Pez luna"
     },
     {
      "correct": false,
-     "text": "Summer flounder"
+     "text": "Lenguado de verano"
     },
     {
      "correct": true,
-     "text": "Beluga sturgeon"
+     "text": "Esturión beluga"
     },
     {
      "correct": false,
-     "text": "Leopard catshark"
+     "text": "Pintarroja leopardo"
     }
    ],
-   "clue": "Like a surgeon in the sun.",
+   "clue": "Uno lleva nombre de astro y el otro de ballena",
    "id": "111752",
    "isEasy": false,
-   "question": "Which two fish are bigger (longer/heavier/more filling) than you?",
+   "question": "¿Qué dos peces son más grandes (más largos/pesados/llenadores) que tú?",
    "theme": "MOUNTAIN"
   },
   {
@@ -792,33 +792,33 @@
    "choices": [
     {
      "correct": false,
-     "text": "“The street sleuth trackin’ down the truth”"
+     "text": "“El detective callejero que busca la verdad”"
     },
     {
      "correct": true,
-     "text": "“The cat who won’t cop out”"
+     "text": "“El gato que no se raja”"
     },
     {
      "correct": false,
-     "text": "“This hunk can’t sweat no punk”"
+     "text": "“Este galán no le suda a ningún punk”"
     },
     {
      "correct": true,
-     "text": "“He’s a complicated man”"
+     "text": "“Es un hombre complicado”"
     }
    ],
-   "clue": "He’s cat and man.",
+   "clue": "Es gato y es hombre",
    "id": "111757",
    "isEasy": false,
-   "question": "What are two ways Shaft is described in the Academy Award-winning “Theme From Shaft”?",
+   "question": "¿Cuáles son dos formas en que se describe a Shaft en el “Theme From Shaft”, ganador del Óscar?",
    "theme": "CASTLE"
   },
   {
-   "category": "Protagonist Problems",
+   "category": "Problemas del protagonista",
    "choices": [
     {
      "correct": true,
-     "text": "[i]True Grit[/i]"
+     "text": "[i]Temple de acero[/i]"
     },
     {
      "correct": false,
@@ -826,26 +826,26 @@
     },
     {
      "correct": false,
-     "text": "[i]Million Dollar Baby[/i]"
+     "text": "[i]Golpes del destino[/i]"
     },
     {
      "correct": true,
-     "text": "[i]How to Train Your Dragon[/i]"
+     "text": "[i]Cómo entrenar a tu dragón[/i]"
     }
    ],
-   "clue": "How True, how true",
+   "clue": "Uno es un vaquero y el otro, un vikingo",
    "id": "111823",
    "isEasy": false,
-   "question": "Select the two movies where the young protagonist loses a limb.",
+   "question": "Elige las dos películas en las que el joven protagonista pierde una extremidad.",
    "theme": "CASTLE",
    "x": true
   },
   {
-   "category": "Pseudoscience",
+   "category": "Pseudociencia",
    "choices": [
     {
      "correct": true,
-     "text": "Krypton"
+     "text": "Kriptón"
     },
     {
      "correct": false,
@@ -857,17 +857,17 @@
     },
     {
      "correct": true,
-     "text": "Einsteinium"
+     "text": "Einstenio"
     }
    ],
-   "clue": "A real one sounds Super, but its name’s just Greek for “hidden”",
+   "clue": "Uno suena a Superman, pero su nombre significa “oculto” en griego",
    "id": "111825",
    "isEasy": false,
-   "question": "Which two elements are real? (I know, I’ve eaten them)",
+   "question": "¿Qué dos elementos son reales? (Lo sé porque me los comí)",
    "theme": "FOREST"
   },
   {
-   "category": "Female Poets",
+   "category": "Poetas",
    "choices": [
     {
      "correct": true,
@@ -886,67 +886,67 @@
      "text": "“I’m Nobody! Who are you?”"
     }
    ],
-   "clue": "Stop for nobody!",
+   "clue": "¡No te detengas por nadie!",
    "id": "111845",
    "isEasy": false,
-   "question": "Pick the two Emily Dickinson poem titles?",
+   "question": "¿Cuáles dos son títulos de poemas de Emily Dickinson?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Founding Fathers",
+   "category": "Padres fundadores",
    "choices": [
     {
      "correct": true,
-     "text": "Lightning rod"
+     "text": "El pararrayos"
     },
     {
      "correct": true,
-     "text": "Swim fins"
+     "text": "Las aletas para nadar"
     },
     {
      "correct": false,
-     "text": "Harmonica"
+     "text": "La armónica"
     },
     {
      "correct": false,
-     "text": "Syphilis"
+     "text": "La sífilis"
     }
    ],
-   "clue": "Nobody “invented” syphilis, and if they did, it was a bad idea.",
+   "clue": "Nadie “inventó” la sífilis, y si alguien lo hizo, fue mala idea.",
    "id": "111859",
    "isEasy": false,
-   "question": "Which two inventions are credited to French cuisine fan Ben Franklin?",
+   "question": "¿Qué dos inventos se le atribuyen a Ben Franklin, fanático de la cocina francesa?",
    "theme": "CASTLE",
    "x": true
   },
   {
-   "category": "National Mottos",
+   "category": "Lemas nacionales",
    "choices": [
     {
      "correct": true,
-     "text": "Equality"
+     "text": "Igualdad"
     },
     {
      "correct": false,
-     "text": "Democracy"
+     "text": "Democracia"
     },
     {
      "correct": false,
-     "text": "Integrity"
+     "text": "Integridad"
     },
     {
      "correct": true,
-     "text": "Fraternity"
+     "text": "Fraternidad"
     }
    ],
-   "clue": "You might associate one of the correct answers with Greek life, not French life.",
+   "clue": "El tercero es libertad",
    "id": "111861",
    "isEasy": false,
-   "question": "Which two words are included in the national motto of France? Birthplace of the croissant! Yum!",
+   "question": "¿Qué dos palabras forman parte del lema nacional de Francia? ¡La cuna del croissant! ¡Ñam!",
    "theme": "CASTLE"
   },
   {
-   "category": "Double Play",
+   "category": "Doble juego",
    "choices": [
     {
      "correct": true,
@@ -965,15 +965,15 @@
      "text": "Brett Favre"
     }
    ],
-   "clue": "One played for the Bulls; the other the Braves",
+   "clue": "Uno jugó en los Bulls y el otro en los Braves",
    "countrySpecific": true,
    "id": "111862",
    "isEasy": false,
-   "question": "Which two athletes were two-sport pro athletes?",
+   "question": "¿Qué dos atletas fueron profesionales en dos deportes?",
    "theme": "CASTLE"
   },
   {
-   "category": "Canadian Territories",
+   "category": "Territorios canadienses",
    "choices": [
     {
      "correct": false,
@@ -981,7 +981,7 @@
     },
     {
      "correct": true,
-     "text": "Yukon"
+     "text": "Yukón"
     },
     {
      "correct": true,
@@ -989,18 +989,18 @@
     },
     {
      "correct": false,
-     "text": "Jervis Bay Territory"
+     "text": "Territorio de la Bahía de Jervis"
     }
    ],
-   "clue": "U know the answers have a “u”",
+   "clue": "Las respuestas tienen una “u”",
    "countrySpecific": false,
    "id": "111873",
    "isEasy": false,
-   "question": "Which two territories are Canadian territories?",
+   "question": "¿Cuáles dos son territorios de Canadá?",
    "theme": "CASTLE"
   },
   {
-   "category": "Candy Companies",
+   "category": "Fabricantes de dulces",
    "choices": [
     {
      "correct": true,
@@ -1019,14 +1019,14 @@
      "text": "3 Musketeers"
     }
    ],
-   "clue": "One of the two tastes like coconut",
+   "clue": "Uno de los dos sabe a coco",
    "id": "111874",
    "isEasy": false,
-   "question": "Which two types of candy.....mmmm candy.... are made by Hershey?",
+   "question": "¿Qué dos golosinas... mmm, golosinas... fabrica Hershey?",
    "theme": "CASTLE"
   },
   {
-   "category": "Chalamet Roles",
+   "category": "Papeles de Chalamet",
    "choices": [
     {
      "correct": true,
@@ -1045,14 +1045,14 @@
      "text": "Duncan Idaho"
     }
    ],
-   "clue": "It’s not crunch time",
+   "clue": "Uno es de [i]Dune[/i] y el otro de [i]Mujercitas[/i]",
    "id": "111875",
    "isEasy": false,
-   "question": "Which two names are characters Timothée Chalamet has played?",
+   "question": "¿Cuáles dos son personajes que interpretó Timothée Chalamet?",
    "theme": "CASTLE"
   },
   {
-   "category": "Musical Numbers",
+   "category": "Números musicales",
    "choices": [
     {
      "correct": true,
@@ -1064,21 +1064,21 @@
     },
     {
      "correct": false,
-     "text": "Florence & the Machine"
+     "text": "Florence + the Machine"
     },
     {
      "correct": true,
      "text": "Silk Sonic"
     }
    ],
-   "clue": "“The Machine” applies to more than one person",
+   "clue": "“The Machine” son varias personas",
    "id": "111876",
    "isEasy": false,
-   "question": "Which two bands are duos?",
+   "question": "¿Qué dos bandas son dúos?",
    "theme": "CASTLE"
   },
   {
-   "category": "Literary Characters",
+   "category": "Personajes literarios",
    "choices": [
     {
      "correct": true,
@@ -1097,92 +1097,92 @@
      "text": "James Moriarty"
     }
    ],
-   "clue": "Avoid the thorny answer",
+   "clue": "Los otros dos son de [i]Downton Abbey[/i]",
    "id": "111877",
    "isEasy": false,
-   "question": "Which two of the following are [i]Sherlock Holmes[/i] characters?",
+   "question": "¿Cuáles dos de los siguientes son personajes de [i]Sherlock Holmes[/i]?",
    "theme": "CASTLE"
   },
   {
-   "category": "Animal Mouths",
+   "category": "Bocas animales",
    "choices": [
     {
      "correct": true,
-     "text": "Platypus"
+     "text": "Ornitorrinco"
     },
     {
      "correct": false,
-     "text": "Aardvark"
+     "text": "Cerdo hormiguero"
     },
     {
      "correct": true,
-     "text": "Anteater"
+     "text": "Oso hormiguero"
     },
     {
      "correct": false,
      "text": "Sonic the Hedgehog"
     }
    ],
-   "clue": "Eat the ants off a plat",
+   "clue": "Uno tiene pico de pato",
    "id": "111899",
    "isEasy": false,
-   "question": "Pick the two animals that do NOT have teeth.",
+   "question": "Elige los dos animales que NO tienen dientes.",
    "theme": "FOREST"
   },
   {
-   "category": "Background Music",
+   "category": "Música de fondo",
    "choices": [
     {
      "correct": false,
-     "text": "“Into You” by Ariana Grande"
+     "text": "“Into You”, de Ariana Grande"
     },
     {
      "correct": false,
-     "text": "“Rolling in the Deep” by Adele"
+     "text": "“Rolling in the Deep”, de Adele"
     },
     {
      "correct": true,
-     "text": "“The Edge of Glory” by Lady Gaga"
+     "text": "“The Edge of Glory”, de Lady Gaga"
     },
     {
      "correct": true,
-     "text": "“Last Friday Night” by Katy Perry"
+     "text": "“Last Friday Night”, de Katy Perry"
     }
    ],
-   "clue": "What a glorious night!",
+   "clue": "¡Qué noche gloriosa!",
    "id": "111915",
    "isEasy": false,
-   "question": "Which two pop songs feature a tasty saxophone solo?",
+   "question": "¿Qué dos canciones pop tienen un sabroso solo de saxofón?",
    "theme": "DESERT"
   },
   {
-   "category": "Background in Art",
+   "category": "Fondo artístico",
    "choices": [
     {
      "correct": true,
-     "text": "A bridge"
+     "text": "Un puente"
     },
     {
      "correct": true,
-     "text": "A lake"
+     "text": "Un lago"
     },
     {
      "correct": false,
-     "text": "A book"
+     "text": "Un libro"
     },
     {
      "correct": false,
-     "text": "A bird"
+     "text": "Un pájaro"
     }
    ],
-   "clue": "Not far from [i]The Mona Lisa[/i] you’ll find “Pont de Arts,” a famous example of one of the right answers.",
+   "clue": "Cerca de la [i]Mona Lisa[/i] está el Pont des Arts, un ejemplo famoso de una de las respuestas.",
    "id": "111927",
    "isEasy": false,
-   "question": "Besides a lady kinda smiling, what two things can you see in the painting [i]The Mona Lisa[/i]?",
+   "question": "Además de una señora que casi sonríe, ¿qué dos cosas se ven en la [i]Mona Lisa[/i]?",
    "theme": "DESERT"
   },
   {
-   "category": "Basic Math",
+   "category": "Matemática básica",
    "choices": [
     {
      "correct": true,
@@ -1201,66 +1201,66 @@
      "text": "2(5 -10) +15 ="
     }
    ],
-   "clue": "If there’s a “2” in it... it’s wrong.",
+   "clue": "Si tiene un “2”... es incorrecta.",
    "id": "111929",
    "isEasy": false,
-   "question": "Which two equations have an answer of “-5”?",
+   "question": "¿Qué dos ecuaciones dan como resultado “-5”?",
    "theme": "DESERT"
   },
   {
-   "category": "Fancy Colors",
+   "category": "Colores elegantes",
    "choices": [
     {
      "correct": false,
-     "text": "Turquosie"
+     "text": "Turqueza"
     },
     {
      "correct": true,
-     "text": "Cerulean"
+     "text": "Cerúleo"
     },
     {
      "correct": false,
-     "text": "Burgandy"
+     "text": "Burdeoz"
     },
     {
      "correct": true,
-     "text": "Mauve"
+     "text": "Malva"
     }
    ],
-   "clue": "Tell Maud, we’re out of prinker ink",
+   "clue": "Cuidado con las Z",
    "id": "111973",
    "isEasy": false,
-   "question": "Which two colors are spelled correctly?",
+   "question": "¿Qué dos colores están bien escritos?",
    "theme": "DESERT"
   },
   {
-   "category": "Musical Adaptations",
+   "category": "Adaptaciones musicales",
    "choices": [
     {
      "correct": true,
-     "text": "[i]Death Becomes Her[/i]"
+     "text": "[i]La muerte le sienta bien[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Craft[/i]"
+     "text": "[i]Jóvenes brujas[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Ghost[/i]"
+     "text": "[i]Ghost: La sombra del amor[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Practical Magic[/i]"
+     "text": "[i]Prácticamente magia[/i]"
     }
    ],
-   "clue": "They found an afterlife on the stage",
+   "clue": "Encontraron vida después de la muerte en el escenario",
    "id": "111981",
    "isEasy": false,
-   "question": "As of 2025, which two spooky ’90s movies were turned into Broadway musicals?",
+   "question": "Hasta 2025, ¿qué dos películas de miedo de los 90 se convirtieron en musicales de Broadway?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Dance Moves",
+   "category": "Pasos de baile",
    "choices": [
     {
      "correct": false,
@@ -1279,45 +1279,45 @@
      "text": "Thrust pound"
     }
    ],
-   "clue": "Did you know that balls can roll?",
+   "clue": "Uno cambia y el otro rueda",
    "id": "111984",
    "isEasy": false,
-   "question": "Pick the two real tap dancing moves... that I could totally do!",
+   "question": "Elige los dos pasos reales de tap... ¡que yo podría hacer sin problema!",
    "theme": "CEMETERY",
    "x": true
   },
   {
-   "category": "Romantic Biology",
+   "category": "Biología romántica",
    "choices": [
     {
      "correct": true,
-     "text": "Right atrium"
+     "text": "Aurícula derecha"
     },
     {
      "correct": false,
-     "text": "Right medial"
+     "text": "Medial derecho"
     },
     {
      "correct": false,
-     "text": "Left cathar"
+     "text": "Cátaro izquierdo"
     },
     {
      "correct": true,
-     "text": "Left ventricle"
+     "text": "Ventrículo izquierdo"
     }
    ],
-   "clue": "You need someone to vent at",
+   "clue": "Uno es una “aurícula” y el otro un “ventrículo”... ups",
    "id": "111986",
    "isEasy": false,
-   "question": "If you love this game with all your heart, it includes which two of these?",
+   "question": "Si amas este juego con todo tu corazón, ¿cuáles dos de estas partes incluye?",
    "theme": "FOREST"
   },
   {
-   "category": "Seasoning Science",
+   "category": "Ciencia del condimento",
    "choices": [
     {
      "correct": true,
-     "text": "Sodium"
+     "text": "Sodio"
     },
     {
      "correct": false,
@@ -1325,21 +1325,21 @@
     },
     {
      "correct": false,
-     "text": "Sulfur"
+     "text": "Azufre"
     },
     {
      "correct": true,
-     "text": "Chlorine"
+     "text": "Cloro"
     }
    ],
-   "clue": "One for de-icing roads, one for de-germing pools",
+   "clue": "Uno es un metal y el otro desinfecta piscinas",
    "id": "111988",
    "isEasy": false,
-   "question": "Table salt, aka the salt I’ll sprinkle on you, is made of what two elements?",
+   "question": "La sal de mesa, o sea, la sal que te voy a espolvorear, está hecha de ¿qué dos elementos?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Games of Chance",
+   "category": "Juegos de azar",
    "choices": [
     {
      "correct": false,
@@ -1347,7 +1347,7 @@
     },
     {
      "correct": true,
-     "text": "Life"
+     "text": "Juego de la vida"
     },
     {
      "correct": true,
@@ -1358,118 +1358,118 @@
      "text": "Backgammon"
     }
    ],
-   "clue": "A cereal and a Justin Bieber song",
+   "clue": "Uno se llama como la existencia y el otro pide disculpas",
    "id": "112001",
    "isEasy": false,
-   "question": "I’ve eaten all the cubes... so which of these games can you still play because they don’t need dice?",
+   "question": "Me comí todos los dados... ¿qué juegos todavía puedes jugar porque no los necesitan?",
    "theme": "FOREST"
   },
   {
-   "category": "Historical Locations",
+   "category": "Lugares históricos",
    "choices": [
     {
      "correct": true,
-     "text": "Penicillin discovered"
+     "text": "El descubrimiento de la penicilina"
     },
     {
      "correct": true,
-     "text": "The D-Day invasion"
+     "text": "El desembarco del Día D"
     },
     {
      "correct": false,
-     "text": "The Hindenburg crash"
+     "text": "El accidente del Hindenburg"
     },
     {
      "correct": false,
-     "text": "George Washington born"
+     "text": "El nacimiento de George Washington"
     }
    ],
-   "clue": "D for discovered",
+   "clue": "D de descubrimiento",
    "id": "112002",
    "isEasy": false,
-   "question": "Which two historical events took place in continental Europe?",
+   "question": "¿Qué dos acontecimientos históricos ocurrieron en Europa?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Patented Products",
+   "category": "Productos con nombre",
    "choices": [
     {
      "correct": true,
-     "text": "Bowler hat"
+     "text": "Sombrero bombín (bowler)"
     },
     {
      "correct": true,
-     "text": "Mason jar"
+     "text": "Frasco Mason"
     },
     {
      "correct": false,
-     "text": "Snickers bar"
+     "text": "Barra Snickers"
     },
     {
      "correct": false,
-     "text": "Dr. Pepper"
+     "text": "Dr Pepper"
     }
    ],
-   "clue": "Eat out of a jar or a bowl",
+   "clue": "Un sombrero y un frasco",
    "id": "112008",
    "isEasy": false,
-   "question": "Pick the two inventions named after their creators.",
+   "question": "Elige los dos inventos que llevan el nombre de su creador.",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Astronomical Behavior",
+   "category": "Comportamiento astronómico",
    "choices": [
     {
      "correct": true,
-     "text": "The Gravitational force"
+     "text": "La fuerza gravitatoria"
     },
     {
      "correct": false,
-     "text": "The Speed force"
+     "text": "La fuerza de velocidad"
     },
     {
      "correct": false,
-     "text": "The Heat force"
+     "text": "La fuerza calórica"
     },
     {
      "correct": true,
-     "text": "The Electromagnetic force"
+     "text": "La fuerza electromagnética"
     }
    ],
-   "clue": "They pull stuff down and attract other stuff",
+   "clue": "Una atrae hacia abajo y la otra atrae imanes",
    "id": "112009",
    "isEasy": false,
-   "question": "What are two of the fundamental forces of the universe? (Or: Why do things do what they do?)",
+   "question": "¿Cuáles son dos de las fuerzas fundamentales del universo? (O sea: ¿por qué las cosas hacen lo que hacen?)",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Math in Movies",
+   "category": "Matemática en el cine",
    "choices": [
     {
      "correct": false,
-     "text": "[i]Proof[/i]"
+     "text": "[i]La prueba[/i]"
     },
     {
      "correct": true,
-     "text": "[i]A Beautiful Mind[/i]"
+     "text": "[i]Una mente brillante[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Hidden Figures[/i]"
+     "text": "[i]Talentos ocultos[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Cube[/i]"
+     "text": "[i]El cubo[/i]"
     }
    ],
-   "clue": "The answers are hiding in your mind",
+   "clue": "Las respuestas se ocultan en tu mente",
    "id": "112012",
    "isEasy": false,
-   "question": "Which two movies are about real mathematicians?",
+   "question": "¿Qué dos películas tratan sobre matemáticos reales?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Not-Famous Chrises",
+   "category": "Christophers poco famosos",
    "choices": [
     {
      "correct": false,
@@ -1488,40 +1488,40 @@
      "text": "Drake"
     }
    ],
-   "clue": "To be frank, it’s not Drake.",
+   "clue": "Para ser franco, no es Drake.",
    "id": "112172",
    "isEasy": false,
-   "question": "Two of these people are actually named Christopher. Eat them! I mean... Identify them!",
+   "question": "Dos de estas personas se llaman en realidad Christopher. ¡Cómetelos! Digo... ¡identifícalos!",
    "theme": "CASTLE"
   },
   {
-   "category": "Double Booked",
+   "category": "Doble reserva",
    "choices": [
     {
      "correct": true,
-     "text": "[i]Pride and Prejudice[/i]"
+     "text": "[i]Orgullo y prejuicio[/i]"
     },
     {
      "correct": false,
-     "text": "[i]War and Peace[/i]"
+     "text": "[i]Guerra y paz[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Franny and Zooey[/i]"
+     "text": "[i]Franny y Zooey[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Sense and Sensibility[/i]"
+     "text": "[i]Sentido y sensibilidad[/i]"
     }
    ],
-   "clue": "The author is Jane Austen",
+   "clue": "La autora es Jane Austen",
    "id": "112191",
    "isEasy": false,
-   "question": "Which two books have the same author?",
+   "question": "¿Qué dos libros tienen el mismo autor?",
    "theme": "CASTLE"
   },
   {
-   "category": "World Flags",
+   "category": "Banderas del mundo",
    "choices": [
     {
      "correct": true,
@@ -1533,21 +1533,21 @@
     },
     {
      "correct": true,
-     "text": "Egypt"
+     "text": "Egipto"
     },
     {
      "correct": false,
-     "text": "Spain"
+     "text": "España"
     }
    ],
-   "clue": "Spain’s flag has a lion, not an eagle.",
+   "clue": "La bandera de España tiene un león, no un águila.",
    "id": "112261",
    "isEasy": false,
-   "question": "Which two countries have a delicious eagle on their flags?",
+   "question": "¿Qué dos países tienen un águila deliciosa en su bandera?",
    "theme": "CASTLE"
   },
   {
-   "category": "Two Handers",
+   "category": "Obras para dos",
    "choices": [
     {
      "correct": true,
@@ -1555,78 +1555,78 @@
     },
     {
      "correct": false,
-     "text": "[i]Waiting for Godot[/i]"
+     "text": "[i]Esperando a Godot[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Tuesdays with Morrie[/i]"
+     "text": "[i]Martes con mi viejo profesor[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Who’s Afraid of Virginia Woolf?[/i]"
+     "text": "[i]¿Quién le teme a Virginia Woolf?[/i]"
     }
    ],
-   "clue": "Speaking roles in [i]Virginia Woolf[/i] include George, Martha, Nick & Honey",
+   "clue": "En [i]Virginia Woolf[/i] hablan George, Martha, Nick y Honey",
    "id": "112264",
    "isEasy": false,
-   "question": "Which two plays have only two characters?",
+   "question": "¿Qué dos obras de teatro tienen solo dos personajes?",
    "theme": "CASTLE"
   },
   {
-   "category": "HORROR ACTORS",
+   "category": "ACTORES DE TERROR",
    "choices": [
     {
      "correct": true,
-     "text": "[i]Saw[/i]"
+     "text": "[i]El juego del miedo[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Saw II[/i]"
+     "text": "[i]El juego del miedo II[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Saw V[/i]"
+     "text": "[i]El juego del miedo V[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Saw VII[/i]"
+     "text": "[i]El juego del miedo VII[/i]"
     }
    ],
-   "clue": "Once in 2004, once in 2010",
+   "clue": "Una vez en 2004 y otra en 2010",
    "id": "112315",
    "isEasy": false,
-   "question": "Which [i]Saw[/i] films does [i]Princess Bride[/i] actor Cary Elwes appear in?",
+   "question": "¿En qué películas de [i]El juego del miedo[/i] aparece Cary Elwes, actor de [i]La princesa prometida[/i]?",
    "theme": "CASTLE"
   },
   {
-   "category": "The Talk",
+   "category": "La charla",
    "choices": [
     {
      "correct": false,
-     "text": "Ichthyologist"
+     "text": "Ictiólogo"
     },
     {
      "correct": true,
-     "text": "Melittologist"
+     "text": "Melitólogo"
     },
     {
      "correct": true,
-     "text": "Ornithologist"
+     "text": "Ornitólogo"
     },
     {
      "correct": false,
-     "text": "Dendrologist"
+     "text": "Dendrólogo"
     }
    ],
-   "clue": "Dendrologists study trees, not bees.",
+   "clue": "Los dendrólogos estudian árboles, no abejas.",
    "id": "112316",
    "isEasy": false,
-   "question": "If we need experts on the birds and the bees, which two people should we get?",
+   "question": "Si necesitamos expertos para hablar de las abejitas y los pajaritos, ¿qué dos personas llamamos?",
    "theme": "FOREST",
    "x": true
   },
   {
-   "category": "Name Meanings",
+   "category": "Significado de nombres",
    "choices": [
     {
      "correct": true,
@@ -1634,25 +1634,25 @@
     },
     {
      "correct": true,
-     "text": "Peter"
+     "text": "Pedro"
     },
     {
      "correct": false,
-     "text": "Jason"
+     "text": "Jasón"
     },
     {
      "correct": false,
      "text": "Dwayne"
     }
    ],
-   "clue": "“Petrified” wood stands very still",
+   "clue": "“Petrificar” es convertir en piedra",
    "id": "112354",
    "isEasy": false,
-   "question": "Which two of these names mean “rock” or “stone”?",
+   "question": "¿Cuáles dos de estos nombres significan “roca” o “piedra”?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Cheer Terms",
+   "category": "Términos de porristas",
    "choices": [
     {
      "correct": true,
@@ -1671,41 +1671,41 @@
      "text": "Broken T"
     }
    ],
-   "clue": "You’ll need both right answers if you want to spell VICTORY!",
+   "clue": "Con las dos respuestas correctas puedes escribir VICTORIA",
    "countrySpecific": true,
    "id": "112356",
    "isEasy": false,
-   "question": "Which of these two are NCA cheerleading poses you make with your arms?",
+   "question": "¿Cuáles dos de estas son posiciones de brazos de porristas según la NCA?",
    "theme": "FOREST"
   },
   {
-   "category": "Always Fashionable",
+   "category": "Siempre a la moda",
    "choices": [
     {
      "correct": true,
-     "text": "Mermaid"
+     "text": "Sirena"
     },
     {
      "correct": false,
-     "text": "Dolphin"
+     "text": "Delfín"
     },
     {
      "correct": false,
-     "text": "Foam"
+     "text": "Espuma"
     },
     {
      "correct": true,
-     "text": "Bubble"
+     "text": "Globo"
     }
    ],
-   "clue": "One of the right answers seems half-fishy... but the other one really pops!",
+   "clue": "Una es mitad pez... ¡y la otra se infla!",
    "id": "112357",
    "isEasy": false,
-   "question": "Which of these are two classic types of skirts?",
+   "question": "¿Cuáles dos de estos son tipos clásicos de falda?",
    "theme": "FOREST"
   },
   {
-   "category": "POISON HISTORY",
+   "category": "HISTORIA DEL VENENO",
    "choices": [
     {
      "correct": true,
@@ -1713,7 +1713,7 @@
     },
     {
      "correct": false,
-     "text": "Michelangelo"
+     "text": "Miguel Ángel"
     },
     {
      "correct": false,
@@ -1721,47 +1721,47 @@
     },
     {
      "correct": true,
-     "text": "Socrates"
+     "text": "Sócrates"
     }
    ],
-   "clue": "4-syllable name and 3-syllable name",
+   "clue": "Una reina egipcia y un filósofo griego",
    "id": "112386",
    "isEasy": false,
-   "question": "Which two famous people died from poison a really long time ago?",
+   "question": "¿Qué dos personajes famosos murieron envenenados hace muchísimo tiempo?",
    "theme": "DESERT"
   },
   {
-   "category": "ANIMAL GEOGRAPHY",
+   "category": "GEOGRAFÍA ANIMAL",
    "choices": [
     {
      "correct": true,
-     "text": "Dromedary camel"
+     "text": "Dromedario"
     },
     {
      "correct": false,
-     "text": "Alligator"
+     "text": "Aligátor"
     },
     {
      "correct": true,
-     "text": "Dorcas gazelle"
+     "text": "Gacela dorcas"
     },
     {
      "correct": false,
-     "text": "Marmot"
+     "text": "Marmota"
     }
    ],
-   "clue": "The habitat’s the Sahara Desert",
+   "clue": "El hábitat es el desierto del Sahara",
    "id": "112387",
    "isEasy": false,
-   "question": "Which two species share a habitat?",
+   "question": "¿Qué dos especies comparten hábitat?",
    "theme": "FOREST"
   },
   {
-   "category": "SPICES",
+   "category": "ESPECIAS",
    "choices": [
     {
      "correct": false,
-     "text": "Allspice"
+     "text": "Pimienta de Jamaica"
     },
     {
      "correct": true,
@@ -1769,21 +1769,21 @@
     },
     {
      "correct": true,
-     "text": "Chili powder"
+     "text": "Chile en polvo"
     },
     {
      "correct": false,
-     "text": "Grains of Paradise"
+     "text": "Granos del paraíso"
     }
    ],
-   "clue": "“Allspice” is kind of a phony",
+   "clue": "La pimienta de Jamaica (allspice) parece mezcla, pero es una sola baya",
    "id": "112406",
    "isEasy": false,
-   "question": "Spicy! Which of the following spices are actually blends of multiple spices?",
+   "question": "¡Picante! ¿Cuáles de estas especias son en realidad mezclas de varias especias?",
    "theme": "CASTLE"
   },
   {
-   "category": "CELEBRITIES",
+   "category": "CELEBRIDADES",
    "choices": [
     {
      "correct": true,
@@ -1802,18 +1802,18 @@
      "text": "Ariana Grande"
     }
    ],
-   "clue": "don’t worry about Padma",
+   "clue": "No te preocupes por Padma",
    "id": "112407",
    "isEasy": false,
-   "question": "Which of the following celebrity names are missing their accents?",
+   "question": "¿A cuáles de estos nombres de celebridades les falta un acento?",
    "theme": "CASTLE"
   },
   {
-   "category": "Spy Movies",
+   "category": "Películas de espías",
    "choices": [
     {
      "correct": true,
-     "text": "Dead"
+     "text": "Sentencia mortal"
     },
     {
      "correct": false,
@@ -1821,21 +1821,21 @@
     },
     {
      "correct": true,
-     "text": "Fantasma (Ghost)"
+     "text": "Fantasma"
     },
     {
      "correct": false,
-     "text": "Shadow"
+     "text": "Sombra"
     }
    ],
-   "clue": "007 fights Spectre, not Ethan Hunt",
+   "clue": "007 pelea contra Spectre, no Ethan Hunt",
    "id": "112408",
    "isEasy": false,
-   "question": "Which words are in the title of one of *BURP* Tom Cruise’s [i]Mission Impossible[/i] movies?",
+   "question": "¿Qué palabras aparecen en el título de alguna película de [i]Misión imposible[/i] de *BURP* Tom Cruise?",
    "theme": "CEMETERY"
   },
   {
-   "category": "ANIMALS",
+   "category": "ANIMALES",
    "choices": [
     {
      "correct": false,
@@ -1843,25 +1843,25 @@
     },
     {
      "correct": true,
-     "text": "Octopus"
+     "text": "Pulpo"
     },
     {
      "correct": false,
-     "text": "Bat"
+     "text": "Murciélago"
     },
     {
      "correct": true,
-     "text": "Horseshoe crab"
+     "text": "Cangrejo herradura"
     }
    ],
-   "clue": "Something to think about next time you order calamari",
+   "clue": "Algo para pensar la próxima vez que pidas calamares",
    "id": "112409",
    "isEasy": false,
-   "question": "Which two animals have tasty BLUE blood?",
+   "question": "¿Qué dos animales tienen una sabrosa sangre AZUL?",
    "theme": "CASTLE"
   },
   {
-   "category": "VIDEO GAMES",
+   "category": "VIDEOJUEGOS",
    "choices": [
     {
      "correct": true,
@@ -1880,18 +1880,18 @@
      "text": "[i]The Legend of Zelda: Tears of the Kingdom[/i]"
     }
    ],
-   "clue": "Only room for one Zelda",
+   "clue": "Solo hay lugar para un Zelda",
    "id": "112410",
    "isEasy": false,
-   "question": "Which two games won Game of the Year at the Video Game Awards?",
+   "question": "¿Qué dos juegos ganaron Juego del Año en The Game Awards?",
    "theme": "CASTLE"
   },
   {
-   "category": "Side Characters",
+   "category": "Personajes secundarios",
    "choices": [
     {
      "correct": true,
-     "text": "Sideshow Bob"
+     "text": "Bob Patiño"
     },
     {
      "correct": false,
@@ -1899,21 +1899,21 @@
     },
     {
      "correct": false,
-     "text": "Comic Book Guy"
+     "text": "El Sujeto de las Historietas"
     },
     {
      "correct": true,
-     "text": "“Bleeding Gums” Murphy"
+     "text": "“Encías Sangrantes” Murphy"
     }
    ],
-   "clue": "Sax and attacks",
+   "clue": "Saxofón y ataques",
    "id": "112569",
    "isEasy": false,
-   "question": "What two [i]Simpsons[/i] characters appeared in the first season? *Burp!*",
+   "question": "¿Qué dos personajes de [i]Los Simpson[/i] aparecieron en la primera temporada? *¡Burp!*",
    "theme": "CEMETERY"
   },
   {
-   "category": "Funky Flags",
+   "category": "Banderas raras",
    "choices": [
     {
      "correct": true,
@@ -1921,51 +1921,51 @@
     },
     {
      "correct": false,
-     "text": "Ireland"
+     "text": "Irlanda"
     },
     {
      "correct": false,
-     "text": "Denmark"
+     "text": "Dinamarca"
     },
     {
      "correct": true,
-     "text": "Vatican City"
+     "text": "Ciudad del Vaticano"
     }
    ],
-   "clue": "One flag has a plus on it; the other, two crossed keys",
+   "clue": "Una bandera tiene una cruz; la otra, dos llaves cruzadas",
    "id": "112598",
    "isEasy": false,
-   "question": "What are the only two countries with a square-shaped flag?",
+   "question": "¿Cuáles son los dos únicos países con bandera cuadrada?",
    "theme": "CASTLE"
   },
   {
-   "category": "Proper Names",
+   "category": "Nombres propios",
    "choices": [
     {
      "correct": true,
-     "text": "The element represented by Ag"
+     "text": "El elemento representado por Ag"
     },
     {
      "correct": true,
-     "text": "Jay-Z’s real first name"
+     "text": "El nombre real de Jay-Z"
     },
     {
      "correct": false,
-     "text": "A shape with 12 sides"
+     "text": "La figura de 12 lados"
     },
     {
      "correct": false,
-     "text": "[i]Catch-22[/i] author’s last name"
+     "text": "El apellido del autor de [i]Trampa 22[/i]"
     }
    ],
-   "clue": "Ag is the chemical symbol for silver",
+   "clue": "Ag es el símbolo químico de la plata (silver)",
    "id": "112888",
    "isEasy": false,
-   "question": "Which two names start with the letter “S”?",
+   "question": "¿Qué dos nombres en inglés empiezan con la letra “S”?",
    "theme": "CASTLE"
   },
   {
-   "category": "Game Locations",
+   "category": "Escenarios de juegos",
    "choices": [
     {
      "correct": false,
@@ -1981,17 +1981,17 @@
     },
     {
      "correct": true,
-     "text": "Japan"
+     "text": "Japón"
     }
    ],
-   "clue": "Never assassinated down under",
+   "clue": "Nunca hubo asesinos en Oceanía",
    "id": "112987",
    "isEasy": false,
-   "question": "As of 2025, which two countries have been the setting for an [i]Assassin’s Creed[/i] game?",
+   "question": "Hasta 2025, ¿qué dos países fueron escenario de un juego de [i]Assassin’s Creed[/i]?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Comic Books",
+   "category": "Cómics",
    "choices": [
     {
      "correct": true,
@@ -2007,69 +2007,69 @@
     },
     {
      "correct": false,
-     "text": "Brainiac"
+     "text": "Bizarro"
     }
    ],
-   "clue": "No mystery here",
+   "clue": "Aquí no hay misterio",
    "id": "112988",
    "isEasy": false,
-   "question": "Which two comic book villains are part of the Sinister Six?",
+   "question": "¿Qué dos villanos de cómic forman parte de los Seis Siniestros?",
    "theme": "DESERT"
   },
   {
-   "category": "Animal Classification",
+   "category": "Clasificación animal",
    "choices": [
     {
      "correct": false,
-     "text": "Turkey"
+     "text": "Pavo"
     },
     {
      "correct": true,
-     "text": "Duck"
+     "text": "Pato"
     },
     {
      "correct": false,
-     "text": "Emu"
+     "text": "Emú"
     },
     {
      "correct": true,
-     "text": "Goose"
+     "text": "Ganso"
     }
    ],
-   "clue": "No Thanksgiving special",
+   "clue": "Nada de pavo navideño",
    "id": "112989",
    "isEasy": false,
-   "question": "If I saw a section of a menu called “Anseriforms,” which two birds would I find under it?",
+   "question": "Si veo en un menú una sección llamada “Anseriformes”, ¿qué dos aves voy a encontrar?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Wet Fruits",
+   "category": "Frutas jugosas",
    "choices": [
     {
      "correct": true,
-     "text": "Cantaloupe"
+     "text": "Melón cantalupo"
     },
     {
      "correct": false,
-     "text": "Pear"
+     "text": "Pera"
     },
     {
      "correct": true,
-     "text": "Strawberries"
+     "text": "Fresas"
     },
     {
      "correct": false,
-     "text": "Grapes"
+     "text": "Uvas"
     }
    ],
-   "clue": "Use your melon",
+   "clue": "Usa el melón",
    "id": "112990",
    "isEasy": false,
-   "question": "Which two fruits are made up of at least 90% water?",
+   "question": "¿Qué dos frutas están compuestas por al menos un 90 % de agua?",
    "theme": "FOREST"
   },
   {
-   "category": "Reality TV",
+   "category": "Reality shows",
    "choices": [
     {
      "correct": false,
@@ -2088,68 +2088,68 @@
      "text": "Barack Obama"
     }
    ],
-   "clue": "Secret Service was somehow okay with this",
+   "clue": "Al Servicio Secreto de algún modo le pareció bien",
    "countrySpecific": true,
    "id": "112991",
    "isEasy": false,
-   "question": "Which two celebrities survived a two-day wilderness scenario on [i]Running Wild with Bear Grylls[/i]?",
+   "question": "¿Qué dos celebridades sobrevivieron dos días en la naturaleza en [i]Running Wild with Bear Grylls[/i]?",
    "theme": "DESERT"
   },
   {
-   "category": "Animal Babies",
+   "category": "Crías animales",
    "choices": [
     {
      "correct": true,
-     "text": "Hammerhead shark"
+     "text": "Tiburón martillo"
     },
     {
      "correct": false,
-     "text": "American eagle"
+     "text": "Águila americana"
     },
     {
      "correct": false,
-     "text": "Mahi-mahi"
+     "text": "Dorado (mahi-mahi)"
     },
     {
      "correct": true,
-     "text": "Komodo dragon"
+     "text": "Dragón de Komodo"
     }
    ],
-   "clue": "Take a moment and hammer this one out",
+   "clue": "Martilla un poco esta respuesta",
    "id": "112992",
    "isEasy": false,
-   "question": "Which two animals can create offspring without a male partner through a process called parthenogenesis?",
+   "question": "¿Qué dos animales pueden tener crías sin un macho, mediante un proceso llamado partenogénesis?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Fast Food Menus",
+   "category": "Menús de comida rápida",
    "choices": [
     {
      "correct": true,
-     "text": "Fries"
+     "text": "Papas fritas"
     },
     {
      "correct": false,
-     "text": "Burgers"
+     "text": "Hamburguesas"
     },
     {
      "correct": true,
-     "text": "Chicken fingers"
+     "text": "Dedos de pollo"
     },
     {
      "correct": false,
-     "text": "Biscuits"
+     "text": "Bísquets"
     }
    ],
-   "clue": "They do a nice crinkle cut",
+   "clue": "Tienen un buen corte ondulado",
    "countrySpecific": true,
    "id": "112994",
    "isEasy": false,
-   "question": "I love Raising Cane’s streamlined menu! What two items can I get there?",
+   "question": "¡Me encanta el menú simple de Raising Cane’s! ¿Qué dos cosas puedo pedir ahí?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Pulitzer Prizes",
+   "category": "Premios Pulitzer",
    "choices": [
     {
      "correct": true,
@@ -2168,19 +2168,19 @@
      "text": "Kendrick Lamar"
     }
    ],
-   "clue": "Pulitzer Prizes aren’t just for books",
+   "clue": "Los Pulitzer no son solo para libros",
    "countrySpecific": false,
    "id": "112995",
    "isEasy": false,
-   "question": "Which two people have won a Pulitzer Prize?",
+   "question": "¿Qué dos personas ganaron un Premio Pulitzer?",
    "theme": "CASTLE"
   },
   {
-   "category": "Cannibal Animals",
+   "category": "Animales caníbales",
    "choices": [
     {
      "correct": true,
-     "text": "Praying mantis"
+     "text": "Mantis religiosa"
     },
     {
      "correct": true,
@@ -2188,99 +2188,99 @@
     },
     {
      "correct": false,
-     "text": "Honey bee"
+     "text": "Abeja melífera"
     },
     {
      "correct": false,
-     "text": "Stingray"
+     "text": "Raya"
     }
    ],
-   "clue": "Drone bees die for their queen... but she doesn’t eat them!",
+   "clue": "Los zánganos mueren por su reina... ¡pero ella no se los come!",
    "id": "113013",
    "isEasy": false,
-   "question": "In which two animal species does the female often eat her mate?",
+   "question": "¿En qué dos especies la hembra suele comerse a su pareja?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Artistic Arachnids",
+   "category": "Arácnidos artistas",
    "choices": [
     {
      "correct": true,
-     "text": "Some Pig"
+     "text": "Gran cerdo"
     },
     {
      "correct": false,
-     "text": "Brilliant"
+     "text": "Brillante"
     },
     {
      "correct": true,
-     "text": "Humble"
+     "text": "Humilde"
     },
     {
      "correct": false,
-     "text": "Check Out This Dope Pig I Found"
+     "text": "Miren qué cerdo genial encontré"
     }
    ],
-   "clue": "Wilbur was indeed Some Pig.",
+   "clue": "Wilbur era, en efecto, un gran cerdo.",
    "id": "113058",
    "isEasy": false,
-   "question": "Which two messages does Charlotte write in her web in [i]Charlotte’s Web[/i]?",
+   "question": "¿Qué dos mensajes escribe Carlota en su telaraña en [i]La telaraña de Carlota[/i]?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Island Holidays",
+   "category": "Islas festivas",
    "choices": [
     {
      "correct": false,
-     "text": "Memorial Island"
+     "text": "Isla de los Caídos"
     },
     {
      "correct": true,
-     "text": "Easter Island"
+     "text": "Isla de Pascua"
     },
     {
      "correct": false,
-     "text": "Thanksgiving Island"
+     "text": "Isla de Acción de Gracias"
     },
     {
      "correct": true,
-     "text": "Christmas Island"
+     "text": "Isla de Navidad"
     }
    ],
-   "clue": "The fall holiday is incorrect.",
+   "clue": "La festividad de otoño es incorrecta.",
    "id": "113062",
    "isEasy": false,
-   "question": "Which two islands are real, recognized territories?",
+   "question": "¿Qué dos islas son territorios reales y reconocidos?",
    "theme": "DESERT"
   },
   {
-   "category": "Animal Teeth",
+   "category": "Dientes animales",
    "choices": [
     {
      "correct": false,
-     "text": "Saltwater crocodile"
+     "text": "Cocodrilo de agua salada"
     },
     {
      "correct": true,
-     "text": "Giant armadillo"
+     "text": "Armadillo gigante"
     },
     {
      "correct": false,
-     "text": "Lion"
+     "text": "León"
     },
     {
      "correct": true,
-     "text": "Bottlenose dolphin"
+     "text": "Delfín nariz de botella"
     }
    ],
-   "clue": "Only one is a water-dweller",
+   "clue": "Solo uno vive en el agua",
    "id": "113098",
    "isEasy": false,
-   "question": "Which two tooth-rich animals have over 80 teeth?",
+   "question": "¿Qué dos animales dentudos tienen más de 80 dientes?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Famous Dogs",
+   "category": "Perros famosos",
    "choices": [
     {
      "correct": true,
@@ -2288,7 +2288,7 @@
     },
     {
      "correct": true,
-     "text": "Buzz Lighyear"
+     "text": "Buzz"
     },
     {
      "correct": false,
@@ -2299,18 +2299,18 @@
      "text": "Luna"
     }
    ],
-   "clue": "Like Sarandon & Aldrin",
+   "clue": "Como Sarandon y Aldrin",
    "id": "113099",
    "isEasy": false,
-   "question": "Which two are actual names of the many Corgis Queen Elizabeth owned?",
+   "question": "¿Cuáles dos son nombres reales de los muchos corgis de la reina Isabel II?",
    "theme": "CASTLE"
   },
   {
-   "category": "Global Cuisine",
+   "category": "Cocina del mundo",
    "choices": [
     {
      "correct": true,
-     "text": "Somen"
+     "text": "Sōmen"
     },
     {
      "correct": false,
@@ -2318,29 +2318,29 @@
     },
     {
      "correct": false,
-     "text": "Spaetzle"
+     "text": "Spätzle"
     },
     {
      "correct": true,
      "text": "Tagliatelle"
     }
    ],
-   "clue": "Italian and Japanese",
+   "clue": "Italiano y japonés",
    "id": "113146",
    "isEasy": false,
-   "question": "SLUUUURP. Of these noodles, which two are wheat-based?",
+   "question": "SLUUUURP. De estos fideos, ¿qué dos están hechos de trigo?",
    "theme": "CASTLE"
   },
   {
-   "category": "Movie Ratings",
+   "category": "Clasificación de películas",
    "choices": [
     {
      "correct": false,
-     "text": "[i]Gladiator[/i]"
+     "text": "[i]Gladiador[/i]"
     },
     {
      "correct": true,
-     "text": "[i]The Dark Knight Rises[/i]"
+     "text": "[i]Batman: El caballero de la noche asciende[/i]"
     },
     {
      "correct": true,
@@ -2348,22 +2348,22 @@
     },
     {
      "correct": false,
-     "text": "[i]Star Wars: Episode II: Attack of the Clones[/i]"
+     "text": "[i]Star Wars: Episodio II - El ataque de los clones[/i]"
     }
    ],
-   "clue": "One is the first installment in a franchise",
+   "clue": "Una es la primera de una saga",
    "countrySpecific": true,
    "id": "113148",
    "isEasy": false,
-   "question": "I love popcorn films! Which two blockbuster movies are rated PG-13?!",
+   "question": "¡Amo las películas para comer palomitas! ¿Qué dos taquillazos tienen clasificación PG-13 en EE. UU.?",
    "theme": "CASTLE"
   },
   {
-   "category": "Animal Speeds",
+   "category": "Velocidad animal",
    "choices": [
     {
      "correct": false,
-     "text": "Ostrich"
+     "text": "Avestruz"
     },
     {
      "correct": false,
@@ -2371,47 +2371,47 @@
     },
     {
      "correct": true,
-     "text": "Bisontes"
+     "text": "Bisonte"
     },
     {
      "correct": true,
-     "text": "Giraffe"
+     "text": "Jirafa"
     }
    ],
-   "clue": "Not typically farm animals",
+   "clue": "No suelen ser animales de granja",
    "id": "113152",
    "isEasy": false,
-   "question": "I can run up to 40 mph. Which two morsels could I catch at full speed and feast upon?",
+   "question": "Puedo correr hasta 64 km/h. ¿Qué dos bocados podría alcanzar a toda velocidad y devorar?",
    "theme": "FOREST"
   },
   {
-   "category": "Classic Games",
+   "category": "Juegos clásicos",
    "choices": [
     {
      "correct": true,
-     "text": "Pink"
+     "text": "Rosa"
     },
     {
      "correct": true,
-     "text": "Orange"
+     "text": "Naranja"
     },
     {
      "correct": false,
-     "text": "Red"
+     "text": "Rojo"
     },
     {
      "correct": false,
-     "text": "Purple"
+     "text": "Morado"
     }
    ],
-   "clue": "No primary colors here",
+   "clue": "Aquí no hay colores primarios",
    "id": "113153",
    "isEasy": false,
-   "question": "Which two are colors of the original Hasbro “Hungry Hungry Hippos”?",
+   "question": "¿Cuáles dos son colores del juego original “Hipopótamos glotones” de Hasbro?",
    "theme": "FOREST"
   },
   {
-   "category": "Bones",
+   "category": "Huesos",
    "choices": [
     {
      "correct": false,
@@ -2419,7 +2419,7 @@
     },
     {
      "correct": false,
-     "text": "Fabula"
+     "text": "Fábula"
     },
     {
      "correct": true,
@@ -2427,17 +2427,17 @@
     },
     {
      "correct": true,
-     "text": "Femur"
+     "text": "Fémur"
     }
    ],
-   "clue": "They are NOT in a fab-ulous pit",
+   "clue": "NO están en una fábula",
    "id": "113154",
    "isEasy": false,
-   "question": "If one were to eat your leg, which two bones would I have to pick out?",
+   "question": "Si me comiera tu pierna, ¿qué dos huesos tendría que sacarme de los dientes?",
    "theme": "DESERT"
   },
   {
-   "category": "The Golden Peninsula",
+   "category": "La península dorada",
    "choices": [
     {
      "correct": false,
@@ -2456,14 +2456,14 @@
      "text": "Ronny Chieng"
     }
    ],
-   "clue": "Both names have a “y” in them",
+   "clue": "Los dos nombres tienen una “y”",
    "id": "113158",
    "isEasy": false,
-   "question": "Which two actors were born in Malaysia?",
+   "question": "¿Qué dos actores nacieron en Malasia?",
    "theme": "FOREST"
   },
   {
-   "category": "Digestive Alchemy",
+   "category": "Alquimia digestiva",
    "choices": [
     {
      "correct": true,
@@ -2471,51 +2471,51 @@
     },
     {
      "correct": true,
-     "text": "Chlorine"
+     "text": "Cloro"
     },
     {
      "correct": false,
-     "text": "Sodium"
+     "text": "Sodio"
     },
     {
      "correct": false,
      "text": "Oxígeno"
     }
    ],
-   "clue": "It’s hydrochloric acid, stomach acid is hydrochloric acid",
+   "clue": "Es ácido clorhídrico: el ácido del estómago es ácido clorhídrico",
    "id": "113162",
    "isEasy": false,
-   "question": "What two elements make up the gastric acid that will soon be digesting you?",
+   "question": "¿Qué dos elementos forman el ácido gástrico que pronto te va a digerir?",
    "theme": "FOREST"
   },
   {
-   "category": "Animal Powers",
+   "category": "Poderes animales",
    "choices": [
     {
      "correct": true,
-     "text": "Lanternfish"
+     "text": "Pez linterna"
     },
     {
      "correct": true,
-     "text": "Anglerfish"
+     "text": "Pez rape (pescador)"
     },
     {
      "correct": false,
-     "text": "Angelfish"
+     "text": "Pez ángel"
     },
     {
      "correct": false,
-     "text": "Furnacefish"
+     "text": "Pez horno"
     }
    ],
-   "clue": "One prefix you hold and one prefix you grab with.",
+   "clue": "Uno lleva una luz y el otro pesca",
    "id": "113903",
    "isEasy": false,
-   "question": "Which fish in this seafood buffet are glowing... because they’re bioluminescent?",
+   "question": "¿Qué peces de este bufé de mariscos brillan... porque son bioluminiscentes?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Horror Movies",
+   "category": "Películas de terror",
    "choices": [
     {
      "correct": false,
@@ -2534,45 +2534,45 @@
      "text": "[i]Them[/i]"
     }
    ],
-   "clue": "Also known as “he” and “we”",
+   "clue": "Es decir, “él” y “nosotros”",
    "id": "113904",
    "isEasy": false,
-   "question": "Which two films were directed and/or produced by Jordan Peeling you open... I mean, Peele!?!",
+   "question": "¿Qué dos películas dirigió o produjo Jordan Pelándote... digo, ¡Peele!?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Deadly Movies",
+   "category": "Películas mortales",
    "choices": [
     {
      "correct": true,
-     "text": "Tanning bed"
+     "text": "Cama solar"
     },
     {
      "correct": false,
-     "text": "Slot machine"
+     "text": "Tragamonedas"
     },
     {
      "correct": false,
-     "text": "Waterslide"
+     "text": "Tobogán acuático"
     },
     {
      "correct": true,
-     "text": "MRI machine"
+     "text": "Máquina de resonancia magnética"
     }
    ],
-   "clue": "Magnets and spinning, two unbeatable opponents",
+   "clue": "Imanes y rayos UV: dos rivales imbatibles",
    "id": "113906",
    "isEasy": false,
-   "question": "Which two things have killed characters in a [i]Final Destination[/i] movie?",
+   "question": "¿Qué dos cosas mataron a personajes en una película de [i]Destino final[/i]?",
    "theme": "CEMETERY",
    "x": true
   },
   {
-   "category": "Global Sports",
+   "category": "Deportes del mundo",
    "choices": [
     {
      "correct": false,
-     "text": "Spain"
+     "text": "España"
     },
     {
      "correct": false,
@@ -2584,13 +2584,13 @@
     },
     {
      "correct": true,
-     "text": "Belgium"
+     "text": "Bélgica"
     }
    ],
-   "clue": "Does this port pair with waffles?",
+   "clue": "El de Cristiano y el de los waffles",
    "id": "113907",
    "isEasy": false,
-   "question": "Boo! Empty Cups! Which two countries have NEVER won the World Cup?!",
+   "question": "¡Buu! ¡Copas vacías! ¿Qué dos países NUNCA ganaron el Mundial?",
    "theme": "MOUNTAIN"
   },
   {
@@ -2602,7 +2602,7 @@
     },
     {
      "correct": true,
-     "text": "Radon"
+     "text": "Radón"
     },
     {
      "correct": false,
@@ -2613,119 +2613,119 @@
      "text": "Neón"
     }
    ],
-   "clue": "Neon colors are radical!",
+   "clue": "¡Los colores neón son lo máximo!",
    "id": "113908",
    "isEasy": false,
-   "question": "Which of these two elements are gassy... *BURP* ...I mean, GASES at room temperature?",
+   "question": "¿Cuáles dos de estos elementos son gaseosos... *BURP*... digo, GASES a temperatura ambiente?",
    "theme": "FOREST"
   },
   {
-   "category": "Magnets? How?!?",
+   "category": "¿Imanes? ¿¡Cómo!?",
    "choices": [
     {
      "correct": true,
-     "text": "Iron"
+     "text": "Hierro"
     },
     {
      "correct": true,
-     "text": "Nickel"
+     "text": "Níquel"
     },
     {
      "correct": false,
-     "text": "Silver"
+     "text": "Plata"
     },
     {
      "correct": false,
-     "text": "Aluminum"
+     "text": "Aluminio"
     }
    ],
-   "clue": "There’s a nick, but we can iron it out",
+   "clue": "Uno está en las monedas y el otro en las planchas",
    "id": "113909",
    "isEasy": false,
-   "question": "My novelty fridge magnets would stick to which of these two metals?",
+   "question": "¿A cuáles dos de estos metales se pegarían mis imanes de refrigerador?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "PC Awards",
+   "category": "Premios de película",
    "choices": [
     {
      "correct": true,
-     "text": "Best Villain"
+     "text": "Mejor villano"
     },
     {
      "correct": false,
-     "text": "Best Explosion"
+     "text": "Mejor explosión"
     },
     {
      "correct": false,
-     "text": "Best LOL Moment"
+     "text": "Mejor momento LOL"
     },
     {
      "correct": true,
-     "text": "Best Shirtless Performance"
+     "text": "Mejor actuación sin camisa"
     }
    ],
-   "clue": "Zac Efron won one of the right answers, twice",
+   "clue": "Zac Efron ganó una de las respuestas correctas, dos veces",
    "countrySpecific": true,
    "id": "113910",
    "isEasy": false,
-   "question": "Which two categories have described real MTV Movie Awards?",
+   "question": "¿Qué dos categorías existieron de verdad en los MTV Movie Awards?",
    "theme": "FOREST"
   },
   {
-   "category": "Fictional Meals",
+   "category": "Comidas ficticias",
    "choices": [
     {
      "correct": true,
-     "text": "Pigeon Pie"
+     "text": "Pastel de paloma"
     },
     {
      "correct": false,
-     "text": "Summer Mush"
+     "text": "Papilla de verano"
     },
     {
      "correct": false,
-     "text": "Fleacrumb Muffin"
+     "text": "Magdalena de migas de pulga"
     },
     {
      "correct": true,
-     "text": "Bowl of Brown"
+     "text": "Tazón de marrón"
     }
    ],
-   "clue": "Use pi to find circumference of bowl",
+   "clue": "Uno se sirvió en una boda real y el otro en el Lecho de Pulgas",
    "id": "113911",
    "isEasy": false,
-   "question": "Which of these two scrumptious-sounding meals were served in the [i]Game of Thrones[/i] series?",
+   "question": "¿Cuáles dos de estas comidas tan apetitosas se sirvieron en [i]Juego de Tronos[/i]?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Novel Snacks",
+   "category": "Bocadillos de novela",
    "choices": [
     {
      "correct": true,
-     "text": "Lembas bread"
+     "text": "Pan lembas"
     },
     {
      "correct": false,
-     "text": "Bantha biscuit"
+     "text": "Galleta de bantha"
     },
     {
      "correct": false,
-     "text": "Regova egg"
+     "text": "Huevo de regova"
     },
     {
      "correct": true,
      "text": "Cram"
     }
    ],
-   "clue": "Let them cram bread!",
+   "clue": "Los dos son panes de viaje",
    "id": "113913",
    "isEasy": false,
-   "question": "Which of these two fictional, filling snacks can be found in [i]The Lord of the Rings[/i] series?",
+   "question": "¿Cuáles dos de estos bocadillos ficticios y saciadores aparecen en [i]El Señor de los Anillos[/i]?",
    "theme": "FOREST"
   },
   {
-   "category": "Wine Pairings",
+   "category": "Maridaje de vinos",
    "choices": [
     {
      "correct": false,
@@ -2744,23 +2744,23 @@
      "text": "Riesling"
     }
    ],
-   "clue": "I’ll bec you can really sing!",
+   "clue": "Uno es el emblema de Argentina y el otro es italiano",
    "id": "113916",
    "isEasy": false,
-   "question": "I think I’ll consume you with a red wine... so what TWO kinds of grapes will I need?",
+   "question": "Creo que te voy a acompañar con un vino tinto... ¿qué DOS uvas voy a necesitar?",
    "theme": "MOUNTAIN",
    "x": true
   },
   {
-   "category": "Endangered Animals",
+   "category": "Animales en peligro",
    "choices": [
     {
      "correct": true,
-     "text": "Kangaroo"
+     "text": "Canguro"
     },
     {
      "correct": true,
-     "text": "Camel"
+     "text": "Camello"
     },
     {
      "correct": false,
@@ -2768,51 +2768,51 @@
     },
     {
      "correct": false,
-     "text": "Hammerhead shark"
+     "text": "Tiburón martillo"
     }
    ],
-   "clue": "They may punch or kick back",
+   "clue": "Pueden devolverte la patada",
    "id": "113917",
    "isEasy": false,
-   "question": "In 2025, what two animals can I legally hunt — and eat! — in Australia?",
+   "question": "En 2025, ¿qué dos animales puedo cazar legalmente (¡y comer!) en Australia?",
    "theme": "DESERT"
   },
   {
-   "category": "Nature’s Predators",
+   "category": "Depredadores de la naturaleza",
    "choices": [
     {
      "correct": true,
-     "text": "Leopard seal"
+     "text": "Foca leopardo"
     },
     {
      "correct": false,
-     "text": "Arctic fox"
+     "text": "Zorro ártico"
     },
     {
      "correct": false,
-     "text": "Polar bear"
+     "text": "Oso polar"
     },
     {
      "correct": true,
      "text": "Orca"
     }
    ],
-   "clue": "Arctic foxes and polar bears live on the opposite side of the world",
+   "clue": "Los zorros árticos y los osos polares viven en el otro extremo del mundo",
    "id": "113918",
    "isEasy": false,
-   "question": "Which of these two predators are known for eating tasty penguins?",
+   "question": "¿Cuáles dos de estos depredadores son conocidos por comer sabrosos pingüinos?",
    "theme": ""
   },
   {
-   "category": "Rom Com Numbers",
+   "category": "Números de comedia romántica",
    "choices": [
     {
      "correct": true,
-     "text": "[i]27 Dresses[/i]"
+     "text": "[i]27 bodas[/i]"
     },
     {
      "correct": false,
-     "text": "[i]50 First Dates[/i]"
+     "text": "[i]Como si fuera la primera vez[/i]"
     },
     {
      "correct": false,
@@ -2820,69 +2820,69 @@
     },
     {
      "correct": true,
-     "text": "[i]100 Girls[/i]"
+     "text": "[i]100 chicas[/i]"
     }
    ],
-   "clue": "Both answers added together equals 127",
+   "clue": "Sumando las dos respuestas da 127",
    "id": "113920",
    "isEasy": false,
-   "question": "Not to gush, but which two of these romantic comedies star the incomparable Katherine Heigl?!",
+   "question": "Sin exagerar, ¿cuáles dos de estas comedias románticas protagoniza la incomparable Katherine Heigl?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Funny Spoofs",
+   "category": "Parodias graciosas",
    "choices": [
     {
      "correct": false,
-     "text": "[i]Airplane![/i]"
+     "text": "[i]¿Y dónde está el piloto?[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Spaceballs[/i]"
+     "text": "[i]S.O.S. ¿Hay un piloto en la nave?[/i] ([i]Spaceballs[/i])"
     },
     {
      "correct": true,
-     "text": "[i]Blazing Saddles[/i]"
+     "text": "[i]Locura en el Oeste[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Naked Gun[/i]"
+     "text": "[i]¿Y dónde está el policía?[/i]"
     }
    ],
-   "clue": "Save space for these saddles",
+   "clue": "Una en el espacio y otra en el Lejano Oeste",
    "id": "113922",
    "isEasy": false,
-   "question": "Pick the two funny movies directed by Mel Brooks.",
+   "question": "Elige las dos comedias dirigidas por Mel Brooks.",
    "theme": "CASTLE"
   },
   {
-   "category": "Nutty Recipes",
+   "category": "Recetas con nueces",
    "choices": [
     {
      "correct": true,
-     "text": "Pad Thai"
+     "text": "Pad thai"
     },
     {
      "correct": false,
-     "text": "Tom Yum Soup"
+     "text": "Sopa tom yum"
     },
     {
      "correct": true,
-     "text": "Kung Pao Chicken"
+     "text": "Pollo Kung Pao"
     },
     {
      "correct": false,
-     "text": "Mango Sticky Rice"
+     "text": "Arroz glutinoso con mango"
     }
    ],
-   "clue": "All the chickens hang at my pad",
+   "clue": "Uno tailandés y uno chino",
    "id": "113923",
    "isEasy": false,
-   "question": "My allergies! Which of these two dishes traditionally contains peanuts?",
+   "question": "¡Mis alergias! ¿Cuáles dos de estos platos llevan cacahuate tradicionalmente?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Sweet Treats",
+   "category": "Golosinas",
    "choices": [
     {
      "correct": false,
@@ -2901,15 +2901,15 @@
      "text": "Whatchamacallit"
     }
    ],
-   "clue": "Way? What Way?!?",
+   "clue": "¿Vía? ¿¡Qué vía!?",
    "countrySpecific": true,
    "id": "113926",
    "isEasy": false,
-   "question": "Mmmmm, sweet! Which two of these candy bars contain caramel?",
+   "question": "¡Mmm, qué rico! ¿Cuáles dos de estas barras de chocolate tienen caramelo?",
    "theme": "CASTLE"
   },
   {
-   "category": "Popular Albums",
+   "category": "Álbumes populares",
    "choices": [
     {
      "correct": true,
@@ -2925,17 +2925,17 @@
     },
     {
      "correct": true,
-     "text": "[i]Talk that Talk[/i]"
+     "text": "[i]Talk That Talk[/i]"
     }
    ],
-   "clue": "Share your thoughts! Talk Loud!!!",
+   "clue": "¡Habla fuerte!",
    "id": "113927",
    "isEasy": false,
-   "question": "I’m always Breakin’ Dishes! What are two Rihanna albums?",
+   "question": "¡Siempre ando rompiendo platos! ¿Cuáles son dos álbumes de Rihanna?",
    "theme": "DESERT"
   },
   {
-   "category": "Youth Music",
+   "category": "Música juvenil",
    "choices": [
     {
      "correct": true,
@@ -2954,14 +2954,14 @@
      "text": "“Float”"
     }
    ],
-   "clue": "Slide past the wrong answers and hop to one of the right ones",
+   "clue": "Uno moja y el otro salta",
    "id": "113929",
    "isEasy": false,
-   "question": "Okay, kids... pick out the two Tyla songs! You know, Tyla? “The Queen of Popiano”?",
+   "question": "A ver, chicos... ¡elijan las dos canciones de Tyla! ¿Tyla? ¿“La reina del popiano”?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Land Mass",
+   "category": "Superficie",
    "choices": [
     {
      "correct": false,
@@ -2969,7 +2969,7 @@
     },
     {
      "correct": true,
-     "text": "Brazil"
+     "text": "Brasil"
     },
     {
      "correct": false,
@@ -2977,121 +2977,121 @@
     },
     {
      "correct": true,
-     "text": "The United States"
+     "text": "Estados Unidos"
     }
    ],
-   "clue": "Hey Bra, you with US?",
+   "clue": "Uno es el más grande de Sudamérica",
    "id": "113931",
    "isEasy": false,
-   "question": "I got a big stick, so I like a big country... which of these two are bigger than Australia?",
+   "question": "Tengo un gran garrote, así que me gustan los países grandes... ¿cuáles dos de estos son más grandes que Australia?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Disney Toons",
+   "category": "Caricaturas de Disney",
    "choices": [
     {
      "correct": false,
-     "text": "Dating a cyborg"
+     "text": "Salir con un cíborg"
     },
     {
      "correct": true,
-     "text": "Fighting a mummy"
+     "text": "Pelear con una momia"
     },
     {
      "correct": true,
-     "text": "Painting a continent"
+     "text": "Pintar un continente"
     },
     {
      "correct": false,
-     "text": "Dancing on Neptune"
+     "text": "Bailar en Neptuno"
     }
    ],
-   "clue": "Fighting is an art",
+   "clue": "Pelear es un arte",
    "id": "113934",
    "isEasy": false,
-   "question": "According to the theme song, what are two things [i]Phineas and Ferb[/i] are doing over the summer?",
+   "question": "Según la canción de entrada, ¿qué dos cosas hacen [i]Phineas y Ferb[/i] en el verano?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Highest Honors",
+   "category": "Máximos honores",
    "choices": [
     {
      "correct": true,
-     "text": "Chemistry"
+     "text": "Química"
     },
     {
      "correct": false,
-     "text": "Engineering"
+     "text": "Ingeniería"
     },
     {
      "correct": true,
-     "text": "Literature"
+     "text": "Literatura"
     },
     {
      "correct": false,
-     "text": "Journalism"
+     "text": "Periodismo"
     }
    ],
-   "clue": "Lit up a bunsen burner to do it",
+   "clue": "Uno con mechero Bunsen y otro con pluma",
    "id": "113935",
    "isEasy": false,
-   "question": "In which two categories could you win a Nobel prize?",
+   "question": "¿En qué dos categorías se puede ganar un Premio Nobel?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Celebrities in Songs",
+   "category": "Celebridades en canciones",
    "choices": [
     {
      "correct": true,
-     "text": "“Uptown Funk” by Mark Ronson & Bruno Mars"
+     "text": "“Uptown Funk”, de Mark Ronson y Bruno Mars"
     },
     {
      "correct": false,
-     "text": "“Truth Hurts” by Lizzo"
+     "text": "“Truth Hurts”, de Lizzo"
     },
     {
      "correct": true,
-     "text": "“Riptide” by Vance Joy"
+     "text": "“Riptide”, de Vance Joy"
     },
     {
      "correct": false,
-     "text": "“Moves Like Jagger” by Maroon 5"
+     "text": "“Moves Like Jagger”, de Maroon 5"
     }
    ],
-   "clue": "RIP Funk",
+   "clue": "La que ya nombra a otra celebridad en el título no es",
    "id": "113936",
    "isEasy": false,
-   "question": "What two songs name drop Michelle Pfeiffer in their lyrics?",
+   "question": "¿Qué dos canciones mencionan a Michelle Pfeiffer en la letra?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Historical Warfare",
+   "category": "Guerras históricas",
    "choices": [
     {
      "correct": true,
-     "text": "The Hundred Years’ War"
+     "text": "La Guerra de los Cien Años"
     },
     {
      "correct": false,
-     "text": "The Franco-Prussian War"
+     "text": "La Guerra franco-prusiana"
     },
     {
      "correct": false,
-     "text": "The Seven Years’ War"
+     "text": "La Guerra de los Siete Años"
     },
     {
      "correct": true,
-     "text": "World War I"
+     "text": "La Primera Guerra Mundial"
     }
    ],
-   "clue": "Both have numbers, both have a “1” in them",
+   "clue": "Las dos tienen números y un “1”",
    "id": "113975",
    "isEasy": false,
-   "question": "Which of these two conflicts were French victories?",
+   "question": "¿Cuáles dos de estos conflictos fueron victorias francesas?",
    "theme": "CASTLE"
   },
   {
-   "category": "Singers in Movies",
+   "category": "Cantantes en el cine",
    "choices": [
     {
      "correct": false,
@@ -3110,40 +3110,40 @@
      "text": "Eminem"
     }
    ],
-   "clue": "Those drivers are bad at following road rules",
+   "clue": "A esos conductores les cuesta seguir las reglas (rules) de tránsito",
    "id": "113979",
    "isEasy": false,
-   "question": "Which of these two musical artists have appeared in a [i]Fast & Furious[/i] movie?",
+   "question": "¿Cuáles dos de estos artistas aparecieron en una película de [i]Rápidos y furiosos[/i]?",
    "theme": "DESERT"
   },
   {
-   "category": "Pop Art",
+   "category": "Arte pop",
    "choices": [
     {
      "correct": true,
-     "text": "Kellogg’s corn flakes"
+     "text": "Copos de maíz Kellogg’s"
     },
     {
      "correct": false,
-     "text": "McDonald’s milkshake"
+     "text": "Malteada de McDonald’s"
     },
     {
      "correct": true,
-     "text": "Campbell’s soup"
+     "text": "Sopa Campbell’s"
     },
     {
      "correct": false,
-     "text": "Lime Jell-o"
+     "text": "Gelatina de lima"
     }
    ],
-   "clue": "These answers are meals, not desserts",
+   "clue": "Son comidas, no postres",
    "id": "113983",
    "isEasy": false,
-   "question": "Which of these two foods were subjects of Andy Warhol pop art pieces?",
+   "question": "¿Cuáles dos de estos alimentos protagonizaron obras de arte pop de Andy Warhol?",
    "theme": "FOREST"
   },
   {
-   "category": "Novelty Snacks",
+   "category": "Bocadillos novedosos",
    "choices": [
     {
      "correct": false,
@@ -3162,10 +3162,10 @@
      "text": "Lights! Caramel! Action!"
     }
    ],
-   "clue": "Both right answers have a word that rhymes with “right”",
+   "clue": "Uno es de un programa nocturno y el otro de cine",
    "id": "113995",
    "isEasy": false,
-   "question": "Ice cream! Which of these two are real Ben & Jerry’s flavors?",
+   "question": "¡Helado! ¿Cuáles dos de estos son sabores reales de Ben & Jerry’s?",
    "theme": "CASTLE"
   }
  ]

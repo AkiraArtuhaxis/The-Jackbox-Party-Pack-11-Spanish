@@ -28,12 +28,12 @@
   {
    "correct": true,
    "id": "106988",
-   "question": "El Teorema Pitágórico indica que a2+b2 = c2."
+   "question": "El teorema de Pitágoras establece que a²+b² = c²."
   },
   {
    "correct": true,
    "id": "106989",
-   "question": "Muhammad Ali es un ganador de la medalla de oro olímpica."
+   "question": "Muhammad Ali ganó una medalla de oro olímpica."
   },
   {
    "correct": true,
@@ -58,12 +58,12 @@
   {
    "correct": true,
    "id": "106994",
-   "question": "Monopooly fue creado por Parker Brothers."
+   "question": "El Monopoly fue creado por Parker Brothers."
   },
   {
    "correct": true,
    "id": "106995",
-   "question": "El chocolate Snickers tiene cachuate."
+   "question": "El chocolate Snickers tiene cacahuate."
   },
   {
    "correct": true,
@@ -79,7 +79,7 @@
    "correct": true,
    "countrySpecific": true,
    "id": "106998",
-   "question": "Maradonna jugó para el Napoli."
+   "question": "Maradona jugó para el Napoli."
   },
   {
    "correct": true,
@@ -94,12 +94,12 @@
   {
    "correct": false,
    "id": "107001",
-   "question": "Técnicamente, se escribe “whisky”."
+   "question": "Técnicamente, la forma correcta es “wiski”."
   },
   {
    "correct": true,
    "id": "107002",
-   "question": "Técnicamente, se escribe “güisqui”."
+   "question": "Técnicamente, la forma correcta es “güisqui”."
   },
   {
    "correct": false,
@@ -124,7 +124,7 @@
   {
    "correct": true,
    "id": "107061",
-   "question": "Lassie es un Collie."
+   "question": "Lassie es una collie."
   },
   {
    "correct": true,
@@ -139,13 +139,13 @@
   {
    "correct": true,
    "id": "107064",
-   "question": "[i]Suits[/i] fue el programa de televisión más visto en Netflix en 2023."
+   "question": "[i]Suits[/i] fue la serie más vista en Netflix en 2023."
   },
   {
    "correct": false,
    "countrySpecific": true,
    "id": "107065",
-   "question": "[i]Is It Cake?[/i] fue el programa de televisión más visto en Netflix en 2023."
+   "question": "[i]Is It Cake?[/i] fue la serie más vista en Netflix en 2023."
   },
   {
    "correct": false,
@@ -155,17 +155,17 @@
   {
    "correct": false,
    "id": "107067",
-   "question": "La ictericia es una condición que hace que la piel se vea azul."
+   "question": "La ictericia es una afección que vuelve azul la piel."
   },
   {
    "correct": false,
    "id": "107068",
-   "question": "Lionel Messi jugó para Argentina en la Copa del Mundo de 2005."
+   "question": "Lionel Messi jugó para Estados Unidos en el Mundial de 2006."
   },
   {
    "correct": true,
    "id": "107070",
-   "question": "Tyrannosaurus Rex vivió en el Periodo Cretácico."
+   "question": "El Tyrannosaurus rex vivió en el período Cretácico."
   },
   {
    "correct": true,
@@ -175,12 +175,12 @@
   {
    "correct": true,
    "id": "107072",
-   "question": "La guerra de los cien años duró 116 años."
+   "question": "La guerra de los Cien Años duró 116 años."
   },
   {
    "correct": false,
    "id": "107073",
-   "question": "Tradicionalmente, el egg nog no contiene huevo."
+   "question": "Tradicionalmente, el ponche de huevo NO lleva huevo."
   }
  ]
 }

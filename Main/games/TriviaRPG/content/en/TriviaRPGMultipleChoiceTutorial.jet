@@ -39,11 +39,11 @@
     },
     {
      "correct": false,
-     "text": "Afinacion perfecta"
+     "text": "Afinación perfecta"
     },
     {
      "correct": false,
-     "text": "Capacidad con Microsoft Excel"
+     "text": "Dominio de Microsoft Excel"
     }
    ],
    "clue": "ESTE es un juego de EQUIPO",
@@ -57,19 +57,19 @@
    "choices": [
     {
      "correct": false,
-     "text": "Vínculos profundos"
+     "text": "Bonos al portador"
     },
     {
      "correct": false,
-     "text": "Sellos raros"
+     "text": "Estampillas raras"
     },
     {
      "correct": true,
-     "text": "Humo (Smoke)"
+     "text": "Oro"
     },
     {
      "correct": false,
-     "text": "Fotos familiares atesoradas"
+     "text": "Fotos familiares queridas"
     }
    ],
    "clue": "Te encantará cómo brillan",
@@ -91,17 +91,17 @@
     },
     {
      "correct": false,
-     "text": "DESEANDOLO muy fuerte"
+     "text": "DESEÁNDOLO muy fuerte"
     },
     {
      "correct": false,
-     "text": "SUBIENDO TU CEREBRO a IA"
+     "text": "SUBIENDO TU CEREBRO a una IA"
     }
    ],
    "clue": "¡La comunicación es clave!",
    "id": "114192",
    "isEasy": false,
-   "question": "Puedes compartir tus pensamientos durante cada pregunta...",
+   "question": "Durante cada pregunta, pueden compartir lo que piensan...",
    "theme": "MOUNTAIN"
   },
   {
@@ -117,17 +117,17 @@
     },
     {
      "correct": false,
-     "text": "Haciendo diss tracks"
+     "text": "Rapeándoles insultos"
     },
     {
      "correct": false,
-     "text": "Ignorándoles"
+     "text": "Ignorándolos"
     }
    ],
    "clue": "¿Necesitas una pista para esta TRIVIA?",
    "id": "114211",
    "isEasy": false,
-   "question": "Puedes dañar monstruos...",
+   "question": "Puedes dañar a los monstruos...",
    "theme": "FOREST"
   }
  ]

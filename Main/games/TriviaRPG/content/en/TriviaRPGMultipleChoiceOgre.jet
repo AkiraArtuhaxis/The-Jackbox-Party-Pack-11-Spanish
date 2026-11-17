@@ -5,25 +5,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "[i]Pesadilla en la calle Elm[/i]"
+     "text": "[i]Pesadilla en la calle del infierno[/i]"
     },
     {
      "correct": false,
-     "text": "[i]La pesadilla en la calle Elm[/i]"
+     "text": "[i]La pesadilla en la calle del infierno[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Las pesadillas en Elm Street[/i]"
+     "text": "[i]Pesadillas en la calle del infierno[/i]"
     },
     {
      "correct": false,
-     "text": "[i]La Pesadilla en la Elm Street[/i]"
+     "text": "[i]Pesadilla en la calle infernal[/i]"
     }
    ],
-   "clue": "Es sin la o las",
+   "clue": "¡Sin “la” ni “las”!",
    "id": "106881",
    "isEasy": false,
-   "question": "¡AHHH! ¡No me gustan las PESADILLAS! Porque en 1984 vi a FREDDY en...",
+   "question": "¡AHHH! ¡Yo no gustar SUEÑOS FEOS! ¡Porque en 1984 yo ver HOMBRE DE SUEÑOS FEOS en...!",
    "theme": "CASTLE"
   },
   {
@@ -35,21 +35,21 @@
     },
     {
      "correct": false,
-     "text": "El tipo de la capilla sistina"
+     "text": "El tipo de la Capilla Sixtina"
     },
     {
      "correct": false,
-     "text": "El tipo del reloj derretiendose"
+     "text": "El tipo del reloj derretido"
     },
     {
      "correct": false,
-     "text": "La señora con el mono"
+     "text": "La señora del mono"
     }
    ],
-   "clue": "Flores borrosas, estrellas borrosas (Blurry flowers, blurry stars)",
+   "clue": "Flores borrosas, estrellas borrosas",
    "id": "108025",
    "isEasy": false,
-   "question": "Me encantan las imágenes bonitas de GIRASOLES! ¿¡¿¡QUIÉN es famoso o famosa por PINTAR imágenes bonitas de GIRASOLES?!?!",
+   "question": "¡Yo amar dibujos bonitos de GIRASOLES! ¿¡QUIÉN famoso por PINTAR dibujos bonitos de GIRASOLES?!",
    "theme": "FOREST"
   },
   {
@@ -57,26 +57,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "Los Chiefs de Kansas City"
+     "text": "Liverpool"
     },
     {
      "correct": false,
-     "text": "Los Colts de Indianapolis"
+     "text": "Arsenal"
     },
     {
      "correct": false,
-     "text": "Los Packers de Green Bay"
+     "text": "Chelsea"
     },
     {
      "correct": true,
-     "text": "Los Osos de Chicago"
+     "text": "Manchester United"
     }
    ],
-   "clue": "Peresozo",
+   "clue": "Juegan en el Teatro de los Sueños",
    "countrySpecific": true,
    "id": "108045",
    "isEasy": false,
-   "question": "¡Soy un MONSTRUO del CAMINO! Pero ¿qué EQUIPO de la NFL es llamado \"Los Monstruos de MIDWAY\"?",
+   "question": "¡YO ser más FEO que DIABLO! ¿Pero qué EQUIPO de INGLATERRA llamarse “Los Diablos Rojos”?",
    "theme": "MOUNTAIN"
   },
   {
@@ -84,25 +84,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "El que tiene la inundación"
+     "text": "El del diluvio"
     },
     {
      "correct": false,
-     "text": "El que tiene los mandamientos"
+     "text": "El de los mandamientos"
     },
     {
      "correct": false,
-     "text": "El que tiene la bestia de 7 cabezas"
+     "text": "El de la bestia de 7 cabezas"
     },
     {
      "correct": false,
-     "text": "El que David luchó contra un gran tipo"
+     "text": "El de David contra un tipo grandote"
     }
    ],
-   "clue": "La respuesta esta toda mojada",
+   "clue": "La respuesta está toda mojada",
    "id": "109726",
    "isEasy": false,
-   "question": "¡Las COSTILLAS humanas son deliciosas! ¿En QUÉ LIBRO de la Biblia fue creada Eva a partir de sabrosas costillas?",
+   "question": "¡COSTILLAS humanas ser deliciosas! ¿En QUÉ LIBRO de Biblia Eva ser hecha de costillas sabrosas?",
    "theme": "CASTLE",
    "x": true
   },
@@ -111,51 +111,51 @@
    "choices": [
     {
      "correct": true,
-     "text": "Um... Tom Hardy lo actuó"
+     "text": "Mmm... el que interpretó Tom Hardy"
     },
     {
      "correct": false,
-     "text": "Creo que... lo interpretó Paul Dano"
+     "text": "Creo que... el que interpretó Paul Dano"
     },
     {
      "correct": false,
-     "text": "Tal vez... lo hizo Heath Ledger"
+     "text": "Tal vez... el que interpretó Heath Ledger"
     },
     {
      "correct": false,
-     "text": "Todas las anteriores"
+     "text": "Todos los anteriores"
     }
    ],
-   "clue": "tambien protagonizó Mad Max: Fury Road (2015)",
+   "clue": "También fue Mad Max",
    "id": "109742",
    "isEasy": false,
-   "question": "¡Las franquicias son muy largas! ¡A mí me gustan las TRILOGÍAS!! ¿Quién es el villano en [i]El caballero de la noche asciende[/i] de 2012?",
+   "question": "¡Franquicias muy largas! ¡Yo gustar TRILOGÍAS! ¿Quién ser malo en [i]Batman: El caballero de la noche asciende[/i], de 2012?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Constellations",
+   "category": "Constelaciones",
    "choices": [
     {
      "correct": false,
-     "text": "The one that looks like a hunter"
+     "text": "La que parece un cazador"
     },
     {
      "correct": true,
-     "text": "The one that looks like a “W”"
+     "text": "La que parece una “W”"
     },
     {
      "correct": false,
-     "text": "The one that looks like a bear"
+     "text": "La que parece un oso"
     },
     {
      "correct": false,
-     "text": "The one that looks like an “R”"
+     "text": "La que parece una “R”"
     }
    ],
-   "clue": "It’s one of the letters",
+   "clue": "Es una de las letras",
    "id": "111870",
    "isEasy": false,
-   "question": "Stars so pretty... Casseroles so delicious. Which constellation is Cassiopeia?",
+   "question": "Estrellas tan bonitas... Cazuelas tan sabrosas. ¿Cuál constelación ser Casiopea?",
    "theme": "CASTLE"
   },
   {
@@ -163,474 +163,474 @@
    "choices": [
     {
      "correct": false,
-     "text": "Um... [i]Jurassic Kingdom[/i]?"
+     "text": "Mmm... ¿[i]Jurassic Kingdom[/i]?"
     },
     {
      "correct": false,
-     "text": "Maybe... [i]The Lego Movie 2[/i]?"
+     "text": "Quizás... ¿[i]La gran aventura Lego 2[/i]?"
     },
     {
      "correct": false,
-     "text": "Is it [i]Guardians of the Galaxy 2[/i]?"
+     "text": "¿Es [i]Guardianes de la Galaxia 2[/i]?"
     },
     {
      "correct": true,
-     "text": "[i]The Super Mario Bros. Movie[/i]?"
+     "text": "¿[i]Super Mario Bros. La película[/i]?"
     }
    ],
-   "clue": "Come on, Bro!",
+   "clue": "¡Vamos, Bro!",
    "id": "112591",
    "isEasy": false,
-   "question": "What that one movie me love? Big monster... Chris Pratt... a talking animal... 2023?",
+   "question": "¿Cuál ser esa película que a mí encantar? Monstruo grande... Chris Pratt... animal que habla... ¿2023?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Cuisine",
+   "category": "Gastronomía",
    "choices": [
     {
      "correct": false,
-     "text": "If you like PITA, then probably!"
+     "text": "¡Si te gusta el PAN PITA, probablemente!"
     },
     {
      "correct": false,
-     "text": "If you like BABA GANOUSH, you do!"
+     "text": "¡Si te gusta el BABA GANUSH, te gustan!"
     },
     {
      "correct": true,
-     "text": "If you like HUMMUS, then yes!"
+     "text": "¡Si te gusta el HUMMUS, entonces sí!"
     },
     {
      "correct": false,
-     "text": "If you like TZATZIKI, yeah, dude!"
+     "text": "¡Si te gusta el TZATZIKI, claro que sí, amigo!"
     }
    ],
-   "clue": "Just a hum a tune",
+   "clue": "Hum... hum... tararea una canción",
    "id": "112592",
    "isEasy": false,
-   "question": "Do me like chickpeas? Me feel like me like chickpeas.",
+   "question": "¿A mí gustar los garbanzos? Yo sentir que a mí gustar los garbanzos.",
    "theme": "FOREST"
   },
   {
-   "category": "Skeletal System",
+   "category": "Sistema óseo",
    "choices": [
     {
      "correct": true,
-     "text": "The MAXILLA?"
+     "text": "¿El MAXILAR?"
     },
     {
      "correct": false,
-     "text": "The CLAVICLE?"
+     "text": "¿La CLAVÍCULA?"
     },
     {
      "correct": false,
-     "text": "The COCCYX?"
+     "text": "¿El CÓCCIX?"
     },
     {
      "correct": false,
-     "text": "The ULNA?"
+     "text": "¿El CÚBITO?"
     }
    ],
-   "clue": "Cousin to Godzilla",
+   "clue": "Suena a algo de gran tamaño",
    "id": "112593",
    "isEasy": false,
-   "question": "ME MAD! ME BREAK YOUR... YOUR... um, that bone... right below your nose... you know?",
+   "question": "¡YO ENOJADO! ¡YO ROMPER TU... TU... eh, ese hueso... justo debajo de nariz... ¿tú saber?",
    "theme": "DESERT"
   },
   {
-   "category": "Cooking Lesson",
+   "category": "Clase de cocina",
    "choices": [
     {
      "correct": false,
-     "text": "115 to 125 F"
+     "text": "De 46 a 52 °C"
     },
     {
      "correct": true,
-     "text": "130 to 140 F"
+     "text": "De 54 a 60 °C"
     },
     {
      "correct": false,
-     "text": "145 to 155 F"
+     "text": "De 63 a 68 °C"
     },
     {
      "correct": false,
-     "text": "155 to 160 F"
+     "text": "De 68 a 71 °C"
     }
    ],
-   "clue": "Lucky number 13",
+   "clue": "Empieza en 54 grados",
    "countrySpecific": true,
    "id": "112594",
    "isEasy": false,
-   "question": "ME WILL EAT YOUR FLESH!!! MEDIUM RARE LIKE A STEAK!!! AND... and... what temperature should me cook you to?",
+   "question": "¡¡¡YO COMER TU CARNE!!! ¡¡¡TÉRMINO MEDIO COMO BISTEC!!! Y... y... ¿a qué temperatura yo cocinarte?",
    "theme": "CASTLE"
   },
   {
-   "category": "Why is this Popular",
+   "category": "¿Por qué esto es popular?",
    "choices": [
     {
      "correct": true,
-     "text": "Yeah... Bad Toilets fights Good Cameramen?"
+     "text": "Sí... ¿Inodoros Malos contra Camarógrafos Buenos?"
     },
     {
      "correct": false,
-     "text": "Um... Good Toilets fights Bad Lizardmen?"
+     "text": "Mmm... ¿Inodoros Buenos contra Hombres Lagarto Malos?"
     },
     {
      "correct": false,
-     "text": "I think... Bad Toilets fights Good Candymen?"
+     "text": "Creo que... ¿Inodoros Malos contra Dulceros Buenos?"
     },
     {
      "correct": false,
-     "text": "It’s Good Toilets vs Dirty Underwear, right?"
+     "text": "Son Inodoros Buenos contra Calzones Sucios, ¿no?"
     }
    ],
-   "clue": "Also TVs and speakers.",
+   "clue": "También hay televisores y parlantes.",
    "id": "112595",
    "isEasy": false,
-   "question": "HAHAHAHAHAHAHA! ME SAW SKIBIDI TOILET TODAY! YOU KNOW THAT?",
+   "question": "¡JAJAJAJAJAJAJA! ¡YO VER SKIBIDI TOILET HOY! ¿TÚ CONOCER ESO?",
    "theme": "CASTLE"
   },
   {
-   "category": "Vacation Spots",
+   "category": "Destinos de vacaciones",
    "choices": [
     {
      "correct": true,
-     "text": "Relax. It’s near NAPLES"
+     "text": "Tranquilo. Queda cerca de NÁPOLES"
     },
     {
      "correct": false,
-     "text": "You’re good. Just go to NICE"
+     "text": "No pasa nada. Solo ve a NIZA"
     },
     {
      "correct": false,
-     "text": "No biggie. It’s right next to ATHENS"
+     "text": "No es para tanto. Queda junto a ATENAS"
     },
     {
      "correct": false,
-     "text": "Easy big guy. It’s close to BARCELONA"
+     "text": "Calma, grandote. Queda cerca de BARCELONA"
     }
    ],
-   "clue": "Sleep on it. Take a nap.",
+   "clue": "Está cerca de donde nació la pizza.",
    "id": "112596",
    "isEasy": false,
-   "question": "Me EXCITED. Vacation next month. Amalfi Coast. BUT ME NOT KNOW WHERE THAT IS!!!",
+   "question": "YO EMOCIONADO. Vacaciones el mes que viene. Costa Amalfitana. ¡¡¡PERO YO NO SABER DÓNDE QUEDAR!!!",
    "theme": "CASTLE"
   },
   {
-   "category": "Universities",
+   "category": "Universidades",
    "choices": [
     {
      "correct": false,
-     "text": "It’s a university in Atlanta"
+     "text": "Es una universidad en Atlanta"
     },
     {
      "correct": false,
-     "text": "It’s a university in Nashville"
+     "text": "Es una universidad en Nashville"
     },
     {
      "correct": false,
-     "text": "It’s a university in Tallahassee"
+     "text": "Es una universidad en Tallahassee"
     },
     {
      "correct": true,
-     "text": "It’s a university in Houston"
+     "text": "Es una universidad en Houston"
     }
    ],
-   "clue": "Every university is bigger in Texas",
+   "clue": "En Texas todo es más grande, hasta las universidades",
    "countrySpecific": true,
    "id": "112631",
    "isEasy": false,
-   "question": "Last week me stomp this guy who said “Me went to Rice!!!” That silly!!! Rice is food!!! What he mean?!",
+   "question": "Semana pasada yo pisotear tipo que decir “¡¡¡Yo estudiar en Rice!!!” ¡¡¡Qué tonto!!! ¡¡¡Rice ser arroz, ser comida!!! ¿¡Qué querer decir!?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Song of Summer",
+   "category": "Canción del verano",
    "choices": [
     {
      "correct": false,
-     "text": "Maybe “YOU BELONG WITH ME”?"
+     "text": "¿Quizás “YOU BELONG WITH ME”?"
     },
     {
      "correct": false,
-     "text": "It could be “ROLLING IN THE DEEP,” I guess"
+     "text": "Podría ser “ROLLING IN THE DEEP”, supongo"
     },
     {
      "correct": true,
-     "text": "Are you talking about “UPTOWN FUNK”?"
+     "text": "¿Hablas de “UPTOWN FUNK”?"
     },
     {
      "correct": false,
-     "text": "Is it “GET LUCKY”?"
+     "text": "¿Es “GET LUCKY”?"
     }
    ],
-   "clue": "You won’t find it downtown",
+   "clue": "No la vas a encontrar en el \\\"downtown\\\"",
    "id": "112636",
    "isEasy": false,
-   "question": "What that one song? It goes: “Doh, doh, doh... Michelle Pfeiffer... doh doh doh... fresh jar of Skippy?” You know it?",
+   "question": "¿Cuál ser esa canción? Va así: “Doh, doh, doh... Michelle Pfeiffer... doh doh doh...” ¿Tú conocer?",
    "theme": "FOREST"
   },
   {
-   "category": "Medical Issues",
+   "category": "Problemas médicos",
    "choices": [
     {
      "correct": true,
-     "text": "Relax. It’s an INGROWN TOENAIL"
+     "text": "Tranquilo. Es una UÑA ENCARNADA"
     },
     {
      "correct": false,
-     "text": "It’s okay. It’s just BAD BREATH"
+     "text": "Está bien. Solo es MAL ALIENTO"
     },
     {
      "correct": false,
-     "text": "You’ll be fine. It’s TOO MUCH EARWAX"
+     "text": "Vas a estar bien. Es EXCESO DE CERA EN LOS OÍDOS"
     },
     {
      "correct": false,
-     "text": "Just chill. It means HAY FEVER"
+     "text": "Relájate. Significa ALERGIA AL POLEN"
     }
    ],
-   "clue": "Having a hard time nailing down an answer?",
+   "clue": "Tiene que ver con los pies... y con las uñas",
    "id": "112639",
    "isEasy": false,
-   "question": "Oh no! Me doctor says I have ONYCHOCRYPTOSIS!!! What me do?!",
+   "question": "¡Oh, no! ¡¡¡Mi doctor decir que yo tener ONICOCRIPTOSIS!!! ¿¡Qué yo hacer!?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Kid Music",
+   "category": "Música infantil",
    "choices": [
     {
      "correct": false,
-     "text": "It’s COCOMELON. Just breathe."
+     "text": "Es de COCOMELON. Respira."
     },
     {
      "correct": false,
-     "text": "That’s a BLIPPI song. Relax."
+     "text": "Es una canción de BLIPPI. Relájate."
     },
     {
      "correct": true,
-     "text": "It’s on PINKFONG, buddy"
+     "text": "Está en PINKFONG, amigo"
     },
     {
      "correct": false,
-     "text": "Check RYAN’S WORLD?"
+     "text": "¿Buscaste en RYAN’S WORLD?"
     }
    ],
-   "clue": "Tickled pink by this song",
+   "clue": "Esta canción te pone todo de color rosa (pink)",
    "id": "112678",
    "isEasy": false,
-   "question": "AH!!! ME TOO ANGRY!!! NEED CALM DOWN! NEED “BABY SHARK”!!! THE VERY POPULAR ONE. WHERE FIND THAT?!",
+   "question": "¡¡¡AH!!! ¡¡¡YO DEMASIADO ENOJADO!!! ¡NECESITAR CALMARME! ¡¡¡NECESITAR “BABY SHARK”!!! LA MUY POPULAR. ¿¡DÓNDE ENCONTRAR!?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Disney Shows",
+   "category": "Series de Disney",
    "choices": [
     {
      "correct": false,
-     "text": "Is it [i]Only Murders In The Building[/i]?"
+     "text": "¿Es [i]Solo asesinatos en el edificio[/i]?"
     },
     {
      "correct": false,
-     "text": "Do you mean [i]iCarly[/i]?"
+     "text": "¿Te refieres a [i]iCarly[/i]?"
     },
     {
      "correct": false,
-     "text": "Are you talking about [i]Lizzie McGuire[/i]?"
+     "text": "¿Hablas de [i]Lizzie McGuire[/i]?"
     },
     {
      "correct": true,
-     "text": "Maybe [i]Wizards of Waverly Place[/i]?"
+     "text": "¿Quizás [i]Los hechiceros de Waverly Place[/i]?"
     }
    ],
-   "clue": "It’s got two “W”s",
+   "clue": "Hay magia de por medio",
    "id": "112680",
    "isEasy": false,
-   "question": "What that show me watch? It have um, Selena Gomez... in NEW YORK... but DISNEY CHANNEL? You know that?",
+   "question": "¿Cuál ser esa serie que yo ver? Tener, eh, Selena Gomez... en NUEVA YORK... pero de DISNEY CHANNEL. ¿Tú conocer?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Historical TV",
+   "category": "TV histórica",
    "choices": [
     {
      "correct": true,
-     "text": "It was in what’s now Ukraine"
+     "text": "En lo que hoy es Ucrania"
     },
     {
      "correct": false,
-     "text": "It was in what’s now Belarus"
+     "text": "En lo que hoy es Bielorrusia"
     },
     {
      "correct": false,
-     "text": "It was in what’s now Moldova"
+     "text": "En lo que hoy es Moldavia"
     },
     {
      "correct": false,
-     "text": "It was in what’s now Estonia"
+     "text": "En lo que hoy es Estonia"
     }
    ],
-   "clue": "The answer is up to U",
+   "clue": "La respuesta empieza con U",
    "id": "112681",
    "isEasy": false,
-   "question": "You watch show [i]Chernobyl[/i]? That wild stuff. Where that happen?",
+   "question": "¿Tú ver serie [i]Chernobyl[/i]? Ser cosa muy loca. ¿Dónde pasar eso?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Pop Music",
+   "category": "Música pop",
    "choices": [
     {
      "correct": false,
-     "text": "“Birds of a Feather” by Billie Eilish?"
+     "text": "¿“Birds of a Feather”, de Billie Eilish?"
     },
     {
      "correct": true,
-     "text": "“Kill Bill” by SZA?"
+     "text": "¿“Kill Bill”, de SZA?"
     },
     {
      "correct": false,
-     "text": "“Diet Pepsi” by Addison Rae?"
+     "text": "¿“Diet Pepsi”, de Addison Rae?"
     },
     {
      "correct": false,
-     "text": "“Pink Pony Club” by Chappell Roan?"
+     "text": "¿“Pink Pony Club”, de Chappell Roan?"
     }
    ],
-   "clue": "Directed by Quentin Tarantino",
+   "clue": "La película del mismo nombre es de Quentin Tarantino",
    "id": "112682",
    "isEasy": false,
-   "question": "What that one song? It go: “Me so mature... Me so mature...” I forget rest!",
+   "question": "¿Cuál ser esa canción? Va así: “I’m so mature... I’m so mature...” ¡Yo olvidar el resto!",
    "theme": "FOREST",
    "x": true
   },
   {
-   "category": "Flying",
+   "category": "Vuelo",
    "choices": [
     {
      "correct": false,
-     "text": "Kepler’s law"
+     "text": "La ley de Kepler"
     },
     {
      "correct": false,
-     "text": "Archimedes’ principles"
+     "text": "El principio de Arquímedes"
     },
     {
      "correct": false,
-     "text": "Newton’s fourth law"
+     "text": "La cuarta ley de Newton"
     },
     {
      "correct": true,
-     "text": "Bernoulli’s principle"
+     "text": "El principio de Bernoulli"
     }
    ],
-   "clue": "Just one principle at flight school",
+   "clue": "Solo hay un principio en la escuela de aviación",
    "id": "112683",
    "isEasy": false,
-   "question": "Settle bet for us! Me donkey say airplanes fly by magic. Me say pressure difference cause lift, aka...",
+   "question": "¡Resolver apuesta! Mi burro decir que aviones volar por magia. Yo decir que diferencia de presión crear sustentación, o sea...",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Cartoon Species",
+   "category": "Especies animadas",
    "choices": [
     {
      "correct": true,
-     "text": "Funny Heelers"
+     "text": "Heelers (boyeros australianos) graciosas"
     },
     {
      "correct": false,
-     "text": "Funny Beagles"
+     "text": "Beagles graciosas"
     },
     {
      "correct": false,
-     "text": "Funny Retrievers"
+     "text": "Golden retrievers graciosas"
     },
     {
      "correct": false,
-     "text": "Funny Bulldogs"
+     "text": "Bulldogs graciosas"
     }
    ],
-   "clue": "Those Brisbane kids always have a g’day",
+   "clue": "Esas niñas de Brisbane siempre dicen “g’day”",
    "id": "112684",
    "isEasy": false,
-   "question": "Me want to meet [i]Bluey[/i] and Bingo! They are funny dogs!!! Specifically they are...",
+   "question": "¡Yo querer conocer a [i]Bluey[/i] y a Bingo! ¡¡¡Ser perritas graciosas!!! Para ser exactos, ser...",
    "theme": "DESERT"
   },
   {
-   "category": "Mythic Dating",
+   "category": "Citas mitológicas",
    "choices": [
     {
      "correct": true,
-     "text": "They have an EAGLE’S HEAD & WINGS and a LION’S BODY"
+     "text": "Tiene CABEZA Y ALAS DE ÁGUILA y CUERPO DE LEÓN"
     },
     {
      "correct": false,
-     "text": "They have a HUMAN TORSO and a HORSE’S LEGS"
+     "text": "Tiene TORSO HUMANO y PATAS DE CABALLO"
     },
     {
      "correct": false,
-     "text": "They have a DRAGON’S BODY and WOLF’S HEAD"
+     "text": "Tiene CUERPO DE DRAGÓN y CABEZA DE LOBO"
     },
     {
      "correct": false,
-     "text": "They have a WOLF’S HEAD and a SNAKE’S BODY"
+     "text": "Tiene CABEZA DE LOBO y CUERPO DE SERPIENTE"
     }
    ],
-   "clue": "This troll would eat the lion’s share of spicy wings",
+   "clue": "Este trol se comería la parte del león de unas alitas picantes",
    "id": "112686",
    "isEasy": false,
-   "question": "Me match on dating app with a GRIFFIN but they no put picture up!!! What they look like?",
+   "question": "¡¡¡Yo hacer match en app de citas con un GRIFO pero no poner foto!!! ¿Cómo ser?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Actors",
+   "category": "Actores",
    "choices": [
     {
      "correct": false,
-     "text": "The guy who gets big and small"
+     "text": "El que se hace grande y pequeño"
     },
     {
      "correct": true,
-     "text": "The magic guy who does portals"
+     "text": "El mago que abre portales"
     },
     {
      "correct": false,
-     "text": "The tree with the space people"
+     "text": "El árbol que anda con los del espacio"
     },
     {
      "correct": false,
-     "text": "The cat… Ya know, the cat suit guy!"
+     "text": "El gato... ¡Ya sabes, el del traje de gato!"
     }
    ],
-   "clue": "Which actor was faking an American accent?",
+   "clue": "¿Qué actor fingía acento estadounidense?",
    "id": "112757",
    "isEasy": false,
-   "question": "Acting so CONFUSING! Which SUPERHERO MARVEL HERO also smart DETECTIVE HOLMES in BBC series?!",
+   "question": "¡Actuación ser tan CONFUSA! ¿Qué SUPERHÉROE DE MARVEL también ser listo DETECTIVE HOLMES en serie de la BBC?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Tiny Stuff",
+   "category": "Cosas diminutas",
    "choices": [
     {
      "correct": false,
-     "text": "An isotope"
+     "text": "Un isótopo"
     },
     {
      "correct": false,
-     "text": "A lanthanide"
+     "text": "Un lantánido"
     },
     {
      "correct": false,
-     "text": "An ion"
+     "text": "Un ion"
     },
     {
      "correct": true,
-     "text": "A lepton"
+     "text": "Un leptón"
     }
    ],
-   "clue": "There’s no “i” in “correct”",
+   "clue": "La respuesta correcta no lleva ninguna “i”",
    "id": "112901",
    "isEasy": false,
-   "question": "Me going to smash you to LITTLE PIECES!! Smaller than MOLECULE or ATOM!!! Um, what smaller than that?",
+   "question": "¡¡Yo hacerte PEDACITOS!! ¡¡¡Más chiquitos que MOLÉCULA o ÁTOMO!!! Eh, ¿qué ser más chiquito que eso?",
    "theme": "CASTLE"
   },
   {
-   "category": "Parody Songs",
+   "category": "Canciones paródicas",
    "choices": [
     {
      "correct": false,
@@ -649,642 +649,642 @@
      "text": "[i]Lasagna[/i]"
     }
    ],
-   "clue": "Be allergic to food",
+   "clue": "No es sobre comida ni sobre gramática",
    "id": "112902",
    "isEasy": false,
-   "question": "Me LOVE “Weird Al” but it MEAN when he MAKE FUN of other songs. What song not mean?",
+   "question": "YO AMAR a “Weird Al”, pero él ser MALO cuando BURLARSE de otras canciones. ¿Qué canción no ser burla?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Brain Science",
+   "category": "Neurociencia",
    "choices": [
     {
      "correct": false,
-     "text": "It’s your MEDULA OBLONGATA!"
+     "text": "¡Es tu BULBO RAQUÍDEO!"
     },
     {
      "correct": true,
-     "text": "It’s your AMYGDALA!"
+     "text": "¡Es tu AMÍGDALA!"
     },
     {
      "correct": false,
-     "text": "It’s your OCCIPITAL LOBE!"
+     "text": "¡Es tu LÓBULO OCCIPITAL!"
     },
     {
      "correct": false,
-     "text": "It’s your THALAMUS!!!"
+     "text": "¡¡¡Es tu TÁLAMO!!!"
     }
    ],
-   "clue": "When in doubt, pick a short one",
+   "clue": "Comparte nombre con algo que tienes en la garganta",
    "id": "112903",
    "isEasy": false,
-   "question": "ME SO ANGRY!!! WHAT PART OF ME BRAIN MAKE ANGER?!",
+   "question": "¡¡¡YO MUY ENOJADO!!! ¿¡QUÉ PARTE DE MI CEREBRO HACER ENOJO!?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Animal Husbandry",
+   "category": "Cría de animales",
    "choices": [
     {
      "correct": true,
-     "text": "With a MALE DONKEY and a FEMALE HORSE"
+     "text": "Con un BURRO macho y una YEGUA"
     },
     {
      "correct": false,
-     "text": "With a MALE HORSE and a FEMALE BURRO"
+     "text": "Con un CABALLO macho y una BURRA"
     },
     {
      "correct": false,
-     "text": "With a MALE HORSE and a FEMALE DONKEY"
+     "text": "Con un CABALLO macho y una ASNA"
     },
     {
      "correct": false,
-     "text": "With a MALE DONKEY and a FEMALE BURRO"
+     "text": "Con un BURRO macho y una BURRA"
     }
    ],
-   "clue": "It helps to have a little horseplay",
+   "clue": "Ayuda un poco de relincho",
    "id": "112904",
    "isEasy": false,
-   "question": "Me and donkey argue. He say people make MULES... they hybrids. How you make mule?",
+   "question": "Yo y burro discutir. Él decir que la gente hacer MULAS... ser híbridos. ¿Cómo hacer mula?",
    "theme": "FOREST"
   },
   {
-   "category": "Ancient History",
+   "category": "Historia antigua",
    "choices": [
     {
      "correct": false,
-     "text": "Alexander the Great?"
+     "text": "¿Alejandro Magno?"
     },
     {
      "correct": false,
-     "text": "King Tut?"
+     "text": "¿Tutankamón?"
     },
     {
      "correct": false,
-     "text": "Genghis Khan?"
+     "text": "¿Gengis Kan?"
     },
     {
      "correct": true,
-     "text": "Charlemagne?"
+     "text": "¿Carlomagno?"
     }
    ],
-   "clue": "This question’s a royal pain",
+   "clue": "Fue emperador de los francos",
    "id": "112905",
    "isEasy": false,
-   "question": "Me a proud Millennial!!! Me born in the FIRST MILLENIUM A.D.!!! Who else Millennial like me?",
+   "question": "¡¡¡Yo orgulloso Millennial!!! ¡¡¡Yo nacer en el PRIMER MILENIO d. C.!!! ¿Quién más ser Millennial como yo?",
    "theme": "CASTLE"
   },
   {
-   "category": "Oldies",
+   "category": "Clásicos",
    "choices": [
     {
      "correct": false,
-     "text": "The Northern girls"
+     "text": "Las chicas del norte"
     },
     {
      "correct": true,
-     "text": "The Midwest farmers’ daughters"
+     "text": "Las hijas de los granjeros del Medio Oeste"
     },
     {
      "correct": false,
-     "text": "The East Coast girls"
+     "text": "Las chicas de la Costa Este"
     },
     {
      "correct": false,
-     "text": "The Southern girls"
+     "text": "Las chicas del sur"
     }
    ],
-   "clue": "This question is particularly corny",
+   "clue": "Piensa en campos de maíz",
    "id": "112906",
    "isEasy": false,
-   "question": "Me keep forgetting words to [i]California Girls[/i]...the BEACH BOYS ONE!!! What girls make you “feel alright?”",
+   "question": "¡¡¡Yo siempre olvidar letra de [i]California Girls[/i]... LA DE LOS BEACH BOYS!!! ¿Qué chicas hacerte “feel alright”?",
    "theme": "DESERT"
   },
   {
-   "category": "Human Anatomy",
+   "category": "Anatomía humana",
    "choices": [
     {
      "correct": false,
-     "text": "It’s on the UPPER RIGHT side of my abdomen"
+     "text": "Está en la parte SUPERIOR DERECHA de mi abdomen"
     },
     {
      "correct": true,
-     "text": "Bite the LOWER RIGHT side"
+     "text": "Muerde la parte INFERIOR DERECHA"
     },
     {
      "correct": false,
-     "text": "You gotta go for the LOWER LEFT"
+     "text": "Tienes que ir por la parte INFERIOR IZQUIERDA"
     },
     {
      "correct": false,
-     "text": "The UPPER LEFT side is “Appendix City”"
+     "text": "La parte SUPERIOR IZQUIERDA es “Ciudad Apéndice”"
     }
    ],
-   "clue": "The right side is right!",
+   "clue": "¡El lado derecho es el correcto!",
    "id": "113249",
    "isEasy": false,
-   "question": "Me eat your appendix as AMUSE-BOUCHE! But... where me bite your abdomen to find it?",
+   "question": "¡Yo comer tu apéndice como APERITIVO! Pero... ¿dónde morder tu abdomen para encontrar?",
    "theme": "DESERT"
   },
   {
-   "category": "Personality Tests",
+   "category": "Tests de personalidad",
    "choices": [
     {
      "correct": true,
-     "text": "It’s a Myers-Briggs test"
+     "text": "Es el test de Myers-Briggs"
     },
     {
      "correct": false,
-     "text": "That’s an enneagram test"
+     "text": "Es un test de eneagrama"
     },
     {
      "correct": false,
-     "text": "You took the DiSC test, big fella"
+     "text": "Hiciste el test DISC, grandote"
     },
     {
      "correct": false,
-     "text": "You took the SATs?!"
+     "text": "¡¿Hiciste el examen de admisión?!"
     }
    ],
-   "clue": "The test with NINE possible results is INCORRECT.",
+   "clue": "El test con NUEVE resultados posibles es INCORRECTO.",
    "id": "113252",
    "isEasy": false,
-   "question": "Me recently took hard test and learned me TOTAL INFP! Test was called… uh…",
+   "question": "¡Yo hacer test difícil y descubrir que yo ser TOTALMENTE INFP! El test llamarse… eh…",
    "theme": "CASTLE"
   },
   {
-   "category": "Disney Animals",
+   "category": "Animales de Disney",
    "choices": [
     {
      "correct": false,
-     "text": "[i]Robin Hood[/i]?"
+     "text": "¿[i]Robin Hood[/i]?"
     },
     {
      "correct": false,
-     "text": "[i]Pinocchio[/i]?"
+     "text": "¿[i]Pinocho[/i]?"
     },
     {
      "correct": true,
-     "text": "[i]Pocahontas[/i]?"
+     "text": "¿[i]Pocahontas[/i]?"
     },
     {
      "correct": false,
-     "text": "[i]Zootopia[/i]?"
+     "text": "¿[i]Zootopia[/i]?"
     }
    ],
-   "clue": "Try painting with all the colors of the wind",
+   "clue": "Intenta pintar con todos los colores del viento",
    "id": "113295",
    "isEasy": false,
-   "question": "Grrr, me HATE foxes! Me want Disney movie with NO FOXES!!",
+   "question": "¡Grrr, yo ODIAR zorros! ¡¡Yo querer película de Disney SIN ZORROS!!",
    "theme": "FOREST"
   },
   {
-   "category": "Cave Geography",
+   "category": "Geografía de cuevas",
    "choices": [
     {
      "correct": false,
-     "text": "You could live in France"
+     "text": "Podrías vivir en Francia"
     },
     {
      "correct": false,
-     "text": "You could live in Mexico"
+     "text": "Podrías vivir en México"
     },
     {
      "correct": true,
-     "text": "You could live in the United States"
+     "text": "Podrías vivir en Estados Unidos"
     },
     {
      "correct": false,
-     "text": "You could live in China"
+     "text": "Podrías vivir en China"
     }
    ],
-   "clue": "It’s Mammoth Cave, so mammoths lived there",
+   "clue": "Se llama Cueva del Mamut, así que ahí vivían mamuts",
    "id": "113296",
    "isEasy": false,
-   "question": "SIGH. Me just want to run away and live in country with WORLD’S LONGEST CAVE!",
+   "question": "AY. ¡Yo solo querer huir y vivir en país con la CUEVA MÁS LARGA DEL MUNDO!",
    "theme": "DESERT"
   },
   {
-   "category": "Weapon Types",
+   "category": "Tipos de armas",
    "choices": [
     {
      "correct": false,
-     "text": "That’s a dao"
+     "text": "Es un dao"
     },
     {
      "correct": true,
-     "text": "That’s a katana"
+     "text": "Es una katana"
     },
     {
      "correct": false,
-     "text": "That’s a jian"
+     "text": "Es un jian"
     },
     {
      "correct": false,
-     "text": "That’s a shotel"
+     "text": "Es un shotel"
     }
    ],
-   "clue": "The word ends in a vowel.",
+   "clue": "La palabra empieza con K",
    "id": "113298",
    "isEasy": false,
-   "question": "Hm... What THIS in my barf? Look like... CURVED SWORD? from Japan?!?",
+   "question": "Mmm... ¿QUÉ SER ESTO en mi vómito? Parecer... ¿ESPADA CURVA? ¿¡De Japón!?",
    "theme": "CASTLE"
   },
   {
-   "category": "Fashion Houses",
+   "category": "Casas de moda",
    "choices": [
     {
      "correct": true,
-     "text": "Cool GUCCI pants!"
+     "text": "¡Geniales pantalones GUCCI!"
     },
     {
      "correct": false,
-     "text": "Gorgeous DIOR pants!"
+     "text": "¡Hermosos pantalones DIOR!"
     },
     {
      "correct": false,
-     "text": "Cute DOLCE & GABBANA pants!"
+     "text": "¡Lindos pantalones DOLCE & GABBANA!"
     },
     {
      "correct": false,
-     "text": "Sick PRADA pants!"
+     "text": "¡Increíbles pantalones PRADA!"
     }
    ],
-   "clue": "Get me two CCs of fashion!",
+   "clue": "¡Doble G de moda!",
    "id": "113299",
    "isEasy": false,
-   "question": "No compliment me cool Ogre pants?! But they made by big fashion company from Florence!!",
+   "question": "¿¡Nadie elogiar mis pantalones de Ogro geniales!? ¡¡Pero ser de gran marca de moda de Florencia!!",
    "theme": "CASTLE"
   },
   {
-   "category": "Animal Abilities",
+   "category": "Habilidades animales",
    "choices": [
     {
      "correct": true,
-     "text": "Right, the BARN OWL can’t either"
+     "text": "Cierto, la LECHUZA COMÚN tampoco"
     },
     {
      "correct": false,
-     "text": "Yeah, the BELUGA WHALE can’t either"
+     "text": "Sí, la BALLENA BELUGA tampoco"
     },
     {
      "correct": false,
-     "text": "Yup, the LONG-EARED BAT can’t either"
+     "text": "Claro, el MURCIÉLAGO OREJUDO tampoco"
     },
     {
      "correct": false,
-     "text": "Sure, the SPINNER DOLPHIN can’t either"
+     "text": "Seguro, el DELFÍN GIRADOR tampoco"
     }
    ],
-   "clue": "A feathered creature",
+   "clue": "Es una criatura con plumas",
    "id": "113300",
    "isEasy": false,
-   "question": "OKAY, so me DON’T use echolocation to hunt. SO?! Me not only one!",
+   "question": "BUENO, yo NO usar ecolocalización para cazar. ¿¡Y QUÉ!? ¡Yo no ser el único!",
    "theme": "FOREST"
   },
   {
-   "category": "Pop Music",
+   "category": "Música pop",
    "choices": [
     {
      "correct": false,
-     "text": "Yeah, it’s a One Direction song"
+     "text": "Sí, es una canción de One Direction"
     },
     {
      "correct": false,
-     "text": "Yep, it’s a Jonas Brothers song"
+     "text": "Sí, es una canción de los Jonas Brothers"
     },
     {
      "correct": true,
-     "text": "Uh huh, it’s a BTS song"
+     "text": "Ajá, es una canción de BTS"
     },
     {
      "correct": false,
-     "text": "Relax, it’s a Sabrina Carpenter song"
+     "text": "Tranquilo, es una canción de Sabrina Carpenter"
     }
    ],
-   "clue": "Wash your butter down with some K-pop.",
+   "clue": "Acompaña tu mantequilla con un poco de K-pop.",
    "id": "113301",
    "isEasy": false,
-   "question": "Me confused! Me know butter come from Cow! But some say “Butter” made by Bard?!?!",
+   "question": "¡Yo confundido! ¡Yo saber que mantequilla venir de Vaca! ¿¡Pero algunos decir que “Butter” ser de un Bardo!?",
    "theme": "DESERT"
   },
   {
-   "category": "Sports Teams",
+   "category": "Equipos deportivos",
    "choices": [
     {
      "correct": false,
-     "text": "They moved there from New York!"
+     "text": "¡Se mudaron desde Nueva York!"
     },
     {
      "correct": true,
-     "text": "They moved there from New Orleans!"
+     "text": "¡Se mudaron desde Nueva Orleans!"
     },
     {
      "correct": false,
-     "text": "They moved there from Seattle!"
+     "text": "¡Se mudaron desde Seattle!"
     },
     {
      "correct": false,
-     "text": "They moved there from Atlanta!"
+     "text": "¡Se mudaron desde Atlanta!"
     }
    ],
-   "clue": "It’s not the Big Apple.",
+   "clue": "No es la Gran Manzana.",
    "countrySpecific": true,
    "id": "113302",
    "isEasy": false,
-   "question": "Why Utah NBA team called the “Jazz”? Utah NOT KNOWN FOR JAZZ!!!",
+   "question": "¿Por qué equipo de NBA de Utah llamarse “Jazz”? ¡¡¡UTAH NO SER FAMOSO POR JAZZ!!!",
    "theme": "CEMETERY"
   },
   {
-   "category": "Basketball History",
+   "category": "Historia del básquet",
    "choices": [
     {
      "correct": false,
-     "text": "You mean Shaquille O’Neal?"
+     "text": "¿Te refieres a Shaquille O’Neal?"
     },
     {
      "correct": false,
-     "text": "You mean Steph Curry?"
+     "text": "¿Te refieres a Steph Curry?"
     },
     {
      "correct": false,
-     "text": "You mean Domantas Sabonis?"
+     "text": "¿Te refieres a Domantas Sabonis?"
     },
     {
      "correct": true,
-     "text": "You mean LeBron James?"
+     "text": "¿Te refieres a LeBron James?"
     }
    ],
-   "clue": "He previously played in Cleveland.",
+   "clue": "Antes jugaba en Cleveland.",
    "countrySpecific": true,
    "id": "113303",
    "isEasy": false,
-   "question": "Me can’t remember! Which basketball man announced he would “take his talents to South Beach”?",
+   "question": "¡Yo no recordar! ¿Qué basquetbolista anunciar que “llevaría su talento a South Beach”?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Food History",
+   "category": "Historia de la comida",
    "choices": [
     {
      "correct": false,
-     "text": "It’s a layer of STRAWBERRIES"
+     "text": "Una capa de FRESAS"
     },
     {
      "correct": false,
-     "text": "It’s a layer of PINEAPPLE"
+     "text": "Una capa de PIÑA"
     },
     {
      "correct": false,
-     "text": "It’s a bunch of APPLE SLICES"
+     "text": "Muchas rodajas de MANZANA"
     },
     {
      "correct": true,
-     "text": "It’s COCONUT, SHREDDED COCONUT"
+     "text": "Es COCO, COCO RALLADO"
     }
    ],
-   "clue": "It actually has two kinds of “nuts”",
+   "clue": "En realidad lleva coco... y nueces",
    "id": "113305",
    "isEasy": false,
-   "question": "Me love German chocolate cake... but it doesn’t taste like Germans! BECAUSE WHAT THAT FRUIT ON TOP!?!",
+   "question": "Yo amar pastel de chocolate alemán... ¡pero no saber a alemanes! ¿¡ENTONCES QUÉ FRUTA ESTAR ARRIBA!?",
    "theme": "CASTLE"
   },
   {
-   "category": "French New Wave",
+   "category": "Nouvelle vague",
    "choices": [
     {
      "correct": true,
-     "text": "Ooh, Agnès Varda!"
+     "text": "¡Uh, Agnès Varda!"
     },
     {
      "correct": false,
-     "text": "That’s Jacques Cousteau!"
+     "text": "¡Ese es Jacques Cousteau!"
     },
     {
      "correct": false,
-     "text": "You’re thinking of Denis Villeneuve!"
+     "text": "¡Estás pensando en Denis Villeneuve!"
     },
     {
      "correct": false,
-     "text": "Love that you’re a Jane Campion fan."
+     "text": "Qué lindo que seas fan de Jane Campion."
     }
    ],
    "clue": "C’est une femme!",
    "id": "113307",
    "isEasy": false,
-   "question": "Me admire rejection of conventional cinematic techniques by FRENCH NEW WAVE. Especially from director... name was... uh...",
+   "question": "Yo admirar rechazo a técnicas convencionales del cine por la NOUVELLE VAGUE FRANCESA. Sobre todo de directora... llamarse... eh...",
    "theme": "CASTLE"
   },
   {
-   "category": "Dental Diagnoses",
+   "category": "Diagnósticos dentales",
    "choices": [
     {
      "correct": true,
-     "text": "Halitosis. You have halitosis."
+     "text": "Halitosis. Tienes halitosis."
     },
     {
      "correct": false,
-     "text": "It’s periodontitis, my friend."
+     "text": "Es periodontitis, amigo."
     },
     {
      "correct": false,
-     "text": "Hyperdontia means “bad breath.”"
+     "text": "Hiperdoncia significa “mal aliento”."
     },
     {
      "correct": false,
-     "text": "That’s bruxism!"
+     "text": "¡Es bruxismo!"
     }
    ],
-   "clue": "“Hyperdontia” means too many teeth!",
+   "clue": "“Hiperdoncia” significa tener demasiados dientes",
    "id": "113310",
    "isEasy": false,
-   "question": "Me recently informed me breath smell “BAD.” But dentist used smart word for it... word was... urghhh...",
+   "question": "Hace poco me decir que mi aliento oler “MAL”. Pero dentista usar palabra inteligente... palabra ser... urghhh...",
    "theme": "CEMETERY"
   },
   {
-   "category": "Early ’00s Pop",
+   "category": "Pop de los 2000",
    "choices": [
     {
      "correct": false,
-     "text": "“No Rain” by Blind Melon. Solid pick."
+     "text": "“No Rain”, de Blind Melon. Buena elección."
     },
     {
      "correct": false,
-     "text": "“Bubbly” by Colbie Callait!"
+     "text": "¡“Bubbly”, de Colbie Caillat!"
     },
     {
      "correct": true,
-     "text": "“Unwritten “by Natasha Bedingfield!"
+     "text": "¡“Unwritten”, de Natasha Bedingfield!"
     },
     {
      "correct": false,
-     "text": "“Soak Up The Sun” by Sheryl Crow! A classic!"
+     "text": "¡“Soak Up the Sun”, de Sheryl Crow! ¡Un clásico!"
     }
    ],
-   "clue": "It’s not “No Rain,” and it doesn’t have “Sun” in it either!",
+   "clue": "No es “No Rain” y tampoco tiene “Sun” en el título",
    "id": "113428",
    "isEasy": false,
-   "question": "In me go-to karaoke song, me angrily bellow “FEEL ME RAIN ON ME SKIN!!” What song name again?",
+   "question": "En mi canción favorita de karaoke, yo gritar con furia “¡¡FEEL THE RAIN ON YOUR SKIN!!”. ¿Cómo llamarse otra vez?",
    "theme": "FOREST"
   },
   {
-   "category": "Car Parts",
+   "category": "Partes del auto",
    "choices": [
     {
      "correct": false,
-     "text": "Cools your car’s engine"
+     "text": "Enfría el motor del auto"
     },
     {
      "correct": true,
-     "text": "Reduces your car’s toxic emissions"
+     "text": "Reduce las emisiones tóxicas del auto"
     },
     {
      "correct": false,
-     "text": "Stores your car’s brake fluid"
+     "text": "Guarda el líquido de frenos del auto"
     },
     {
      "correct": false,
-     "text": "Converts chemical energy into electrical energy"
+     "text": "Convierte energía química en energía eléctrica"
     }
    ],
-   "clue": "Thanks to this, your car will not get canceled.",
+   "clue": "Gracias a esto, tu auto no contamina tanto",
    "countrySpecific": false,
    "id": "113452",
    "isEasy": false,
-   "question": "Once, royal knight sent on quest to steal my CATALYTIC CONVERTER! GRAH! But... what it even do??",
+   "question": "Una vez, caballero real ir en misión para robar mi CONVERTIDOR CATALÍTICO. ¡GRAH! Pero... ¿¡qué hacer eso!?",
    "theme": "CASTLE"
   },
   {
-   "category": "Couples Classes",
+   "category": "Clases para parejas",
    "choices": [
     {
      "correct": true,
-     "text": "Childbirth... congrats!"
+     "text": "Parto... ¡felicidades!"
     },
     {
      "correct": false,
-     "text": "Couples yoga... way to go!"
+     "text": "Yoga en pareja... ¡bien hecho!"
     },
     {
      "correct": false,
-     "text": "Ballroom dancing... very fancy!"
+     "text": "Baile de salón... ¡muy elegante!"
     },
     {
      "correct": false,
-     "text": "Combining finances as a couple... smart!"
+     "text": "Finanzas en pareja... ¡muy inteligente!"
     }
    ],
-   "clue": "It’s not dancing or financing!",
+   "clue": "¡No es baile ni finanzas!",
    "id": "113456",
    "isEasy": false,
-   "question": "Me wife and me recently signed up for LAMAZE CLASS! We learning... uh... what we learning...?",
+   "question": "¡Mi esposa y yo inscribirnos en CLASES LAMAZE! Nosotros aprender... eh... ¿qué aprender?",
    "theme": "CASTLE",
    "x": true
   },
   {
-   "category": "Where’s The Beef",
+   "category": "¿Dónde está la carne?",
    "choices": [
     {
      "correct": true,
-     "text": "Wagyu is from Japan."
+     "text": "El wagyu es de Japón."
     },
     {
      "correct": false,
-     "text": "Wagyu’s from China!"
+     "text": "¡El wagyu es de China!"
     },
     {
      "correct": false,
-     "text": "Wagyu comes from Korea."
+     "text": "El wagyu viene de Corea."
     },
     {
      "correct": false,
-     "text": "Wagyu is beef from Thailand!"
+     "text": "¡El wagyu es carne de Tailandia!"
     }
    ],
-   "clue": "The correct country’s flag has a circle on it!",
+   "clue": "¡La bandera del país correcto tiene un círculo!",
    "id": "113464",
    "isEasy": false,
-   "question": "Me favorite meats are HUMAN and WAGYU! About to have human... but where can me get wagyu?",
+   "question": "¡Mis carnes favoritas ser HUMANO y WAGYU! Yo ir a comer humano... ¿pero dónde conseguir wagyu?",
    "theme": "DESERT"
   },
   {
-   "category": "Jazzy Nicknames",
+   "category": "Apodos de jazz",
    "choices": [
     {
      "correct": false,
-     "text": "Miles Davis!"
+     "text": "¡Miles Davis!"
     },
     {
      "correct": false,
-     "text": "Bill Evans!"
+     "text": "¡Bill Evans!"
     },
     {
      "correct": true,
-     "text": "Charlie Parker!"
+     "text": "¡Charlie Parker!"
     },
     {
      "correct": false,
-     "text": "John Coltrane!"
+     "text": "¡John Coltrane!"
     }
    ],
-   "clue": "You find birds at the park",
+   "clue": "Los pájaros están en el parque (park)",
    "id": "113465",
    "isEasy": false,
-   "question": "Me eat birds and me eat JAZZ MUSICIANS! Wha—you know JAZZ MUSICIAN nicknamed BIRD?! WHO!?",
+   "question": "¡Yo comer pájaros y yo comer MÚSICOS DE JAZZ! ¿Qu... tú conocer MÚSICO DE JAZZ con apodo PÁJARO (BIRD)? ¿¡QUIÉN!?",
    "theme": "FOREST"
   },
   {
-   "category": "Historical Greats",
+   "category": "Grandes de la historia",
    "choices": [
     {
      "correct": false,
-     "text": "She ruled Sweden"
+     "text": "Gobernó Suecia"
     },
     {
      "correct": false,
-     "text": "She ruled France"
+     "text": "Gobernó Francia"
     },
     {
      "correct": true,
-     "text": "She ruled Russia"
+     "text": "Gobernó Rusia"
     },
     {
      "correct": false,
-     "text": "She ruled the British Empire"
+     "text": "Gobernó el Imperio británico"
     }
    ],
-   "clue": "She was born in Germany, but ruled to the east of her hometown",
+   "clue": "Nació en Alemania, pero gobernó al este de su tierra natal",
    "id": "113478",
    "isEasy": false,
-   "question": "Honestly, me GOOD troll, not great! But why was Catherine the Great SOOOOO Great?!?!",
+   "question": "La verdad, yo ser BUEN trol, no grande. ¿¡Pero por qué Catalina la Grande ser TAAAN Grande!?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Style Colors",
+   "category": "Colorimetría",
    "choices": [
     {
      "correct": false,
-     "text": "You’re a SPRING"
+     "text": "Eres PRIMAVERA"
     },
     {
      "correct": false,
-     "text": "You’re a SUMMER"
+     "text": "Eres VERANO"
     },
     {
      "correct": true,
-     "text": "You’re an AUTUMN"
+     "text": "Eres OTOÑO"
     },
     {
      "correct": false,
-     "text": "You’re a WINTER"
+     "text": "Eres INVIERNO"
     }
    ],
-   "clue": "Don’t fall into our style trap",
+   "clue": "En esta estación se caen las hojas",
    "id": "113510",
    "isEasy": false,
-   "question": "My donkey is FASHION GURU & STYLE ICON! They say my features are warm, muted AND have low contrast... WHAT DOES THIS MEAN?!",
+   "question": "¡Mi burro ser GURÚ DE LA MODA e ÍCONO DE ESTILO! Él decir que mis rasgos ser cálidos, apagados Y de bajo contraste... ¿¡QUÉ SIGNIFICAR!?",
    "theme": "CASTLE"
   },
   {
-   "category": "Science",
+   "category": "Ciencia",
    "choices": [
     {
      "correct": false,
@@ -1292,7 +1292,7 @@
     },
     {
      "correct": false,
-     "text": "Vitamin B"
+     "text": "Vitamina B"
     },
     {
      "correct": true,
@@ -1303,144 +1303,144 @@
      "text": "Vitamina K"
     }
    ],
-   "clue": "Of course you know this, don’t B ridiculous",
+   "clue": "Obvio que lo sabes, no seas B-obo",
    "id": "113531",
    "isEasy": false,
-   "question": "Sun so HOT! But me need its VITAMIN! Which vitamin!?!",
+   "question": "¡Sol ser tan CALIENTE! ¡Pero yo necesitar su VITAMINA! ¿¡Cuál vitamina!?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Nautical Terms",
+   "category": "Términos náuticos",
    "choices": [
     {
      "correct": true,
-     "text": "Yes, it’s called a “galley”"
+     "text": "Sí, se llama “fogón”"
     },
     {
      "correct": false,
-     "text": "Sure, it’s called a “berth”"
+     "text": "Claro, se llama “litera”"
     },
     {
      "correct": false,
-     "text": "It’s usually called a “gangway”"
+     "text": "Suele llamarse “pasarela”"
     },
     {
      "correct": false,
-     "text": "Sailors call it the “poop deck”"
+     "text": "Los marineros le dicen “toldilla”"
     }
    ],
-   "clue": "Starts with a “G”",
+   "clue": "Empieza con F",
    "id": "113532",
    "isEasy": false,
-   "question": "Ocean make me HUNGRY! If me take cruise, will boat have a kitchen?!?",
+   "question": "¡Océano darme HAMBRE! Si yo ir en crucero, ¿¡barco tener cocina!?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Greek Mythology",
+   "category": "Mitología griega",
    "choices": [
     {
      "correct": false,
-     "text": "Yes, Zeus’s dad was Poseidon."
+     "text": "Sí, el papá de Zeus era Poseidón."
     },
     {
      "correct": true,
-     "text": "Sure, Zeus’s dad was Cronus."
+     "text": "Claro, el papá de Zeus era Crono."
     },
     {
      "correct": false,
-     "text": "Yep, Zeus’s dad was Uranus."
+     "text": "Sí, el papá de Zeus era Urano."
     },
     {
      "correct": false,
-     "text": "You got it, Zeus’s dad was Gaea."
+     "text": "Correcto, el papá de Zeus era Gea."
     }
    ],
-   "clue": "Poseidon was his brother",
+   "clue": "Poseidón era su hermano",
    "id": "113533",
    "isEasy": false,
-   "question": "Zeus DADDY of Greek Gods! But Zeus also had DADDY?!",
+   "question": "¡Zeus ser PAPÁ de dioses griegos! ¿¡Pero Zeus también tener PAPÁ!?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Health Food",
+   "category": "Comida saludable",
    "choices": [
     {
      "correct": false,
-     "text": "I think... in pasta?"
+     "text": "Creo que... ¿en la pasta?"
     },
     {
      "correct": false,
-     "text": "I think... in deer meat?"
+     "text": "Creo que... ¿en la carne de venado?"
     },
     {
      "correct": false,
-     "text": "I think... in seafood?"
+     "text": "Creo que... ¿en los mariscos?"
     },
     {
      "correct": true,
-     "text": "I think... in yogurt?"
+     "text": "Creo que... ¿en el yogur?"
     }
    ],
-   "clue": "The helpful bacteria comes from fermentation",
+   "clue": "Las bacterias buenas vienen de la fermentación",
    "id": "113575",
    "isEasy": false,
-   "question": "Troll Doctor say me should eat Lactobacillus for good tummy. WHERE FIND THAT?!",
+   "question": "Doctor Trol decir que yo deber comer Lactobacillus para pancita feliz. ¿¡DÓNDE ENCONTRAR!?",
    "theme": ""
   },
   {
-   "category": "Painters",
+   "category": "Pintores",
    "choices": [
     {
      "correct": false,
-     "text": "You mean da Vinci?"
+     "text": "¿Te refieres a Da Vinci?"
     },
     {
      "correct": false,
-     "text": "You mean Dalí?"
+     "text": "¿Te refieres a Dalí?"
     },
     {
      "correct": false,
-     "text": "You mean Rembrandt?"
+     "text": "¿Te refieres a Rembrandt?"
     },
     {
      "correct": true,
-     "text": "You mean van Gogh?"
+     "text": "¿Te refieres a Van Gogh?"
     }
    ],
-   "clue": "The winning combo is two ears and a two-part name",
+   "clue": "El combo ganador: dos orejas y un nombre de dos partes",
    "id": "113576",
    "isEasy": false,
-   "question": "Me hates my UGLY EARS! Just like DUTCH PAINTER who cut off his ear!",
+   "question": "¡Yo odiar mis OREJAS FEAS! ¡Igual que PINTOR NEERLANDÉS que cortarse oreja!",
    "theme": ""
   },
   {
-   "category": "Food Physics",
+   "category": "Física de la comida",
    "choices": [
     {
      "correct": true,
-     "text": "You can crack a Macadamia nut?"
+     "text": "¿Puedes romper una nuez de macadamia?"
     },
     {
      "correct": false,
-     "text": "You can crack a hazelnut?"
+     "text": "¿Puedes romper una avellana?"
     },
     {
      "correct": false,
-     "text": "You can crack an almond?"
+     "text": "¿Puedes romper una almendra?"
     },
     {
      "correct": false,
-     "text": "You can crack a walnut?"
+     "text": "¿Puedes romper una nuez?"
     }
    ],
-   "clue": "Not the Nutella one.",
+   "clue": "No es la de la Nutella.",
    "id": "113585",
    "isEasy": false,
-   "question": "Me SO strong, me can even crack edible nut with HARDEST shell between me toes!!!",
+   "question": "¡¡¡Yo TAN fuerte que poder romper con dedos de pies la nuez con cáscara MÁS DURA!!!",
    "theme": "FOREST"
   },
   {
-   "category": "Print Magazines",
+   "category": "Revistas impresas",
    "choices": [
     {
      "correct": false,
@@ -1459,538 +1459,538 @@
      "text": "[i]Cosmopolitan[/i]"
     }
    ],
-   "clue": "Remember the blue logo font?",
+   "clue": "¿Te acuerdas del logo?",
    "id": "113587",
    "isEasy": false,
-   "question": "So there “Sexiest Man Alive,” but no “Sexiest Ogre Alive”?! Me DESTROY that magazine! ...uh...",
+   "question": "¿Haber “Hombre más sexy del mundo” pero no “Ogro más sexy del mundo”? ¡Yo DESTRUIR esa revista! ...eh...",
    "theme": "CASTLE",
    "x": true
   },
   {
-   "category": "Philosophical Musings",
+   "category": "Reflexiones filosóficas",
    "choices": [
     {
      "correct": true,
-     "text": "That’s... almost a DESCARTES quote!"
+     "text": "¡Esa es... casi una cita de DESCARTES!"
     },
     {
      "correct": false,
-     "text": "You’re thinking of KANT!"
+     "text": "¡Estás pensando en KANT!"
     },
     {
      "correct": false,
-     "text": "I believe... that’s ARISTOTLE!"
+     "text": "Creo que... ¡es ARISTÓTELES!"
     },
     {
      "correct": false,
-     "text": "That’s basically a Plato quote!"
+     "text": "¡Es básicamente una cita de Platón!"
     }
    ],
-   "clue": "This philosopher ISN’T Greek!",
+   "clue": "¡Este filósofo NO es griego!",
    "id": "113796",
    "isEasy": false,
-   "question": "Me favorite philosopher always say “ME THINK, THEREFORE ME AM.” He was... urgh... who he?",
+   "question": "Mi filósofo favorito siempre decir “YO PENSAR, LUEGO YO EXISTIR”. Él ser... urgh... ¿quién ser?",
    "theme": "CASTLE"
   },
   {
-   "category": "Physics Unit",
+   "category": "Unidades físicas",
    "choices": [
     {
      "correct": false,
-     "text": "It’s a microscopic unit of length!"
+     "text": "¡Es una unidad microscópica de longitud!"
     },
     {
      "correct": false,
-     "text": "It’s a unit of time!"
+     "text": "¡Es una unidad de tiempo!"
     },
     {
      "correct": false,
-     "text": "Ergs are measures of weight!"
+     "text": "¡Los ergios miden el peso!"
     },
     {
      "correct": true,
-     "text": "Erg is a unit of energy!"
+     "text": "¡El ergio es una unidad de energía!"
     }
    ],
-   "clue": "This time, it’s not “time”",
+   "clue": "Esta vez no es “tiempo”",
    "id": "113798",
    "isEasy": false,
-   "question": "Me favorite unit of measure “ERG.” Easy to say! But erg measure... erg....",
+   "question": "Mi unidad de medida favorita ser “ERGIO”. ¡Fácil de decir! Pero ergio medir... ergio...",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Famous Cyclops",
+   "category": "Cíclopes famosos",
    "choices": [
     {
      "correct": false,
-     "text": "Sure do, that’s Theseus."
+     "text": "Claro, ese es Teseo."
     },
     {
      "correct": false,
-     "text": "Your cousin was tricked by Perseus."
+     "text": "A tu primo lo engañó Perseo."
     },
     {
      "correct": true,
-     "text": "That’s gotta be Odysseus."
+     "text": "Tiene que ser Odiseo."
     },
     {
      "correct": false,
-     "text": "Oh, that’s actually Hercules."
+     "text": "Ah, en realidad es Hércules."
     }
    ],
-   "clue": "This hero met the cyclops on a looonnggg journey home.",
+   "clue": "Este héroe conoció al cíclope en un laaargo viaje de regreso a casa.",
    "id": "113801",
    "isEasy": false,
-   "question": "Me cousin, big cyclops, great guy, hurt by Greek hero named NOBODY. Do you know NOBODY?",
+   "question": "Mi primo, gran cíclope, gran tipo, ser herido por héroe griego llamado NADIE. ¿Tú conocer a NADIE?",
    "theme": "CASTLE"
   },
   {
-   "category": "Personajes de dibujos animados",
+   "category": "Personajes animados",
    "choices": [
     {
      "correct": true,
-     "text": "You’d love Fred Flintstone."
+     "text": "Te encantaría Pedro Picapiedra."
     },
     {
      "correct": false,
-     "text": "You’d love Popeye."
+     "text": "Te encantaría Popeye."
     },
     {
      "correct": false,
-     "text": "You’d love SpongeBob."
+     "text": "Te encantaría Bob Esponja."
     },
     {
      "correct": false,
-     "text": "You’d love Betty Boop."
+     "text": "Te encantaría Betty Boop."
     }
    ],
-   "clue": "It was pre-industrial times, after all.",
+   "clue": "Al fin y al cabo, era antes de la Revolución Industrial... mucho antes.",
    "id": "113854",
    "isEasy": false,
-   "question": "Me hate wearing shoes! Ogre like BARE FEET!",
+   "question": "¡Yo odiar usar zapatos! ¡A Ogro gustar PIES DESCALZOS!",
    "theme": "CASTLE"
   },
   {
-   "category": "Music Intros",
+   "category": "Intros musicales",
    "choices": [
     {
      "correct": false,
-     "text": "Play The Killers’ “Somebody Told Me”!"
+     "text": "¡Pon “Somebody Told Me” de The Killers!"
     },
     {
      "correct": false,
-     "text": "Listen to Guns N’ Roses’ “Sweet Child O’ Mine”!"
+     "text": "¡Escucha “Sweet Child O’ Mine” de Guns N’ Roses!"
     },
     {
      "correct": false,
-     "text": "Queue up R.E.M.’s “Losing My Religion”!"
+     "text": "¡Pon “Losing My Religion” de R.E.M.!"
     },
     {
      "correct": true,
-     "text": "Get rolled by Rick Astley’s “Never Gonna Give You Up”!"
+     "text": "¡Déjate engañar con “Never Gonna Give You Up” de Rick Astley!"
     }
    ],
-   "clue": "Not to troll you, but...",
+   "clue": "No te quiero trolear, pero...",
    "id": "113855",
    "isEasy": false,
-   "question": "Ba dum dum dum, me wanna hear drums!!! Greatest songs START with drum solo!",
+   "question": "Ba dum dum dum, ¡yo querer oír tambores! ¡Mejores canciones EMPEZAR con solo de batería!",
    "theme": "CASTLE"
   },
   {
-   "category": "Italian Cuisine",
+   "category": "Cocina italiana",
    "choices": [
     {
      "correct": false,
-     "text": "Yes, that’s called spaghetti."
+     "text": "Sí, eso se llama espagueti."
     },
     {
      "correct": false,
-     "text": "Right, that’s called angel hair."
+     "text": "Claro, eso se llama cabello de ángel."
     },
     {
      "correct": false,
-     "text": "Yep, that’s called linguini."
+     "text": "Sí, eso se llama linguine."
     },
     {
      "correct": true,
-     "text": "Sure, that’s called bucatini."
+     "text": "Seguro, eso se llama bucatini."
     }
    ],
-   "clue": "Angel hair would be a bit too thin.",
+   "clue": "El cabello de ángel sería demasiado fino.",
    "id": "113862",
    "isEasy": false,
-   "question": "Me ate noodle with sauce INSIDE! It hollow like straw!!!",
+   "question": "¡Yo comer fideo con salsa ADENTRO! ¡¡¡Estar hueco como popote!!!",
    "theme": "DESERT"
   },
   {
-   "category": "Poultry",
+   "category": "Aves de corral",
    "choices": [
     {
      "correct": false,
-     "text": "There’s no CHICKEN in turducken"
+     "text": "En el turducken no hay POLLO"
     },
     {
      "correct": true,
-     "text": "There’s no GOOSE in turducken"
+     "text": "En el turducken no hay GANSO"
     },
     {
      "correct": false,
-     "text": "There’s no DUCK in turducken"
+     "text": "En el turducken no hay PATO"
     },
     {
      "correct": false,
-     "text": "There’s no TURKEY in turducken"
+     "text": "En el turducken no hay PAVO"
     }
    ],
-   "clue": "The “tur” stands for “turkey.”",
+   "clue": "El “tur” viene de “turkey” (pavo).",
    "countrySpecific": true,
    "id": "113863",
    "isEasy": false,
-   "question": "Me checking for allergies! What bird NOT in turducken?",
+   "question": "¡Yo revisar alergias! ¿Qué ave NO estar en el turducken (pavo relleno de pato relleno de pollo)?",
    "theme": "FOREST"
   },
   {
-   "category": "Sports Equipment",
+   "category": "Equipamiento deportivo",
    "choices": [
     {
      "correct": false,
-     "text": "Yeah, a “birdie” is used in bocce."
+     "text": "Sí, el “gallito” se usa en la petanca."
     },
     {
      "correct": false,
-     "text": "Yeah, a “birdie” is used in table tennis."
+     "text": "Sí, el “gallito” se usa en el tenis de mesa."
     },
     {
      "correct": true,
-     "text": "Yeah, a “birdie” is used in badminton."
+     "text": "Sí, el “gallito” se usa en el bádminton."
     },
     {
      "correct": false,
-     "text": "Yeah, a “birdie” is used in darts."
+     "text": "Sí, el “gallito” se usa en los dardos."
     }
    ],
-   "clue": "It’s called a birdie because it soars back and forth through the air.",
+   "clue": "Le dicen “gallito” o “pajarito” porque vuela de un lado a otro.",
    "countrySpecific": true,
    "id": "113865",
    "isEasy": false,
-   "question": "Me like pretty birdies, but me hear they also used in sports?!?",
+   "question": "¡A mí gustar pajaritos bonitos, pero yo oír que también usarse en deportes!",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Bar Menu",
+   "category": "Carta del bar",
    "choices": [
     {
      "correct": false,
-     "text": "Calm down, that’s called a NEGRONI!"
+     "text": "Cálmate, eso se llama NEGRONI."
     },
     {
      "correct": false,
-     "text": "Chill, that’s called a SEA BREEZE!"
+     "text": "Tranquilo, eso se llama SEA BREEZE."
     },
     {
      "correct": false,
-     "text": "Shhhh, that’s called a MANHATTAN!"
+     "text": "Shhhh, eso se llama MANHATTAN."
     },
     {
      "correct": true,
-     "text": "Relax, that’s called a BOILERMAKER!"
+     "text": "Relájate, eso se llama BOILERMAKER."
     }
    ],
-   "clue": "It’s not the name of a borough!",
+   "clue": "¡No es el nombre de un distrito de Nueva York!",
    "id": "113866",
    "isEasy": false,
-   "question": "Ahhhh! Me drop shot of whiskey in beer! What is this?!?",
+   "question": "¡Ahhhh! ¡Yo dejar caer shot de whisky en cerveza! ¿¡Qué ser esto!?",
    "theme": "CASTLE",
    "x": true
   },
   {
-   "category": "Musical Notation",
+   "category": "Notación musical",
    "choices": [
     {
      "correct": false,
-     "text": "Crank that bard up to FORTE, baby!"
+     "text": "¡Sube ese bardo a FORTE, nene!"
     },
     {
      "correct": true,
-     "text": "FORTISSISSIMO is the loudest!"
+     "text": "¡FORTISSISSIMO es lo más fuerte!"
     },
     {
      "correct": false,
-     "text": "Play that lute in MEZZO PIANO!"
+     "text": "¡Toca ese laúd en MEZZO PIANO!"
     },
     {
      "correct": false,
-     "text": "They’ll hear it two fiefs away if it’s FORTISSIMO!"
+     "text": "¡Lo oirán a dos feudos de distancia si es FORTISSIMO!"
     }
    ],
-   "clue": "The correct answer has double letters in it!",
+   "clue": "¡Cuantas más “s”, más fuerte!",
    "id": "113872",
    "isEasy": false,
-   "question": "ME LOUD, and me like music LOUD. Me turn bard WAY UP. But... what music word LOUDEST?",
+   "question": "YO RUIDOSO, y a mí gustar música FUERTE. Yo subir volumen al bardo AL MÁXIMO. Pero... ¿qué palabra musical ser MÁS FUERTE?",
    "theme": "FOREST"
   },
   {
-   "category": "Rocket Science",
+   "category": "Ciencia espacial",
    "choices": [
     {
      "correct": false,
-     "text": "Ernst Mach was a rocket scientist!"
+     "text": "¡Ernst Mach era científico de cohetes!"
     },
     {
      "correct": false,
-     "text": "Dmitri Mendeleev was into rockets."
+     "text": "A Dmitri Mendeléiev le encantaban los cohetes."
     },
     {
      "correct": false,
-     "text": "Christian Doppler was a big rocket guy."
+     "text": "Christian Doppler era un gran experto en cohetes."
     },
     {
      "correct": true,
-     "text": "Please do not crush Robert Goddard’s skull."
+     "text": "Por favor, no le rompas el cráneo a Robert Goddard."
     }
    ],
-   "clue": "Mach studied shock waves, but not rockets!",
+   "clue": "Mach estudió ondas de choque, ¡no cohetes!",
    "id": "113874",
    "isEasy": false,
-   "question": "Crushing skulls EASY! It not ROCKET SCIENCE! Not like field studied by... er... aghhh...",
+   "question": "¡Romper cráneos ser FÁCIL! ¡No ser CIENCIA ESPACIAL! No como lo que estudiar... eh... aghhh...",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Ear Anatomy",
+   "category": "Anatomía del oído",
    "choices": [
     {
      "correct": false,
-     "text": "Ouch, my cornea!"
+     "text": "¡Ay, mi córnea!"
     },
     {
      "correct": true,
-     "text": "No, not my cochlea!"
+     "text": "¡No, mi cóclea no!"
     },
     {
      "correct": false,
-     "text": "Eek, my clavicle!"
+     "text": "¡Uy, mi clavícula!"
     },
     {
      "correct": false,
-     "text": "Oof, my coccyx!"
+     "text": "¡Auch, mi cóccix!"
     }
    ],
-   "clue": "Your cornea is in your eye",
+   "clue": "La córnea está en el ojo",
    "id": "113891",
    "isEasy": false,
-   "question": "RAAAAR. Me yell so loud, me destroy part of YOUR EAR that let you HEAR!",
+   "question": "RAAAAR. ¡Yo gritar tan fuerte que destruir parte de TU OÍDO que dejarte OÍR!",
    "theme": "FOREST"
   },
   {
-   "category": "Pet Origins",
+   "category": "Origen de mascotas",
    "choices": [
     {
      "correct": false,
-     "text": "Originally, JAPAN"
+     "text": "Originalmente, de JAPÓN"
     },
     {
      "correct": false,
-     "text": "They started in INDIA"
+     "text": "Empezaron en la INDIA"
     },
     {
      "correct": true,
-     "text": "They were bred in CHINA"
+     "text": "Se criaron en CHINA"
     },
     {
      "correct": false,
-     "text": "I think the CARIBBEAN somewhere?"
+     "text": "Creo que de algún lugar del CARIBE"
     }
    ],
-   "clue": "First recorded appearance was in the Song Dynasty",
+   "clue": "Aparecieron por primera vez durante la dinastía Song",
    "id": "113978",
    "isEasy": false,
-   "question": "ME want goldfish! But no GOLDEN fish in treasure? WHERE GOLDFISH COME FROM?!?",
+   "question": "¡YO querer pez dorado! ¿Pero no haber pez DORADO en tesoro? ¿¡DE DÓNDE VENIR PECES DORADOS!?",
    "theme": "CASTLE"
   },
   {
-   "category": "Spooky Media",
+   "category": "Contenido de miedo",
    "choices": [
     {
      "correct": false,
-     "text": "[i]IT[/i]?"
+     "text": "¿[i]It[/i]?"
     },
     {
      "correct": false,
-     "text": "[i]The Turning[/i]?"
+     "text": "¿[i]The Turning[/i]?"
     },
     {
      "correct": false,
-     "text": "[i]Stranger Things[/i]?"
+     "text": "¿[i]Stranger Things[/i]?"
     },
     {
      "correct": true,
-     "text": "[i]Ghostbusters: Afterlife[/i]?"
+     "text": "¿[i]Ghostbusters: El legado[/i]?"
     }
    ],
-   "clue": "It’s the 4th movie",
+   "clue": "Es la 4.ª película de la saga",
    "id": "114161",
    "isEasy": false,
-   "question": "Me hate SPOOKY STUFF. Me OK with FINN WOLFHARD. Where can me watch FINN fight SPOOKY STUFF in OKLAHOMA?",
+   "question": "Yo odiar COSAS DE MIEDO. Yo estar bien con FINN WOLFHARD. ¿Dónde ver a FINN pelear contra COSAS DE MIEDO en OKLAHOMA?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Psychological Classification",
+   "category": "Clasificación psicológica",
    "choices": [
     {
      "correct": false,
-     "text": "Yes, you’re NATURALISTIC"
+     "text": "Sí, eres NATURALISTA"
     },
     {
      "correct": false,
-     "text": "You are indeed MUSICAL"
+     "text": "Sin duda eres MUSICAL"
     },
     {
      "correct": true,
-     "text": "I sense you’re COSMOLOGICAL"
+     "text": "Siento que eres COSMOLÓGICO"
     },
     {
      "correct": false,
-     "text": "You’re very LOGICAL-MATHEMATICAL"
+     "text": "Eres muy LÓGICO-MATEMÁTICO"
     }
    ],
-   "clue": "That’s a Cos-No",
+   "clue": "Eso es un Cos-NO",
    "id": "114162",
    "isEasy": false,
-   "question": "Me not very LINGUISTIC, but me SMART. ME have all of Howard Gardner’s other INTELLIGENCES... except this FAKE one!",
+   "question": "Yo no ser muy LINGÜÍSTICO, pero yo ser LISTO. ¡YO tener todas las otras INTELIGENCIAS de Howard Gardner... menos esta FALSA!",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Music Videos",
+   "category": "Videoclips",
    "choices": [
     {
      "correct": false,
-     "text": "Eats at Tim Horton’s"
+     "text": "Come en Tim Hortons"
     },
     {
      "correct": true,
-     "text": "Drives a zamboni"
+     "text": "Maneja una pulidora de hielo"
     },
     {
      "correct": false,
-     "text": "Pours gravy on fries"
+     "text": "Le echa salsa a las papas fritas"
     },
     {
      "correct": false,
-     "text": "Dresses like Wolverine"
+     "text": "Se viste como Wolverine"
     }
    ],
-   "clue": "It’s not poutine or Wolverine!",
+   "clue": "¡No es poutine ni Wolverine!",
    "id": "114163",
    "isEasy": false,
-   "question": "OGRE HATE STEREOTYPES!!! ...But me did know Tate McRae was Canadian, because in music video for “Greedy,” she...",
+   "question": "¡¡¡OGRO ODIAR ESTEREOTIPOS!!! ...Pero yo sí saber que Tate McRae ser canadiense, porque en video de “Greedy”, ella...",
    "theme": "CASTLE"
   },
   {
-   "category": "Geology Rocks",
+   "category": "Rocas y geología",
    "choices": [
     {
      "correct": false,
-     "text": "MARBLE doesn’t move!"
+     "text": "¡El MÁRMOL no se mueve!"
     },
     {
      "correct": true,
-     "text": "LIMESTONE doesn’t move!"
+     "text": "¡La PIEDRA CALIZA no se mueve!"
     },
     {
      "correct": false,
-     "text": "GRANITE doesn’t move!"
+     "text": "¡El GRANITO no se mueve!"
     },
     {
      "correct": false,
-     "text": "OBSIDIAN doesn’t move!"
+     "text": "¡La OBSIDIANA no se mueve!"
     }
    ],
-   "clue": "The one that’s got “stone” in its name",
+   "clue": "La que tiene “piedra” en el nombre",
    "id": "114164",
    "isEasy": false,
-   "question": "If ME not ride my Donkey, me be SEDENTARY! Not SEDIMENTARY! This ROCK is SEDIMENTARY!!! (And sedentary, me guess.)",
+   "question": "¡Si YO no montar mi Burro, yo ser SEDENTARIO! ¡No SEDIMENTARIO! ¡¡¡Esta ROCA ser SEDIMENTARIA!!! (Y sedentaria, supongo).",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Cartoon Ghosts",
+   "category": "Fantasmas animados",
    "choices": [
     {
      "correct": false,
-     "text": "A creepy [i]Kim Possible[/i]"
+     "text": "Un episodio escalofriante de [i]Kim Possible[/i]"
     },
     {
      "correct": false,
-     "text": "A terryfing [i]Teen Titans[/i]"
+     "text": "Un episodio terrorífico de [i]Los Jóvenes Titanes[/i]"
     },
     {
      "correct": true,
-     "text": "A scary [i]SpongeBob Squarepants[/i]"
+     "text": "Un episodio espeluznante de [i]Bob Esponja[/i]"
     },
     {
      "correct": false,
-     "text": "A frightening [i]Fairly OddParents[/i]"
+     "text": "Un episodio aterrador de [i]Los padrinos mágicos[/i]"
     }
    ],
-   "clue": "The Flying Dutchman sails on the sea... who lives under the sea?",
+   "clue": "El Holandés Errante navega por el mar... ¿quién vive en el fondo del mar?",
    "id": "114173",
    "isEasy": false,
-   "question": "ME see a GHOST! A green GHOST called THE FLYING DUTCHMAN! What was I WATCHING?!?!",
+   "question": "¡YO VER UN FANTASMA! ¡Un FANTASMA verde llamado EL HOLANDÉS ERRANTE! ¿¡¿¡Qué yo ESTAR VIENDO!?!?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Continental Geography",
+   "category": "Geografía continental",
    "choices": [
     {
      "correct": false,
-     "text": "Um... ASIA"
+     "text": "Eh... en ASIA"
     },
     {
      "correct": false,
-     "text": "I think... EUROPE"
+     "text": "Creo que... en EUROPA"
     },
     {
      "correct": false,
-     "text": "Mostly EUROPE, but some in ASIA"
+     "text": "Mayormente en EUROPA, pero algo en ASIA"
     },
     {
      "correct": true,
-     "text": "Mostly ASIA, but a bit in EUROPE"
+     "text": "Mayormente en ASIA, pero un poco en EUROPA"
     }
    ],
-   "clue": "Just over 3/4 of it is in Asia",
+   "clue": "Un poco más de 3/4 está en Asia",
    "id": "114174",
    "isEasy": false,
-   "question": "WHERE IS RUSSIA?!??! ANSWER ME?!?!",
+   "question": "¿¡¿¡DÓNDE ESTAR RUSIA!?!? ¿¡¿¡RESPONDERME!?!?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Historical Cameos",
+   "category": "Cameos históricos",
    "choices": [
     {
      "correct": true,
-     "text": "Napoleon Bonaparte"
+     "text": "Napoleón Bonaparte"
     },
     {
      "correct": false,
-     "text": "Mary, Queen of Scots"
+     "text": "María Estuardo, reina de Escocia"
     },
     {
      "correct": false,
-     "text": "Vladimir Lenin"
+     "text": "Vladímir Lenin"
     },
     {
      "correct": false,
-     "text": "Jack the Ripper"
+     "text": "Jack el Destripador"
     }
    ],
-   "clue": "The answer isn’t complex... but it does have a complex.",
+   "clue": "La respuesta no es complicada... pero sí tiene un complejo.",
    "id": "114176",
    "isEasy": false,
-   "question": "Wait! The MINIONS not real! But they minion for REAL PERSON?!?! Which real person do they minion for in [i]Minions[/i] movie?",
+   "question": "¡Esperen! ¡Los MINIONS no ser reales! ¿¡¿¡Pero servir a PERSONA REAL!?!? ¿A qué persona real servir en película [i]Minions[/i]?",
    "theme": "FOREST"
   },
   {
-   "category": "Prolific Authors",
+   "category": "Autores prolíficos",
    "choices": [
     {
      "correct": false,
@@ -2009,36 +2009,36 @@
      "text": "Michael Crichton"
     }
    ],
-   "clue": "It’s one of the sci-fi authors",
+   "clue": "Es uno de los autores de ciencia ficción",
    "id": "114178",
    "isEasy": false,
-   "question": "ME well read! Me read the MOST BOOKS!!! But which of these people have WROTE the MOST BOOKS?",
+   "question": "¡YO muy culto! ¡¡¡Yo leer MUCHÍSIMOS LIBROS!!! ¿Pero cuál de estas personas ESCRIBIR MÁS LIBROS?",
    "theme": "FOREST"
   },
   {
-   "category": "Owl Facts",
+   "category": "Datos de búhos",
    "choices": [
     {
      "correct": false,
-     "text": "They’re assembling a nest"
+     "text": "Está armando un nido"
     },
     {
      "correct": false,
-     "text": "They’re laying multiple eggs"
+     "text": "Está poniendo varios huevos"
     },
     {
      "correct": false,
-     "text": "They’re hunting during the day"
+     "text": "Está cazando de día"
     },
     {
      "correct": true,
-     "text": "They’re keeping young warm with feathers"
+     "text": "Está dándoles calor a sus crías con las plumas"
     }
    ],
-   "clue": "If you’re thinking it’s the nest, you’re getting colder; try the other direction.",
+   "clue": "Si crees que es el nido, te estás alejando; prueba en la otra dirección.",
    "id": "114191",
    "isEasy": false,
-   "question": "When Me BROODING, me being SAD! But when my NEIGHBOR — WHO IS OWL — is BROODING, what they DOING?!?!?",
+   "question": "Cuando YO ESTAR MELANCÓLICO, ¡yo estar TRISTE! Pero cuando mi VECINO, QUE SER BÚHO, estar EMPOLLANDO, ¿¡¿¡QUÉ ESTAR HACIENDO!?!?",
    "theme": "FOREST"
   }
  ]
