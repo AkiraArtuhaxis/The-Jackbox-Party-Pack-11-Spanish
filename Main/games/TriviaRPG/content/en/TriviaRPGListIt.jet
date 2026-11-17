@@ -3923,16 +3923,19 @@
      "answer": "Batman v Superman"
     },
     {
-     "altSpellings": [],
+     "altSpellings": [
+        "Suicide Squad"
+    ],
      "answer": "Escuadrón suicida"
     },
     {
-     "altSpellings": [],
+     "altSpellings": ["Wonder Woman", "La mujer maravilla"],
      "answer": "Mujer Maravilla"
     },
     {
      "altSpellings": [
-      "La Liga de la Justicia"
+      "La Liga de la Justicia",
+      "Justice League"
      ],
      "answer": "Liga de la Justicia"
     },
@@ -3947,14 +3950,16 @@
      "answer": "Shazam!"
     },
     {
-     "altSpellings": [],
+     "altSpellings": ["Birds of Prey"],
      "answer": "Aves de presa"
     },
     {
      "altSpellings": [
       "WW 84",
       "WW84",
-      "WW ’84"
+      "WW ’84",
+      "Wonder Woman 1984",
+      "La mujer maravilla 1984"
      ],
      "answer": "Mujer Maravilla 1984"
     },
