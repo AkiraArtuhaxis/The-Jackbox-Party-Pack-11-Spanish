@@ -1,7 +1,7 @@
 {
     "payload": [
         {
-            "id": "Preceptosaurio",
+            "id": "Preceptorus",
             "enemyDesign": "Enemy15",
             "enemyHealthScalar": 1.2,
             "enemyAdditionalHealth": 0,
