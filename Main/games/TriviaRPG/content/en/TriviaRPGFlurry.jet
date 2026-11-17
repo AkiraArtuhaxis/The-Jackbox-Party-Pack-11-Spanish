@@ -3088,7 +3088,7 @@
         "Cristal del End",
         "Vara de Blaze"
        ],
-       "category": "Objeto de Minecraft (hasta 2024)"
+       "category": "Objeto de Minecraft"
       },
       {
        "answers": [
@@ -3107,14 +3107,14 @@
      "topics": [
       {
        "answers": [
-        "Sand Cloud",
-        "Bolsa Stasher",
-        "Clean Cube",
-        "UniKey",
-        "Mission Belt",
-        "The Bouqs"
+        "Giratiempo",
+        "Snitch dorada",
+        "Mapa del merodeador",
+        "Capa de invisibilidad",
+        "Vociferador",
+        "Pensadero"
        ],
-       "category": "Producto de Shark Tank"
+       "category": "Objeto mágico de Harry Potter"
       },
       {
        "answers": [
@@ -3144,14 +3144,14 @@
       },
       {
        "answers": [
-        "Ionic Ear",
-        "RoloDoc",
-        "The Sullivan Generator",
-        "LIFTiD Neurostimulation",
-        "Monosuit",
-        "DomeDock"
+        "Píldoras de terremoto",
+        "Agujero portátil",
+        "Patines cohete",
+        "Alpiste de hierro",
+        "Banda elástica gigante",
+        "Rocas deshidratadas"
        ],
-       "category": "Producto de Shark Tank"
+       "category": "Producto marca ACME"
       }
      ]
     }

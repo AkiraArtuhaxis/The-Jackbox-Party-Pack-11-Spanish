@@ -5680,25 +5680,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Cholula"
+     "text": "Rojo"
     },
     {
      "correct": false,
-     "text": "Tapatio"
+     "text": "Naranja"
     },
     {
      "correct": true,
-     "text": "Tabasco"
+     "text": "Morado"
     },
     {
      "correct": false,
-     "text": "Frank’s RedHot"
+     "text": "Negro"
     }
    ],
-   "clue": "Anótalo en nuestra cuenta (tab)",
+   "clue": "No es del color del fuego",
    "id": "109346",
    "isEasy": false,
-   "question": "¿Qué marca de salsa picante NO lleva tradicionalmente su nombre en letras rojas en la etiqueta?",
+   "question": "¿De qué color es la bolsa de Takis Fuego?",
    "theme": "DESERT"
   },
   {
@@ -6306,29 +6306,29 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Orígenes de la NHL",
+   "category": "Juegos de mesa",
    "choices": [
     {
      "correct": false,
-     "text": "Nueva York"
+     "text": "Alfil"
     },
     {
      "correct": false,
-     "text": "Toronto"
+     "text": "Torre"
     },
     {
      "correct": false,
-     "text": "Miami"
+     "text": "Dama"
     },
     {
      "correct": true,
-     "text": "Las Vegas"
+     "text": "Caballo"
     }
    ],
-   "clue": "Son caballeros del desierto",
+   "clue": "Se mueve en forma de L",
    "id": "109720",
    "isEasy": false,
-   "question": "¿De qué ciudad son los Golden Knights de la NHL?",
+   "question": "¿Qué pieza de ajedrez es la única que puede saltar sobre otras piezas?",
    "theme": "CASTLE"
   },
   {
@@ -6570,25 +6570,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Harvard"
+     "text": "Una estrella"
     },
     {
      "correct": false,
-     "text": "Eton"
+     "text": "Un sol"
     },
     {
      "correct": true,
-     "text": "Yale"
+     "text": "Una pirámide"
     },
     {
      "correct": false,
-     "text": "Vassar"
+     "text": "Una media"
     }
    ],
-   "clue": "Empieza con Y",
+   "clue": "Las más famosas están en Egipto",
    "id": "109733",
    "isEasy": false,
-   "question": "Si te admiten en la sociedad secreta Skull and Bones, ¿en qué universidad estudias?",
+   "question": "En el billete de un dólar, ¿sobre qué figura aparece el \\\"ojo que todo lo ve\\\"?",
    "theme": "DESERT"
   },
   {
@@ -7993,11 +7993,11 @@
     },
     {
      "correct": false,
-     "text": "[i]The Cobbler[/i]"
+     "text": "[i]Zapatero a tus zapatos (The Cobbler)[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Spanglish[/i]"
+     "text": "[i]Espanglish[/i]"
     }
    ],
    "clue": "El título es una palabra compuesta",

@@ -215,25 +215,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Ginebra"
+     "text": "Ron"
     },
     {
      "correct": true,
-     "text": "Drambuie"
+     "text": "Vodka"
     },
     {
      "correct": false,
-     "text": "Amaro"
+     "text": "Jugo de piña"
     },
     {
      "correct": true,
-     "text": "Whisky escocés"
+     "text": "Jugo de naranja"
     }
    ],
-   "clue": "Los dos son de Escocia",
+   "clue": "Listo para un desayuno ruso",
    "id": "109875",
    "isEasy": false,
-   "question": "¿Cuáles son los dos ingredientes de un Rusty Nail?",
+   "question": "¿Cuáles son los dos ingredientes de un Destornillador?",
    "theme": "CASTLE",
    "x": true
   },
@@ -1264,25 +1264,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Hip step"
+     "text": "Derrape"
     },
     {
      "correct": true,
-     "text": "Ball change"
+     "text": "Ocho"
     },
     {
      "correct": true,
-     "text": "Cramp roll"
+     "text": "Boleo"
     },
     {
      "correct": false,
-     "text": "Thrust pound"
+     "text": "Zarpazo"
     }
    ],
-   "clue": "Uno cambia y el otro rueda",
+   "clue": "Uno es un número y el otro es un latigazo con la pierna.",
    "id": "111984",
    "isEasy": false,
-   "question": "Elige los dos pasos reales de tap... ¡que yo podría hacer sin problema!",
+   "question": "Elige los dos pasos reales de tango... ¡que yo podría hacer sin problema!",
    "theme": "CEMETERY",
    "x": true
   },
