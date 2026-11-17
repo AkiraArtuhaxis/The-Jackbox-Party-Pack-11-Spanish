@@ -1,7 +1,7 @@
 {
     "payload": [
         {
-            "id": "Preceptorus",
+            "id": "Preceptosaurio",
             "enemyDesign": "Enemy15",
             "enemyHealthScalar": 1.2,
             "enemyAdditionalHealth": 0,
@@ -17,7 +17,7 @@
             "boss": false
         },
         {
-            "id": "Bushclops",
+            "id": "Pastíclope",
             "enemyDesign": "Enemy0",
             "enemyHealthScalar": 2.1,
             "monsterDamageOnAttack": 125,
@@ -122,7 +122,7 @@
             "boss": false
         },
         {
-            "id": "Sneaklops",
+            "id": "Escurridíclope",
             "enemyDesign": "Enemy0",
             "enemyHealthScalar": 1.3,
             "monsterDamageOnAttack": 250,
@@ -137,7 +137,7 @@
             "boss": false
         },
         {
-            "id": "Mega-Sneaklops",
+            "id": "Mega-Escurridíclope",
             "enemyDesign": "Enemy0",
             "enemyHealthScalar": 1.8,
             "monsterDamageOnAttack": 250,
@@ -152,7 +152,7 @@
             "boss": false
         },
         {
-            "id": "Greedy Joe",
+            "id": "Juan codicioso",
             "enemyDesign": "Enemy1",
             "enemyHealthScalar": 3.1,
             "monsterDamageOnAttack": 210,
@@ -176,7 +176,7 @@
             "boss": false
         },
         {
-            "id": "Big Stick Joe",
+            "id": "Juan de palo grande",
             "enemyDesign": "Enemy1",
             "enemyHealthScalar": 3.5,
             "monsterDamageOnAttack": 300,
@@ -200,7 +200,7 @@
             "boss": false
         },
         {
-            "id": "Goobicle",
+            "id": "Babita",
             "enemyDesign": "Enemy15",
             "enemyHealthScalar": 0.85,
             "monsterDamageOnAttack": 150,
@@ -215,7 +215,7 @@
             "boss": false
         },
         {
-            "id": "Spikeclops",
+            "id": "Pinchíclope",
             "enemyDesign": "Enemy3",
             "enemyHealthScalar": 1.4,
             "monsterDamageOnAttack": 215,
@@ -230,7 +230,7 @@
             "boss": false
         },
         {
-            "id": "Brainy Joe",
+            "id": "Juan cerebrito",
             "enemyDesign": "Enemy12",
             "enemyHealthScalar": 2.5,
             "monsterDamageOnAttack": 300,
@@ -245,7 +245,7 @@
             "boss": false
         },
         {
-            "id": "Hiss'o'Miss",
+            "id": "Víbora errante",
             "enemyDesign": "Enemy4",
             "enemyHealthScalar": 3.1,
             "monsterDamageOnAttack": 250,
@@ -260,7 +260,7 @@
             "boss": false
         },
         {
-            "id": "Me The Ogre",
+            "id": "Yo el ogro",
             "enemyDesign": "Enemy2",
             "enemyHealthScalar": 5,
             "monsterDamageOnAttack": 250,
@@ -286,7 +286,7 @@
             "boss": true
         },
         {
-            "id": "Bomb Mirage",
+            "id": "Ilusión Bomba",
             "enemyDesign": "Enemy5",
             "enemyHealthScalar": 5.5,
             "monsterDamageOnAttack": 675,
@@ -311,7 +311,7 @@
             "boss": true
         },
         {
-            "id": "Mega-Spikeclops",
+            "id": "Mega-Pinchíclope",
             "enemyDesign": "Enemy3",
             "enemyHealthScalar": 3,
             "monsterDamageOnAttack": 225,
@@ -326,7 +326,7 @@
             "boss": false
         },
         {
-            "id": "Dry Sneaklops",
+            "id": "Escurridíclope seco",
             "enemyDesign": "Enemy3",
             "enemyHealthScalar": 2.2,
             "monsterDamageOnAttack": 250,
@@ -341,7 +341,7 @@
             "boss": false
         },
         {
-            "id": "Brainclops",
+            "id": "Cerebríclope",
             "enemyDesign": "Enemy12",
             "enemyHealthScalar": 3.5,
             "monsterDamageOnAttack": 200,
@@ -356,7 +356,7 @@
             "boss": false
         },
         {
-            "id": "Psycheclops",
+            "id": "Psíclope",
             "enemyDesign": "Enemy12",
             "enemyHealthScalar": 3.3,
             "monsterDamageOnAttack": 200,
@@ -371,7 +371,7 @@
             "boss": false
         },
         {
-            "id": "Minerallax",
+            "id": "Minerálax",
             "enemyDesign": "Enemy13",
             "enemyHealthScalar": 3.9,
             "monsterDamageOnAttack": 225,
@@ -401,7 +401,7 @@
             "boss": false
         },
         {
-            "id": "Bookwyrm",
+            "id": "Bibliódraco",
             "enemyDesign": "Enemy14",
             "enemyHealthScalar": 6,
             "monsterDamageOnAttack": 333,
@@ -426,7 +426,7 @@
             "boss": true
         },
         {
-            "id": "The Ogre Returns",
+            "id": "El ogro regresa",
             "enemyDesign": "Enemy2",
             "enemyHealthScalar": 5,
             "monsterDamageOnAttack": 250,
@@ -451,7 +451,7 @@
             "monsterHPPerPlayer": 100
         },
         {
-            "id": "The Return of Bomb Mirage",
+            "id": "El regreso de Ilusión Bomba",
             "enemyDesign": "Enemy5",
             "enemyHealthScalar": 5.5,
             "monsterDamageOnAttack": 750,

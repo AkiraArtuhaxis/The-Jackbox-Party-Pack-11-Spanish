@@ -24,13 +24,13 @@
             "encounters": [
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Goobicle",
+                    "monsterConfigID": "Babita",
                     "doIntro": false,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Sneaklops",
+                    "monsterConfigID": "Escurridíclope",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -54,7 +54,7 @@
             "encounters": [
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Bushclops",
+                    "monsterConfigID": "Pastíclope",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -100,7 +100,7 @@
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Greedy Joe",
+                    "monsterConfigID": "Juan codicioso",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -141,13 +141,13 @@
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Big Stick Joe",
+                    "monsterConfigID": "Juan de palo grande",
                     "doIntro": false,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Mega-Sneaklops",
+                    "monsterConfigID": "Mega-Escurridíclope",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -170,13 +170,13 @@
             "encounters": [
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Bushclops",
+                    "monsterConfigID": "Pastíclope",
                     "doIntro": true,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Greedy Joe",
+                    "monsterConfigID": "Juan codicioso",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -213,13 +213,13 @@
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Big Stick Joe",
+                    "monsterConfigID": "Juan de palo grande",
                     "doIntro": false,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Mega-Sneaklops",
+                    "monsterConfigID": "Mega-Escurridíclope",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -254,7 +254,7 @@
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Me The Ogre",
+                    "monsterConfigID": "Yo el ogro",
                     "doIntro": true,
                     "doOutro": true,
                     "doScoreboard": true
@@ -275,7 +275,7 @@
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Me The Ogre",
+                    "monsterConfigID": "Yo el ogro",
                     "doIntro": true,
                     "doOutro": true,
                     "doScoreboard": true
@@ -306,7 +306,7 @@
             "encounters": [
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Spikeclops",
+                    "monsterConfigID": "Pinchíclope",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -341,7 +341,7 @@
             "encounters": [
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Dry Sneaklops",
+                    "monsterConfigID": "Escurridíclope seco",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -376,7 +376,7 @@
             "encounters": [
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Spikeclops",
+                    "monsterConfigID": "Pinchíclope",
                     "doIntro": true,
                     "doOutroRun": true,
                     "doScoreboard": false
@@ -390,7 +390,7 @@
                 },
                 {
                     "triviaType": "Image",
-                    "monsterConfigID": "Hiss'o'Miss",
+                    "monsterConfigID": "Víbora errante",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -421,13 +421,13 @@
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Spikeclops",
+                    "monsterConfigID": "Pinchíclope",
                     "doIntro": false,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "Image",
-                    "monsterConfigID": "Hiss'o'Miss",
+                    "monsterConfigID": "Víbora errante",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -451,7 +451,7 @@
             "encounters": [
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Mega-Spikeclops",
+                    "monsterConfigID": "Mega-Pinchíclope",
                     "doIntro": true,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -469,7 +469,7 @@
                 },
                 {
                     "triviaType": "Image",
-                    "monsterConfigID": "Hiss'o'Miss",
+                    "monsterConfigID": "Víbora errante",
                     "doIntro": false,
                     "doOutro": false,
                     "doScoreboard": true
@@ -493,7 +493,7 @@
             "encounters": [
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Mega-Spikeclops",
+                    "monsterConfigID": "Mega-Pinchíclope",
                     "doIntro": true,
                     "doOutroRun": true
                 },
@@ -506,7 +506,7 @@
                 },
                 {
                     "triviaType": "Image",
-                    "monsterConfigID": "Hiss'o'Miss",
+                    "monsterConfigID": "Víbora errante",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -542,7 +542,7 @@
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Bomb Mirage",
+                    "monsterConfigID": "Ilusión Bomba",
                     "doIntro": true,
                     "doOutro": true,
                     "doScoreboard": true
@@ -563,7 +563,7 @@
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Bomb Mirage",
+                    "monsterConfigID": "Ilusión Bomba",
                     "doIntro": true,
                     "doOutro": true,
                     "doScoreboard": true
@@ -594,13 +594,13 @@
             "encounters": [
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Brainclops",
+                    "monsterConfigID": "Cerebríclope",
                     "doIntro": false,
                     "doOutroRun": true
                 },
                 {
                     "triviaType": "MultiSelectionChoice",
-                    "monsterConfigID": "Brainclops",
+                    "monsterConfigID": "Cerebríclope",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -624,14 +624,14 @@
             "encounters": [
                 {
                     "triviaType": "ReverseMultipleChoice",
-                    "monsterConfigID": "Psycheclops",
+                    "monsterConfigID": "Psíclope",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Brainclops",
+                    "monsterConfigID": "Cerebríclope",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -673,7 +673,7 @@
                 },
                 {
                     "triviaType": "Image",
-                    "monsterConfigID": "Minerallax",
+                    "monsterConfigID": "Minerálax",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -715,7 +715,7 @@
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Minerallax",
+                    "monsterConfigID": "Minerálax",
                     "doIntro": false,
                     "doOutroRun": true
                 },
@@ -756,7 +756,7 @@
                 },
                 {
                     "triviaType": "Image",
-                    "monsterConfigID": "Minerallax",
+                    "monsterConfigID": "Minerálax",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -798,7 +798,7 @@
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Minerallax",
+                    "monsterConfigID": "Minerálax",
                     "doIntro": false,
                     "doOutroRun": true,
                     "doScoreboard": true
@@ -834,7 +834,7 @@
                 },
                 {
                     "triviaType": "MultiTrivia",
-                    "monsterConfigID": "Bookwyrm",
+                    "monsterConfigID": "Bibliódraco",
                     "doIntro": true,
                     "doOutro": true,
                     "doScoreboard": true
@@ -855,7 +855,7 @@
                 },
                 {
                     "triviaType": "MultiTrivia",
-                    "monsterConfigID": "Bookwyrm",
+                    "monsterConfigID": "Bibliódraco",
                     "doIntro": true,
                     "doOutro": true,
                     "doScoreboard": true
