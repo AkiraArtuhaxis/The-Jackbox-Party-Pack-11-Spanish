@@ -3054,7 +3054,7 @@
    "clue": "Ni Isaías ni Jonás",
    "id": "108092",
    "isEasy": false,
-   "question": "En el séder de Pésaj, se deja un asiento libre para qué profeta?",
+   "question": "En el Séder de Pésaj, ¿para qué profeta se deja un asiento libre?",
    "theme": "MOUNTAIN"
   },
   {
@@ -6492,25 +6492,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]Saturday Night Live[/i]"
+     "text": "[i]El Chavo del 8[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Portlandia[/i]"
+     "text": "[i]El Chómpiras[/i]"
     },
     {
      "correct": true,
-     "text": "[i]I Think You Should Leave[/i]"
+     "text": "[i]El Chapulín Colorado[/i]"
     },
     {
      "correct": false,
-     "text": "[i]A Black Lady Sketch Show[/i]"
+     "text": "[i]El Doctor Chapatín[/i]"
     }
    ],
-   "clue": "Creo que deberías responder",
+   "clue": "Y ahora, ¿quién podrá defenderme?",
    "id": "109729",
    "isEasy": false,
-   "question": "¿Qué programa de sketches nos dio la letra “los huesos son el dinero de los esqueletos”?",
+   "question": "¿Qué personaje de Chespirito decía “¡Que no panda el cúnico!”?",
    "theme": "DESERT"
   },
   {
@@ -8316,7 +8316,7 @@
      "text": "¡Quita allá!"
     }
    ],
-   "clue": "Es latín, pero se usa en español",
+   "clue": "Pensé que era latin... ¡¿se usa en español?!",
    "id": "111356",
    "isEasy": false,
    "question": "¿Cuál es un sinónimo fuerte de “inmediatamente”?",
@@ -10156,19 +10156,19 @@
    "choices": [
     {
      "correct": false,
-     "text": "The Tobayashi Karu"
+     "text": "El Tobayashi Karu"
     },
     {
      "correct": false,
-     "text": "The Nobayashi Taru"
+     "text": "El Nobayashi Taru"
     },
     {
      "correct": true,
-     "text": "The Kobayashi Maru"
+     "text": "El Kobayashi Maru"
     },
     {
      "correct": false,
-     "text": "The Sobayashi Haru"
+     "text": "El Sobayashi Haru"
     }
    ],
    "clue": "Tiene una “K”",
