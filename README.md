@@ -4,7 +4,7 @@ Parche de traducción no oficial de [Jackbox en español](https://traducciones.j
 
 - **Estado de traducción:** Legends of Trivia no está traducido.
 - **Estado de doblaje:** No hay doblajes en el parche.
-- **Versión:** 123.1-ES
+- **Versión:** 123.2-ES
 - **Plataformas soportadas:** Steam, Microsoft Store
 
 ## Cómo utilizar
